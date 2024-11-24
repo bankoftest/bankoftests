@@ -39,16 +39,16 @@
    </div>
 
 
-.. dropdown:: Click to view explanation
+.. dropdown:: ►|explanation|
 
    在理想条件下，BC 省驾驶的最低跟车距离是 2 秒。
 
 .. raw:: html
 
    <div class="nav-buttons">
-       <a href="q1.html" class="button">Previous Question</a>
+       <a href="q1.html" class="button">|prev_question|</a>
        <span class="page-indicator">2 / 3</span>
-       <a href="q3.html" class="button">Next Question</a>
+       <a href="q3.html" class="button">|next_question|</a>
    </div>
    </div>
 

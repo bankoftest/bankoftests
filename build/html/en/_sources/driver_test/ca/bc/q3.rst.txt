@@ -34,14 +34,14 @@
    </div>
 
 
-.. dropdown:: Click to view explanation
+.. dropdown:: ►|explanation|
 
    在 BC 省驾驶的最高速度限制是 80 km/h。
 
 .. raw:: html
 
    <div class="nav-buttons">
-       <a href="q2.html" class="button">Previous Question</a>
+       <a href="q2.html" class="button">|prev_question|</a>
        <span class="page-indicator">3 / 3</span>
    </div>
    </div>

@@ -15,6 +15,7 @@ paths_dataset = {
     }
 }
 
+
 def write_question_rst(question, rst_dir, total_questions, title, image_dir):
     question_id = f"q{question['id']}"  # Unique ID for the question
     filename = f"{question_id}.rst"
@@ -23,10 +24,6 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
     # Determine the previous and next question IDs
     prev_question = f"q{question['id'] - 1}" if question['id'] > 1 else None
     next_question = f"q{question['id'] + 1}" if question['id'] < total_questions else None
-
-    # Navigation button text
-    prev_text = "Previous Question"
-    next_text = "Next Question"
 
     # Write question content
     with open(filepath, "w", encoding="utf-8") as f:
@@ -52,16 +49,16 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
         if "image" in question:
             image_path = os.path.join(image_dir, question['image'])
             f.write(f".. image:: /{image_path}\n")
-            f.write("   :width: 80%\n")
+            f.write("   :width: 70%\n")
             f.write("   :alt: Image for the question\n")
             f.write("   :align: center\n")  # Aligns the image in the center
-            f.write("\n")  # Adds a blank line after the image block
+            f.write("\n\n")  # Adds a blank line after the image block
 
         # Write options with interactive buttons
         write_interactive_html(f, question_id, question['options'], question['answer'])
 
         # Write explanation (hidden by default)
-        f.write("\n.. dropdown:: Click to view explanation\n\n")
+        f.write("\n.. dropdown:: ►|explanation|\n\n")
         f.write(f"   {question['explanation']}\n")
 
         # Add navigation buttons
@@ -72,13 +69,15 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
             f.write("   <div class=\"nav-buttons\">\n")
 
         if prev_question:
-            f.write(f"       <a href=\"{prev_question}.html\" class=\"button\">{prev_text}</a>\n")
+            # Insert placeholder for "Previous Question"
+            f.write(f"       <a href=\"{prev_question}.html\" class=\"button\">|prev_question|</a>\n")
 
         # Add the page indicator
         f.write(f"       <span class=\"page-indicator\">{question['id']} / {total_questions}</span>\n")
 
         if next_question:
-            f.write(f"       <a href=\"{next_question}.html\" class=\"button\">{next_text}</a>\n")
+            # Insert placeholder for "Next Question"
+            f.write(f"       <a href=\"{next_question}.html\" class=\"button\">|next_question|</a>\n")
 
         f.write("   </div>\n")  # Close nav-buttons
 

@@ -4,6 +4,33 @@ const messages = {
     incorrect: "Incorrect."
 };
 
+// Translations
+const translations = {
+    en: {
+        next_question: "Next Question",
+        prev_question: "Previous Question",
+        explanation: "Click to view explanation",
+    },
+    zh: {
+        next_question: "下一题",
+        prev_question: "上一题",
+        explanation: "点击查看答案解析",
+    },
+};
+
+// Detect the current language
+const currentLanguage = document.documentElement.lang || "en";
+
+// Replace placeholders dynamically
+document.addEventListener("DOMContentLoaded", () => {
+    // Replace placeholders in the document
+    Object.keys(translations[currentLanguage]).forEach((key) => {
+        const placeholder = `|${key}|`;
+        const translation = translations[currentLanguage][key];
+        document.body.innerHTML = document.body.innerHTML.replaceAll(placeholder, translation);
+    });
+});
+
 document.addEventListener("DOMContentLoaded", () => {
     // Check if .question-page exists in the document
     if (document.querySelector('.question-page')) {
