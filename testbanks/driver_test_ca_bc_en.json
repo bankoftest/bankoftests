@@ -1,0 +1,30 @@
+{
+    "title": "New BC Driving License Written Test Simulation 2024 Edition",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the legal alcohol limit for driving in BC?",
+            "options": ["0.05%", "0.08%", "0.10%", "Zero tolerance"],
+            "answer": "0.08%",
+            "explanation": "The legal alcohol limit for driving in BC is 0.08%, but penalties may apply at lower levels.",
+            "meta_keywords": "BC driving test, alcohol limit, BC driving exam"
+        },
+        {
+            "id": 2,
+            "question": "What is the minimum following distance while driving in BC?",
+            "options": ["1 second", "2 seconds", "3 seconds", "4 seconds"],
+            "answer": "2 seconds",
+            "explanation": "Under ideal conditions, the minimum following distance in BC is 2 seconds.",
+            "meta_keywords": "BC driving test, following distance, BC driving exam",
+            "image": "2.jpg"
+        },
+        {
+            "id": 3,
+            "question": "What is the maximum speed limit for driving in BC?",
+            "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
+            "answer": "80 km/h",
+            "explanation": "The maximum speed limit for driving in BC is 80 km/h.",
+            "meta_keywords": "BC driving test, speed limit, BC driving exam"
+        }
+    ]
+}

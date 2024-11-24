@@ -1,20 +1,50 @@
 # Minimal makefile for Sphinx documentation
 #
 
-# You can set these variables from the command line, and also
-# from the environment for the first two.
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
-SOURCEDIR     = source
-BUILDDIR      = build
 
-# Put it first so that "make" without argument is like "make help".
+# Source and build directories for each language
+EN_SOURCEDIR  = docs/en/source
+ZH_SOURCEDIR  = docs/zh-CN/source
+EN_BUILDDIR   = build/en/html
+ZH_BUILDDIR   = build/zh-CN/html
+
+# Default target (build Chinese documentation)
+html: html-zh
+
+# Default target to open documentation (open Chinese version)
+open: open-zh
+
+# Help target
+.PHONY: help clean html html-en html-zh open open-en open-zh
+
 help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@echo "Available targets:"
+	@echo "  make html        Build the default version (Chinese)"
+	@echo "  make html-en     Build only the English version"
+	@echo "  make html-zh     Build only the Chinese version"
+	@echo "  make open        Open the default version (Chinese)"
+	@echo "  make open-en     Open the English version index.html in the browser"
+	@echo "  make open-zh     Open the Chinese version index.html in the browser"
+	@echo "  make clean       Clean all build directories"
 
-.PHONY: help Makefile
+# Clean build directories
+clean:
+	rm -rf $(EN_BUILDDIR) $(ZH_BUILDDIR)
 
-# Catch-all target: route all unknown targets to Sphinx using the new
-# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
-%: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+# Build English documentation
+html-en:
+	@$(SPHINXBUILD) -b html "$(EN_SOURCEDIR)" "$(EN_BUILDDIR)" $(SPHINXOPTS)
+
+# Build Chinese documentation
+html-zh:
+	@$(SPHINXBUILD) -b html "$(ZH_SOURCEDIR)" "$(ZH_BUILDDIR)" $(SPHINXOPTS)
+
+# Open English documentation index.html in the browser
+open-en: html-en
+	@xdg-open "$(EN_BUILDDIR)/index.html" 2>/dev/null || open "$(EN_BUILDDIR)/index.html" 2>/dev/null || echo "Open $(EN_BUILDDIR)/index.html manually"
+
+# Open Chinese documentation index.html in the browser
+open-zh: html-zh
+	@xdg-open "$(ZH_BUILDDIR)/index.html" 2>/dev/null || open "$(ZH_BUILDDIR)/index.html" 2>/dev/null || echo "Open $(ZH_BUILDDIR)/index.html manually"

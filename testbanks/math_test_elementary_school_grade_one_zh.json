@@ -1,0 +1,30 @@
+{
+    "title": "2024年版一年级数学测试模拟",
+    "questions": [
+        {
+            "id": 1,
+            "question": "2 + 2 的值是多少？",
+            "options": ["3", "4", "5", "6"],
+            "answer": "4",
+            "explanation": "将 2 和 2 相加得 4。",
+            "meta_keywords": "数学测试，加法，基础数学"
+        },
+        {
+            "id": 2,
+            "question": "一个长为 5，宽为 3 的矩形面积是多少？",
+            "options": ["8", "15", "20", "25"],
+            "answer": "15",
+            "explanation": "矩形的面积计算公式是 长 × 宽，因此 5 × 3 = 15。",
+            "meta_keywords": "数学测试，矩形面积，几何",
+            "image": "2.jpg"
+        },
+        {
+            "id": 3,
+            "question": "方程 3x - 9 = 0 的解是多少？",
+            "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+            "answer": "x = 3",
+            "explanation": "求解 3x - 9 = 0，先将 9 加到等式两边得到 3x = 9，然后两边除以 3 得 x = 3。",
+            "meta_keywords": "数学测试，代数，解方程"
+        }
+    ]
+}
