@@ -14,11 +14,22 @@ const translations = {
         prev_question: "上一题",
         explanation: "点击查看答案解析",
     },
+    "zh-CN": {
+        correct: "回答正确！",
+        incorrect: "回答错误！",
+        next_question: "下一题",
+        prev_question: "上一题",
+        explanation: "点击查看答案解析",
+    },
 };
 
 // Detect the current language
-const currentLanguage = document.documentElement.lang || "en";
+// Detect the current language from the URL
+const urlPath = window.location.pathname; // Get the URL path
+let currentLanguage = urlPath.includes('/zh-cn/') ? "zh-cn" : "en"; // Default to "en"
 
+// Update the <html> lang attribute dynamically
+document.documentElement.lang = currentLanguage;
 // Replace placeholders dynamically in the DOM
 document.addEventListener("DOMContentLoaded", () => {
     // Replace placeholders for explanation and navigation buttons
