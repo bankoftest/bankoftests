@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当铁路交叉路口的红灯闪动时,你必须？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当铁路交叉路口的红灯闪动时,你必须？
+====================================
+
+.. raw:: html
+
+   <div id="q81" class="quiz">
+       <div class="option" id="q81-A" onclick="selectOption('q81', 'A', false)">
+           A. 慢车小心穿过
+       </div>
+       <div class="option" id="q81-B" onclick="selectOption('q81', 'B', false)">
+           B. 停车,在通过前观察两边
+       </div>
+       <div class="option" id="q81-C" onclick="selectOption('q81', 'C', false)">
+           C. 停车,看到绿灯时通过
+       </div>
+       <div class="option" id="q81-D" onclick="selectOption('q81', 'D', true)">
+           D. 停车,等红灯完全熄灭以及安全情况下通过
+       </div>
+       <p id="q81-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q80.html" class="button">|prev_question|</a>
+       <span class="page-indicator">81 / 100</span>
+       <a href="q82.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

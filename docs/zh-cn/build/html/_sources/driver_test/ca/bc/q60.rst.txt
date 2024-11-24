@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在有让路标志路口,驾驶者应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在有让路标志路口,驾驶者应该？
+==============================
+
+.. raw:: html
+
+   <div id="q60" class="quiz">
+       <div class="option" id="q60-A" onclick="selectOption('q60', 'A', false)">
+           A. 将车辆完全停下来
+       </div>
+       <div class="option" id="q60-B" onclick="selectOption('q60', 'B', false)">
+           B. 让路于要横过的车辆
+       </div>
+       <div class="option" id="q60-C" onclick="selectOption('q60', 'C', true)">
+           C. 让路给所有的车辆,包括自行车和行人
+       </div>
+       <div class="option" id="q60-D" onclick="selectOption('q60', 'D', false)">
+           D. 让路于横过马路的行人
+       </div>
+       <p id="q60-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q59.html" class="button">|prev_question|</a>
+       <span class="page-indicator">60 / 100</span>
+       <a href="q61.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

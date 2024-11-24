@@ -4,44 +4,45 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: New 在 BC 省驾驶的法定酒精限制是多少？
-   :keywords: BC驾照考试, 酒精限制, BC驾驶考试
+   :description: 当倒车时,你应该？
+   :keywords: 
 
 .. raw:: html
 
    <div class="question-card">
 
 
-New 在 BC 省驾驶的法定酒精限制是多少？
-==============================================
+当倒车时,你应该？
+==================
 
 .. raw:: html
 
    <div id="q1" class="quiz">
        <div class="option" id="q1-A" onclick="selectOption('q1', 'A', false)">
-           A. 0.05%
+           A. 检查两边侧视镜
        </div>
-       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', true)">
-           B. 0.08%
+       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', false)">
+           B. 查看所有后视镜
        </div>
-       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', false)">
-           C. 0.10%
+       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', true)">
+           C. 转身向后玻璃观望
        </div>
        <div class="option" id="q1-D" onclick="selectOption('q1', 'D', false)">
-           D. 零容忍
+           D. 看后视镜
        </div>
        <p id="q1-result" class="result"></p>
    </div>
 
+   <hr>
 
 .. dropdown:: ►|explanation|
 
-   在 BC 省驾驶的法定酒精限制是 0.08%，但在更低水平下仍可能受到处罚。
+   
 
 .. raw:: html
 
    <div class="nav-buttons single-next">
-       <span class="page-indicator">1 / 3</span>
+       <span class="page-indicator">1 / 100</span>
        <a href="q2.html" class="button">|next_question|</a>
    </div>
    </div>

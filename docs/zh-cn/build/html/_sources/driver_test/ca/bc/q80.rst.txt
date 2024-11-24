@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此驾驶员应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此驾驶员应该？
+==============
+
+.. raw:: html
+
+   <div id="q80" class="quiz">
+       <div class="option" id="q80-A" onclick="selectOption('q80', 'A', false)">
+           A. 移到自行车的后面
+       </div>
+       <div class="option" id="q80-B" onclick="selectOption('q80', 'B', false)">
+           B. 在自行车侧边行驶让它看见他要转弯
+       </div>
+       <div class="option" id="q80-C" onclick="selectOption('q80', 'C', false)">
+           C. 响喇叭警告骑自行车的人他要转弯
+       </div>
+       <div class="option" id="q80-D" onclick="selectOption('q80', 'D', true)">
+           D. 等待自行车已离开路口才转弯
+       </div>
+       <p id="q80-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q79.html" class="button">|prev_question|</a>
+       <span class="page-indicator">80 / 100</span>
+       <a href="q81.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

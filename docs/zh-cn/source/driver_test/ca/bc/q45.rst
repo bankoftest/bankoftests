@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当你要进入环形交叉路口时,你必须？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你要进入环形交叉路口时,你必须？
+==================================
+
+.. raw:: html
+
+   <div id="q45" class="quiz">
+       <div class="option" id="q45-A" onclick="selectOption('q45', 'A', true)">
+           A. 让任何已在环形交叉路口内的车辆
+       </div>
+       <div class="option" id="q45-B" onclick="selectOption('q45', 'B', false)">
+           B. 顺时针方向在环形岛路口行驶
+       </div>
+       <div class="option" id="q45-C" onclick="selectOption('q45', 'C', false)">
+           C. 在进入时保持速度
+       </div>
+       <div class="option" id="q45-D" onclick="selectOption('q45', 'D', false)">
+           D. 在进入时亮着方向灯
+       </div>
+       <p id="q45-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q44.html" class="button">|prev_question|</a>
+       <span class="page-indicator">45 / 100</span>
+       <a href="q46.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

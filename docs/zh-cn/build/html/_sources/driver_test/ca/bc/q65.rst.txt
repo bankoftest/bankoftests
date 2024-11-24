@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你何时可以获准超过标志牌的限速行驶？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你何时可以获准超过标志牌的限速行驶？
+====================================
+
+.. raw:: html
+
+   <div id="q65" class="quiz">
+       <div class="option" id="q65-A" onclick="selectOption('q65', 'A', false)">
+           A. 在高速公路上
+       </div>
+       <div class="option" id="q65-B" onclick="selectOption('q65', 'B', true)">
+           B. 永远不可以
+       </div>
+       <div class="option" id="q65-C" onclick="selectOption('q65', 'C', false)">
+           C. 当白天和天气良好的情况下
+       </div>
+       <div class="option" id="q65-D" onclick="selectOption('q65', 'D', false)">
+           D. 当你要追上车流的时候
+       </div>
+       <p id="q65-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q64.html" class="button">|prev_question|</a>
+       <span class="page-indicator">65 / 100</span>
+       <a href="q66.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

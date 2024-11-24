@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在红灯下面的绿箭头闪动时,你应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在红灯下面的绿箭头闪动时,你应该？
+==================================
+
+.. raw:: html
+
+   <div id="q30" class="quiz">
+       <div class="option" id="q30-A" onclick="selectOption('q30', 'A', false)">
+           A. 随时可以左转
+       </div>
+       <div class="option" id="q30-B" onclick="selectOption('q30', 'B', false)">
+           B. 在左转之前等待红灯转为绿灯
+       </div>
+       <div class="option" id="q30-C" onclick="selectOption('q30', 'C', false)">
+           C. 任何时候不可以左转
+       </div>
+       <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
+           D. 左转
+       </div>
+       <p id="q30-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q29.html" class="button">|prev_question|</a>
+       <span class="page-indicator">30 / 100</span>
+       <a href="q31.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

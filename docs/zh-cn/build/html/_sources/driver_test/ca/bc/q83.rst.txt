@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 黑冰是怎样形成？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+黑冰是怎样形成？
+================
+
+.. raw:: html
+
+   <div id="q83" class="quiz">
+       <div class="option" id="q83-A" onclick="selectOption('q83', 'A', true)">
+           A. 路上的水冻结而成
+       </div>
+       <div class="option" id="q83-B" onclick="selectOption('q83', 'B', false)">
+           B. 因为多层积雪
+       </div>
+       <div class="option" id="q83-C" onclick="selectOption('q83', 'C', false)">
+           C. 在阴暗地方的硬雪
+       </div>
+       <div class="option" id="q83-D" onclick="selectOption('q83', 'D', false)">
+           D. 冰雪太脏不容易看见
+       </div>
+       <p id="q83-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q82.html" class="button">|prev_question|</a>
+       <span class="page-indicator">83 / 100</span>
+       <a href="q84.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

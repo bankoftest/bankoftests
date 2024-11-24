@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中车辆a将要右转,他应该留意的危险是什么？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中车辆a将要右转,他应该留意的危险是什么？
+============================================
+
+.. raw:: html
+
+   <div id="q69" class="quiz">
+       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', false)">
+           A. 从后面上来的自行车
+       </div>
+       <div class="option" id="q69-B" onclick="selectOption('q69', 'B', false)">
+           B. 从左边超车的b车
+       </div>
+       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', true)">
+           C. 从停泊车辆的空隙间走出来的狗或其他动物
+       </div>
+       <div class="option" id="q69-D" onclick="selectOption('q69', 'D', false)">
+           D. 在行人道上的行人
+       </div>
+       <p id="q69-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q68.html" class="button">|prev_question|</a>
+       <span class="page-indicator">69 / 100</span>
+       <a href="q70.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

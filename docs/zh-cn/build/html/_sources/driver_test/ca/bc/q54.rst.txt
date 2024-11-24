@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 尾随卡车太近最大的危险是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+尾随卡车太近最大的危险是？
+==========================
+
+.. raw:: html
+
+   <div id="q54" class="quiz">
+       <div class="option" id="q54-A" onclick="selectOption('q54', 'A', true)">
+           A. 卡车会阻碍你的视线看不清前面的情况
+       </div>
+       <div class="option" id="q54-B" onclick="selectOption('q54', 'B', false)">
+           B. 其他驾驶者可能看不见你在大型车辆后面
+       </div>
+       <div class="option" id="q54-C" onclick="selectOption('q54', 'C', false)">
+           C. 气流可能会影响你控制方向盘
+       </div>
+       <div class="option" id="q54-D" onclick="selectOption('q54', 'D', false)">
+           D. 大型车辆可能会突然转线
+       </div>
+       <p id="q54-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q53.html" class="button">|prev_question|</a>
+       <span class="page-indicator">54 / 100</span>
+       <a href="q55.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

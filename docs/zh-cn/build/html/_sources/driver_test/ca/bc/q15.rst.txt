@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 如何应付路霸的侵略性行为？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如何应付路霸的侵略性行为？
+==========================
+
+.. raw:: html
+
+   <div id="q15" class="quiz">
+       <div class="option" id="q15-A" onclick="selectOption('q15', 'A', false)">
+           A. 找公用电话报警
+       </div>
+       <div class="option" id="q15-B" onclick="selectOption('q15', 'B', false)">
+           B. 直接开车回家
+       </div>
+       <div class="option" id="q15-C" onclick="selectOption('q15', 'C', true)">
+           C. 把车开到人群多的地方
+       </div>
+       <div class="option" id="q15-D" onclick="selectOption('q15', 'D', false)">
+           D. 响喇叭和呼喝他
+       </div>
+       <p id="q15-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q14.html" class="button">|prev_question|</a>
+       <span class="page-indicator">15 / 100</span>
+       <a href="q16.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

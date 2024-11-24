@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 要确保看到盲点内的东西,最好方法是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+要确保看到盲点内的东西,最好方法是？
+====================================
+
+.. raw:: html
+
+   <div id="q88" class="quiz">
+       <div class="option" id="q88-A" onclick="selectOption('q88', 'A', true)">
+           A. 在转弯或换线前回头看
+       </div>
+       <div class="option" id="q88-B" onclick="selectOption('q88', 'B', false)">
+           B. 做180度检查
+       </div>
+       <div class="option" id="q88-C" onclick="selectOption('q88', 'C', false)">
+           C. 让乘客替你查看
+       </div>
+       <div class="option" id="q88-D" onclick="selectOption('q88', 'D', false)">
+           D. 确保常看后视镜
+       </div>
+       <p id="q88-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q87.html" class="button">|prev_question|</a>
+       <span class="page-indicator">88 / 100</span>
+       <a href="q89.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

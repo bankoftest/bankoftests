@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 大部分撞车尾可以避免,如果驾驶者？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+大部分撞车尾可以避免,如果驾驶者？
+==================================
+
+.. raw:: html
+
+   <div id="q35" class="quiz">
+       <div class="option" id="q35-A" onclick="selectOption('q35', 'A', true)">
+           A. 保持更远的距离
+       </div>
+       <div class="option" id="q35-B" onclick="selectOption('q35', 'B', false)">
+           B. 加速反应
+       </div>
+       <div class="option" id="q35-C" onclick="selectOption('q35', 'C', false)">
+           C. 加快速度
+       </div>
+       <div class="option" id="q35-D" onclick="selectOption('q35', 'D', false)">
+           D. 减慢速度
+       </div>
+       <p id="q35-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q34.html" class="button">|prev_question|</a>
+       <span class="page-indicator">35 / 100</span>
+       <a href="q36.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

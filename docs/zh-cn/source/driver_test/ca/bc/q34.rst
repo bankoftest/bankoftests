@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <div id="q34" class="quiz">
+       <div class="option" id="q34-A" onclick="selectOption('q34', 'A', false)">
+           A. 前面是水泥路面
+       </div>
+       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', true)">
+           B. 前面路不平坦
+       </div>
+       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', false)">
+           C. 前面柏油路面终止
+       </div>
+       <div class="option" id="q34-D" onclick="selectOption('q34', 'D', false)">
+           D. 小心路上的石块
+       </div>
+       <p id="q34-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q33.html" class="button">|prev_question|</a>
+       <span class="page-indicator">34 / 100</span>
+       <a href="q35.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

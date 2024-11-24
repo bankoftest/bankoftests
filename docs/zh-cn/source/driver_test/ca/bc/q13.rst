@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此驾驶员在转弯之前,他应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此驾驶员在转弯之前,他应该？
+============================
+
+.. raw:: html
+
+   <div id="q13" class="quiz">
+       <div class="option" id="q13-A" onclick="selectOption('q13', 'A', false)">
+           A. 慢车以及闪亮他的车头灯
+       </div>
+       <div class="option" id="q13-B" onclick="selectOption('q13', 'B', false)">
+           B. 保持速度并在路口做180度查看
+       </div>
+       <div class="option" id="q13-C" onclick="selectOption('q13', 'C', true)">
+           C. 回头看并在路口做180度查看
+       </div>
+       <div class="option" id="q13-D" onclick="selectOption('q13', 'D', false)">
+           D. 靠左及看侧视镜
+       </div>
+       <p id="q13-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q12.html" class="button">|prev_question|</a>
+       <span class="page-indicator">13 / 100</span>
+       <a href="q14.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

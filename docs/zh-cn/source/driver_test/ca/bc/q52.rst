@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中的车辆必须停在？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中的车辆必须停在？
+====================
+
+.. raw:: html
+
+   <div id="q52" class="quiz">
+       <div class="option" id="q52-A" onclick="selectOption('q52', 'A', false)">
+           A. 十字路口
+       </div>
+       <div class="option" id="q52-B" onclick="selectOption('q52', 'B', false)">
+           B. 离开十字路口一公尺
+       </div>
+       <div class="option" id="q52-C" onclick="selectOption('q52', 'C', true)">
+           C. 马路上的白线之前
+       </div>
+       <div class="option" id="q52-D" onclick="selectOption('q52', 'D', false)">
+           D. 当驾驶者看到路口情况
+       </div>
+       <p id="q52-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q51.html" class="button">|prev_question|</a>
+       <span class="page-indicator">52 / 100</span>
+       <a href="q53.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

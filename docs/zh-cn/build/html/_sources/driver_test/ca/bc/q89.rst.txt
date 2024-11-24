@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当你驶至一个交通灯失灵的十字路口,你应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你驶至一个交通灯失灵的十字路口,你应该？
+==========================================
+
+.. raw:: html
+
+   <div id="q89" class="quiz">
+       <div class="option" id="q89-A" onclick="selectOption('q89', 'A', true)">
+           A. 视同一个四道停车的路口处理
+       </div>
+       <div class="option" id="q89-B" onclick="selectOption('q89', 'B', false)">
+           B. 如果有空间就通过
+       </div>
+       <div class="option" id="q89-C" onclick="selectOption('q89', 'C', false)">
+           C. 当另外一个驾驶员挥手时通过
+       </div>
+       <div class="option" id="q89-D" onclick="selectOption('q89', 'D', false)">
+           D. 等待交通指挥贺来指挥
+       </div>
+       <p id="q89-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q88.html" class="button">|prev_question|</a>
+       <span class="page-indicator">89 / 100</span>
+       <a href="q90.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

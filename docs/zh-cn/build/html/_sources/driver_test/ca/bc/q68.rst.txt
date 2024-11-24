@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当四辆车驶近一个四道停车路口,驾驶者必须让道优先权给？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当四辆车驶近一个四道停车路口,驾驶者必须让道优先权给？
+======================================================
+
+.. raw:: html
+
+   <div id="q68" class="quiz">
+       <div class="option" id="q68-A" onclick="selectOption('q68', 'A', false)">
+           A. 在你右方的车辆
+       </div>
+       <div class="option" id="q68-B" onclick="selectOption('q68', 'B', true)">
+           B. 第一部到路口而停过车的车辆
+       </div>
+       <div class="option" id="q68-C" onclick="selectOption('q68', 'C', false)">
+           C. 转右的车辆
+       </div>
+       <div class="option" id="q68-D" onclick="selectOption('q68', 'D', false)">
+           D. 左方的车
+       </div>
+       <p id="q68-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q67.html" class="button">|prev_question|</a>
+       <span class="page-indicator">68 / 100</span>
+       <a href="q69.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

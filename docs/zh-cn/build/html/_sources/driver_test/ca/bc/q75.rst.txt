@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 以60公里时速撞向其它车辆,车内人员受伤程度如同几层楼顶掉下？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+以60公里时速撞向其它车辆,车内人员受伤程度如同几层楼顶掉下？
+==============================================================
+
+.. raw:: html
+
+   <div id="q75" class="quiz">
+       <div class="option" id="q75-A" onclick="selectOption('q75', 'A', true)">
+           A. 4层
+       </div>
+       <div class="option" id="q75-B" onclick="selectOption('q75', 'B', false)">
+           B. 1层
+       </div>
+       <div class="option" id="q75-C" onclick="selectOption('q75', 'C', false)">
+           C. 2层
+       </div>
+       <div class="option" id="q75-D" onclick="selectOption('q75', 'D', false)">
+           D. 3层
+       </div>
+       <p id="q75-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q74.html" class="button">|prev_question|</a>
+       <span class="page-indicator">75 / 100</span>
+       <a href="q76.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

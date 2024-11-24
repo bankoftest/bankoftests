@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 路上的卡车为何要停车？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+路上的卡车为何要停车？
+======================
+
+.. raw:: html
+
+   <div id="q37" class="quiz">
+       <div class="option" id="q37-A" onclick="selectOption('q37', 'A', true)">
+           A. 因为行人道上有人
+       </div>
+       <div class="option" id="q37-B" onclick="selectOption('q37', 'B', false)">
+           B. 由于卡车要转弯
+       </div>
+       <div class="option" id="q37-C" onclick="selectOption('q37', 'C', false)">
+           C. 卡车的驾驶同迷路要看地图
+       </div>
+       <div class="option" id="q37-D" onclick="selectOption('q37', 'D', false)">
+           D. 卡车的驾驶员要停车
+       </div>
+       <p id="q37-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q36.html" class="button">|prev_question|</a>
+       <span class="page-indicator">37 / 100</span>
+       <a href="q38.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

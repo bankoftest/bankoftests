@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 驾驶此车辆的驾驶员应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+驾驶此车辆的驾驶员应该？
+========================
+
+.. raw:: html
+
+   <div id="q91" class="quiz">
+       <div class="option" id="q91-A" onclick="selectOption('q91', 'A', false)">
+           A. 慢驶,在接近路口之前脚踏刹车制
+       </div>
+       <div class="option" id="q91-B" onclick="selectOption('q91', 'B', true)">
+           B. 在接近路口之前停车和让路
+       </div>
+       <div class="option" id="q91-C" onclick="selectOption('q91', 'C', false)">
+           C. 保持速度并查看路口的其他车辆
+       </div>
+       <div class="option" id="q91-D" onclick="selectOption('q91', 'D', false)">
+           D. 在近路口之前慢下来
+       </div>
+       <p id="q91-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q90.html" class="button">|prev_question|</a>
+       <span class="page-indicator">91 / 100</span>
+       <a href="q92.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

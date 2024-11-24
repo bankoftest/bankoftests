@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 骑自行车的有权？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+骑自行车的有权？
+================
+
+.. raw:: html
+
+   <div id="q90" class="quiz">
+       <div class="option" id="q90-A" onclick="selectOption('q90', 'A', false)">
+           A. 不在停车标志停车
+       </div>
+       <div class="option" id="q90-B" onclick="selectOption('q90', 'B', false)">
+           B. 反方向行驶
+       </div>
+       <div class="option" id="q90-C" onclick="selectOption('q90', 'C', true)">
+           C. 在右转道遇到不安全的时候移到车道中间
+       </div>
+       <div class="option" id="q90-D" onclick="selectOption('q90', 'D', false)">
+           D. 不服从交通指挥员的指示
+       </div>
+       <p id="q90-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q89.html" class="button">|prev_question|</a>
+       <span class="page-indicator">90 / 100</span>
+       <a href="q91.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你什么时候必须遵守标志牌上的限速？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你什么时候必须遵守标志牌上的限速？
+==================================
+
+.. raw:: html
+
+   <div id="q64" class="quiz">
+       <div class="option" id="q64-A" onclick="selectOption('q64', 'A', false)">
+           A. 每天上午时至下午时
+       </div>
+       <div class="option" id="q64-B" onclick="selectOption('q64', 'B', false)">
+           B. 在上课天所有时间
+       </div>
+       <div class="option" id="q64-C" onclick="selectOption('q64', 'C', true)">
+           C. 在上课天上午8时至下午5时
+       </div>
+       <div class="option" id="q64-D" onclick="selectOption('q64', 'D', false)">
+           D. 任何时间
+       </div>
+       <p id="q64-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q63.html" class="button">|prev_question|</a>
+       <span class="page-indicator">64 / 100</span>
+       <a href="q65.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

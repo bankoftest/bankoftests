@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <div id="q96" class="quiz">
+       <div class="option" id="q96-A" onclick="selectOption('q96', 'A', false)">
+           A. 此行车道必须在前面右转
+       </div>
+       <div class="option" id="q96-B" onclick="selectOption('q96', 'B', true)">
+           B. 慢驶,前面有向右的急转弯
+       </div>
+       <div class="option" id="q96-C" onclick="selectOption('q96', 'C', false)">
+           C. 十字路口只准右转
+       </div>
+       <div class="option" id="q96-D" onclick="selectOption('q96', 'D', false)">
+           D. 前面向右回转
+       </div>
+       <p id="q96-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q95.html" class="button">|prev_question|</a>
+       <span class="page-indicator">96 / 100</span>
+       <a href="q97.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

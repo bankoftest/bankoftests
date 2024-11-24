@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当绿灯时,要左转司机应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当绿灯时,要左转司机应该？
+==========================
+
+.. raw:: html
+
+   <div id="q57" class="quiz">
+       <div class="option" id="q57-A" onclick="selectOption('q57', 'A', false)">
+           A. 尽快转离路口
+       </div>
+       <div class="option" id="q57-B" onclick="selectOption('q57', 'B', false)">
+           B. 有道路优先权
+       </div>
+       <div class="option" id="q57-C" onclick="selectOption('q57', 'C', true)">
+           C. 必须让路于迎面车辆直到有一个安全的空隙才转弯
+       </div>
+       <div class="option" id="q57-D" onclick="selectOption('q57', 'D', false)">
+           D. 等待所有车辆都已通过
+       </div>
+       <p id="q57-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q56.html" class="button">|prev_question|</a>
+       <span class="page-indicator">57 / 100</span>
+       <a href="q58.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

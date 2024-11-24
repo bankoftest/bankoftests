@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 闪动的绿灯是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+闪动的绿灯是？
+==============
+
+.. raw:: html
+
+   <div id="q53" class="quiz">
+       <div class="option" id="q53-A" onclick="selectOption('q53', 'A', false)">
+           A. 你可以在绿灯下继续行驶
+       </div>
+       <div class="option" id="q53-B" onclick="selectOption('q53', 'B', false)">
+           B. 迎面车辆正面对红灯
+       </div>
+       <div class="option" id="q53-C" onclick="selectOption('q53', 'C', true)">
+           C. 交通灯号由行人控制
+       </div>
+       <div class="option" id="q53-D" onclick="selectOption('q53', 'D', false)">
+           D. 此灯号将快转为红灯
+       </div>
+       <p id="q53-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q52.html" class="button">|prev_question|</a>
+       <span class="page-indicator">53 / 100</span>
+       <a href="q54.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

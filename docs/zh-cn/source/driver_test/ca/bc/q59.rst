@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 这个放在行车道上的信号灯,意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+这个放在行车道上的信号灯,意思是？
+==================================
+
+.. raw:: html
+
+   <div id="q59" class="quiz">
+       <div class="option" id="q59-A" onclick="selectOption('q59', 'A', false)">
+           A. 此行车道在建筑工程中
+       </div>
+       <div class="option" id="q59-B" onclick="selectOption('q59', 'B', false)">
+           B. 禁止在此车道行驶
+       </div>
+       <div class="option" id="q59-C" onclick="selectOption('q59', 'C', true)">
+           C. 此车道将要终止,尽快离开
+       </div>
+       <div class="option" id="q59-D" onclick="selectOption('q59', 'D', false)">
+           D. 此车道将快加入使用
+       </div>
+       <p id="q59-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q58.html" class="button">|prev_question|</a>
+       <span class="page-indicator">59 / 100</span>
+       <a href="q60.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

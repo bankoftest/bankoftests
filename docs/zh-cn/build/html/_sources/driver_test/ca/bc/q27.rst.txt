@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 超越摩托车要多留空间的原因是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+超越摩托车要多留空间的原因是？
+==============================
+
+.. raw:: html
+
+   <div id="q27" class="quiz">
+       <div class="option" id="q27-A" onclick="selectOption('q27', 'A', false)">
+           A. 他比车辆更轻
+       </div>
+       <div class="option" id="q27-B" onclick="selectOption('q27', 'B', false)">
+           B. 骑摩托车人没有开车人的技术好
+       </div>
+       <div class="option" id="q27-C" onclick="selectOption('q27', 'C', false)">
+           C. 因为他们经常开得快
+       </div>
+       <div class="option" id="q27-D" onclick="selectOption('q27', 'D', true)">
+           D. 汽车会把脏东西溅到摩托车司机的身上
+       </div>
+       <p id="q27-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q26.html" class="button">|prev_question|</a>
+       <span class="page-indicator">27 / 100</span>
+       <a href="q28.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

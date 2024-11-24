@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在双线路上,避免意外发生最不安全的做法是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在双线路上,避免意外发生最不安全的做法是？
+==========================================
+
+.. raw:: html
+
+   <div id="q9" class="quiz">
+       <div class="option" id="q9-A" onclick="selectOption('q9', 'A', false)">
+           A. 把脚离开油门
+       </div>
+       <div class="option" id="q9-B" onclick="selectOption('q9', 'B', true)">
+           B. 转到左线
+       </div>
+       <div class="option" id="q9-C" onclick="selectOption('q9', 'C', false)">
+           C. 用力刹车而不锁死刹车制
+       </div>
+       <div class="option" id="q9-D" onclick="selectOption('q9', 'D', false)">
+           D. 闪亮车头灯和响喇叭提醒其他驾驶者
+       </div>
+       <p id="q9-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q8.html" class="button">|prev_question|</a>
+       <span class="page-indicator">9 / 100</span>
+       <a href="q10.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

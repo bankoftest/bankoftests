@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在加速线上,a车驾驶员首先应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在加速线上,a车驾驶员首先应该？
+================================
+
+.. raw:: html
+
+   <div id="q17" class="quiz">
+       <div class="option" id="q17-A" onclick="selectOption('q17', 'A', false)">
+           A. 慢车等待空间
+       </div>
+       <div class="option" id="q17-B" onclick="selectOption('q17', 'B', false)">
+           B. 停车等待空间
+       </div>
+       <div class="option" id="q17-C" onclick="selectOption('q17', 'C', false)">
+           C. 观察交通情况
+       </div>
+       <div class="option" id="q17-D" onclick="selectOption('q17', 'D', true)">
+           D. 加速并配合路上的车辆
+       </div>
+       <p id="q17-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q16.html" class="button">|prev_question|</a>
+       <span class="page-indicator">17 / 100</span>
+       <a href="q18.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在夜间驾驶你特别要留意行人和自行车,原因是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在夜间驾驶你特别要留意行人和自行车,原因是？
+============================================
+
+.. raw:: html
+
+   <div id="q97" class="quiz">
+       <div class="option" id="q97-A" onclick="selectOption('q97', 'A', false)">
+           A. 他们在夜间不太遵守交通规则
+       </div>
+       <div class="option" id="q97-B" onclick="selectOption('q97', 'B', false)">
+           B. 自行车辆更多
+       </div>
+       <div class="option" id="q97-C" onclick="selectOption('q97', 'C', true)">
+           C. 他们不容易被看见
+       </div>
+       <div class="option" id="q97-D" onclick="selectOption('q97', 'D', false)">
+           D. 他们有可能不太小心
+       </div>
+       <p id="q97-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q96.html" class="button">|prev_question|</a>
+       <span class="page-indicator">97 / 100</span>
+       <a href="q98.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 正在路边骑自行车的人所面临的危险是什么？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+正在路边骑自行车的人所面临的危险是什么？
+========================================
+
+.. raw:: html
+
+   <div id="q86" class="quiz">
+       <div class="option" id="q86-A" onclick="selectOption('q86', 'A', false)">
+           A. 行人会突然站在骑自行车人的面前
+       </div>
+       <div class="option" id="q86-B" onclick="selectOption('q86', 'B', false)">
+           B. b车驾驶员可能会开到骑自行车人的后面
+       </div>
+       <div class="option" id="q86-C" onclick="selectOption('q86', 'C', false)">
+           C. a车驾驶员在慢驶和转弯时,自行车有可能骑到他后面
+       </div>
+       <div class="option" id="q86-D" onclick="selectOption('q86', 'D', true)">
+           D. a车驾驶员在转弯时有可能看不见自行车
+       </div>
+       <p id="q86-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q85.html" class="button">|prev_question|</a>
+       <span class="page-indicator">86 / 100</span>
+       <a href="q87.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

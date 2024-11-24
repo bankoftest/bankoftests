@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在红灯时,你何时可以右转？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在红灯时,你何时可以右转？
+==========================
+
+.. raw:: html
+
+   <div id="q23" class="quiz">
+       <div class="option" id="q23-A" onclick="selectOption('q23', 'A', false)">
+           A. 当没有车辆的时候
+       </div>
+       <div class="option" id="q23-B" onclick="selectOption('q23', 'B', true)">
+           B. 在完全停车后和没有禁止转弯标志的情况下
+       </div>
+       <div class="option" id="q23-C" onclick="selectOption('q23', 'C', false)">
+           C. 当没有标志此转弯的时候
+       </div>
+       <div class="option" id="q23-D" onclick="selectOption('q23', 'D', false)">
+           D. 只可以在紧急情况下
+       </div>
+       <p id="q23-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q22.html" class="button">|prev_question|</a>
+       <span class="page-indicator">23 / 100</span>
+       <a href="q24.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

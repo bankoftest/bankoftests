@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当十字路口交通灯转为黄色时,你必须？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当十字路口交通灯转为黄色时,你必须？
+====================================
+
+.. raw:: html
+
+   <div id="q98" class="quiz">
+       <div class="option" id="q98-A" onclick="selectOption('q98', 'A', false)">
+           A. 停车
+       </div>
+       <div class="option" id="q98-B" onclick="selectOption('q98', 'B', false)">
+           B. 减慢速度
+       </div>
+       <div class="option" id="q98-C" onclick="selectOption('q98', 'C', false)">
+           C. 小心向前
+       </div>
+       <div class="option" id="q98-D" onclick="selectOption('q98', 'D', true)">
+           D. 停车,除非当时不安全
+       </div>
+       <p id="q98-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q97.html" class="button">|prev_question|</a>
+       <span class="page-indicator">98 / 100</span>
+       <a href="q99.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

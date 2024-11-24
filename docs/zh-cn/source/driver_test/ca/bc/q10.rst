@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 附近有儿童在玩耍,你应该？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+附近有儿童在玩耍,你应该？
+==========================
+
+.. raw:: html
+
+   <div id="q10" class="quiz">
+       <div class="option" id="q10-A" onclick="selectOption('q10', 'A', true)">
+           A. 减速并随时准备停车
+       </div>
+       <div class="option" id="q10-B" onclick="selectOption('q10', 'B', false)">
+           B. 驶到路旁停车,直到小孩离开
+       </div>
+       <div class="option" id="q10-C" onclick="selectOption('q10', 'C', false)">
+           C. 转到左线并保持速度
+       </div>
+       <div class="option" id="q10-D" onclick="selectOption('q10', 'D', false)">
+           D. 响喇叭和保持速度
+       </div>
+       <p id="q10-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q9.html" class="button">|prev_question|</a>
+       <span class="page-indicator">10 / 100</span>
+       <a href="q11.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

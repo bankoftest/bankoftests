@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 红灯持久亮着意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+红灯持久亮着意思是？
+====================
+
+.. raw:: html
+
+   <div id="q6" class="quiz">
+       <div class="option" id="q6-A" onclick="selectOption('q6', 'A', false)">
+           A. 停车,安全时向前
+       </div>
+       <div class="option" id="q6-B" onclick="selectOption('q6', 'B', false)">
+           B. 停车,右转弯除外
+       </div>
+       <div class="option" id="q6-C" onclick="selectOption('q6', 'C', true)">
+           C. 在十字路口之前停车
+       </div>
+       <div class="option" id="q6-D" onclick="selectOption('q6', 'D', false)">
+           D. 如有车辆靠近停车
+       </div>
+       <p id="q6-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q5.html" class="button">|prev_question|</a>
+       <span class="page-indicator">6 / 100</span>
+       <a href="q7.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 车辆打滑时你的最佳反应是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+车辆打滑时你的最佳反应是？
+==========================
+
+.. raw:: html
+
+   <div id="q99" class="quiz">
+       <div class="option" id="q99-A" onclick="selectOption('q99', 'A', true)">
+           A. 离开油门,把方向盘扭向你要去的方向
+       </div>
+       <div class="option" id="q99-B" onclick="selectOption('q99', 'B', false)">
+           B. 离开油门并向反方向扭方盘
+       </div>
+       <div class="option" id="q99-C" onclick="selectOption('q99', 'C', false)">
+           C. 刹车并顺着打滑的方向扭方向盘
+       </div>
+       <div class="option" id="q99-D" onclick="selectOption('q99', 'D', false)">
+           D. 向着打滑的反方向扭方向盘
+       </div>
+       <p id="q99-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q98.html" class="button">|prev_question|</a>
+       <span class="page-indicator">99 / 100</span>
+       <a href="q100.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

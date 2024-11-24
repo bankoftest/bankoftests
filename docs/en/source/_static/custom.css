@@ -148,3 +148,9 @@ body.is-question-page h1::before {
     background-color: #0056b3;
     color: white;
 }
+
+.question-image {
+    display: block;
+    margin-bottom: 20px; /* Adjust as needed */
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在市区开车驾驶者应向前扫描最少？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在市区开车驾驶者应向前扫描最少？
+================================
+
+.. raw:: html
+
+   <div id="q85" class="quiz">
+       <div class="option" id="q85-A" onclick="selectOption('q85', 'A', false)">
+           A. 8秒
+       </div>
+       <div class="option" id="q85-B" onclick="selectOption('q85', 'B', false)">
+           B. 15秒
+       </div>
+       <div class="option" id="q85-C" onclick="selectOption('q85', 'C', false)">
+           C. 5秒
+       </div>
+       <div class="option" id="q85-D" onclick="selectOption('q85', 'D', true)">
+           D. 12秒
+       </div>
+       <p id="q85-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q84.html" class="button">|prev_question|</a>
+       <span class="page-indicator">85 / 100</span>
+       <a href="q86.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

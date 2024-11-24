@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 哪一辆车没有安全的空隙驶往路边？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+哪一辆车没有安全的空隙驶往路边？
+================================
+
+.. raw:: html
+
+   <div id="q58" class="quiz">
+       <div class="option" id="q58-A" onclick="selectOption('q58', 'A', false)">
+           A. 车辆a
+       </div>
+       <div class="option" id="q58-B" onclick="selectOption('q58', 'B', false)">
+           B. 车辆b
+       </div>
+       <div class="option" id="q58-C" onclick="selectOption('q58', 'C', true)">
+           C. 车辆d
+       </div>
+       <div class="option" id="q58-D" onclick="selectOption('q58', 'D', false)">
+           D. 车辆c
+       </div>
+       <p id="q58-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q57.html" class="button">|prev_question|</a>
+       <span class="page-indicator">58 / 100</span>
+       <a href="q59.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

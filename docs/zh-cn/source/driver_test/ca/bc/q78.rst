@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 朋友开车太快,要让他知道你的想法最好是说？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+朋友开车太快,要让他知道你的想法最好是说？
+==========================================
+
+.. raw:: html
+
+   <div id="q78" class="quiz">
+       <div class="option" id="q78-A" onclick="selectOption('q78', 'A', false)">
+           A. 你有没有看到速度标志牌
+       </div>
+       <div class="option" id="q78-B" onclick="selectOption('q78', 'B', true)">
+           B. 你速度使我觉得很不舒服
+       </div>
+       <div class="option" id="q78-C" onclick="selectOption('q78', 'C', false)">
+           C. 你比所标明的速度太快
+       </div>
+       <div class="option" id="q78-D" onclick="selectOption('q78', 'D', false)">
+           D. 你为什么常开快车
+       </div>
+       <p id="q78-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q77.html" class="button">|prev_question|</a>
+       <span class="page-indicator">78 / 100</span>
+       <a href="q79.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

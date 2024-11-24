@@ -61,12 +61,14 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
             f.write(f".. image:: /{image_path}\n")
             f.write("   :width: 70%\n")
             f.write("   :alt: Image for the question\n")
+            f.write("   :class: question-image\n")  # Apply the custom CSS class
             f.write("   :align: center\n")  # Aligns the image in the center
-            f.write("\n\n")  # Adds a blank line after the image block
+            f.write("\n\n\n")  # Adds a blank line after the image block
 
         # Write options with interactive buttons
         write_interactive_html(f, question_id, question['options'], question['answer'])
 
+        f.write("   <hr>\n") 
         # Write explanation (hidden by default)
         f.write("\n.. dropdown:: ►|explanation|\n\n")
         f.write(f"   {question['explanation']}\n")
@@ -112,19 +114,18 @@ def write_title(file, title):
 
 
 # Function to write interactive HTML content
+# Function to write interactive HTML content
 def write_interactive_html(file, question_id, options, correct_answer):
     file.write(".. raw:: html\n\n")
     file.write(f"   <div id=\"{question_id}\" class=\"quiz\">\n")
     
-    # Map options to letters (A, B, C, D, ...)
-    letters = ["A", "B", "C", "D", "E", "F", "G", "H"]
-    for i, option in enumerate(options):
-        letter = letters[i]
-        is_correct = "true" if option == correct_answer else "false"
+    # Iterate over options dictionary (letter keys and option text values)
+    for letter, option_text in options.items():
+        is_correct = "true" if letter == correct_answer else "false"
 
         # HTML for the interactive option
         file.write(f"       <div class=\"option\" id=\"{question_id}-{letter}\" onclick=\"selectOption('{question_id}', '{letter}', {is_correct})\">\n")
-        file.write(f"           {letter}. {option}\n")
+        file.write(f"           {letter}. {option_text}\n")  # Display letter and option text
         file.write("       </div>\n")
     
     file.write(f"       <p id=\"{question_id}-result\" class=\"result\"></p>\n")

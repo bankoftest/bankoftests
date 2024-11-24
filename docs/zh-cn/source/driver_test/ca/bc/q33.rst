@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <div id="q33" class="quiz">
+       <div class="option" id="q33-A" onclick="selectOption('q33', 'A', true)">
+           A. 有工人和机械在进行施工你必须遵守标志上的限速
+       </div>
+       <div class="option" id="q33-B" onclick="selectOption('q33', 'B', false)">
+           B. 有工人和机械在进行施工你必须遵守标志上的限速只限白天
+       </div>
+       <div class="option" id="q33-C" onclick="selectOption('q33', 'C', false)">
+           C. 你必须遵守标志上的限速如果看见有工人在路上
+       </div>
+       <div class="option" id="q33-D" onclick="selectOption('q33', 'D', false)">
+           D. 前面有障碍
+       </div>
+       <p id="q33-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q32.html" class="button">|prev_question|</a>
+       <span class="page-indicator">33 / 100</span>
+       <a href="q34.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

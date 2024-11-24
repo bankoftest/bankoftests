@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在此标志上你会看到什么速度？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在此标志上你会看到什么速度？
+============================
+
+.. raw:: html
+
+   <div id="q94" class="quiz">
+       <div class="option" id="q94-A" onclick="selectOption('q94', 'A', false)">
+           A. 时速20公里
+       </div>
+       <div class="option" id="q94-B" onclick="selectOption('q94', 'B', false)">
+           B. 时速25公里
+       </div>
+       <div class="option" id="q94-C" onclick="selectOption('q94', 'C', true)">
+           C. 时速30公里
+       </div>
+       <div class="option" id="q94-D" onclick="selectOption('q94', 'D', false)">
+           D. 时速35公里
+       </div>
+       <p id="q94-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q93.html" class="button">|prev_question|</a>
+       <span class="page-indicator">94 / 100</span>
+       <a href="q95.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

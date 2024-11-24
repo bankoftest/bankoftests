@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 两辆车同时抵达路口, 谁该先行？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+两辆车同时抵达路口, 谁该先行？
+================================
+
+.. raw:: html
+
+   <div id="q74" class="quiz">
+       <div class="option" id="q74-A" onclick="selectOption('q74', 'A', false)">
+           A. 无论哪辆车已停下,另一辆该先行
+       </div>
+       <div class="option" id="q74-B" onclick="selectOption('q74', 'B', true)">
+           B. 直行车辆
+       </div>
+       <div class="option" id="q74-C" onclick="selectOption('q74', 'C', false)">
+           C. 亮起左方向灯的车辆
+       </div>
+       <div class="option" id="q74-D" onclick="selectOption('q74', 'D', false)">
+           D. 已经做好准备的车辆
+       </div>
+       <p id="q74-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q73.html" class="button">|prev_question|</a>
+       <span class="page-indicator">74 / 100</span>
+       <a href="q75.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

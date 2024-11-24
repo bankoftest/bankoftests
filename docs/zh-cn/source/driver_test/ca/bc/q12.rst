@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你与一位负责驾驶的朋友外出,而他不停喝酒,你最不安全的做法是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你与一位负责驾驶的朋友外出,而他不停喝酒,你最不安全的做法是？
+==============================================================
+
+.. raw:: html
+
+   <div id="q12" class="quiz">
+       <div class="option" id="q12-A" onclick="selectOption('q12', 'A', false)">
+           A. 告诉他为什么不能开车
+       </div>
+       <div class="option" id="q12-B" onclick="selectOption('q12', 'B', false)">
+           B. 告诉他乘计程车和公共汽车或打电话给朋友
+       </div>
+       <div class="option" id="q12-C" onclick="selectOption('q12', 'C', false)">
+           C. 拿走他的车钥匙
+       </div>
+       <div class="option" id="q12-D" onclick="selectOption('q12', 'D', true)">
+           D. 确保他开慢车
+       </div>
+       <p id="q12-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q11.html" class="button">|prev_question|</a>
+       <span class="page-indicator">12 / 100</span>
+       <a href="q13.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

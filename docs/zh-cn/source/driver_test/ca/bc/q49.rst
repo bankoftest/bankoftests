@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中的哪一段路在后视镜不容易看见？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中的哪一段路在后视镜不容易看见？
+==================================
+
+.. raw:: html
+
+   <div id="q49" class="quiz">
+       <div class="option" id="q49-A" onclick="selectOption('q49', 'A', false)">
+           A. 路段a
+       </div>
+       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', true)">
+           B. 路段c
+       </div>
+       <div class="option" id="q49-C" onclick="selectOption('q49', 'C', false)">
+           C. 路段d
+       </div>
+       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', false)">
+           D. 路段b
+       </div>
+       <p id="q49-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q48.html" class="button">|prev_question|</a>
+       <span class="page-indicator">49 / 100</span>
+       <a href="q50.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

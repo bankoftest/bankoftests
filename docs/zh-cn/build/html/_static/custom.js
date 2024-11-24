@@ -43,7 +43,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 
-// Handle question interactions
 function selectOption(questionId, selectedLetter, isCorrect) {
     // Clear previous styles
     const options = document.querySelectorAll(`#${questionId} .option`);

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 要鼓励你的朋友安全开车最好方法是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+要鼓励你的朋友安全开车最好方法是？
+==================================
+
+.. raw:: html
+
+   <div id="q25" class="quiz">
+       <div class="option" id="q25-A" onclick="selectOption('q25', 'A', false)">
+           A. 坚持他们低速行车
+       </div>
+       <div class="option" id="q25-B" onclick="selectOption('q25', 'B', false)">
+           B. 提醒他们所犯的错误
+       </div>
+       <div class="option" id="q25-C" onclick="selectOption('q25', 'C', false)">
+           C. 告诉他们你的做法
+       </div>
+       <div class="option" id="q25-D" onclick="selectOption('q25', 'D', true)">
+           D. 在他们开得好的时候表扬一番
+       </div>
+       <p id="q25-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q24.html" class="button">|prev_question|</a>
+       <span class="page-indicator">25 / 100</span>
+       <a href="q26.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

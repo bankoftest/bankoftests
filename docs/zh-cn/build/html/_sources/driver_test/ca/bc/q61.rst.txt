@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <div id="q61" class="quiz">
+       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', true)">
+           A. 禁止卡车通行
+       </div>
+       <div class="option" id="q61-B" onclick="selectOption('q61', 'B', false)">
+           B. 驾驶者应小心高速行驶的卡车
+       </div>
+       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', false)">
+           C. 前面有卡车或工程车横过
+       </div>
+       <div class="option" id="q61-D" onclick="selectOption('q61', 'D', false)">
+           D. 卡车只能在超车道行驶
+       </div>
+       <p id="q61-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q60.html" class="button">|prev_question|</a>
+       <span class="page-indicator">61 / 100</span>
+       <a href="q62.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,51 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 下列哪一项能帮助你酒后清醒？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+下列哪一项能帮助你酒后清醒？
+============================
+
+.. raw:: html
+
+   <div id="q56" class="quiz">
+       <div class="option" id="q56-A" onclick="selectOption('q56', 'A', true)">
+           A. 时间
+       </div>
+       <div class="option" id="q56-B" onclick="selectOption('q56', 'B', false)">
+           B. 新鲜空气
+       </div>
+       <div class="option" id="q56-C" onclick="selectOption('q56', 'C', false)">
+           C. 咖啡
+       </div>
+       <div class="option" id="q56-D" onclick="selectOption('q56', 'D', false)">
+           D. 运动
+       </div>
+       <p id="q56-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q55.html" class="button">|prev_question|</a>
+       <span class="page-indicator">56 / 100</span>
+       <a href="q57.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>
