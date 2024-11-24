@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define languages
-languages=("en" "zh")
+languages=("en" "zh-CN")
 
 # Loop through languages and build
 for lang in "${languages[@]}"; do

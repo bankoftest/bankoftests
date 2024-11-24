@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bankoftests \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-24 00:14-0800\n"
+"POT-Creation-Date: 2024-11-24 01:10-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,6 +33,6 @@ msgstr ""
 msgid "►|explanation|"
 msgstr ""
 
-#: ../../source/driver_test/ca/bc/q2.rst:44
+#: ../../source/driver_test/ca/bc/q2.rst:45
 msgid "在理想条件下，BC 省驾驶的最低跟车距离是 2 秒。"
 msgstr ""

@@ -23,7 +23,7 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh'
+language = 'zh-CN'
 locale_dirs = ['../locales/']  # Path to your translation files
 gettext_compact = False  # Optional: Creates separate .po files for each RST
 

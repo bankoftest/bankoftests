@@ -1,17 +1,15 @@
-// Messages for results
-const messages = {
-    correct: "Correct!",
-    incorrect: "Incorrect."
-};
-
-// Translations
+// Messages and Translations
 const translations = {
-    en: {
+    "en": {
+        correct: "Correct!",
+        incorrect: "Incorrect!",
         next_question: "Next Question",
         prev_question: "Previous Question",
         explanation: "Click to view explanation",
     },
-    zh: {
+    "zh-CN": {
+        correct: "回答正确！",
+        incorrect: "回答错误！",
         next_question: "下一题",
         prev_question: "上一题",
         explanation: "点击查看答案解析",
@@ -21,24 +19,20 @@ const translations = {
 // Detect the current language
 const currentLanguage = document.documentElement.lang || "en";
 
-// Replace placeholders dynamically
+// Replace placeholders dynamically in the DOM
 document.addEventListener("DOMContentLoaded", () => {
-    // Replace placeholders in the document
-    Object.keys(translations[currentLanguage]).forEach((key) => {
-        const placeholder = `|${key}|`;
-        const translation = translations[currentLanguage][key];
-        document.body.innerHTML = document.body.innerHTML.replaceAll(placeholder, translation);
-    });
-});
+    // Replace placeholders for explanation and navigation buttons
+    document.body.innerHTML = document.body.innerHTML.replace(/\|next_question\|/g, translations[currentLanguage]?.next_question || "Next Question");
+    document.body.innerHTML = document.body.innerHTML.replace(/\|prev_question\|/g, translations[currentLanguage]?.prev_question || "Previous Question");
+    document.body.innerHTML = document.body.innerHTML.replace(/\|explanation\|/g, translations[currentLanguage]?.explanation || "Explanation");
 
-document.addEventListener("DOMContentLoaded", () => {
-    // Check if .question-page exists in the document
+    // Add a class to the body if on a question page
     if (document.querySelector('.question-page')) {
-        // Add a class to the body to indicate it's a question page
         document.body.classList.add('is-question-page');
     }
 });
 
+// Handle question interactions
 function selectOption(questionId, selectedLetter, isCorrect) {
     // Clear previous styles
     const options = document.querySelectorAll(`#${questionId} .option`);
@@ -57,9 +51,11 @@ function selectOption(questionId, selectedLetter, isCorrect) {
         selectedOption.innerHTML += " 👎";
     }
 
-    // Display a result message
+    // Display a result message in the correct language
     const resultElement = document.getElementById(`${questionId}-result`);
-    resultElement.innerText = isCorrect ? messages.correct : messages.incorrect;
+    resultElement.innerText = isCorrect
+        ? translations[currentLanguage]?.correct || "Correct!"
+        : translations[currentLanguage]?.incorrect || "Incorrect.";
 
     // Style the result message
     resultElement.classList.add("result-message");

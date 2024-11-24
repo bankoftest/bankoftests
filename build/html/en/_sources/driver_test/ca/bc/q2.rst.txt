@@ -16,9 +16,10 @@
 ======================================
 
 .. image:: /../images/driver_test/ca/bc/2.jpg
-   :width: 80%
+   :width: 70%
    :alt: Image for the question
    :align: center
+
 
 .. raw:: html
 
