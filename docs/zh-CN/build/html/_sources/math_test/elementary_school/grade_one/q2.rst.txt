@@ -1,24 +1,25 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Math Test Simulation 2024 Edition Grade One</div>
+   <div class="test-name">2024年版一年级数学测试模拟</div>
 
 .. meta::
-   :description: What is the area of a rectangle with length 5 and width 3?
-   :keywords: Math test, area of rectangle, geometry
+   :description: 一个长为 5，宽为 3 的矩形面积是多少？
+   :keywords: 数学测试，矩形面积，几何
 
 .. raw:: html
 
    <div class="question-card">
 
 
-What is the area of a rectangle with length 5 and width 3?
-====================================================================================================================
+一个长为 5，宽为 3 的矩形面积是多少？
+==========================================
 
-.. image:: /../images/math_test/elementary_school/grade_one/2.jpg
-   :width: 80%
+.. image:: /../../../images/math_test/elementary_school/grade_one/2.jpg
+   :width: 70%
    :alt: Image for the question
    :align: center
+
 
 .. raw:: html
 
@@ -39,16 +40,16 @@ What is the area of a rectangle with length 5 and width 3?
    </div>
 
 
-.. dropdown:: Click to view explanation
+.. dropdown:: ►|explanation|
 
-   The area of a rectangle is calculated as length × width, so 5 × 3 = 15.
+   矩形的面积计算公式是 长 × 宽，因此 5 × 3 = 15。
 
 .. raw:: html
 
    <div class="nav-buttons">
-       <a href="q1.html" class="button">Previous Question</a>
+       <a href="q1.html" class="button">|prev_question|</a>
        <span class="page-indicator">2 / 3</span>
-       <a href="q3.html" class="button">Next Question</a>
+       <a href="q3.html" class="button">|next_question|</a>
    </div>
    </div>
 
