@@ -6,9 +6,9 @@ SPHINXBUILD   ?= sphinx-build
 
 # Source and build directories for each language
 EN_SOURCEDIR  = docs/en/source
-ZH_SOURCEDIR  = docs/zh-CN/source
+ZH_SOURCEDIR  = docs/zh-cn/source
 EN_BUILDDIR   = build/en/html
-ZH_BUILDDIR   = build/zh-CN/html
+ZH_BUILDDIR   = build/zh-cn/html
 
 # Default target (build Chinese documentation)
 html: html-zh

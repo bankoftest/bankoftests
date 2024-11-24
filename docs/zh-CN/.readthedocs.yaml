@@ -8,7 +8,7 @@ build:
     python: "3.13"
 
 sphinx:
-  configuration: docs/zh-CN/source/conf.py
+  configuration: docs/zh-cn/source/conf.py
 
 python:
     install:

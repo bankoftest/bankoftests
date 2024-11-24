@@ -7,7 +7,7 @@ const translations = {
         prev_question: "Previous Question",
         explanation: "Click to view explanation",
     },
-    "zh-CN": {
+    "zh-cn": {
         correct: "回答正确！",
         incorrect: "回答错误！",
         next_question: "下一题",

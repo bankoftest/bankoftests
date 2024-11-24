@@ -23,9 +23,7 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh-CN'
-locale_dirs = ['../locales/']  # Path to your translation files
-gettext_compact = False  # Optional: Creates separate .po files for each RST
+language = 'zh-cn'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

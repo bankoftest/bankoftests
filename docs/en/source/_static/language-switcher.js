@@ -7,14 +7,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Generate links for language switching
         const langLinks = {
-            en: baseUrl.replace('/zh-CN/', '/en/'),
-            "zh-CN": baseUrl.replace('/en/', '/zh-CN/')
+            en: baseUrl.replace('/zh-cn/', '/en/'),
+            "zh-cn": baseUrl.replace('/en/', '/zh-cn/')
         };
 
         // Update the language switcher
         langSwitcher.innerHTML = `
             <a href="${langLinks.en}" class="${currentLang === 'en' ? 'active' : ''}">English</a> |
-            <a href="${langLinks['zh-CN']}" class="${currentLang === 'zh-CN' ? 'active' : ''}">中文</a>
+            <a href="${langLinks['zh-cn']}" class="${currentLang === 'zh-cn' ? 'active' : ''}">中文</a>
         `;
     }
 });

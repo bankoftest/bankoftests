@@ -5,7 +5,7 @@ import os
 paths_dataset = {
     "math_test_elementary_school_grade_one_zh": {
         "testbank_file": "testbanks/math_test_elementary_school_grade_one_zh.json",
-        "rst_dir": "docs/zh-CN/source/math_test/elementary_school/grade_one",
+        "rst_dir": "docs/zh-cn/source/math_test/elementary_school/grade_one",
         "image_dir": "../../../images/math_test/elementary_school/grade_one"
     },
     "math_test_elementary_school_grade_one_en": {
@@ -15,7 +15,7 @@ paths_dataset = {
     },
     "driver_test_ca_bc_zh": {
         "testbank_file": "testbanks/driver_test_ca_bc_zh.json",
-        "rst_dir": "docs/zh-CN/source/driver_test/ca/bc",
+        "rst_dir": "docs/zh-cn/source/driver_test/ca/bc",
         "image_dir": "../../../images/driver_test/ca/bc"
     },
     "driver_test_ca_bc_en": {
