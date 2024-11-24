@@ -7,6 +7,11 @@ paths_dataset = {
         "testbank_file": "testbanks/math_test_elementary_school_grade_one.json",
         "rst_dir": "source/math_test/elementary_school/grade_one",
         "image_dir": "../images/math_test/elementary_school/grade_one"
+    },
+    "driver_test_ca_bc": {
+        "testbank_file": "testbanks/driver_test_ca_bc.json",
+        "rst_dir": "source/driver_test/ca/bc",
+        "image_dir": "../images/driver_test/ca/bc"
     }
 }
 
@@ -166,5 +171,6 @@ def main(test_id):
 
 
 if __name__ == "__main__":
-    test_id = "math_test_elementary_school_grade_one"  
+    #test_id = "math_test_elementary_school_grade_one"  
+    test_id = "driver_test_ca_bc"
     main(test_id)
