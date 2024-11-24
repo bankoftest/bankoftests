@@ -10,6 +10,9 @@ project = 'bankoftests'
 copyright = '2024, bankoftests'
 author = 'bankoftests'
 
+html_title = "tests"
+
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -27,6 +30,18 @@ language = 'zh'
 
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
+html_js_files = ["custom.js"]
 
 
+# Configure theme options
+html_theme_options = {
+    "secondary_sidebar_items": {
+         "math_test/elementary_school/grade_one/**": [], 
+    },
+}
+
+html_sidebars = {
+    "math_test/elementary_school/grade_one/**": [], 
+}
 

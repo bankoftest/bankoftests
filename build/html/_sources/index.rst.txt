@@ -13,5 +13,5 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   math_test/elementary_school/grade_one/index
