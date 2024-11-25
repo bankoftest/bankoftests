@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when the green arrow under the red light is flashing?
+   :keywords: Vancouver driver's license test, BC driver's license test green arrow, left turn, driving rules, traffic signs
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when the green arrow under the red light is flashing?
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/30.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q30" class="quiz">
+       <div class="option" id="q30-A" onclick="selectOption('q30', 'A', false)">
+           A. Turn left at any time
+       </div>
+       <div class="option" id="q30-B" onclick="selectOption('q30', 'B', false)">
+           B. Wait for the red light to turn green before turning left
+       </div>
+       <div class="option" id="q30-C" onclick="selectOption('q30', 'C', false)">
+           C. Never turn left
+       </div>
+       <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
+           D. Ensure safety and then turn left
+       </div>
+       <p id="q30-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A flashing green arrow indicates that you can turn left as long as it is safe to do so, without waiting for the red light to change.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q29.html" class="button">|prev_question|</a>
+       <span class="page-indicator">30 / 200</span>
+       <a href="q31.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: A responsible driver ______?
+   :keywords: Vancouver driver's license test, BC driver's license test responsible driving, road safety, rule awareness
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A responsible driver ______?
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q36" class="quiz">
+       <div class="option" id="q36-A" onclick="selectOption('q36', 'A', false)">
+           A. Points out the mistakes of other drivers
+       </div>
+       <div class="option" id="q36-B" onclick="selectOption('q36', 'B', true)">
+           B. Considers the safety of all road users
+       </div>
+       <div class="option" id="q36-C" onclick="selectOption('q36', 'C', false)">
+           C. Ensures the safety of themselves and their passengers
+       </div>
+       <div class="option" id="q36-D" onclick="selectOption('q36', 'D', false)">
+           D. Ensures they are respected by others
+       </div>
+       <p id="q36-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A responsible driver cares not only about their own safety but also about the safety of other road users.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q35.html" class="button">|prev_question|</a>
+       <span class="page-indicator">36 / 200</span>
+       <a href="q37.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

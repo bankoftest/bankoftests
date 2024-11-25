@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when overtaking a bicycle?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking bicycles, leaving space, driving rules, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when overtaking a bicycle?
+==========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q16" class="quiz">
+       <div class="option" id="q16-A" onclick="selectOption('q16', 'A', true)">
+           A. Leave extra space
+       </div>
+       <div class="option" id="q16-B" onclick="selectOption('q16', 'B', false)">
+           B. Maintain your lane position
+       </div>
+       <div class="option" id="q16-C" onclick="selectOption('q16', 'C', false)">
+           C. Keep one meter of space
+       </div>
+       <div class="option" id="q16-D" onclick="selectOption('q16', 'D', false)">
+           D. Honk to indicate you are overtaking
+       </div>
+       <p id="q16-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When overtaking a bicycle, leave as much space as possible to ensure the safety of the cyclist.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q15.html" class="button">|prev_question|</a>
+       <span class="page-indicator">16 / 200</span>
+       <a href="q17.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

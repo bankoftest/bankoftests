@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: The posted maximum speed limit applies under?
+   :keywords: Vancouver driver's license test, BC driver's license test maximum speed, ideal conditions, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The posted maximum speed limit applies under?
+==========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q48" class="quiz">
+       <div class="option" id="q48-A" onclick="selectOption('q48', 'A', true)">
+           A. Ideal conditions
+       </div>
+       <div class="option" id="q48-B" onclick="selectOption('q48', 'B', false)">
+           B. Daylight
+       </div>
+       <div class="option" id="q48-C" onclick="selectOption('q48', 'C', false)">
+           C. Except when overtaking
+       </div>
+       <div class="option" id="q48-D" onclick="selectOption('q48', 'D', false)">
+           D. Poor visibility conditions
+       </div>
+       <p id="q48-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The maximum speed limit applies under ideal conditions and should be adjusted based on road and weather conditions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q47.html" class="button">|prev_question|</a>
+       <span class="page-indicator">48 / 200</span>
+       <a href="q49.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test no trucks, signs, traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/61.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q61" class="quiz">
+       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', false)">
+           A. No trucks allowed
+       </div>
+       <div class="option" id="q61-B" onclick="selectOption('q61', 'B', false)">
+           B. Drivers should beware of high-speed trucks
+       </div>
+       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', true)">
+           C. Trucks or construction vehicles crossing ahead
+       </div>
+       <div class="option" id="q61-D" onclick="selectOption('q61', 'D', false)">
+           D. Trucks can only drive in the passing lane
+       </div>
+       <p id="q61-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q60.html" class="button">|prev_question|</a>
+       <span class="page-indicator">61 / 200</span>
+       <a href="q62.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

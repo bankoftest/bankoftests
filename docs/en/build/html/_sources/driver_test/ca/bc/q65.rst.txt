@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When are you allowed to exceed the speed limit on a sign?
+   :keywords: Vancouver driver's license test, BC driver's license test speed limits, exceeding speed, traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When are you allowed to exceed the speed limit on a sign?
+==================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q65" class="quiz">
+       <div class="option" id="q65-A" onclick="selectOption('q65', 'A', false)">
+           A. On highways
+       </div>
+       <div class="option" id="q65-B" onclick="selectOption('q65', 'B', true)">
+           B. Never
+       </div>
+       <div class="option" id="q65-C" onclick="selectOption('q65', 'C', false)">
+           C. During daytime in good weather
+       </div>
+       <div class="option" id="q65-D" onclick="selectOption('q65', 'D', false)">
+           D. When catching up with traffic flow
+       </div>
+       <p id="q65-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Speed limits are legally defined maximum speeds and cannot be exceeded under any circumstances.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q64.html" class="button">|prev_question|</a>
+       <span class="page-indicator">65 / 200</span>
+       <a href="q66.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

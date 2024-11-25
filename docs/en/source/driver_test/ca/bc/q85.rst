@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How far ahead should a driver scan in the city?
+   :keywords: Vancouver driver's license test, BC driver's license test urban driving, forward scanning, traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How far ahead should a driver scan in the city?
+==============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/85.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q85" class="quiz">
+       <div class="option" id="q85-A" onclick="selectOption('q85', 'A', false)">
+           A. 8 seconds
+       </div>
+       <div class="option" id="q85-B" onclick="selectOption('q85', 'B', false)">
+           B. 15 seconds
+       </div>
+       <div class="option" id="q85-C" onclick="selectOption('q85', 'C', false)">
+           C. 5 seconds
+       </div>
+       <div class="option" id="q85-D" onclick="selectOption('q85', 'D', true)">
+           D. 12 seconds
+       </div>
+       <p id="q85-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In urban driving, you should scan at least 12 seconds ahead to anticipate potential hazards and respond accordingly.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q84.html" class="button">|prev_question|</a>
+       <span class="page-indicator">85 / 200</span>
+       <a href="q86.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

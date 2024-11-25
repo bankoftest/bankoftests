@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do at an uncontrolled intersection?
+   :keywords: Vancouver driver's license test, BC driver's license test intersection, uncontrolled, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do at an uncontrolled intersection?
+======================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q150" class="quiz">
+       <div class="option" id="q150-A" onclick="selectOption('q150', 'A', false)">
+           A. Honk to let others know you are nearby
+       </div>
+       <div class="option" id="q150-B" onclick="selectOption('q150', 'B', true)">
+           B. Slow down and watch for danger
+       </div>
+       <div class="option" id="q150-C" onclick="selectOption('q150', 'C', false)">
+           C. Maintain your speed but watch for danger
+       </div>
+       <div class="option" id="q150-D" onclick="selectOption('q150', 'D', false)">
+           D. Stop
+       </div>
+       <p id="q150-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   At an uncontrolled intersection, you should slow down and watch for potential hazards to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q149.html" class="button">|prev_question|</a>
+       <span class="page-indicator">150 / 200</span>
+       <a href="q151.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

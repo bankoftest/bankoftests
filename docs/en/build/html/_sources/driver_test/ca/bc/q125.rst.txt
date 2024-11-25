@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when a car tries to merge in front of you?
+   :keywords: Vancouver driver's license test, BC driver's license test merging vehicles, slow down, yield space
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when a car tries to merge in front of you?
+==========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q125" class="quiz">
+       <div class="option" id="q125-A" onclick="selectOption('q125', 'A', true)">
+           A. Slow down and create more space
+       </div>
+       <div class="option" id="q125-B" onclick="selectOption('q125', 'B', false)">
+           B. Maintain your speed and position
+       </div>
+       <div class="option" id="q125-C" onclick="selectOption('q125', 'C', false)">
+           C. Speed up to make them merge behind you
+       </div>
+       <div class="option" id="q125-D" onclick="selectOption('q125', 'D', false)">
+           D. Leave the lane
+       </div>
+       <p id="q125-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   To avoid collisions and maintain traffic flow, slow down and allow enough space for the vehicle to merge.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q124.html" class="button">|prev_question|</a>
+       <span class="page-indicator">125 / 200</span>
+       <a href="q126.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

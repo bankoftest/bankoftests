@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If your car hood flies up while driving, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test car hood, emergency handling, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If your car hood flies up while driving, what should you do?
+========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q154" class="quiz">
+       <div class="option" id="q154-A" onclick="selectOption('q154', 'A', false)">
+           A. Ask another driver to close it for you
+       </div>
+       <div class="option" id="q154-B" onclick="selectOption('q154', 'B', false)">
+           B. Honk and maintain your speed
+       </div>
+       <div class="option" id="q154-C" onclick="selectOption('q154', 'C', true)">
+           C. Look through the gap under the hood and prepare to stop safely
+       </div>
+       <div class="option" id="q154-D" onclick="selectOption('q154', 'D', false)">
+           D. Take your foot off the accelerator
+       </div>
+       <p id="q154-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If your car hood flies up, observing through the gap and gradually stopping is the best course of action.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q153.html" class="button">|prev_question|</a>
+       <span class="page-indicator">154 / 200</span>
+       <a href="q155.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

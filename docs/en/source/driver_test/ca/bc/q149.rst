@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should this driver leave more space?
+   :keywords: Vancouver driver's license test, BC driver's license test cyclist, road space, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should this driver leave more space?
+================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/149.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q149" class="quiz">
+       <div class="option" id="q149-A" onclick="selectOption('q149', 'A', false)">
+           A. The cyclist might slow down
+       </div>
+       <div class="option" id="q149-B" onclick="selectOption('q149', 'B', true)">
+           B. The cyclist might turn
+       </div>
+       <div class="option" id="q149-C" onclick="selectOption('q149', 'C', false)">
+           C. The cyclist might change lanes
+       </div>
+       <div class="option" id="q149-D" onclick="selectOption('q149', 'D', false)">
+           D. The cyclist might dismount
+       </div>
+       <p id="q149-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The cyclist might make a turn on the road, so the driver needs to allow extra space.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q148.html" class="button">|prev_question|</a>
+       <span class="page-indicator">149 / 200</span>
+       <a href="q150.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should you keep more distance from motorcycles in strong winds?
+   :keywords: Vancouver driver's license test, BC driver's license test strong winds, motorcycles, safety distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should you keep more distance from motorcycles in strong winds?
+======================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q195" class="quiz">
+       <div class="option" id="q195-A" onclick="selectOption('q195', 'A', false)">
+           A. Because motorcycles stop quickly
+       </div>
+       <div class="option" id="q195-B" onclick="selectOption('q195', 'B', true)">
+           B. Because wind can push motorcycles into your lane
+       </div>
+       <div class="option" id="q195-C" onclick="selectOption('q195', 'C', false)">
+           C. Because motorcycles provide a wind barrier for you
+       </div>
+       <div class="option" id="q195-D" onclick="selectOption('q195', 'D', false)">
+           D. Because motorcycles are too slow
+       </div>
+       <p id="q195-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Strong winds can cause motorcycles to lose balance and veer into your lane, so maintaining a safe distance is crucial.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q194.html" class="button">|prev_question|</a>
+       <span class="page-indicator">195 / 200</span>
+       <a href="q196.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

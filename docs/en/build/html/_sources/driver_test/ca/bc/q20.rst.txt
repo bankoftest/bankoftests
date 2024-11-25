@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When following a fire truck, you should maintain a minimum distance of?
+   :keywords: Vancouver driver's license test, BC driver's license test fire truck, distance, driving rules, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When following a fire truck, you should maintain a minimum distance of?
+==============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q20" class="quiz">
+       <div class="option" id="q20-A" onclick="selectOption('q20', 'A', false)">
+           A. 50 meters
+       </div>
+       <div class="option" id="q20-B" onclick="selectOption('q20', 'B', false)">
+           B. 180 meters
+       </div>
+       <div class="option" id="q20-C" onclick="selectOption('q20', 'C', true)">
+           C. 150 meters
+       </div>
+       <div class="option" id="q20-D" onclick="selectOption('q20', 'D', false)">
+           D. 60 meters
+       </div>
+       <p id="q20-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Fire trucks require larger space for emergency responses, so maintain at least 150 meters of distance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q19.html" class="button">|prev_question|</a>
+       <span class="page-indicator">20 / 200</span>
+       <a href="q21.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

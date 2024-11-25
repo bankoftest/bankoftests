@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: On a two-lane road, which is the least safe practice to avoid accidents?
+   :keywords: Vancouver driver's license test, BC driver's license test two-lane roads, avoid accidents, unsafe driving practices
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+On a two-lane road, which is the least safe practice to avoid accidents?
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q9" class="quiz">
+       <div class="option" id="q9-A" onclick="selectOption('q9', 'A', false)">
+           A. Take your foot off the accelerator
+       </div>
+       <div class="option" id="q9-B" onclick="selectOption('q9', 'B', true)">
+           B. Move to the left lane
+       </div>
+       <div class="option" id="q9-C" onclick="selectOption('q9', 'C', false)">
+           C. Brake firmly without locking the brakes
+       </div>
+       <div class="option" id="q9-D" onclick="selectOption('q9', 'D', false)">
+           D. Flash headlights and honk to alert other drivers
+       </div>
+       <p id="q9-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Option A, 'Take your foot off the accelerator,' is a reasonable defensive driving practice. Option B, 'Move to the left lane,' may conflict with oncoming traffic and is unsafe. Option C, 'Brake firmly without locking the brakes,' prevents loss of vehicle control. Option D, 'Flash headlights and honk to alert other drivers,' may effectively alert others.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q8.html" class="button">|prev_question|</a>
+       <span class="page-indicator">9 / 200</span>
+       <a href="q10.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

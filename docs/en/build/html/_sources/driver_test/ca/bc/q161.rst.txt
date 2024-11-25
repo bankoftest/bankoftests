@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If your speed is too slow and a queue of vehicles forms behind you, what is the best course of action?
+   :keywords: Vancouver driver's license test, BC driver's license test slow driving, following vehicles, traffic pressure
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If your speed is too slow and a queue of vehicles forms behind you, what is the best course of action?
+============================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q161" class="quiz">
+       <div class="option" id="q161-A" onclick="selectOption('q161', 'A', false)">
+           A. Increase your speed
+       </div>
+       <div class="option" id="q161-B" onclick="selectOption('q161', 'B', true)">
+           B. Pull over and allow other vehicles to pass
+       </div>
+       <div class="option" id="q161-C" onclick="selectOption('q161', 'C', false)">
+           C. Move to the right lane
+       </div>
+       <div class="option" id="q161-D" onclick="selectOption('q161', 'D', false)">
+           D. Maintain your speed and continue forward
+       </div>
+       <p id="q161-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If a queue forms behind you, the best action is to pull over and allow the vehicles to pass, relieving traffic pressure.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q160.html" class="button">|prev_question|</a>
+       <span class="page-indicator">161 / 200</span>
+       <a href="q162.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

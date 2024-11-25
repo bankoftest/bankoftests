@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should vehicles around trucks be extra cautious?
+   :keywords: Vancouver driver's license test, BC driver's license test truck blind spots, driving safety, large vehicles
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should vehicles around trucks be extra cautious?
+========================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q157" class="quiz">
+       <div class="option" id="q157-A" onclick="selectOption('q157', 'A', false)">
+           A. The truck is too slow
+       </div>
+       <div class="option" id="q157-B" onclick="selectOption('q157', 'B', true)">
+           B. Trucks have larger blind spots
+       </div>
+       <div class="option" id="q157-C" onclick="selectOption('q157', 'C', false)">
+           C. The truck may stop suddenly
+       </div>
+       <div class="option" id="q157-D" onclick="selectOption('q157', 'D', false)">
+           D. You may inhale exhaust fumes
+       </div>
+       <p id="q157-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Trucks have larger blind spots, and drivers may not see your position, so extra caution is needed.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q156.html" class="button">|prev_question|</a>
+       <span class="page-indicator">157 / 200</span>
+       <a href="q158.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

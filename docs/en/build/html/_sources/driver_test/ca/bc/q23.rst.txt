@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When can you make a right turn at a red light?
+   :keywords: Vancouver driver's license test, BC driver's license test red light, right turn, stop, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When can you make a right turn at a red light?
+============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q23" class="quiz">
+       <div class="option" id="q23-A" onclick="selectOption('q23', 'A', false)">
+           A. When there are no vehicles
+       </div>
+       <div class="option" id="q23-B" onclick="selectOption('q23', 'B', true)">
+           B. After a complete stop and ensuring there is no 'No Turn on Red' sign
+       </div>
+       <div class="option" id="q23-C" onclick="selectOption('q23', 'C', false)">
+           C. When no signs prohibit the turn
+       </div>
+       <div class="option" id="q23-D" onclick="selectOption('q23', 'D', false)">
+           D. Only in emergency situations
+       </div>
+       <p id="q23-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   At a red light, you can make a right turn if there is no 'No Turn on Red' sign and you have come to a complete stop to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q22.html" class="button">|prev_question|</a>
+       <span class="page-indicator">23 / 200</span>
+       <a href="q24.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

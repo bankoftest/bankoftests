@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When should you NOT overtake a vehicle?
+   :keywords: Vancouver driver's license test, BC driver's license test curve, overtaking, driving safety, overtaking rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When should you NOT overtake a vehicle?
+==============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q38" class="quiz">
+       <div class="option" id="q38-A" onclick="selectOption('q38', 'A', false)">
+           A. When there's a loose dirt warning sign
+       </div>
+       <div class="option" id="q38-B" onclick="selectOption('q38', 'B', true)">
+           B. On a curve
+       </div>
+       <div class="option" id="q38-C" onclick="selectOption('q38', 'C', false)">
+           C. When the vehicle is moving slowly
+       </div>
+       <div class="option" id="q38-D" onclick="selectOption('q38', 'D', false)">
+           D. When your side has a dashed line
+       </div>
+       <p id="q38-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Overtaking on a curve is dangerous due to limited visibility and should be avoided.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q37.html" class="button">|prev_question|</a>
+       <span class="page-indicator">38 / 200</span>
+       <a href="q39.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: People who drink alcohol mistakenly believe?
+   :keywords: Vancouver driver's license test, BC driver's license test drinking and driving, reaction ability, driving risk
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+People who drink alcohol mistakenly believe?
+========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q100" class="quiz">
+       <div class="option" id="q100-A" onclick="selectOption('q100', 'A', false)">
+           A. They are more easily angered
+       </div>
+       <div class="option" id="q100-B" onclick="selectOption('q100', 'B', true)">
+           B. Their reactions are quicker
+       </div>
+       <div class="option" id="q100-C" onclick="selectOption('q100', 'C', false)">
+           C. Their actions are slower
+       </div>
+       <div class="option" id="q100-D" onclick="selectOption('q100', 'D', false)">
+           D. Their concentration is reduced
+       </div>
+       <p id="q100-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Alcohol impairs reaction time, but people under its influence often mistakenly believe they are reacting faster.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q99.html" class="button">|prev_question|</a>
+       <span class="page-indicator">100 / 200</span>
+       <a href="q101.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

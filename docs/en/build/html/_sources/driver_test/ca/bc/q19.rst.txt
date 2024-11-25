@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When is making a U-turn prohibited?
+   :keywords: Vancouver driver's license test, BC driver's license test U-turn prohibition, traffic signs, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When is making a U-turn prohibited?
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/19.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q19" class="quiz">
+       <div class="option" id="q19-A" onclick="selectOption('q19', 'A', true)">
+           A. On curves, hilltops, and places with obstructed visibility
+       </div>
+       <div class="option" id="q19-B" onclick="selectOption('q19', 'B', false)">
+           B. In residential areas
+       </div>
+       <div class="option" id="q19-C" onclick="selectOption('q19', 'C', false)">
+           C. At intersections without traffic signals
+       </div>
+       <div class="option" id="q19-D" onclick="selectOption('q19', 'D', false)">
+           D. In public parking lots
+       </div>
+       <p id="q19-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A no-U-turn sign is a red circle, indicating U-turns are prohibited in places like curves or hilltops with obstructed visibility.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q18.html" class="button">|prev_question|</a>
+       <span class="page-indicator">19 / 200</span>
+       <a href="q20.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

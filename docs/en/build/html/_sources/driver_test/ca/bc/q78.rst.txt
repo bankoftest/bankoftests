@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If your friend is driving too fast, what is the best way to express your concern?
+   :keywords: Vancouver driver's license test, BC driver's license test speeding, expressing concerns, traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If your friend is driving too fast, what is the best way to express your concern?
+==================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q78" class="quiz">
+       <div class="option" id="q78-A" onclick="selectOption('q78', 'A', false)">
+           A. Did you see the speed limit sign?
+       </div>
+       <div class="option" id="q78-B" onclick="selectOption('q78', 'B', true)">
+           B. Your speed makes me uncomfortable
+       </div>
+       <div class="option" id="q78-C" onclick="selectOption('q78', 'C', false)">
+           C. You are driving faster than the limit
+       </div>
+       <div class="option" id="q78-D" onclick="selectOption('q78', 'D', false)">
+           D. Why do you always drive fast?
+       </div>
+       <p id="q78-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Expressing your feelings, such as 'Your speed makes me uncomfortable,' is the best way to make your friend aware without creating defensiveness.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q77.html" class="button">|prev_question|</a>
+       <span class="page-indicator">78 / 200</span>
+       <a href="q79.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

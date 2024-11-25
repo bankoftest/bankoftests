@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to deal with an aggressive driver?
+   :keywords: Vancouver driver's license test, BC driver's license test aggressive driver, space, right of way
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to deal with an aggressive driver?
+==============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q109" class="quiz">
+       <div class="option" id="q109-A" onclick="selectOption('q109', 'A', false)">
+           A. Follow them to show you are not intimidated
+       </div>
+       <div class="option" id="q109-B" onclick="selectOption('q109', 'B', true)">
+           B. Give them more space and yield the right of way
+       </div>
+       <div class="option" id="q109-C" onclick="selectOption('q109', 'C', false)">
+           C. Honk to show disapproval of their behavior
+       </div>
+       <div class="option" id="q109-D" onclick="selectOption('q109', 'D', false)">
+           D. Assert your right of way
+       </div>
+       <p id="q109-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The safest way to deal with an aggressive driver is to give them more space and yield the right of way. Stay calm and avoid confrontation.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q108.html" class="button">|prev_question|</a>
+       <span class="page-indicator">109 / 200</span>
+       <a href="q110.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

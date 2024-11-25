@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do if you feel too tired while driving?
+   :keywords: Vancouver driver's license test, BC driver's license test fatigue driving, rest, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do if you feel too tired while driving?
+==============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q160" class="quiz">
+       <div class="option" id="q160-A" onclick="selectOption('q160', 'A', false)">
+           A. Turn up the music
+       </div>
+       <div class="option" id="q160-B" onclick="selectOption('q160', 'B', true)">
+           B. Pull over and rest
+       </div>
+       <div class="option" id="q160-C" onclick="selectOption('q160', 'C', false)">
+           C. Keep eating snacks
+       </div>
+       <div class="option" id="q160-D" onclick="selectOption('q160', 'D', false)">
+           D. Sing constantly to stay awake
+       </div>
+       <p id="q160-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If you feel tired, pulling over to rest is the safest option.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q159.html" class="button">|prev_question|</a>
+       <span class="page-indicator">160 / 200</span>
+       <a href="q161.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

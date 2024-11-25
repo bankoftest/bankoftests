@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test two-way left-turn, lane signs, traffic signs
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/93.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q93" class="quiz">
+       <div class="option" id="q93-A" onclick="selectOption('q93', 'A', false)">
+           A. All vehicles must turn left ahead
+       </div>
+       <div class="option" id="q93-B" onclick="selectOption('q93', 'B', false)">
+           B. This lane must turn left or right
+       </div>
+       <div class="option" id="q93-C" onclick="selectOption('q93', 'C', true)">
+           C. Two-way left-turn lane
+       </div>
+       <div class="option" id="q93-D" onclick="selectOption('q93', 'D', false)">
+           D. Intersection allows only left turns
+       </div>
+       <p id="q93-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This sign indicates a two-way left-turn lane, allowing vehicles from either side to make left turns.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q92.html" class="button">|prev_question|</a>
+       <span class="page-indicator">93 / 200</span>
+       <a href="q94.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

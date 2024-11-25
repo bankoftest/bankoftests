@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to reduce accidents on snowy roads?
+   :keywords: Vancouver driver's license test, BC driver's license test snowy roads, reducing accidents, following distance, slippery roads
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to reduce accidents on snowy roads?
+================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q172" class="quiz">
+       <div class="option" id="q172-A" onclick="selectOption('q172', 'A', false)">
+           A. Install snow tires
+       </div>
+       <div class="option" id="q172-B" onclick="selectOption('q172', 'B', false)">
+           B. Brake frequently
+       </div>
+       <div class="option" id="q172-C" onclick="selectOption('q172', 'C', false)">
+           C. Drive cautiously and slowly
+       </div>
+       <div class="option" id="q172-D" onclick="selectOption('q172', 'D', true)">
+           D. Maintain a greater following distance
+       </div>
+       <p id="q172-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Maintaining a greater following distance on snowy roads is the best way to reduce accidents, as slippery roads increase stopping distances.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q171.html" class="button">|prev_question|</a>
+       <span class="page-indicator">172 / 200</span>
+       <a href="q173.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

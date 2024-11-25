@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does a yellow traffic light mean?
+   :keywords: Vancouver driver's license test, BC driver's license test yellow light, stop, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does a yellow traffic light mean?
+============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/132.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q132" class="quiz">
+       <div class="option" id="q132-A" onclick="selectOption('q132', 'A', true)">
+           A. Stop unless unsafe to do so
+       </div>
+       <div class="option" id="q132-B" onclick="selectOption('q132', 'B', false)">
+           B. Stop and proceed when safe
+       </div>
+       <div class="option" id="q132-C" onclick="selectOption('q132', 'C', false)">
+           C. Slow down and proceed with caution
+       </div>
+       <div class="option" id="q132-D" onclick="selectOption('q132', 'D', false)">
+           D. Proceed if the intersection is clear
+       </div>
+       <p id="q132-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A yellow light means the driver should stop unless stopping suddenly would cause a hazard.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q131.html" class="button">|prev_question|</a>
+       <span class="page-indicator">132 / 200</span>
+       <a href="q133.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

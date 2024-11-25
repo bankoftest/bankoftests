@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test obstacles, detour sign, road sign
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/82.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q82" class="quiz">
+       <div class="option" id="q82-A" onclick="selectOption('q82', 'A', false)">
+           A. Right and left turns are allowed
+       </div>
+       <div class="option" id="q82-B" onclick="selectOption('q82', 'B', false)">
+           B. Parking is allowed on the left or right
+       </div>
+       <div class="option" id="q82-C" onclick="selectOption('q82', 'C', true)">
+           C. There is an obstacle ahead, proceed slowly in the direction of the arrows
+       </div>
+       <div class="option" id="q82-D" onclick="selectOption('q82', 'D', false)">
+           D. Roadwork ahead, make a U-turn
+       </div>
+       <p id="q82-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q81.html" class="button">|prev_question|</a>
+       <span class="page-indicator">82 / 200</span>
+       <a href="q83.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

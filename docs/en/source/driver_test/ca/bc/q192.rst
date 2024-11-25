@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: At an intersection with a stop sign, stop line, and pedestrian crosswalk, where must you stop?
+   :keywords: Vancouver driver's license test, BC driver's license test intersections, stop line, pedestrian crosswalk
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At an intersection with a stop sign, stop line, and pedestrian crosswalk, where must you stop?
+============================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q192" class="quiz">
+       <div class="option" id="q192-A" onclick="selectOption('q192', 'A', false)">
+           A. Before the stop sign
+       </div>
+       <div class="option" id="q192-B" onclick="selectOption('q192', 'B', true)">
+           B. Before the stop line
+       </div>
+       <div class="option" id="q192-C" onclick="selectOption('q192', 'C', false)">
+           C. Before the crosswalk
+       </div>
+       <div class="option" id="q192-D" onclick="selectOption('q192', 'D', false)">
+           D. At a position where you can see other vehicles
+       </div>
+       <p id="q192-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When a stop line is present, drivers must stop before the stop line to ensure the safety of pedestrians and vehicles.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q191.html" class="button">|prev_question|</a>
+       <span class="page-indicator">192 / 200</span>
+       <a href="q193.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

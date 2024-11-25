@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the main adverse reaction to drunk driving?
+   :keywords: Vancouver driver's license test, BC driver's license test drunk driving, adverse reactions, unstable control
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the main adverse reaction to drunk driving?
+======================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q181" class="quiz">
+       <div class="option" id="q181-A" onclick="selectOption('q181', 'A', false)">
+           A. Frequently honking the horn
+       </div>
+       <div class="option" id="q181-B" onclick="selectOption('q181', 'B', false)">
+           B. Constantly changing lanes
+       </div>
+       <div class="option" id="q181-C" onclick="selectOption('q181', 'C', true)">
+           C. Unstable control of distance and speed
+       </div>
+       <div class="option" id="q181-D" onclick="selectOption('q181', 'D', false)">
+           D. Shouting at other drivers
+       </div>
+       <p id="q181-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Alcohol affects the driver's judgment and reaction speed, leading to unstable control of distance and speed, which is the most dangerous consequence of drunk driving.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q180.html" class="button">|prev_question|</a>
+       <span class="page-indicator">181 / 200</span>
+       <a href="q182.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

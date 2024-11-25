@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when a vehicle on a two-lane road is preparing to overtake?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking, giving way, driving safety, leave space
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when a vehicle on a two-lane road is preparing to overtake?
+============================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q14" class="quiz">
+       <div class="option" id="q14-A" onclick="selectOption('q14', 'A', false)">
+           A. Maintain your speed and lane position
+       </div>
+       <div class="option" id="q14-B" onclick="selectOption('q14', 'B', false)">
+           B. Accelerate and move right
+       </div>
+       <div class="option" id="q14-C" onclick="selectOption('q14', 'C', false)">
+           C. Move right and maintain speed
+       </div>
+       <div class="option" id="q14-D" onclick="selectOption('q14', 'D', true)">
+           D. Prepare to slow down and leave space
+       </div>
+       <p id="q14-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When another vehicle overtakes, you should slow down and give enough space to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q13.html" class="button">|prev_question|</a>
+       <span class="page-indicator">14 / 200</span>
+       <a href="q15.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

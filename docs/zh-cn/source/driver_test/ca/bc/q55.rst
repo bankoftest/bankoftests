@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+   <div class="test-name">加拿大BC省驾照笔试题库(小红书200题在线版)|2024版</div>
 
 .. meta::
    :description: 在下斜坡时使用空档？

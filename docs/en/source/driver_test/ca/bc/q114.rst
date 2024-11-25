@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What increases the risk of hydroplaning?
+   :keywords: Vancouver driver's license test, BC driver's license test hydroplaning, tires, grip, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What increases the risk of hydroplaning?
+================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q114" class="quiz">
+       <div class="option" id="q114-A" onclick="selectOption('q114', 'A', false)">
+           A. Driving uphill
+       </div>
+       <div class="option" id="q114-B" onclick="selectOption('q114', 'B', false)">
+           B. A heavy vehicle
+       </div>
+       <div class="option" id="q114-C" onclick="selectOption('q114', 'C', false)">
+           C. Having snow tires installed
+       </div>
+       <div class="option" id="q114-D" onclick="selectOption('q114', 'D', true)">
+           D. Old tires with shallow treads
+       </div>
+       <p id="q114-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Old or shallow-tread tires reduce grip on wet roads, significantly increasing the risk of hydroplaning.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q113.html" class="button">|prev_question|</a>
+       <span class="page-indicator">114 / 200</span>
+       <a href="q115.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

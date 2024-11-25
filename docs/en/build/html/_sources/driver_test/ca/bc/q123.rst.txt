@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When following a motorcycle on an uneven road, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test uneven road, motorcycles, safe distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When following a motorcycle on an uneven road, what should you do?
+====================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q123" class="quiz">
+       <div class="option" id="q123-A" onclick="selectOption('q123', 'A', false)">
+           A. Maintain the same space as on a normal road because motorcycles are unaffected by road conditions
+       </div>
+       <div class="option" id="q123-B" onclick="selectOption('q123', 'B', true)">
+           B. Allow more space as motorcycles may swerve to avoid potholes
+       </div>
+       <div class="option" id="q123-C" onclick="selectOption('q123', 'C', false)">
+           C. Overtake the motorcycle quickly
+       </div>
+       <div class="option" id="q123-D" onclick="selectOption('q123', 'D', false)">
+           D. Stay close so the rider sees you in their mirrors
+       </div>
+       <p id="q123-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   On uneven roads, motorcycles need more space to navigate around potholes or obstacles, so you should maintain a greater following distance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q122.html" class="button">|prev_question|</a>
+       <span class="page-indicator">123 / 200</span>
+       <a href="q124.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

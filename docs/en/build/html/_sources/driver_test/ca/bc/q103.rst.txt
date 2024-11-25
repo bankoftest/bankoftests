@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test right lane ends, traffic signs, road merging
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/103.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q103" class="quiz">
+       <div class="option" id="q103-A" onclick="selectOption('q103', 'A', false)">
+           A. Keep right ahead
+       </div>
+       <div class="option" id="q103-B" onclick="selectOption('q103', 'B', false)">
+           B. Two-way traffic ahead
+       </div>
+       <div class="option" id="q103-C" onclick="selectOption('q103', 'C', true)">
+           C. Right lane ends ahead
+       </div>
+       <div class="option" id="q103-D" onclick="selectOption('q103', 'D', false)">
+           D. Narrow structure ahead
+       </div>
+       <p id="q103-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q102.html" class="button">|prev_question|</a>
+       <span class="page-indicator">103 / 200</span>
+       <a href="q104.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

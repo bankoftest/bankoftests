@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the most likely cause of skidding?
+   :keywords: Vancouver driver's license test, BC driver's license test skidding, slippery roads, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the most likely cause of skidding?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q151" class="quiz">
+       <div class="option" id="q151-A" onclick="selectOption('q151', 'A', false)">
+           A. The vehicle is too old
+       </div>
+       <div class="option" id="q151-B" onclick="selectOption('q151', 'B', false)">
+           B. The road is too slippery
+       </div>
+       <div class="option" id="q151-C" onclick="selectOption('q151', 'C', false)">
+           C. Another driver suddenly stops
+       </div>
+       <div class="option" id="q151-D" onclick="selectOption('q151', 'D', true)">
+           D. Poor driving skills
+       </div>
+       <p id="q151-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Skidding can often be caused by poor driving skills. Improving driving techniques can help prevent skidding.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q150.html" class="button">|prev_question|</a>
+       <span class="page-indicator">151 / 200</span>
+       <a href="q152.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

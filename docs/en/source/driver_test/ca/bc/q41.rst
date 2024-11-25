@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which of the following is NOT a sign of intoxication?
+   :keywords: Vancouver driver's license test, BC driver's license test intoxication, signs of DUI, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which of the following is NOT a sign of intoxication?
+==========================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q41" class="quiz">
+       <div class="option" id="q41-A" onclick="selectOption('q41', 'A', true)">
+           A. Faster reaction
+       </div>
+       <div class="option" id="q41-B" onclick="selectOption('q41', 'B', false)">
+           B. Loss of awareness of surroundings
+       </div>
+       <div class="option" id="q41-C" onclick="selectOption('q41', 'C', false)">
+           C. Fixed gaze
+       </div>
+       <div class="option" id="q41-D" onclick="selectOption('q41', 'D', false)">
+           D. Reduced field of vision
+       </div>
+       <p id="q41-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The main signs of intoxication include loss of awareness of surroundings, fixed gaze, and reduced field of vision.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q40.html" class="button">|prev_question|</a>
+       <span class="page-indicator">41 / 200</span>
+       <a href="q42.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How can passengers help ensure the driver's safety?
+   :keywords: Vancouver driver's license test, BC driver's license test passengers, safe driving, driver focus
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How can passengers help ensure the driver's safety?
+======================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q118" class="quiz">
+       <div class="option" id="q118-A" onclick="selectOption('q118', 'A', false)">
+           A. Frequently ask about the route to keep the driver alert
+       </div>
+       <div class="option" id="q118-B" onclick="selectOption('q118', 'B', false)">
+           B. Turn on the radio
+       </div>
+       <div class="option" id="q118-C" onclick="selectOption('q118', 'C', true)">
+           C. Avoid heated or intense conversations
+       </div>
+       <div class="option" id="q118-D" onclick="selectOption('q118', 'D', false)">
+           D. Raise their voice to ensure the driver hears the conversation
+       </div>
+       <p id="q118-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Passengers should avoid intense or heated discussions to help the driver focus and maintain safe driving.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q117.html" class="button">|prev_question|</a>
+       <span class="page-indicator">118 / 200</span>
+       <a href="q119.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

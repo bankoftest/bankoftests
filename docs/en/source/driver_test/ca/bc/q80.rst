@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver do?
+   :keywords: Vancouver driver's license test, BC driver's license test bicycle, intersection safety, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver do?
+====================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/80.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q80" class="quiz">
+       <div class="option" id="q80-A" onclick="selectOption('q80', 'A', false)">
+           A. Move behind the bicycle
+       </div>
+       <div class="option" id="q80-B" onclick="selectOption('q80', 'B', false)">
+           B. Drive alongside the bicycle to signal turning
+       </div>
+       <div class="option" id="q80-C" onclick="selectOption('q80', 'C', false)">
+           C. Honk to alert the cyclist of the turn
+       </div>
+       <div class="option" id="q80-D" onclick="selectOption('q80', 'D', true)">
+           D. Wait until the bicycle has cleared the intersection to turn
+       </div>
+       <p id="q80-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The driver must patiently wait for the bicycle to clear the intersection before safely turning.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q79.html" class="button">|prev_question|</a>
+       <span class="page-indicator">80 / 200</span>
+       <a href="q81.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

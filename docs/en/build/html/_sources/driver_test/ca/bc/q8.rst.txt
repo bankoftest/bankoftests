@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which vehicle is most likely to lose control during a turn?
+   :keywords: Vancouver driver's license test, BC driver's license test turning control, vehicle types, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which vehicle is most likely to lose control during a turn?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/8.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q8" class="quiz">
+       <div class="option" id="q8-A" onclick="selectOption('q8', 'A', true)">
+           A. Vehicle B
+       </div>
+       <div class="option" id="q8-B" onclick="selectOption('q8', 'B', false)">
+           B. Vehicle D
+       </div>
+       <div class="option" id="q8-C" onclick="selectOption('q8', 'C', false)">
+           C. Vehicle C
+       </div>
+       <div class="option" id="q8-D" onclick="selectOption('q8', 'D', false)">
+           D. Vehicle A
+       </div>
+       <p id="q8-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This is a tricky question. First, the options and vehicles do not match one-to-one. Second, during a turn, the higher the center of gravity, the more likely the vehicle is to lose control. Vehicle B has the highest center of gravity, so it is most likely to lose control. Vehicle B corresponds to Option A, so the answer is A.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q7.html" class="button">|prev_question|</a>
+       <span class="page-indicator">8 / 200</span>
+       <a href="q9.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

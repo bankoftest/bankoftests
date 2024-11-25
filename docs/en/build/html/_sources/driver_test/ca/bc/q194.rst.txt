@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver of the red car do?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking, curves, safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver of the red car do?
+==================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/194.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q194" class="quiz">
+       <div class="option" id="q194-A" onclick="selectOption('q194', 'A', false)">
+           A. Honk to signal intent to overtake
+       </div>
+       <div class="option" id="q194-B" onclick="selectOption('q194', 'B', false)">
+           B. Watch out for oncoming traffic
+       </div>
+       <div class="option" id="q194-C" onclick="selectOption('q194', 'C', true)">
+           C. Wait until the curve is cleared before overtaking
+       </div>
+       <div class="option" id="q194-D" onclick="selectOption('q194', 'D', false)">
+           D. Overtake as quickly as possible
+       </div>
+       <p id="q194-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Overtaking on curves is highly dangerous. The driver should wait until the curve is cleared to ensure clear visibility and safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q193.html" class="button">|prev_question|</a>
+       <span class="page-indicator">194 / 200</span>
+       <a href="q195.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

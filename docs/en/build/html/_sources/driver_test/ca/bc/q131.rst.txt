@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do if your vehicle hydroplanes on a wet road?
+   :keywords: Vancouver driver's license test, BC driver's license test hydroplane, wet road, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do if your vehicle hydroplanes on a wet road?
+==========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q131" class="quiz">
+       <div class="option" id="q131-A" onclick="selectOption('q131', 'A', false)">
+           A. Gently press the brake
+       </div>
+       <div class="option" id="q131-B" onclick="selectOption('q131', 'B', true)">
+           B. Ease off the accelerator and steer straight
+       </div>
+       <div class="option" id="q131-C" onclick="selectOption('q131', 'C', false)">
+           C. Brake hard
+       </div>
+       <div class="option" id="q131-D" onclick="selectOption('q131', 'D', false)">
+           D. Quickly drive to the roadside
+       </div>
+       <p id="q131-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When hydroplaning, ease off the accelerator and keep the vehicle straight to avoid worsening the skid.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q130.html" class="button">|prev_question|</a>
+       <span class="page-indicator">131 / 200</span>
+       <a href="q132.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do first if your vehicle has a tire blowout while driving?
+   :keywords: Vancouver driver's license test, BC driver's license test tire blowout, vehicle control, roadside parking
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do first if your vehicle has a tire blowout while driving?
+====================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q186" class="quiz">
+       <div class="option" id="q186-A" onclick="selectOption('q186', 'A', true)">
+           A. Grip the steering wheel firmly and move to the roadside
+       </div>
+       <div class="option" id="q186-B" onclick="selectOption('q186', 'B', false)">
+           B. Brake suddenly
+       </div>
+       <div class="option" id="q186-C" onclick="selectOption('q186', 'C', false)">
+           C. Signal other drivers to move away
+       </div>
+       <div class="option" id="q186-D" onclick="selectOption('q186', 'D', false)">
+           D. Turn the wheel opposite to the skid
+       </div>
+       <p id="q186-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In the event of a blowout, hold the steering wheel firmly to stabilize the vehicle, then slowly pull over to the roadside.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q185.html" class="button">|prev_question|</a>
+       <span class="page-indicator">186 / 200</span>
+       <a href="q187.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

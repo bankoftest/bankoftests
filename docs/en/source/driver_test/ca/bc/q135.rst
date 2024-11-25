@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should you be especially cautious around motorcycles?
+   :keywords: Vancouver driver's license test, BC driver's license test motorcycles, blind spots, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should you be especially cautious around motorcycles?
+==================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q135" class="quiz">
+       <div class="option" id="q135-A" onclick="selectOption('q135', 'A', false)">
+           A. Because police often use motorcycles
+       </div>
+       <div class="option" id="q135-B" onclick="selectOption('q135', 'B', false)">
+           B. Motorcycles always have the right of way
+       </div>
+       <div class="option" id="q135-C" onclick="selectOption('q135', 'C', true)">
+           C. Their small size makes them hard to see
+       </div>
+       <div class="option" id="q135-D" onclick="selectOption('q135', 'D', false)">
+           D. Motorcycles are faster than cars
+       </div>
+       <p id="q135-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Motorcycles are smaller and can be hard to see in blind spots or complex road conditions, requiring extra attention.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q134.html" class="button">|prev_question|</a>
+       <span class="page-indicator">135 / 200</span>
+       <a href="q136.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

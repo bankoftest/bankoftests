@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to maintain the correct lane position?
+   :keywords: Vancouver driver's license test, BC driver's license test lane position, driving techniques, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to maintain the correct lane position?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q46" class="quiz">
+       <div class="option" id="q46-A" onclick="selectOption('q46', 'A', false)">
+           A. Look at the vehicles beside you and maintain distance
+       </div>
+       <div class="option" id="q46-B" onclick="selectOption('q46', 'B', false)">
+           B. Hold the steering wheel tightly
+       </div>
+       <div class="option" id="q46-C" onclick="selectOption('q46', 'C', true)">
+           C. Look far ahead in the direction you are traveling
+       </div>
+       <div class="option" id="q46-D" onclick="selectOption('q46', 'D', false)">
+           D. Look directly at the vehicle in front of you
+       </div>
+       <p id="q46-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   To maintain the correct lane position, you should look far ahead to better assess road conditions and maintain a straight path.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q45.html" class="button">|prev_question|</a>
+       <span class="page-indicator">46 / 200</span>
+       <a href="q47.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

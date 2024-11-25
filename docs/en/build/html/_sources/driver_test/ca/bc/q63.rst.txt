@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should driver A do?
+   :keywords: Vancouver driver's license test, BC driver's license test truck turning, yielding vehicles, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should driver A do?
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/63.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q63" class="quiz">
+       <div class="option" id="q63-A" onclick="selectOption('q63', 'A', false)">
+           A. Maintain speed and keep the foot on the brake
+       </div>
+       <div class="option" id="q63-B" onclick="selectOption('q63', 'B', false)">
+           B. Stop until the truck has completely turned
+       </div>
+       <div class="option" id="q63-C" onclick="selectOption('q63', 'C', false)">
+           C. Honk to alert the truck of their presence
+       </div>
+       <div class="option" id="q63-D" onclick="selectOption('q63', 'D', true)">
+           D. Slow down and watch for the truck possibly making a wide turn
+       </div>
+       <p id="q63-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driver A should slow down and watch for the truck making a wide turn to ensure safety and avoid a collision.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q62.html" class="button">|prev_question|</a>
+       <span class="page-indicator">63 / 200</span>
+       <a href="q64.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

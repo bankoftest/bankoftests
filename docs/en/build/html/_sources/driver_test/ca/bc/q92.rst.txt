@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When a person holding a white cane is crossing the street, you should?
+   :keywords: Vancouver driver's license test, BC driver's license test white cane, pedestrian safety, driver caution
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a person holding a white cane is crossing the street, you should?
+============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/92.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q92" class="quiz">
+       <div class="option" id="q92-A" onclick="selectOption('q92', 'A', true)">
+           A. Proceed cautiously and give them more space
+       </div>
+       <div class="option" id="q92-B" onclick="selectOption('q92', 'B', false)">
+           B. Honk to alert them of your presence
+       </div>
+       <div class="option" id="q92-C" onclick="selectOption('q92', 'C', false)">
+           C. Stop and yell out the window to let them cross
+       </div>
+       <div class="option" id="q92-D" onclick="selectOption('q92', 'D', false)">
+           D. Treat them like any other pedestrian
+       </div>
+       <p id="q92-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A white cane typically indicates the pedestrian is visually impaired. Drivers should proceed with caution and provide additional space to ensure their safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q91.html" class="button">|prev_question|</a>
+       <span class="page-indicator">92 / 200</span>
+       <a href="q93.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which of the following is not a suitable way to handle negative influence from peers?
+   :keywords: Vancouver driver's license test, BC driver's license test peer influence, negative impact, positive improvement
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which of the following is not a suitable way to handle negative influence from peers?
+==========================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q102" class="quiz">
+       <div class="option" id="q102-A" onclick="selectOption('q102', 'A', true)">
+           A. Dwelling on whether I looked foolish to them
+       </div>
+       <div class="option" id="q102-B" onclick="selectOption('q102', 'B', false)">
+           B. Recognizing mistakes
+       </div>
+       <div class="option" id="q102-C" onclick="selectOption('q102', 'C', false)">
+           C. Reflecting on the process
+       </div>
+       <div class="option" id="q102-D" onclick="selectOption('q102', 'D', false)">
+           D. Identifying opportunities for improvement
+       </div>
+       <p id="q102-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Dwelling excessively on whether you looked foolish is not an appropriate response to peer influence. A better approach is to review the situation, recognize mistakes, and seize opportunities for improvement.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q101.html" class="button">|prev_question|</a>
+       <span class="page-indicator">102 / 200</span>
+       <a href="q103.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

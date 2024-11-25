@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How should drivers check traffic before entering a highway?
+   :keywords: Vancouver driver's license test, BC driver's license test highway, blind spot check, merging
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How should drivers check traffic before entering a highway?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q87" class="quiz">
+       <div class="option" id="q87-A" onclick="selectOption('q87', 'A', false)">
+           A. Check the rearview mirror
+       </div>
+       <div class="option" id="q87-B" onclick="selectOption('q87', 'B', true)">
+           B. Check side mirrors, rearview mirror, and blind spots
+       </div>
+       <div class="option" id="q87-C" onclick="selectOption('q87', 'C', false)">
+           C. Check blind spots and speed up
+       </div>
+       <div class="option" id="q87-D" onclick="selectOption('q87', 'D', false)">
+           D. Stop and then check blind spots
+       </div>
+       <p id="q87-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers must check side mirrors, rearview mirror, and blind spots before safely merging onto a highway.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q86.html" class="button">|prev_question|</a>
+       <span class="page-indicator">87 / 200</span>
+       <a href="q88.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What danger might a cyclist on the roadside face?
+   :keywords: Vancouver driver's license test, BC driver's license test cyclist, driver blind spot, intersection danger
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What danger might a cyclist on the roadside face?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/86.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q86" class="quiz">
+       <div class="option" id="q86-A" onclick="selectOption('q86', 'A', false)">
+           A. A pedestrian suddenly stepping in front of them
+       </div>
+       <div class="option" id="q86-B" onclick="selectOption('q86', 'B', false)">
+           B. Car B driving close to their rear
+       </div>
+       <div class="option" id="q86-C" onclick="selectOption('q86', 'C', false)">
+           C. Car A slowing and turning while the cyclist rides behind
+       </div>
+       <div class="option" id="q86-D" onclick="selectOption('q86', 'D', true)">
+           D. Car A turning without seeing the cyclist
+       </div>
+       <p id="q86-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Cyclists may be at risk if drivers fail to see them while turning, particularly in blind spots.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q85.html" class="button">|prev_question|</a>
+       <span class="page-indicator">86 / 200</span>
+       <a href="q87.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

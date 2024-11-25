@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How far must you park from a fire hydrant?
+   :keywords: Vancouver driver's license test, BC driver's license test parking, fire hydrant, distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How far must you park from a fire hydrant?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q189" class="quiz">
+       <div class="option" id="q189-A" onclick="selectOption('q189', 'A', true)">
+           A. 5 meters
+       </div>
+       <div class="option" id="q189-B" onclick="selectOption('q189', 'B', false)">
+           B. 6 meters
+       </div>
+       <div class="option" id="q189-C" onclick="selectOption('q189', 'C', false)">
+           C. 15 meters
+       </div>
+       <div class="option" id="q189-D" onclick="selectOption('q189', 'D', false)">
+           D. 3 meters
+       </div>
+       <p id="q189-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   To ensure fire hydrants are accessible, vehicles must be parked at least 5 meters away.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q188.html" class="button">|prev_question|</a>
+       <span class="page-indicator">189 / 200</span>
+       <a href="q190.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

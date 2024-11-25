@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the first thing you should consider before making a left turn?
+   :keywords: Vancouver driver's license test, BC driver's license test left turn, assessing distance, driving technique
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the first thing you should consider before making a left turn?
+============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q167" class="quiz">
+       <div class="option" id="q167-A" onclick="selectOption('q167', 'A', false)">
+           A. Signal and check blind spots
+       </div>
+       <div class="option" id="q167-B" onclick="selectOption('q167', 'B', true)">
+           B. Judge the speed and distance of oncoming vehicles
+       </div>
+       <div class="option" id="q167-C" onclick="selectOption('q167', 'C', false)">
+           C. Slow down and prepare to stop
+       </div>
+       <div class="option" id="q167-D" onclick="selectOption('q167', 'D', false)">
+           D. Turn as quickly as possible
+       </div>
+       <p id="q167-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Before making a left turn, the first priority is to assess the speed and distance of oncoming traffic for a safe maneuver.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q166.html" class="button">|prev_question|</a>
+       <span class="page-indicator">167 / 200</span>
+       <a href="q168.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

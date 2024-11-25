@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Driver A is preparing to turn left. What limits their visibility and poses danger?
+   :keywords: Vancouver driver's license test, BC driver's license test left turn, truck blind spot, limited visibility
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Driver A is preparing to turn left. What limits their visibility and poses danger?
+====================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/129.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q129" class="quiz">
+       <div class="option" id="q129-A" onclick="selectOption('q129', 'A', false)">
+           A. Their blind spot
+       </div>
+       <div class="option" id="q129-B" onclick="selectOption('q129', 'B', true)">
+           B. The truck behind and beside them
+       </div>
+       <div class="option" id="q129-C" onclick="selectOption('q129', 'C', false)">
+           C. The vehicle directly behind them
+       </div>
+       <div class="option" id="q129-D" onclick="selectOption('q129', 'D', false)">
+           D. The vehicle in the right lane behind them
+       </div>
+       <p id="q129-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The size of the truck may obstruct Driver A's view. Drivers must carefully check the surroundings near the truck.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q128.html" class="button">|prev_question|</a>
+       <span class="page-indicator">129 / 200</span>
+       <a href="q130.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

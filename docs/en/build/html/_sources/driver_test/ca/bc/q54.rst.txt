@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the biggest danger of tailgating a truck?
+   :keywords: Vancouver driver's license test, BC driver's license test tailgating trucks, visibility obstruction, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the biggest danger of tailgating a truck?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q54" class="quiz">
+       <div class="option" id="q54-A" onclick="selectOption('q54', 'A', true)">
+           A. The truck obstructs your view of the road ahead
+       </div>
+       <div class="option" id="q54-B" onclick="selectOption('q54', 'B', false)">
+           B. Other drivers may not see you behind the large vehicle
+       </div>
+       <div class="option" id="q54-C" onclick="selectOption('q54', 'C', false)">
+           C. Airflow may affect your steering control
+       </div>
+       <div class="option" id="q54-D" onclick="selectOption('q54', 'D', false)">
+           D. The truck may suddenly change lanes
+       </div>
+       <p id="q54-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Tailgating a truck blocks your view of the road ahead, making it harder to assess road conditions and increasing the risk of accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q53.html" class="button">|prev_question|</a>
+       <span class="page-indicator">54 / 200</span>
+       <a href="q55.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

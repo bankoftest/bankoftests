@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which of the following is unrelated to drinking alcohol?
+   :keywords: Vancouver driver's license test, BC driver's license test drinking and driving, impaired reaction, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which of the following is unrelated to drinking alcohol?
+================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q84" class="quiz">
+       <div class="option" id="q84-A" onclick="selectOption('q84', 'A', false)">
+           A. Slower reaction
+       </div>
+       <div class="option" id="q84-B" onclick="selectOption('q84', 'B', false)">
+           B. Difficulty cooperating with others
+       </div>
+       <div class="option" id="q84-C" onclick="selectOption('q84', 'C', false)">
+           C. More impulsive behavior
+       </div>
+       <div class="option" id="q84-D" onclick="selectOption('q84', 'D', true)">
+           D. Driving better due to relaxation
+       </div>
+       <p id="q84-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Alcohol consumption slows reactions, impairs judgment, and causes emotional changes, but does not improve driving due to relaxation.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q83.html" class="button">|prev_question|</a>
+       <span class="page-indicator">84 / 200</span>
+       <a href="q85.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

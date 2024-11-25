@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when approaching an intersection with a flashing red light?
+   :keywords: Vancouver driver's license test, BC driver's license test flashing red light, stop sign, intersection safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when approaching an intersection with a flashing red light?
+============================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/47.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q47" class="quiz">
+       <div class="option" id="q47-A" onclick="selectOption('q47', 'A', true)">
+           A. Stop completely as you would at a stop sign
+       </div>
+       <div class="option" id="q47-B" onclick="selectOption('q47', 'B', false)">
+           B. Wait for the red light to turn green
+       </div>
+       <div class="option" id="q47-C" onclick="selectOption('q47', 'C', false)">
+           C. Slow down and yield
+       </div>
+       <div class="option" id="q47-D" onclick="selectOption('q47', 'D', false)">
+           D. Drive slowly and cautiously forward
+       </div>
+       <p id="q47-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A flashing red light means you must stop completely, just like at a stop sign, and proceed only when safe.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q46.html" class="button">|prev_question|</a>
+       <span class="page-indicator">47 / 200</span>
+       <a href="q48.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

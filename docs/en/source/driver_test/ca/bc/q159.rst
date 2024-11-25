@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the purpose of using the horn?
+   :keywords: Vancouver driver's license test, BC driver's license test horn, driving etiquette, safety reminder
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the purpose of using the horn?
+============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q159" class="quiz">
+       <div class="option" id="q159-A" onclick="selectOption('q159', 'A', false)">
+           A. To remind others
+       </div>
+       <div class="option" id="q159-B" onclick="selectOption('q159', 'B', true)">
+           B. To warn other road users
+       </div>
+       <div class="option" id="q159-C" onclick="selectOption('q159', 'C', false)">
+           C. To inform other drivers of your presence
+       </div>
+       <div class="option" id="q159-D" onclick="selectOption('q159', 'D', false)">
+           D. To signal others to give way
+       </div>
+       <p id="q159-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The horn is primarily used to warn other road users and avoid potential danger.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q158.html" class="button">|prev_question|</a>
+       <span class="page-indicator">159 / 200</span>
+       <a href="q160.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

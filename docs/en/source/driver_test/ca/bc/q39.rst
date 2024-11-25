@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the default maximum speed limit if not posted?
+   :keywords: Vancouver driver's license test, BC driver's license test default speed limit, urban speed limit, rural speed limit, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the default maximum speed limit if not posted?
+============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q39" class="quiz">
+       <div class="option" id="q39-A" onclick="selectOption('q39', 'A', false)">
+           A. 60 km/h in urban areas and 80 km/h in rural areas
+       </div>
+       <div class="option" id="q39-B" onclick="selectOption('q39', 'B', true)">
+           B. 50 km/h in urban areas and 80 km/h in rural areas
+       </div>
+       <div class="option" id="q39-C" onclick="selectOption('q39', 'C', false)">
+           C. 50 km/h in urban areas and 90 km/h in rural areas
+       </div>
+       <div class="option" id="q39-D" onclick="selectOption('q39', 'D', false)">
+           D. 60 km/h in urban areas and 90 km/h in rural areas
+       </div>
+       <p id="q39-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In most areas of Canada, the default speed limit is 50 km/h in urban areas and 80 km/h in rural areas if not posted.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q38.html" class="button">|prev_question|</a>
+       <span class="page-indicator">39 / 200</span>
+       <a href="q40.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

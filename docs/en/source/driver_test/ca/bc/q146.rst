@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should a driver do before reversing?
+   :keywords: Vancouver driver's license test, BC driver's license test reversing, safety check, surround observation
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should a driver do before reversing?
+==================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q146" class="quiz">
+       <div class="option" id="q146-A" onclick="selectOption('q146', 'A', true)">
+           A. Check 360 degrees around and look back in the reversing direction
+       </div>
+       <div class="option" id="q146-B" onclick="selectOption('q146', 'B', false)">
+           B. Check side mirrors and honk the horn
+       </div>
+       <div class="option" id="q146-C" onclick="selectOption('q146', 'C', false)">
+           C. Check using the rearview mirror
+       </div>
+       <div class="option" id="q146-D" onclick="selectOption('q146', 'D', false)">
+           D. Look behind twice and rely on the rearview mirror
+       </div>
+       <p id="q146-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Before reversing, drivers should check 360 degrees around their vehicle and look back in the direction of movement to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q145.html" class="button">|prev_question|</a>
+       <span class="page-indicator">146 / 200</span>
+       <a href="q147.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: The height of the center of a headrest should be?
+   :keywords: Vancouver driver's license test, BC driver's license test headrest, height, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The height of the center of a headrest should be?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q44" class="quiz">
+       <div class="option" id="q44-A" onclick="selectOption('q44', 'A', false)">
+           A. At your neck
+       </div>
+       <div class="option" id="q44-B" onclick="selectOption('q44', 'B', true)">
+           B. No lower than the tip of your ears
+       </div>
+       <div class="option" id="q44-C" onclick="selectOption('q44', 'C', false)">
+           C. Aligned with the top of your head
+       </div>
+       <div class="option" id="q44-D" onclick="selectOption('q44', 'D', false)">
+           D. At any comfortable position
+       </div>
+       <p id="q44-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The optimal height of the headrest should align with or slightly above the tip of your ears to minimize the risk of neck injuries.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q43.html" class="button">|prev_question|</a>
+       <span class="page-indicator">44 / 200</span>
+       <a href="q45.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

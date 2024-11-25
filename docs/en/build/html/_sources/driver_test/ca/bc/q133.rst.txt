@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the correct 'See-Think-Do' strategy?
+   :keywords: Vancouver driver's license test, BC driver's license test driving strategy, See-Think-Do, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the correct 'See-Think-Do' strategy?
+========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/133.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q133" class="quiz">
+       <div class="option" id="q133-A" onclick="selectOption('q133', 'A', false)">
+           A. Seeing a yellow light, think 'I can make it,' and speed up
+       </div>
+       <div class="option" id="q133-B" onclick="selectOption('q133', 'B', false)">
+           B. Seeing a truck turning, think 'It's not in my lane,' and speed up
+       </div>
+       <div class="option" id="q133-C" onclick="selectOption('q133', 'C', true)">
+           C. Seeing a truck turning, think 'It might take a wide turn,' and slow down
+       </div>
+       <div class="option" id="q133-D" onclick="selectOption('q133', 'D', false)">
+           D. Seeing a truck turning, think 'It might take a wide turn,' and brake suddenly
+       </div>
+       <p id="q133-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   'See-Think-Do' emphasizes observing the situation, making a correct judgment, and responding appropriately, such as slowing down when seeing a truck take a wide turn.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q132.html" class="button">|prev_question|</a>
+       <span class="page-indicator">133 / 200</span>
+       <a href="q134.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

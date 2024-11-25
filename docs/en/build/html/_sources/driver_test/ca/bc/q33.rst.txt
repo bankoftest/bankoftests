@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test construction sign, speed limit, worker safety, road construction
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/33.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q33" class="quiz">
+       <div class="option" id="q33-A" onclick="selectOption('q33', 'A', true)">
+           A. Workers and machinery are operating; you must obey the speed limit on the sign
+       </div>
+       <div class="option" id="q33-B" onclick="selectOption('q33', 'B', false)">
+           B. Workers and machinery are operating; you must obey the speed limit on the sign during daytime only
+       </div>
+       <div class="option" id="q33-C" onclick="selectOption('q33', 'C', false)">
+           C. You must obey the speed limit on the sign if workers are present on the road
+       </div>
+       <div class="option" id="q33-D" onclick="selectOption('q33', 'D', false)">
+           D. Obstacle ahead
+       </div>
+       <p id="q33-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just memorize this.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q32.html" class="button">|prev_question|</a>
+       <span class="page-indicator">33 / 200</span>
+       <a href="q34.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

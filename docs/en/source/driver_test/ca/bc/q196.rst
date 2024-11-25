@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver of car A do?
+   :keywords: Vancouver driver's license test, BC driver's license test pedestrians, yielding, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver of car A do?
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/196.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q196" class="quiz">
+       <div class="option" id="q196-A" onclick="selectOption('q196', 'A', false)">
+           A. Honk to warn pedestrians
+       </div>
+       <div class="option" id="q196-B" onclick="selectOption('q196', 'B', true)">
+           B. Stop and yield to pedestrians crossing the road
+       </div>
+       <div class="option" id="q196-C" onclick="selectOption('q196', 'C', false)">
+           C. Yell at pedestrians that it's not a crosswalk
+       </div>
+       <div class="option" id="q196-D" onclick="selectOption('q196', 'D', false)">
+           D. Flash headlights to signal oncoming vehicles to stop
+       </div>
+       <p id="q196-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers must stop and yield to pedestrians crossing the road to ensure their safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q195.html" class="button">|prev_question|</a>
+       <span class="page-indicator">196 / 200</span>
+       <a href="q197.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

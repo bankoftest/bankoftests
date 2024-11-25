@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test school zone, children, pedestrians, safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/111.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q111" class="quiz">
+       <div class="option" id="q111-A" onclick="selectOption('q111', 'A', true)">
+           A. School zone, watch out for children and pedestrians nearby
+       </div>
+       <div class="option" id="q111-B" onclick="selectOption('q111', 'B', false)">
+           B. School zone, reduce speed to 30 km/h
+       </div>
+       <div class="option" id="q111-C" onclick="selectOption('q111', 'C', false)">
+           C. Pedestrians crossing ahead
+       </div>
+       <div class="option" id="q111-D" onclick="selectOption('q111', 'D', false)">
+           D. School crossing ahead
+       </div>
+       <p id="q111-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This sign reminds drivers to be cautious of children and pedestrians in the school area, maintain low speed, and pay attention to surroundings.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q110.html" class="button">|prev_question|</a>
+       <span class="page-indicator">111 / 200</span>
+       <a href="q112.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

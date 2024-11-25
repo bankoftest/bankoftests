@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How is black ice formed?
+   :keywords: Vancouver driver's license test, BC driver's license test black ice, road freezing, winter driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How is black ice formed?
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q83" class="quiz">
+       <div class="option" id="q83-A" onclick="selectOption('q83', 'A', true)">
+           A. By freezing water on the road
+       </div>
+       <div class="option" id="q83-B" onclick="selectOption('q83', 'B', false)">
+           B. Due to layers of accumulated snow
+       </div>
+       <div class="option" id="q83-C" onclick="selectOption('q83', 'C', false)">
+           C. Hardened snow in shaded areas
+       </div>
+       <div class="option" id="q83-D" onclick="selectOption('q83', 'D', false)">
+           D. Dirty ice that is hard to see
+       </div>
+       <p id="q83-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Black ice forms when water freezes on the road. It is often very slippery and difficult to detect.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q82.html" class="button">|prev_question|</a>
+       <span class="page-indicator">83 / 200</span>
+       <a href="q84.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

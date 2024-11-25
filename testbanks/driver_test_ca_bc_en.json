@@ -1,30 +1,2678 @@
 {
-    "title": "New BC Driving License Written Test Simulation 2024 Edition",
+    "title": "Canada BC Driver's License Knowledge Test Test Bank (2024)",
     "questions": [
         {
             "id": 1,
-            "question": "What is the legal alcohol limit for driving in BC?",
-            "options": ["0.05%", "0.08%", "0.10%", "Zero tolerance"],
-            "answer": "0.08%",
-            "explanation": "The legal alcohol limit for driving in BC is 0.08%, but penalties may apply at lower levels.",
-            "meta_keywords": "BC driving test, alcohol limit, BC driving exam"
+            "question": "When reversing, you should?",
+            "options": {
+                "A": "Check both side mirrors",
+                "B": "Check all rearview mirrors",
+                "C": "Turn around and look through the rear window",
+                "D": "Look at the rearview mirror"
+            },
+            "answer": "C",
+            "explanation": "Option A, 'Check both side mirrors,' provides limited visibility and is insufficient for a comprehensive view of the rear. Option B, 'Check all rearview mirrors,' is better than A but still leaves blind spots. Option C, 'Turn around and look through the rear window,' offers the clearest rear view and is the correct method. Option D, 'Look at the rearview mirror,' is too limited and can overlook obstacles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test reversing, check side mirrors, check rearview mirrors, turn around and look, driving skills"
         },
         {
             "id": 2,
-            "question": "What is the minimum following distance while driving in BC?",
-            "options": ["1 second", "2 seconds", "3 seconds", "4 seconds"],
-            "answer": "2 seconds",
-            "explanation": "Under ideal conditions, the minimum following distance in BC is 2 seconds.",
-            "meta_keywords": "BC driving test, following distance, BC driving exam",
-            "image": "2.jpg"
+            "question": "When parking on an uphill behind a large vehicle, why should you leave more space?",
+            "options": {
+                "A": "You can be seen by the vehicle in front",
+                "B": "You won’t inhale the truck's exhaust",
+                "C": "You can bypass it when it starts slowly",
+                "D": "Large vehicles may roll back when starting, hitting your car"
+            },
+            "answer": "D",
+            "explanation": "Option A, 'You can be seen by the vehicle in front,' is not directly related to safety. Option B, 'You won’t inhale the truck's exhaust,' is beneficial to health but unrelated to safety. Option C, 'You can bypass it when it starts slowly,' is dangerous, especially if the vehicle rolls back. Option D, 'Large vehicles may roll back when starting, hitting your car,' explains the correct reason.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test uphill parking, parking, large vehicles, roll back, space"
         },
         {
             "id": 3,
-            "question": "What is the maximum speed limit for driving in BC?",
-            "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
-            "answer": "80 km/h",
-            "explanation": "The maximum speed limit for driving in BC is 80 km/h.",
-            "meta_keywords": "BC driving test, speed limit, BC driving exam"
+            "question": "If a vehicle is tailgating you too closely, the best way to protect yourself is?",
+            "options": {
+                "A": "Increase the space in front of your car",
+                "B": "Increase the space behind your car",
+                "C": "Honk and flash your brake lights",
+                "D": "Brake sharply and drive away quickly"
+            },
+            "answer": "A",
+            "explanation": "Option A, 'Increase the space in front of your car,' reduces the likelihood of needing to brake suddenly, minimizing the risk of an accident. Option B, 'Increase the space behind your car,' is nearly impossible when a car is tailgating. Option C, 'Honk and flash your brake lights,' may alarm or provoke the tailgating driver. Option D, 'Brake sharply and drive away quickly,' significantly increases the risk of a rear-end collision.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test tailgating, increase space, safe distance, avoid accidents"
+        },
+        {
+            "id": 4,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Slow-moving vehicles",
+                "B": "You have the right of way",
+                "C": "Yield the right of way to others",
+                "D": "Vehicles for disabled individuals"
+            },
+            "answer": "C",
+            "explanation": "Just memorize it.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic signs, yield right of way, driving rules, BC driver's license",
+            "image": "4.png"
+        },
+        {
+            "id": 5,
+            "question": "Why would a driver honk at a cyclist?",
+            "options": {
+                "A": "To let the cyclist know the driver is nearby",
+                "B": "To issue a warning",
+                "C": "To tell the cyclist to yield",
+                "D": "To inform the cyclist that there is a vehicle nearby"
+            },
+            "answer": "B",
+            "explanation": "This question is somewhat tricky to understand. The analysis should go as follows: Drivers generally should not honk at cyclists unless in special situations that require issuing a warning. By elimination, options A, C, and D describe common situations. If honking were necessary in these cases, roads would constantly be filled with honking sounds.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, honking, driving warnings, safe driving"
+        },
+        {
+            "id": 6,
+            "question": "What does a steady red light mean?",
+            "options": {
+                "A": "Stop, proceed when safe",
+                "B": "Stop, except for a right turn",
+                "C": "Stop before the intersection",
+                "D": "Stop if there is an approaching vehicle"
+            },
+            "answer": "C",
+            "explanation": "Option A, 'Stop, proceed when safe,' confuses the rules for a yellow light. Option B, 'Stop, except for a right turn,' applies in specific situations. Option C, 'Stop before the intersection,' clearly explains the red light rule. Option D, 'Stop if there is an approaching vehicle,' is incorrect.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test red light, stop, intersection, driving rules",
+            "image": "6.png"
+        },
+        {
+            "id": 7,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Curve ahead",
+                "B": "Slippery road ahead",
+                "C": "Roundabout ahead",
+                "D": "Prepare for sudden stops ahead"
+            },
+            "answer": "B",
+            "explanation": "Just memorize it.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test slippery road, traffic signs, driving warnings",
+            "image": "7.png"
+        },
+        {
+            "id": 8,
+            "question": "Which vehicle is most likely to lose control during a turn?",
+            "options": {
+                "A": "Vehicle B",
+                "B": "Vehicle D",
+                "C": "Vehicle C",
+                "D": "Vehicle A"
+            },
+            "answer": "A",
+            "explanation": "This is a tricky question. First, the options and vehicles do not match one-to-one. Second, during a turn, the higher the center of gravity, the more likely the vehicle is to lose control. Vehicle B has the highest center of gravity, so it is most likely to lose control. Vehicle B corresponds to Option A, so the answer is A.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test turning control, vehicle types, driving safety",
+            "image": "8.png"
+        },
+        {
+            "id": 9,
+            "question": "On a two-lane road, which is the least safe practice to avoid accidents?",
+            "options": {
+                "A": "Take your foot off the accelerator",
+                "B": "Move to the left lane",
+                "C": "Brake firmly without locking the brakes",
+                "D": "Flash headlights and honk to alert other drivers"
+            },
+            "answer": "B",
+            "explanation": "Option A, 'Take your foot off the accelerator,' is a reasonable defensive driving practice. Option B, 'Move to the left lane,' may conflict with oncoming traffic and is unsafe. Option C, 'Brake firmly without locking the brakes,' prevents loss of vehicle control. Option D, 'Flash headlights and honk to alert other drivers,' may effectively alert others.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test two-lane roads, avoid accidents, unsafe driving practices"
+        },
+        {
+            "id": 10,
+            "question": "If children are playing nearby, what should you do?",
+            "options": {
+                "A": "Slow down and be prepared to stop",
+                "B": "Pull over to the side of the road and stop until the children leave",
+                "C": "Move to the left lane and maintain speed",
+                "D": "Honk and maintain speed"
+            },
+            "answer": "A",
+            "explanation": "Option A, 'Slow down and be prepared to stop,' is the safest action. Option B, 'Pull over to the side of the road and stop until the children leave,' is overly passive. Option C, 'Move to the left lane and maintain speed,' increases danger. Option D, 'Honk and maintain speed,' may cause panic.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test children playing, slow down, safe parking"
+        },
+        {
+            "id": 11,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Left turn only at the intersection",
+                "B": "No left turn at the upcoming intersection",
+                "C": "Dead-end ahead, turn left",
+                "D": "No left turn allowed on this lane"
+            },
+            "answer": "B",
+            "explanation": "Just memorize it.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test signs, no left turn, driving rules",
+            "image": "11.png"
+        },
+        {
+            "id": 12,
+            "question": "You’re out with a friend who is responsible for driving but keeps drinking. What is the least safe action?",
+            "options": {
+                "A": "Tell them why they can’t drive",
+                "B": "Suggest taking a taxi, public transit, or calling a friend",
+                "C": "Take away their car keys",
+                "D": "Make sure they drive slowly"
+            },
+            "answer": "D",
+            "explanation": "This question is tricky because it asks for the 'least safe' action, not the 'safest.' Options A, B, and C are all safe actions. Option D, 'Make sure they drive slowly,' is incorrect and dangerous behavior.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test drunk driving, safe driving, driving rules, avoiding danger"
+        },
+        {
+            "id": 13,
+            "question": "What should this driver do before turning?",
+            "options": {
+                "A": "Slow down and flash their headlights",
+                "B": "Maintain speed and check 180 degrees at the intersection",
+                "C": "Shoulder check and perform a 180-degree scan at the intersection",
+                "D": "Move left and check side mirrors"
+            },
+            "answer": "C",
+            "explanation": "Before turning, perform a shoulder check to look for blind spots and scan the intersection to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test turning, shoulder check, driving rules, blind spot check",
+            "image": "13.png"
+        },
+        {
+            "id": 14,
+            "question": "What should you do when a vehicle on a two-lane road is preparing to overtake?",
+            "options": {
+                "A": "Maintain your speed and lane position",
+                "B": "Accelerate and move right",
+                "C": "Move right and maintain speed",
+                "D": "Prepare to slow down and leave space"
+            },
+            "answer": "D",
+            "explanation": "When another vehicle overtakes, you should slow down and give enough space to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking, giving way, driving safety, leave space"
+        },
+        {
+            "id": 15,
+            "question": "How should you deal with aggressive behavior from a road bully?",
+            "options": {
+                "A": "Find a public phone to call the police",
+                "B": "Drive straight home",
+                "C": "Drive to a crowded place",
+                "D": "Honk and yell at them"
+            },
+            "answer": "C",
+            "explanation": "Driving to a crowded place can help avoid further conflict and ensure personal safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test road bully, aggressive behavior, driving safety, coping methods"
+        },
+        {
+            "id": 16,
+            "question": "What should you do when overtaking a bicycle?",
+            "options": {
+                "A": "Leave extra space",
+                "B": "Maintain your lane position",
+                "C": "Keep one meter of space",
+                "D": "Honk to indicate you are overtaking"
+            },
+            "answer": "A",
+            "explanation": "When overtaking a bicycle, leave as much space as possible to ensure the safety of the cyclist.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking bicycles, leaving space, driving rules, safe driving"
+        },
+        {
+            "id": 17,
+            "question": "What should the driver of Car A do first when on the acceleration lane?",
+            "options": {
+                "A": "Slow down and wait for space",
+                "B": "Stop and wait for space",
+                "C": "Observe traffic conditions",
+                "D": "Accelerate and match the speed of other vehicles"
+            },
+            "answer": "D",
+            "explanation": "This differs slightly from some other countries’ rules. When merging onto a highway, you should accelerate to match the speed of other vehicles before merging.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test acceleration lane, merging, traffic observation, driving rules",
+            "image": "17.png"
+        },
+        {
+            "id": 18,
+            "question": "What is the safest driving practice in snowy conditions?",
+            "options": {
+                "A": "Brake whenever you see danger",
+                "B": "Ensure your car is well-maintained",
+                "C": "Turn on high beams",
+                "D": "Leave extra space"
+            },
+            "answer": "D",
+            "explanation": "In snowy conditions, maintain sufficient distance to allow reaction time in emergencies. Options A and B are not specific to snowy conditions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test snowy conditions, safe driving, leaving space, winter driving"
+        },
+        {
+            "id": 19,
+            "question": "When is making a U-turn prohibited?",
+            "options": {
+                "A": "On curves, hilltops, and places with obstructed visibility",
+                "B": "In residential areas",
+                "C": "At intersections without traffic signals",
+                "D": "In public parking lots"
+            },
+            "answer": "A",
+            "explanation": "A no-U-turn sign is a red circle, indicating U-turns are prohibited in places like curves or hilltops with obstructed visibility.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test U-turn prohibition, traffic signs, driving rules",
+            "image": "19.png"
+        },
+        {
+            "id": 20,
+            "question": "When following a fire truck, you should maintain a minimum distance of?",
+            "options": {
+                "A": "50 meters",
+                "B": "180 meters",
+                "C": "150 meters",
+                "D": "60 meters"
+            },
+            "answer": "C",
+            "explanation": "Fire trucks require larger space for emergency responses, so maintain at least 150 meters of distance.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test fire truck, distance, driving rules, safe driving"
+        },
+        {
+            "id": 21,
+            "question": "The vehicles in the image arrive at the stop sign simultaneously. Who should go first?",
+            "options": {
+                "A": "Vehicle A",
+                "B": "Vehicle B",
+                "C": "Regardless of who arrives first",
+                "D": "Both vehicles can proceed simultaneously"
+            },
+            "answer": "B",
+            "explanation": "If both vehicles arrive at the stop sign simultaneously, left turns yield to straight-going vehicles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test stop sign, right of way, Canadian driving rules",
+            "image": "21.png"
+        },
+        {
+            "id": 22,
+            "question": "When following a motorcycle, you should?",
+            "options": {
+                "A": "Maintain a greater distance",
+                "B": "Turn on your headlights",
+                "C": "Rest your foot on the brake",
+                "D": "Drive at a slower speed"
+            },
+            "answer": "A",
+            "explanation": "Motorcycles are smaller and less stable than cars when slowing down or braking, so maintain a greater following distance to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycle, following distance, safe driving, Canadian rules"
+        },
+        {
+            "id": 23,
+            "question": "When can you make a right turn at a red light?",
+            "options": {
+                "A": "When there are no vehicles",
+                "B": "After a complete stop and ensuring there is no 'No Turn on Red' sign",
+                "C": "When no signs prohibit the turn",
+                "D": "Only in emergency situations"
+            },
+            "answer": "B",
+            "explanation": "At a red light, you can make a right turn if there is no 'No Turn on Red' sign and you have come to a complete stop to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test red light, right turn, stop, driving rules"
+        },
+        {
+            "id": 24,
+            "question": "Eye contact is used to?",
+            "options": {
+                "A": "Warn others you have the right of way",
+                "B": "Give others the right of way",
+                "C": "Show dissatisfaction with others' actions",
+                "D": "Indicate that you have seen them"
+            },
+            "answer": "D",
+            "explanation": "Eye contact is to indicate to others that you have seen them.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test eye contact, right of way, driving safety"
+        },
+        {
+            "id": 25,
+            "question": "What is the best way to encourage your friend to drive safely?",
+            "options": {
+                "A": "Insist they drive slowly",
+                "B": "Point out their mistakes",
+                "C": "Tell them what you would do",
+                "D": "Praise them when they drive well"
+            },
+            "answer": "D",
+            "explanation": "Praising correct behavior encourages safe driving and is more likely to be accepted than directly pointing out mistakes.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test safe driving, encouragement, praise, driving rules"
+        },
+        {
+            "id": 26,
+            "question": "Which car is in Vehicle E's blind spot?",
+            "options": {
+                "A": "Vehicle A",
+                "B": "Vehicle B",
+                "C": "Vehicle C",
+                "D": "Vehicle D"
+            },
+            "answer": "B",
+            "explanation": "Vehicle B is in Vehicle E's blind spot, meaning Vehicle E may not see Vehicle B, so a shoulder check is necessary.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test blind spot, driving safety, rearview mirror, Canadian rules",
+            "image": "26.png"
+        },
+        {
+            "id": 27,
+            "question": "Why should you leave extra space when overtaking a motorcycle?",
+            "options": {
+                "A": "Because it is lighter than a car",
+                "B": "Because motorcyclists are less skilled than car drivers",
+                "C": "Because they often drive fast",
+                "D": "To avoid splashing dirt onto the motorcyclist"
+            },
+            "answer": "D",
+            "explanation": "Leave extra space when overtaking motorcycles to avoid splashing dirt, which can affect the rider's visibility and safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycle, overtaking, driving safety, distance"
+        },
+        {
+            "id": 28,
+            "question": "Vehicle A arrives at the stop sign first. Who should yield?",
+            "options": {
+                "A": "Whoever arrives first at the intersection",
+                "B": "Vehicle B",
+                "C": "Both vehicles can proceed simultaneously",
+                "D": "Vehicle A"
+            },
+            "answer": "D",
+            "explanation": "Even though Vehicle A arrived first, since A is turning left and B is going straight, A must yield. Always remember: 'Left turn yields.'",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test stop sign, right of way, Canadian driving rules",
+            "image": "28.png"
+        },
+        {
+            "id": 29,
+            "question": "Why should drivers maintain extra space when driving near bicycles in busy urban areas?",
+            "options": {
+                "A": "It's hard to see their hand signals",
+                "B": "Cyclists are too slow",
+                "C": "They may need to cross multiple lanes to turn",
+                "D": "Cyclists often weave between vehicles at intersections"
+            },
+            "answer": "C",
+            "explanation": "Bicyclists may need to cross multiple lanes to turn, so extra space is needed to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test bicycles, driving safety, lanes, driving rules"
+        },
+        {
+            "id": 30,
+            "question": "What should you do when the green arrow under the red light is flashing?",
+            "options": {
+                "A": "Turn left at any time",
+                "B": "Wait for the red light to turn green before turning left",
+                "C": "Never turn left",
+                "D": "Ensure safety and then turn left"
+            },
+            "answer": "D",
+            "explanation": "A flashing green arrow indicates that you can turn left as long as it is safe to do so, without waiting for the red light to change.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test green arrow, left turn, driving rules, traffic signs",
+            "image": "30.png"
+        },
+        {
+            "id": 31,
+            "question": "In poor weather conditions that affect visibility, you should?",
+            "options": {
+                "A": "Maintain speed and ask passengers to watch for hazards",
+                "B": "Turn on high beams",
+                "C": "Flash emergency lights",
+                "D": "Slow down and turn on low beams"
+            },
+            "answer": "D",
+            "explanation": "In poor weather conditions such as rain or fog, using low beams improves visibility without blinding oncoming vehicles. Slowing down ensures safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test poor weather, visibility, low beams, safe driving"
+        },
+        {
+            "id": 32,
+            "question": "What danger does a motorcycle face when a traffic light just turns green?",
+            "options": {
+                "A": "Vehicle B behind the motorcycle might hit it",
+                "B": "Vehicle A might skid at the intersection",
+                "C": "The driver of Vehicle A might not see it while turning left and collide",
+                "D": "The motorcycle might skid in the rain"
+            },
+            "answer": "C",
+            "explanation": "The main danger a motorcycle faces is that the driver of another vehicle (e.g., Vehicle A) might not notice it while turning left due to a blind spot.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycle, traffic light, green light, left-turn danger",
+            "image": "32.png"
+        },
+        {
+            "id": 33,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Workers and machinery are operating; you must obey the speed limit on the sign",
+                "B": "Workers and machinery are operating; you must obey the speed limit on the sign during daytime only",
+                "C": "You must obey the speed limit on the sign if workers are present on the road",
+                "D": "Obstacle ahead"
+            },
+            "answer": "A",
+            "explanation": "Just memorize this.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test construction sign, speed limit, worker safety, road construction",
+            "image": "33.png"
+        },
+        {
+            "id": 34,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Concrete road ahead",
+                "B": "Uneven road ahead",
+                "C": "Asphalt pavement ends ahead",
+                "D": "Beware of rocks on the road"
+            },
+            "answer": "C",
+            "explanation": "Just memorize this.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test uneven road, driving safety, road sign",
+            "image": "34.png"
+        },
+        {
+            "id": 35,
+            "question": "Most rear-end collisions can be avoided if drivers?",
+            "options": {
+                "A": "Maintain a greater distance",
+                "B": "React faster",
+                "C": "Increase their speed",
+                "D": "Reduce their speed"
+            },
+            "answer": "A",
+            "explanation": "Maintaining a safe following distance is the most effective way to avoid rear-end collisions, as it provides more reaction time for sudden situations.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test rear-end collision, distance, safe following, driving rules",
+            "image": "35.png"
+        },
+        {
+            "id": 36,
+            "question": "A responsible driver ______?",
+            "options": {
+                "A": "Points out the mistakes of other drivers",
+                "B": "Considers the safety of all road users",
+                "C": "Ensures the safety of themselves and their passengers",
+                "D": "Ensures they are respected by others"
+            },
+            "answer": "B",
+            "explanation": "A responsible driver cares not only about their own safety but also about the safety of other road users.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test responsible driving, road safety, rule awareness"
+        },
+        {
+            "id": 37,
+            "question": "Why did the truck stop on the road?",
+            "options": {
+                "A": "Because there are pedestrians on the sidewalk",
+                "B": "Because the truck is turning",
+                "C": "The truck driver is lost and checking a map",
+                "D": "The truck driver wants to park"
+            },
+            "answer": "A",
+            "explanation": "The truck might have stopped because there are pedestrians on the sidewalk, ensuring their safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test truck, stopping, pedestrian safety, driving rules",
+            "image": "37.png"
+        },
+        {
+            "id": 38,
+            "question": "When should you NOT overtake a vehicle?",
+            "options": {
+                "A": "When there's a loose dirt warning sign",
+                "B": "On a curve",
+                "C": "When the vehicle is moving slowly",
+                "D": "When your side has a dashed line"
+            },
+            "answer": "B",
+            "explanation": "Overtaking on a curve is dangerous due to limited visibility and should be avoided.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test curve, overtaking, driving safety, overtaking rules"
+        },
+        {
+            "id": 39,
+            "question": "What is the default maximum speed limit if not posted?",
+            "options": {
+                "A": "60 km/h in urban areas and 80 km/h in rural areas",
+                "B": "50 km/h in urban areas and 80 km/h in rural areas",
+                "C": "50 km/h in urban areas and 90 km/h in rural areas",
+                "D": "60 km/h in urban areas and 90 km/h in rural areas"
+            },
+            "answer": "B",
+            "explanation": "In most areas of Canada, the default speed limit is 50 km/h in urban areas and 80 km/h in rural areas if not posted.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test default speed limit, urban speed limit, rural speed limit, driving rules"
+        },
+        {
+            "id": 40,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Nearby sports field, drive carefully",
+                "B": "Sports field crossing, stop and yield to pedestrians",
+                "C": "30 km/h during dawn to dusk",
+                "D": "30 km/h from 8 AM to 5 PM on school days"
+            },
+            "answer": "A",
+            "explanation": "Just memorize this.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test sports field, driving safety, traffic sign",
+            "image": "40.png"
+        },
+        {
+            "id": 41,
+            "question": "Which of the following is NOT a sign of intoxication?",
+            "options": {
+                "A": "Faster reaction",
+                "B": "Loss of awareness of surroundings",
+                "C": "Fixed gaze",
+                "D": "Reduced field of vision"
+            },
+            "answer": "A",
+            "explanation": "The main signs of intoxication include loss of awareness of surroundings, fixed gaze, and reduced field of vision.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test intoxication, signs of DUI, safe driving"
+        },
+        {
+            "id": 42,
+            "question": "When merging into traffic, you should?",
+            "options": {
+                "A": "Yield if the approaching vehicle is less than 2 meters away",
+                "B": "Signal with your hand",
+                "C": "Yield to vehicles already in traffic",
+                "D": "Claim the right of way"
+            },
+            "answer": "C",
+            "explanation": "When merging into traffic, you must yield to vehicles already on the road to avoid collisions and ensure smooth traffic flow.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yield, merging into traffic, road rules"
+        },
+        {
+            "id": 43,
+            "question": "When driving at high speed and approaching a sudden curve, the best way to handle it is?",
+            "options": {
+                "A": "Take your foot off the gas before entering the curve",
+                "B": "Brake after entering the curve",
+                "C": "Brake while entering the curve",
+                "D": "Maintain speed and grip the steering wheel tightly"
+            },
+            "answer": "A",
+            "explanation": "Slowing down before entering a curve is the safest method. You can reduce speed gradually by lifting your foot off the gas, which helps maintain vehicle control.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test high speed, curves, deceleration, safe driving"
+        },
+        {
+            "id": 44,
+            "question": "The height of the center of a headrest should be?",
+            "options": {
+                "A": "At your neck",
+                "B": "No lower than the tip of your ears",
+                "C": "Aligned with the top of your head",
+                "D": "At any comfortable position"
+            },
+            "answer": "B",
+            "explanation": "The optimal height of the headrest should align with or slightly above the tip of your ears to minimize the risk of neck injuries.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test headrest, height, driving safety"
+        },
+        {
+            "id": 45,
+            "question": "When entering a roundabout, you must?",
+            "options": {
+                "A": "Yield to any vehicles already in the roundabout",
+                "B": "Drive clockwise in the roundabout",
+                "C": "Maintain speed while entering",
+                "D": "Signal while entering"
+            },
+            "answer": "A",
+            "explanation": "When entering a roundabout, you must yield to vehicles already in the roundabout to ensure smooth traffic flow and prevent accidents.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test roundabout, yield, road rules"
+        },
+        {
+            "id": 46,
+            "question": "What is the best way to maintain the correct lane position?",
+            "options": {
+                "A": "Look at the vehicles beside you and maintain distance",
+                "B": "Hold the steering wheel tightly",
+                "C": "Look far ahead in the direction you are traveling",
+                "D": "Look directly at the vehicle in front of you"
+            },
+            "answer": "C",
+            "explanation": "To maintain the correct lane position, you should look far ahead to better assess road conditions and maintain a straight path.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test lane position, driving techniques, safe driving"
+        },
+        {
+            "id": 47,
+            "question": "What should you do when approaching an intersection with a flashing red light?",
+            "options": {
+                "A": "Stop completely as you would at a stop sign",
+                "B": "Wait for the red light to turn green",
+                "C": "Slow down and yield",
+                "D": "Drive slowly and cautiously forward"
+            },
+            "answer": "A",
+            "explanation": "A flashing red light means you must stop completely, just like at a stop sign, and proceed only when safe.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test flashing red light, stop sign, intersection safety",
+            "image": "47.png"
+        },
+        {
+            "id": 48,
+            "question": "The posted maximum speed limit applies under?",
+            "options": {
+                "A": "Ideal conditions",
+                "B": "Daylight",
+                "C": "Except when overtaking",
+                "D": "Poor visibility conditions"
+            },
+            "answer": "A",
+            "explanation": "The maximum speed limit applies under ideal conditions and should be adjusted based on road and weather conditions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test maximum speed, ideal conditions, driving rules"
+        },
+        {
+            "id": 49,
+            "question": "Which part of the road is hardest to see in a rearview mirror?",
+            "options": {
+                "A": "Section A",
+                "B": "Section C",
+                "C": "Section D",
+                "D": "Section B"
+            },
+            "answer": "D",
+            "explanation": "Blind spots are usually located on the sides and rear of the vehicle, making Section B difficult to see in the rearview mirror.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test rearview mirror, blind spots, driving safety",
+            "image": "49.png"
+        },
+        {
+            "id": 50,
+            "question": "When two vehicles approach an uncontrolled intersection at the same time?",
+            "options": {
+                "A": "The left-turning vehicle must yield",
+                "B": "The vehicle arriving later must yield",
+                "C": "The straight-through vehicle must yield",
+                "D": "The right-turning vehicle must yield"
+            },
+            "answer": "A",
+            "explanation": "At uncontrolled intersections, left-turning vehicles must yield to vehicles going straight or turning right. This is a basic right-of-way rule.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test uncontrolled intersection, left-turn yield, driving rules"
+        },
+        {
+            "id": 51,
+            "question": "What is the best way to prepare for others' unexpected actions?",
+            "options": {
+                "A": "Keep your hand on the horn",
+                "B": "Allow extra space for parking and potentially bypassing vehicles",
+                "C": "Drive below the speed limit",
+                "D": "Insist on the right of way"
+            },
+            "answer": "B",
+            "explanation": "Allowing extra space gives you sufficient reaction time, especially in situations where others' driving is unpredictable. This helps mitigate potential risks.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test unexpected actions, driving safety, allowing space"
+        },
+        {
+            "id": 52,
+            "question": "Where must the vehicle in the image stop?",
+            "options": {
+                "A": "At the intersection",
+                "B": "One meter away from the intersection",
+                "C": "Before the white line on the road",
+                "D": "When the driver sees the intersection"
+            },
+            "answer": "C",
+            "explanation": "According to traffic rules, vehicles must stop before the white line at intersections to ensure they do not obstruct pedestrians or other vehicles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test stop rules, white line stopping, intersection safety",
+            "image": "52.png"
+        },
+        {
+            "id": 53,
+            "question": "What does a flashing green light mean?",
+            "options": {
+                "A": "You can continue driving under the green light",
+                "B": "Oncoming vehicles face a red light",
+                "C": "The traffic light is pedestrian-controlled",
+                "D": "The light will soon turn red"
+            },
+            "answer": "C",
+            "explanation": "A flashing green light indicates that the traffic light is controlled by pedestrians. Drivers should watch for pedestrians preparing to cross the street.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test flashing green light, pedestrian control, traffic signals",
+            "image": "53.png"
+        },
+        {
+            "id": 54,
+            "question": "What is the biggest danger of tailgating a truck?",
+            "options": {
+                "A": "The truck obstructs your view of the road ahead",
+                "B": "Other drivers may not see you behind the large vehicle",
+                "C": "Airflow may affect your steering control",
+                "D": "The truck may suddenly change lanes"
+            },
+            "answer": "A",
+            "explanation": "Tailgating a truck blocks your view of the road ahead, making it harder to assess road conditions and increasing the risk of accidents.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test tailgating trucks, visibility obstruction, driving safety"
+        },
+        {
+            "id": 55,
+            "question": "Using neutral gear while going downhill?",
+            "options": {
+                "A": "Is a fuel-saving method",
+                "B": "Is safer for experienced drivers",
+                "C": "Damages the gears",
+                "D": "Is illegal and unsafe"
+            },
+            "answer": "D",
+            "explanation": "Using neutral gear downhill eliminates engine braking, increasing the burden on brakes and potentially causing brake failure. It is also prohibited by law.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test downhill, neutral gear, driving rules"
+        },
+        {
+            "id": 56,
+            "question": "What helps you sober up after drinking?",
+            "options": {
+                "A": "Time",
+                "B": "Fresh air",
+                "C": "Coffee",
+                "D": "Exercise"
+            },
+            "answer": "A",
+            "explanation": "The only effective way to sober up is time. The body needs time to metabolize alcohol; methods like coffee or exercise do not accelerate this process.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test sobering up, driving safety, DUI"
+        },
+        {
+            "id": 57,
+            "question": "When the light is green, what should a driver turning left do?",
+            "options": {
+                "A": "Quickly leave the intersection",
+                "B": "Claim the right of way",
+                "C": "Yield to oncoming traffic until there is a safe gap to turn",
+                "D": "Wait until all vehicles have passed"
+            },
+            "answer": "C",
+            "explanation": "Drivers turning left at a green light must yield to oncoming traffic and ensure there is enough space to turn safely.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test left turn, green light, safe driving"
+        },
+        {
+            "id": 58,
+            "question": "Which vehicle does not have a safe gap to move to the roadside?",
+            "options": {
+                "A": "Vehicle A",
+                "B": "Vehicle B",
+                "C": "Vehicle D",
+                "D": "Vehicle C"
+            },
+            "answer": "C",
+            "explanation": "In the image, Vehicle C lacks sufficient space to safely move to the roadside, which may pose risks to other vehicles or pedestrians.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test safe gap, driving rules, roadside parking",
+            "image": "58.png"
+        },
+        {
+            "id": 59,
+            "question": "What does this signal placed on the traffic lane mean?",
+            "options": {
+                "A": "This lane is under construction",
+                "B": "Driving on this lane is prohibited",
+                "C": "This lane is ending soon, exit immediately",
+                "D": "This lane will soon reopen for use"
+            },
+            "answer": "C",
+            "explanation": "The signal indicates that the lane is ending soon. Drivers should merge safely into another lane to avoid congestion or danger.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test lane signals, lane ending, safe driving",
+            "image": "59.png"
+        },
+        {
+            "id": 60,
+            "question": "At a yield sign intersection, drivers should?",
+            "options": {
+                "A": "Bring the vehicle to a complete stop",
+                "B": "Yield to crossing vehicles",
+                "C": "Yield to all vehicles, including bicycles and pedestrians",
+                "D": "Yield to pedestrians crossing the road"
+            },
+            "answer": "C",
+            "explanation": "A yield sign means drivers must yield to all vehicles and pedestrians, whether crossing or traveling along the road.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yield sign, driving rules, traffic safety",
+            "image": "60.png"
+        },
+        {
+            "id": 61,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "No trucks allowed",
+                "B": "Drivers should beware of high-speed trucks",
+                "C": "Trucks or construction vehicles crossing ahead",
+                "D": "Trucks can only drive in the passing lane"
+            },
+            "answer": "C",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test no trucks, signs, traffic rules",
+            "image": "61.png"
+        },
+        {
+            "id": 62,
+            "question": "When can drivers use a bike lane?",
+            "options": {
+                "A": "When there are no bicycles",
+                "B": "When overtaking",
+                "C": "When parking on the roadside",
+                "D": "When turning right"
+            },
+            "answer": "D",
+            "explanation": "Drivers may use a bike lane when turning right but must ensure there are no bicycles on the bike lane.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test bike lane, usage rules, driving regulations"
+        },
+        {
+            "id": 63,
+            "question": "What should driver A do?",
+            "options": {
+                "A": "Maintain speed and keep the foot on the brake",
+                "B": "Stop until the truck has completely turned",
+                "C": "Honk to alert the truck of their presence",
+                "D": "Slow down and watch for the truck possibly making a wide turn"
+            },
+            "answer": "D",
+            "explanation": "Driver A should slow down and watch for the truck making a wide turn to ensure safety and avoid a collision.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test truck turning, yielding vehicles, driving safety",
+            "image": "63.png"
+        },
+        {
+            "id": 64,
+            "question": "When must you follow the speed limit on the sign?",
+            "options": {
+                "A": "From morning to afternoon every day",
+                "B": "At all times on school days",
+                "C": "From 8 a.m. to 5 p.m. on school days",
+                "D": "At any time"
+            },
+            "answer": "C",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speed limits, sign regulations, time restrictions",
+            "image": "64.png"
+        },
+        {
+            "id": 65,
+            "question": "When are you allowed to exceed the speed limit on a sign?",
+            "options": {
+                "A": "On highways",
+                "B": "Never",
+                "C": "During daytime in good weather",
+                "D": "When catching up with traffic flow"
+            },
+            "answer": "B",
+            "explanation": "Speed limits are legally defined maximum speeds and cannot be exceeded under any circumstances.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speed limits, exceeding speed, traffic rules"
+        },
+        {
+            "id": 66,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "The lane ahead narrows",
+                "B": "Traffic merges",
+                "C": "Vehicles merging ahead",
+                "D": "An intersection ahead"
+            },
+            "answer": "C",
+            "explanation": "The sign indicates vehicles merging ahead. Drivers should be alert and provide space to avoid collisions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test vehicle merging, traffic signs, driving safety",
+            "image": "66.png"
+        },
+        {
+            "id": 67,
+            "question": "On a sunny day, what is the minimum following distance you should maintain on a highway?",
+            "options": {
+                "A": "8 seconds",
+                "B": "10 seconds",
+                "C": "3 seconds",
+                "D": "6 seconds"
+            },
+            "answer": "C",
+            "explanation": "The 3-second rule is a basic requirement for safe driving on highways during good weather, ensuring enough reaction time.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test safe distance, highway, 3-second rule"
+        },
+        {
+            "id": 68,
+            "question": "When four vehicles approach a four-way stop, who has the right of way?",
+            "options": {
+                "A": "The vehicle to your right",
+                "B": "The first vehicle to stop at the intersection",
+                "C": "The vehicle turning right",
+                "D": "The vehicle to your left"
+            },
+            "answer": "B",
+            "explanation": "At a four-way stop, the right of way is generally given to the first vehicle to stop at the intersection.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test right of way, four-way stop, driving rules"
+        },
+        {
+            "id": 69,
+            "question": "In the image, what danger should Vehicle A watch for when turning right?",
+            "options": {
+                "A": "A bicycle approaching from behind",
+                "B": "Vehicle B overtaking on the left",
+                "C": "A dog or other animals coming from between parked cars",
+                "D": "Pedestrians on the sidewalk"
+            },
+            "answer": "A",
+            "explanation": "Vehicle A should watch for bicycles approaching from behind when turning right to ensure the safety of pedestrians and cyclists.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test right turn, driving dangers, roadside obstacles",
+            "image": "69.png"
+        },
+        {
+            "id": 70,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "You have the right of way",
+                "B": "No lane changes ahead",
+                "C": "One-way road ahead",
+                "D": "No turns at the upcoming intersection"
+            },
+            "answer": "D",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test one-way road, traffic signs, driving rules",
+            "image": "70.png"
+        },
+        {
+            "id": 71,
+            "question": "When must you turn on your headlights if visibility is below how many meters?",
+            "options": {
+                "A": "200 meters",
+                "B": "250 meters",
+                "C": "150 meters",
+                "D": "300 meters"
+            },
+            "answer": "C",
+            "explanation": "Headlights must be turned on when visibility is below 150 meters to improve visibility to other drivers.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test visibility, headlights, safe driving"
+        },
+        {
+            "id": 72,
+            "question": "What are hazard lights for?",
+            "options": {
+                "A": "To make it easier for other drivers to see you on the highway",
+                "B": "They should be on when parked",
+                "C": "To warn other drivers to approach a stationary vehicle with caution",
+                "D": "They must be turned on when driving slowly"
+            },
+            "answer": "C",
+            "explanation": "Hazard lights are used to warn other drivers that you are stopped or that your vehicle has an issue, especially when approaching.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test hazard lights, parking warning, safe driving"
+        },
+        {
+            "id": 73,
+            "question": "Who is allowed to use HOV lanes?",
+            "options": {
+                "A": "Buses, vehicles meeting occupancy requirements, motorcycles, and bicycles",
+                "B": "Trucks",
+                "C": "Emergency vehicles",
+                "D": "During peak hours"
+            },
+            "answer": "A",
+            "explanation": "HOV lanes are high-occupancy vehicle lanes, usually requiring two or more passengers, and are also open to buses, motorcycles, and bicycles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test HOV lanes, high-occupancy lanes, buses"
+        },
+        {
+            "id": 74,
+            "question": "Two vehicles arrive at an intersection simultaneously. Who should proceed first?",
+            "options": {
+                "A": "Whichever vehicle stops first, the other should proceed",
+                "B": "The vehicle going straight",
+                "C": "The vehicle signaling left",
+                "D": "The vehicle ready to move"
+            },
+            "answer": "B",
+            "explanation": "At an intersection, vehicles going straight have the right of way. Left-turning vehicles must yield.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test intersection right of way, driving rules, straight priority",
+            "image": "74.png"
+        },
+        {
+            "id": 75,
+            "question": "At 60 km/h, a collision's impact is comparable to falling from the top of how many floors?",
+            "options": {
+                "A": "4 floors",
+                "B": "1 floor",
+                "C": "2 floors",
+                "D": "3 floors"
+            },
+            "answer": "A",
+            "explanation": "A collision at 60 km/h is equivalent to falling from the height of 4 floors, demonstrating the dangers of high-speed crashes.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speed collision, injury severity, high-speed danger"
+        },
+        {
+            "id": 76,
+            "question": "When a school bus is stopped with flashing red lights, you must stop if?",
+            "options": {
+                "A": "You are approaching from either direction",
+                "B": "You are approaching from the front, and there is a safety island in between",
+                "C": "Only when the school bus is in front of you",
+                "D": "Approaching vehicles are more important than following vehicles"
+            },
+            "answer": "A",
+            "explanation": "Whether approaching from the front or rear, you must stop when a school bus flashes red lights to protect boarding or exiting students.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test school bus, red lights, stopping rules"
+        },
+        {
+            "id": 77,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "There is a curve to the right ahead",
+                "B": "Drive on the right in a one-way lane",
+                "C": "Obstacle ahead, keep left",
+                "D": "Obstacle ahead, keep right"
+            },
+            "answer": "D",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test obstacles, keep right, road signs",
+            "image": "77.png"
+        },
+        {
+            "id": 78,
+            "question": "If your friend is driving too fast, what is the best way to express your concern?",
+            "options": {
+                "A": "Did you see the speed limit sign?",
+                "B": "Your speed makes me uncomfortable",
+                "C": "You are driving faster than the limit",
+                "D": "Why do you always drive fast?"
+            },
+            "answer": "B",
+            "explanation": "Expressing your feelings, such as 'Your speed makes me uncomfortable,' is the best way to make your friend aware without creating defensiveness.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speeding, expressing concerns, traffic safety"
+        },
+        {
+            "id": 79,
+            "question": "Which steering wheel grip position is correct in the image?",
+            "options": {
+                "A": "Image A",
+                "B": "Image D",
+                "C": "Image B",
+                "D": "Image C"
+            },
+            "answer": "D",
+            "explanation": "Image C shows the correct steering wheel grip position (9 and 3 o'clock) for optimal control in emergencies.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test steering wheel grip, proper driving, safe driving",
+            "image": "79.png"
+        },
+        {
+            "id": 80,
+            "question": "What should the driver do?",
+            "options": {
+                "A": "Move behind the bicycle",
+                "B": "Drive alongside the bicycle to signal turning",
+                "C": "Honk to alert the cyclist of the turn",
+                "D": "Wait until the bicycle has cleared the intersection to turn"
+            },
+            "answer": "D",
+            "explanation": "The driver must patiently wait for the bicycle to clear the intersection before safely turning.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test bicycle, intersection safety, driving rules",
+            "image": "80.png"
+        },
+        {
+            "id": 81,
+            "question": "When the red lights at a railway crossing are flashing, you must?",
+            "options": {
+                "A": "Slow down and carefully cross",
+                "B": "Stop and observe both sides before crossing",
+                "C": "Stop and cross when the light turns green",
+                "D": "Stop and wait until the red light is fully off and it's safe to cross"
+            },
+            "answer": "D",
+            "explanation": "Flashing red lights at a railway crossing indicate an approaching train. You must stop, wait until the red light turns off, and confirm safety before crossing.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test railway crossing, flashing red lights, stop"
+        },
+        {
+            "id": 82,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Right and left turns are allowed",
+                "B": "Parking is allowed on the left or right",
+                "C": "There is an obstacle ahead, proceed slowly in the direction of the arrows",
+                "D": "Roadwork ahead, make a U-turn"
+            },
+            "answer": "C",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test obstacles, detour sign, road sign",
+            "image": "82.png"
+        },
+        {
+            "id": 83,
+            "question": "How is black ice formed?",
+            "options": {
+                "A": "By freezing water on the road",
+                "B": "Due to layers of accumulated snow",
+                "C": "Hardened snow in shaded areas",
+                "D": "Dirty ice that is hard to see"
+            },
+            "answer": "A",
+            "explanation": "Black ice forms when water freezes on the road. It is often very slippery and difficult to detect.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test black ice, road freezing, winter driving"
+        },
+        {
+            "id": 84,
+            "question": "Which of the following is unrelated to drinking alcohol?",
+            "options": {
+                "A": "Slower reaction",
+                "B": "Difficulty cooperating with others",
+                "C": "More impulsive behavior",
+                "D": "Driving better due to relaxation"
+            },
+            "answer": "D",
+            "explanation": "Alcohol consumption slows reactions, impairs judgment, and causes emotional changes, but does not improve driving due to relaxation.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test drinking and driving, impaired reaction, safe driving"
+        },
+        {
+            "id": 85,
+            "question": "How far ahead should a driver scan in the city?",
+            "options": {
+                "A": "8 seconds",
+                "B": "15 seconds",
+                "C": "5 seconds",
+                "D": "12 seconds"
+            },
+            "answer": "D",
+            "explanation": "In urban driving, you should scan at least 12 seconds ahead to anticipate potential hazards and respond accordingly.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test urban driving, forward scanning, traffic safety",
+            "image": "85.png"
+        },
+        {
+            "id": 86,
+            "question": "What danger might a cyclist on the roadside face?",
+            "options": {
+                "A": "A pedestrian suddenly stepping in front of them",
+                "B": "Car B driving close to their rear",
+                "C": "Car A slowing and turning while the cyclist rides behind",
+                "D": "Car A turning without seeing the cyclist"
+            },
+            "answer": "D",
+            "explanation": "Cyclists may be at risk if drivers fail to see them while turning, particularly in blind spots.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, driver blind spot, intersection danger",
+            "image": "86.png"
+        },
+        {
+            "id": 87,
+            "question": "How should drivers check traffic before entering a highway?",
+            "options": {
+                "A": "Check the rearview mirror",
+                "B": "Check side mirrors, rearview mirror, and blind spots",
+                "C": "Check blind spots and speed up",
+                "D": "Stop and then check blind spots"
+            },
+            "answer": "B",
+            "explanation": "Drivers must check side mirrors, rearview mirror, and blind spots before safely merging onto a highway.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test highway, blind spot check, merging"
+        },
+        {
+            "id": 88,
+            "question": "What is the best way to see things in your blind spot?",
+            "options": {
+                "A": "Turn your head before turning or changing lanes",
+                "B": "Perform a 180-degree check",
+                "C": "Ask your passenger to check for you",
+                "D": "Regularly check your rearview mirror"
+            },
+            "answer": "A",
+            "explanation": "Turning your head to check blind spots is the most effective method, as mirrors alone do not cover the entire view.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test blind spot, turning check, lane change safety"
+        },
+        {
+            "id": 89,
+            "question": "What should you do when approaching a traffic light failure at an intersection?",
+            "options": {
+                "A": "Treat it as a four-way stop",
+                "B": "Proceed if there is space",
+                "C": "Cross when another driver signals you to go",
+                "D": "Wait for a traffic officer to direct traffic"
+            },
+            "answer": "A",
+            "explanation": "Treat intersections with malfunctioning traffic lights as four-way stops. Stop, take turns, and yield appropriately.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic light failure, four-way stop, intersection rules"
+        },
+        {
+            "id": 90,
+            "question": "Cyclists are entitled to?",
+            "options": {
+                "A": "Not stopping at stop signs",
+                "B": "Riding against traffic",
+                "C": "Move to the center of the lane if unsafe in the right-turn lane",
+                "D": "Ignore traffic officer instructions"
+            },
+            "answer": "C",
+            "explanation": "Cyclists may move to the center of the lane if they feel unsafe in the right-turn lane to avoid hazards.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, road safety, traffic rights"
+        },
+        {
+            "id": 91,
+            "question": "What should the driver of this vehicle do?",
+            "options": {
+                "A": "Slow down and apply the brake pedal before approaching the intersection",
+                "B": "Stop and yield before approaching the intersection",
+                "C": "Maintain speed and check for other vehicles at the intersection",
+                "D": "Slow down before approaching the intersection"
+            },
+            "answer": "A",
+            "explanation": "The driver should slow down and apply the brake pedal when approaching an intersection to ensure safety and avoid collisions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test approaching intersection, stopping, yielding",
+            "image": "91.png"
+        },
+        {
+            "id": 92,
+            "question": "When a person holding a white cane is crossing the street, you should?",
+            "options": {
+                "A": "Proceed cautiously and give them more space",
+                "B": "Honk to alert them of your presence",
+                "C": "Stop and yell out the window to let them cross",
+                "D": "Treat them like any other pedestrian"
+            },
+            "answer": "A",
+            "explanation": "A white cane typically indicates the pedestrian is visually impaired. Drivers should proceed with caution and provide additional space to ensure their safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test white cane, pedestrian safety, driver caution",
+            "image": "92.png"
+        },
+        {
+            "id": 93,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "All vehicles must turn left ahead",
+                "B": "This lane must turn left or right",
+                "C": "Two-way left-turn lane",
+                "D": "Intersection allows only left turns"
+            },
+            "answer": "C",
+            "explanation": "This sign indicates a two-way left-turn lane, allowing vehicles from either side to make left turns.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test two-way left-turn, lane signs, traffic signs",
+            "image": "93.png"
+        },
+        {
+            "id": 94,
+            "question": "What speed will you see on this sign?",
+            "options": {
+                "A": "20 km/h",
+                "B": "25 km/h",
+                "C": "30 km/h",
+                "D": "35 km/h"
+            },
+            "answer": "C",
+            "explanation": "This sign typically indicates a speed limit, most commonly 30 km/h, used for special areas or sections of road.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speed limit sign, speed restrictions, road signs",
+            "image": "94.png"
+        },
+        {
+            "id": 95,
+            "question": "You should never overtake another vehicle?",
+            "options": {
+                "A": "When approaching the crest of a hill",
+                "B": "During heavy rain",
+                "C": "On a two-lane road at night",
+                "D": "On an unfamiliar road"
+            },
+            "answer": "A",
+            "explanation": "Overtaking near the crest of a hill is extremely dangerous as visibility is limited, preventing you from seeing oncoming traffic.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking restrictions, hill crests, driving safety"
+        },
+        {
+            "id": 96,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "This lane must turn right ahead",
+                "B": "Slow down, sharp right turn ahead",
+                "C": "Intersection allows only right turns",
+                "D": "Right U-turn ahead"
+            },
+            "answer": "B",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test sharp turn sign, road safety, slow down"
+        },
+        {
+            "id": 97,
+            "question": "Why should you pay extra attention to pedestrians and cyclists at night?",
+            "options": {
+                "A": "They tend to disregard traffic rules at night",
+                "B": "There are more bicycles at night",
+                "C": "They are harder to see",
+                "D": "They might be less careful"
+            },
+            "answer": "C",
+            "explanation": "Pedestrians and cyclists are harder to see at night due to low visibility, so drivers must exercise extra caution.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test night driving, pedestrians, cyclists, visibility"
+        },
+        {
+            "id": 98,
+            "question": "When the traffic light turns yellow at an intersection, you must?",
+            "options": {
+                "A": "Stop",
+                "B": "Slow down",
+                "C": "Proceed cautiously",
+                "D": "Stop unless it is unsafe to do so"
+            },
+            "answer": "D",
+            "explanation": "A yellow light warns drivers that it is about to turn red. Drivers should stop unless doing so would cause danger.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yellow traffic light, stopping rules, intersection driving"
+        },
+        {
+            "id": 99,
+            "question": "What is the best reaction when your vehicle starts to skid?",
+            "options": {
+                "A": "Take your foot off the gas and steer in the direction you want to go",
+                "B": "Take your foot off the gas and steer in the opposite direction",
+                "C": "Brake and steer in the direction of the skid",
+                "D": "Steer in the opposite direction of the skid"
+            },
+            "answer": "A",
+            "explanation": "If your vehicle starts to skid, release the gas pedal and steer in the direction you want to go to regain control.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test skidding, steering control, driving technique"
+        },
+        {
+            "id": 100,
+            "question": "People who drink alcohol mistakenly believe?",
+            "options": {
+                "A": "They are more easily angered",
+                "B": "Their reactions are quicker",
+                "C": "Their actions are slower",
+                "D": "Their concentration is reduced"
+            },
+            "answer": "B",
+            "explanation": "Alcohol impairs reaction time, but people under its influence often mistakenly believe they are reacting faster.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test drinking and driving, reaction ability, driving risk"
+        },
+        {
+            "id": 101,
+            "question": "What should the driver do when the elderly person steps onto the crosswalk?",
+            "options": {
+                "A": "Continue driving unless she is directly in front of the vehicle",
+                "B": "Wave her across",
+                "C": "Acknowledge her with eye contact and wait for her to cross",
+                "D": "Honk to tell her to continue crossing"
+            },
+            "answer": "C",
+            "explanation": "When a pedestrian steps onto the crosswalk, the driver should use eye contact to signal to the elderly person and patiently wait for her to cross safely. Do not wave or gesture to others; only police officers should direct traffic.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test crosswalk, elderly, eye contact, safety",
+            "image": "101.png"
+        },
+        {
+            "id": 102,
+            "question": "Which of the following is not a suitable way to handle negative influence from peers?",
+            "options": {
+                "A": "Dwelling on whether I looked foolish to them",
+                "B": "Recognizing mistakes",
+                "C": "Reflecting on the process",
+                "D": "Identifying opportunities for improvement"
+            },
+            "answer": "A",
+            "explanation": "Dwelling excessively on whether you looked foolish is not an appropriate response to peer influence. A better approach is to review the situation, recognize mistakes, and seize opportunities for improvement.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test peer influence, negative impact, positive improvement"
+        },
+        {
+            "id": 103,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Keep right ahead",
+                "B": "Two-way traffic ahead",
+                "C": "Right lane ends ahead",
+                "D": "Narrow structure ahead"
+            },
+            "answer": "C",
+            "explanation": "Just remember.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test right lane ends, traffic signs, road merging",
+            "image": "103.png"
+        },
+        {
+            "id": 104,
+            "question": "What should drivers consider to be the most dangerous?",
+            "options": {
+                "A": "Any driving environment that could cause harm",
+                "B": "Other vehicles on the road",
+                "C": "Drivers violating traffic rules",
+                "D": "Adverse weather conditions"
+            },
+            "answer": "A",
+            "explanation": "The most dangerous situation is any driving environment that could cause harm. Drivers must remain vigilant and take preventive measures.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driving environment, traffic hazards, driving safety"
+        },
+        {
+            "id": 105,
+            "question": "What should the driver of this vehicle do?",
+            "options": {
+                "A": "Flash high beams to tell the cyclist to move",
+                "B": "Quickly overtake the cyclist",
+                "C": "Honk to tell the cyclist to move",
+                "D": "Wait until the bend is cleared by vehicles and the cyclist before overtaking"
+            },
+            "answer": "D",
+            "explanation": "On a bend, the driver should wait for other vehicles and the cyclist to clear the curve before safely overtaking to avoid danger.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test bend, overtaking, cyclist, safe driving",
+            "image": "105.png"
+        },
+        {
+            "id": 106,
+            "question": "What must this driver do?",
+            "options": {
+                "A": "Stop and tell the pedestrian not to cross the road here",
+                "B": "Yield to the pedestrian crossing the road",
+                "C": "Continue driving as there is no pedestrian crossing here",
+                "D": "Stop and wave to signal the pedestrian to cross"
+            },
+            "answer": "B",
+            "explanation": "When a pedestrian is preparing to cross the road, the driver must stop and yield to ensure their safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test pedestrian priority, crossing the road, stopping, traffic safety",
+            "image": "106.png"
+        },
+        {
+            "id": 107,
+            "question": "When should you use turn signals?",
+            "options": {
+                "A": "When traffic is heavy",
+                "B": "One street before making a turn",
+                "C": "Only when turning at a corner",
+                "D": "Whenever turning or changing lanes"
+            },
+            "answer": "D",
+            "explanation": "Turn signals should be used whenever turning or changing lanes to give clear signals to other road users.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test turn signals, turning, lane change, traffic signal"
+        },
+        {
+            "id": 108,
+            "question": "What does a solid green arrow mean?",
+            "options": {
+                "A": "You can turn in the arrow's direction after a full stop",
+                "B": "The street ahead is one-way",
+                "C": "You can turn in the arrow's direction when the intersection is clear",
+                "D": "You can only turn left at the intersection"
+            },
+            "answer": "C",
+            "explanation": "A solid green arrow means you can safely turn in the arrow's direction if the intersection is clear.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test green arrow, intersection, turn signal",
+            "image": "108.png"
+        },
+        {
+            "id": 109,
+            "question": "What is the best way to deal with an aggressive driver?",
+            "options": {
+                "A": "Follow them to show you are not intimidated",
+                "B": "Give them more space and yield the right of way",
+                "C": "Honk to show disapproval of their behavior",
+                "D": "Assert your right of way"
+            },
+            "answer": "B",
+            "explanation": "The safest way to deal with an aggressive driver is to give them more space and yield the right of way. Stay calm and avoid confrontation.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test aggressive driver, space, right of way"
+        },
+        {
+            "id": 110,
+            "question": "What danger does this cyclist face?",
+            "options": {
+                "A": "Getting hit by a parked vehicle on the opposite side",
+                "B": "Being hit by a vehicle approaching from behind",
+                "C": "Falling into parked vehicles on the roadside",
+                "D": "Being hit by a car door suddenly opened by a parked vehicle"
+            },
+            "answer": "D",
+            "explanation": "Cyclists face the danger of parked vehicle occupants suddenly opening car doors. Drivers should maintain a safe distance.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, parked vehicles, door opening danger",
+            "image": "110.png"
+        },
+        {
+            "id": 111,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "School zone, watch out for children and pedestrians nearby",
+                "B": "School zone, reduce speed to 30 km/h",
+                "C": "Pedestrians crossing ahead",
+                "D": "School crossing ahead"
+            },
+            "answer": "A",
+            "explanation": "This sign reminds drivers to be cautious of children and pedestrians in the school area, maintain low speed, and pay attention to surroundings.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test school zone, children, pedestrians, safety",
+            "image": "111.png"
+        },
+        {
+            "id": 112,
+            "question": "If your vehicle breaks down, what should you do?",
+            "options": {
+                "A": "Stop in your lane and turn on hazard lights",
+                "B": "Pull over and turn on hazard lights",
+                "C": "Slow down and drive to the next exit",
+                "D": "Honk and drive to the next intersection"
+            },
+            "answer": "B",
+            "explanation": "If your vehicle breaks down, you should immediately pull over and turn on hazard lights to warn other road users and avoid accidents.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test vehicle breakdown, hazard lights, stopping, road safety"
+        },
+        {
+            "id": 113,
+            "question": "What should Driver A pay the most attention to?",
+            "options": {
+                "A": "A ball on the road, as children might chase it",
+                "B": "The vehicle behind",
+                "C": "Pedestrians on the sidewalk",
+                "D": "Oncoming traffic"
+            },
+            "answer": "A",
+            "explanation": "Drivers should pay special attention to balls on the road as children might run after them, increasing the risk of accidents.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test children, ball on the road, driving safety, vigilance",
+            "image": "113.png"
+        },
+        {
+            "id": 114,
+            "question": "What increases the risk of hydroplaning?",
+            "options": {
+                "A": "Driving uphill",
+                "B": "A heavy vehicle",
+                "C": "Having snow tires installed",
+                "D": "Old tires with shallow treads"
+            },
+            "answer": "D",
+            "explanation": "Old or shallow-tread tires reduce grip on wet roads, significantly increasing the risk of hydroplaning.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test hydroplaning, tires, grip, road safety"
+        },
+        {
+            "id": 115,
+            "question": "When should you particularly check your rearview mirror?",
+            "options": {
+                "A": "When slowing down and preparing to stop",
+                "B": "When preparing to accelerate",
+                "C": "When reversing into a parking space",
+                "D": "When starting at a stop sign"
+            },
+            "answer": "A",
+            "explanation": "When slowing down or preparing to stop, checking the rearview mirror helps you assess traffic behind and ensure safe stopping.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test rearview mirror, slowing down, stopping, traffic safety"
+        },
+        {
+            "id": 116,
+            "question": "What should Driver A do in the situation shown?",
+            "options": {
+                "A": "Stop and tell the pedestrian not to cross the road here",
+                "B": "Stop and let the pedestrian cross the road",
+                "C": "Continue driving because there is no crosswalk",
+                "D": "Stop and wave to the pedestrian to cross"
+            },
+            "answer": "B",
+            "explanation": "The driver should stop and let the pedestrian cross the road to ensure their safety. Do not gesture or wave; only police officers should direct traffic.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test stopping, pedestrian priority, crossing the road, safety",
+            "image": "116.png"
+        },
+        {
+            "id": 117,
+            "question": "When approaching an intersection with a green light that has been on for a long time, what should you do?",
+            "options": {
+                "A": "Prepare to stop",
+                "B": "Check traffic and accelerate if clear",
+                "C": "Maintain your speed",
+                "D": "Start to stop"
+            },
+            "answer": "A",
+            "explanation": "A green light that has been on for a long time might soon turn yellow. Drivers should prepare to stop to avoid running a red light.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test green light, intersection, prepare to stop, road safety"
+        },
+        {
+            "id": 118,
+            "question": "How can passengers help ensure the driver's safety?",
+            "options": {
+                "A": "Frequently ask about the route to keep the driver alert",
+                "B": "Turn on the radio",
+                "C": "Avoid heated or intense conversations",
+                "D": "Raise their voice to ensure the driver hears the conversation"
+            },
+            "answer": "C",
+            "explanation": "Passengers should avoid intense or heated discussions to help the driver focus and maintain safe driving.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test passengers, safe driving, driver focus"
+        },
+        {
+            "id": 119,
+            "question": "What is allowed for this vehicle?",
+            "options": {
+                "A": "Overtaking on the right",
+                "B": "No overtaking",
+                "C": "No crossing the line to turn left",
+                "D": "Careful overtaking"
+            },
+            "answer": "D",
+            "explanation": "A dashed yellow line indicates overtaking is allowed, but caution is required to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking allowed, traffic rules, road safety",
+            "image": "119.png"
+        },
+        {
+            "id": 120,
+            "question": "What happens when hazard lights are activated?",
+            "options": {
+                "A": "Both front and rear lights flash",
+                "B": "Rear lights stay on",
+                "C": "Front and rear lights stay on",
+                "D": "Rear lights flash"
+            },
+            "answer": "A",
+            "explanation": "When hazard lights are activated, both front and rear lights flash to warn other road users of danger.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test hazard lights, front and rear lights, road warning"
+        },
+        {
+            "id": 121,
+            "question": "What should you not do after a traffic accident?",
+            "options": {
+                "A": "Discuss who is at fault",
+                "B": "Write down the names and addresses of witnesses",
+                "C": "Draw a diagram noting the time, location, and weather",
+                "D": "Move the vehicle off the road"
+            },
+            "answer": "A",
+            "explanation": "Discussing who is at fault after a traffic accident may lead to arguments. You should prioritize gathering evidence and securing the scene to avoid disrupting traffic.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic accident, what not to do, responsibility discussion, securing the scene"
+        },
+        {
+            "id": 122,
+            "question": "What is the best action to take when you hear a siren or see flashing lights?",
+            "options": {
+                "A": "Pull over to the roadside and stop",
+                "B": "Stop where you are",
+                "C": "Reverse to the roadside and stop",
+                "D": "Turn at the next intersection"
+            },
+            "answer": "A",
+            "explanation": "When you hear a siren or see flashing lights, you should pull over to the roadside and stop to give way to emergency vehicles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test emergency vehicles, pull over, road safety"
+        },
+        {
+            "id": 123,
+            "question": "When following a motorcycle on an uneven road, what should you do?",
+            "options": {
+                "A": "Maintain the same space as on a normal road because motorcycles are unaffected by road conditions",
+                "B": "Allow more space as motorcycles may swerve to avoid potholes",
+                "C": "Overtake the motorcycle quickly",
+                "D": "Stay close so the rider sees you in their mirrors"
+            },
+            "answer": "B",
+            "explanation": "On uneven roads, motorcycles need more space to navigate around potholes or obstacles, so you should maintain a greater following distance.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test uneven road, motorcycles, safe distance"
+        },
+        {
+            "id": 124,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Stop and proceed when safe",
+                "B": "Stop sign ahead, prepare to stop",
+                "C": "Stop if vehicles are approaching",
+                "D": "Stop except when turning right"
+            },
+            "answer": "B",
+            "explanation": "Memorize this.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test stop sign, slow down, prepare to stop",
+            "image": "124.png"
+        },
+        {
+            "id": 125,
+            "question": "What should you do when a car tries to merge in front of you?",
+            "options": {
+                "A": "Slow down and create more space",
+                "B": "Maintain your speed and position",
+                "C": "Speed up to make them merge behind you",
+                "D": "Leave the lane"
+            },
+            "answer": "A",
+            "explanation": "To avoid collisions and maintain traffic flow, slow down and allow enough space for the vehicle to merge.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test merging vehicles, slow down, yield space"
+        },
+        {
+            "id": 126,
+            "question": "What must you do when a school bus is stopped with flashing red lights?",
+            "options": {
+                "A": "Watch for children and prepare to stop",
+                "B": "Stop and wait until the red lights stop flashing",
+                "C": "Stop, check for children, then proceed",
+                "D": "Drive slowly and prepare to stop"
+            },
+            "answer": "B",
+            "explanation": "When a school bus flashes red lights, you must stop and wait until the lights stop flashing to ensure the safety of children.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test school bus, stop, red lights"
+        },
+        {
+            "id": 127,
+            "question": "When should you not overtake a vehicle?",
+            "options": {
+                "A": "On a two-lane highway",
+                "B": "When facing a motorcycle",
+                "C": "In bad weather",
+                "D": "When visibility is poor"
+            },
+            "answer": "D",
+            "explanation": "Overtaking in poor visibility is very dangerous and should be avoided.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test poor visibility, overtaking, road safety"
+        },
+        {
+            "id": 128,
+            "question": "In foggy weather and at night, you should slow down and use?",
+            "options": {
+                "A": "Parking lights",
+                "B": "Hazard lights",
+                "C": "High beams",
+                "D": "Low beams"
+            },
+            "answer": "D",
+            "explanation": "Using low beams in foggy or nighttime conditions reduces glare and improves visibility of the road.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test fog, nighttime driving, low beams, road safety"
+        },
+        {
+            "id": 129,
+            "question": "Driver A is preparing to turn left. What limits their visibility and poses danger?",
+            "options": {
+                "A": "Their blind spot",
+                "B": "The truck behind and beside them",
+                "C": "The vehicle directly behind them",
+                "D": "The vehicle in the right lane behind them"
+            },
+            "answer": "B",
+            "explanation": "The size of the truck may obstruct Driver A's view. Drivers must carefully check the surroundings near the truck.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test left turn, truck blind spot, limited visibility",
+            "image": "129.png"
+        },
+        {
+            "id": 130,
+            "question": "Before entering the street, this driver must?",
+            "options": {
+                "A": "Stop before the crosswalk",
+                "B": "Stop before the sidewalk",
+                "C": "Proceed if no pedestrians are present",
+                "D": "Slow down and proceed carefully"
+            },
+            "answer": "B",
+            "explanation": "Drivers must stop before the sidewalk to ensure safety before entering the street.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test entering street, crosswalk, stop, road safety",
+            "image": "130.png"
+        },
+        {
+            "id": 131,
+            "question": "What should you do if your vehicle hydroplanes on a wet road?",
+            "options": {
+                "A": "Gently press the brake",
+                "B": "Ease off the accelerator and steer straight",
+                "C": "Brake hard",
+                "D": "Quickly drive to the roadside"
+            },
+            "answer": "B",
+            "explanation": "When hydroplaning, ease off the accelerator and keep the vehicle straight to avoid worsening the skid.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test hydroplane, wet road, safe driving"
+        },
+        {
+            "id": 132,
+            "question": "What does a yellow traffic light mean?",
+            "options": {
+                "A": "Stop unless unsafe to do so",
+                "B": "Stop and proceed when safe",
+                "C": "Slow down and proceed with caution",
+                "D": "Proceed if the intersection is clear"
+            },
+            "answer": "A",
+            "explanation": "A yellow light means the driver should stop unless stopping suddenly would cause a hazard.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yellow light, stop, safe driving",
+            "image": "132.png"
+        },
+        {
+            "id": 133,
+            "question": "What is the correct 'See-Think-Do' strategy?",
+            "options": {
+                "A": "Seeing a yellow light, think 'I can make it,' and speed up",
+                "B": "Seeing a truck turning, think 'It's not in my lane,' and speed up",
+                "C": "Seeing a truck turning, think 'It might take a wide turn,' and slow down",
+                "D": "Seeing a truck turning, think 'It might take a wide turn,' and brake suddenly"
+            },
+            "answer": "C",
+            "explanation": "'See-Think-Do' emphasizes observing the situation, making a correct judgment, and responding appropriately, such as slowing down when seeing a truck take a wide turn.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driving strategy, See-Think-Do, safe driving",
+            "image": "133.png"
+        },
+        {
+            "id": 134,
+            "question": "A motorcycle is about to turn left. Which vehicle poses the least danger to it?",
+            "options": {
+                "A": "Vehicle A",
+                "B": "Vehicle C",
+                "C": "Vehicle D",
+                "D": "Vehicle B"
+            },
+            "answer": "D",
+            "explanation": "Vehicle B's position is safe and does not conflict with the motorcycle's turning path.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycle, left turn, safe distance",
+            "image": "134.png"
+        },
+        {
+            "id": 135,
+            "question": "Why should you be especially cautious around motorcycles?",
+            "options": {
+                "A": "Because police often use motorcycles",
+                "B": "Motorcycles always have the right of way",
+                "C": "Their small size makes them hard to see",
+                "D": "Motorcycles are faster than cars"
+            },
+            "answer": "C",
+            "explanation": "Motorcycles are smaller and can be hard to see in blind spots or complex road conditions, requiring extra attention.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycles, blind spots, road safety"
+        },
+        {
+            "id": 136,
+            "question": "Why do most car-train collisions at night occur?",
+            "options": {
+                "A": "Car drivers are too tired",
+                "B": "Drivers fail to see the train",
+                "C": "Train operators fail to see vehicles on the track",
+                "D": "Cars get stuck on the tracks"
+            },
+            "answer": "B",
+            "explanation": "Limited visibility at night often causes drivers to miss seeing approaching trains, leading to collisions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test train, night driving, traffic accidents"
+        },
+        {
+            "id": 137,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "A pedestrian-controlled crosswalk; prepare to stop when the light is flashing",
+                "B": "Pedestrians always have the right of way",
+                "C": "A pedestrian-controlled crosswalk; prepare to stop when the light is on",
+                "D": "Leave the crossing quickly when pedestrians are present"
+            },
+            "answer": "A",
+            "explanation": "Memorize this.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test crosswalk, signal light, stop",
+            "image": "137.png"
+        },
+        {
+            "id": 138,
+            "question": "What do car drivers often find about motorcycles?",
+            "options": {
+                "A": "The type of helmet worn indicates the rider's skill level",
+                "B": "It's hard to judge their speed",
+                "C": "It's easy to judge the speed of an oncoming motorcycle",
+                "D": "They can share a lane with motorcycles"
+            },
+            "answer": "B",
+            "explanation": "Due to their small size and high speed, motorcycles are challenging for drivers to accurately judge their speed.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test motorcycles, speed judgment, driving safety"
+        },
+        {
+            "id": 139,
+            "question": "What about traffic controller instructions?",
+            "options": {
+                "A": "Must be followed only if they don't conflict with road rules",
+                "B": "Must always be followed",
+                "C": "Cannot override traffic rules",
+                "D": "Do not need to be followed on public roads"
+            },
+            "answer": "B",
+            "explanation": "Traffic controller instructions always take precedence, regardless of whether they conflict with road rules.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic controller, road rules, follow instructions"
+        },
+        {
+            "id": 140,
+            "question": "What is the best way to avoid fatigue during long-distance driving?",
+            "options": {
+                "A": "Bring a pot of coffee and drink a lot of it",
+                "B": "Keep the car temperature comfortable",
+                "C": "Plan your trip with breaks, meals, and stops",
+                "D": "Eat as much as possible"
+            },
+            "answer": "C",
+            "explanation": "Planning your driving route with regular breaks and stops helps to reduce fatigue.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test long-distance driving, fatigue prevention, trip planning"
+        },
+        {
+            "id": 141,
+            "question": "When overtaking a large truck, what should you do?",
+            "options": {
+                "A": "Only return to your lane when you can see the truck’s headlights in your rearview mirror",
+                "B": "Slow down after returning to the truck’s lane",
+                "C": "Only return to your lane when you can see the truck driver’s door in your rearview mirror",
+                "D": "Flash high beams before returning to the lane"
+            },
+            "answer": "A",
+            "explanation": "After overtaking a large truck, ensure you can clearly see the truck's headlights in your rearview mirror before returning to the lane.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking, large truck, safe driving"
+        },
+        {
+            "id": 142,
+            "question": "What is true about bridges and overpasses?",
+            "options": {
+                "A": "Their surfaces freeze faster than roadways",
+                "B": "They are not as slippery as roadways",
+                "C": "Ice and snow melt faster on them",
+                "D": "Their icy surfaces are not very slippery"
+            },
+            "answer": "A",
+            "explanation": "Since bridges and overpasses lack ground support underneath, their surfaces freeze faster in cold weather.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test bridge, overpass, ice, road surface"
+        },
+        {
+            "id": 143,
+            "question": "What can help reduce serious injuries in a traffic accident?",
+            "options": {
+                "A": "Wearing a lap and shoulder belt",
+                "B": "Wearing a lap belt",
+                "C": "Being thrown out of the vehicle",
+                "D": "Holding onto the steering wheel tightly"
+            },
+            "answer": "A",
+            "explanation": "Wearing a lap and shoulder belt effectively reduces the risk of serious injuries in a traffic accident.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic accident, seat belt, injury prevention"
+        },
+        {
+            "id": 144,
+            "question": "What is the best way to keep your vehicle running smoothly?",
+            "options": {
+                "A": "Look for interesting things along the way",
+                "B": "Frequently change CDs and tapes",
+                "C": "Constantly use your phone to stay connected with friends",
+                "D": "Anticipate possible situations and plan how to respond"
+            },
+            "answer": "D",
+            "explanation": "Anticipating possible road situations and planning responses is the best way to keep your vehicle running smoothly.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test smooth driving, anticipation, response planning"
+        },
+        {
+            "id": 145,
+            "question": "What should Vehicle A do?",
+            "options": {
+                "A": "Signal and move to the left",
+                "B": "Slow down, signal, and move to the left",
+                "C": "Signal, adjust speed if necessary, and find a safe space",
+                "D": "Speed up, signal, and move to the left"
+            },
+            "answer": "C",
+            "explanation": "The driver should signal, adjust their speed if necessary, and find a safe space to change lanes.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test lane change, safe driving, signaling",
+            "image": "145.png"
+        },
+        {
+            "id": 146,
+            "question": "What should a driver do before reversing?",
+            "options": {
+                "A": "Check 360 degrees around and look back in the reversing direction",
+                "B": "Check side mirrors and honk the horn",
+                "C": "Check using the rearview mirror",
+                "D": "Look behind twice and rely on the rearview mirror"
+            },
+            "answer": "A",
+            "explanation": "Before reversing, drivers should check 360 degrees around their vehicle and look back in the direction of movement to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test reversing, safety check, surround observation"
+        },
+        {
+            "id": 147,
+            "question": "What is the ideal following distance in urban areas?",
+            "options": {
+                "A": "1 second",
+                "B": "2 seconds",
+                "C": "4 seconds",
+                "D": "3 seconds"
+            },
+            "answer": "B",
+            "explanation": "The ideal following distance in urban areas is 2 seconds to provide sufficient reaction time.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test following distance, urban area, safe driving"
+        },
+        {
+            "id": 148,
+            "question": "When should a driver use the horn?",
+            "options": {
+                "A": "To let others know you are nearby",
+                "B": "To give a warning",
+                "C": "When overtaking",
+                "D": "To remind other road users"
+            },
+            "answer": "B",
+            "explanation": "Drivers should use the horn only to warn other road users when necessary for safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test horn usage, safety warning"
+        },
+        {
+            "id": 149,
+            "question": "Why should this driver leave more space?",
+            "options": {
+                "A": "The cyclist might slow down",
+                "B": "The cyclist might turn",
+                "C": "The cyclist might change lanes",
+                "D": "The cyclist might dismount"
+            },
+            "answer": "B",
+            "explanation": "The cyclist might make a turn on the road, so the driver needs to allow extra space.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, road space, safe driving",
+            "image": "149.png"
+        },
+        {
+            "id": 150,
+            "question": "What should you do at an uncontrolled intersection?",
+            "options": {
+                "A": "Honk to let others know you are nearby",
+                "B": "Slow down and watch for danger",
+                "C": "Maintain your speed but watch for danger",
+                "D": "Stop"
+            },
+            "answer": "B",
+            "explanation": "At an uncontrolled intersection, you should slow down and watch for potential hazards to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test intersection, uncontrolled, safe driving"
+        },
+        {
+            "id": 151,
+            "question": "What is the most likely cause of skidding?",
+            "options": {
+                "A": "The vehicle is too old",
+                "B": "The road is too slippery",
+                "C": "Another driver suddenly stops",
+                "D": "Poor driving skills"
+            },
+            "answer": "D",
+            "explanation": "Skidding can often be caused by poor driving skills. Improving driving techniques can help prevent skidding.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test skidding, slippery roads, safe driving"
+        },
+        {
+            "id": 152,
+            "question": "What does this sign mean?",
+            "options": {
+                "A": "Construction ends",
+                "B": "Construction ahead",
+                "C": "Construction ahead, you must turn around",
+                "D": "Construction is underway"
+            },
+            "answer": "B",
+            "explanation": "Memorize this sign for the test.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test construction sign, road construction, driving safety",
+            "image": "152.png"
+        },
+        {
+            "id": 153,
+            "question": "When the traffic light turns green, what should a driver do?",
+            "options": {
+                "A": "Honk before entering the intersection",
+                "B": "Enter the intersection immediately",
+                "C": "Slow down near the intersection and prepare to stop",
+                "D": "Check traffic before entering the intersection"
+            },
+            "answer": "D",
+            "explanation": "A green light does not always guarantee safety. Drivers should check traffic conditions before entering the intersection.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test green light, intersection, driving safety"
+        },
+        {
+            "id": 154,
+            "question": "If your car hood flies up while driving, what should you do?",
+            "options": {
+                "A": "Ask another driver to close it for you",
+                "B": "Honk and maintain your speed",
+                "C": "Look through the gap under the hood and prepare to stop safely",
+                "D": "Take your foot off the accelerator"
+            },
+            "answer": "C",
+            "explanation": "If your car hood flies up, observing through the gap and gradually stopping is the best course of action.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test car hood, emergency handling, driving safety"
+        },
+        {
+            "id": 155,
+            "question": "What is the best way to avoid glare from oncoming headlights at night?",
+            "options": {
+                "A": "Turn on your high beams",
+                "B": "Look towards the right edge of the road",
+                "C": "Flash your high beams to signal the oncoming driver to dim their lights",
+                "D": "Look at the vehicle ahead"
+            },
+            "answer": "B",
+            "explanation": "The best way to avoid glare is to direct your gaze towards the right edge of the road.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test night driving, oncoming headlights, driving technique"
+        },
+        {
+            "id": 156,
+            "question": "At what distance from oncoming traffic should you dim your headlights?",
+            "options": {
+                "A": "50 meters",
+                "B": "100 meters",
+                "C": "200 meters",
+                "D": "150 meters"
+            },
+            "answer": "D",
+            "explanation": "Dim your headlights when you are within 150 meters of oncoming traffic to avoid glare.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test headlights, night driving, driving etiquette"
+        },
+        {
+            "id": 157,
+            "question": "Why should vehicles around trucks be extra cautious?",
+            "options": {
+                "A": "The truck is too slow",
+                "B": "Trucks have larger blind spots",
+                "C": "The truck may stop suddenly",
+                "D": "You may inhale exhaust fumes"
+            },
+            "answer": "B",
+            "explanation": "Trucks have larger blind spots, and drivers may not see your position, so extra caution is needed.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test truck blind spots, driving safety, large vehicles"
+        },
+        {
+            "id": 158,
+            "question": "What is the best position to hold the steering wheel?",
+            "options": {
+                "A": "Left hand at 8 o'clock and right hand at 2 o'clock",
+                "B": "Left hand at 9 o'clock and right hand at 4 o'clock",
+                "C": "Left hand at 10 o'clock and right hand at 2 o'clock",
+                "D": "Left hand at 8 o'clock and right hand at 5 o'clock"
+            },
+            "answer": "C",
+            "explanation": "The best position to hold the steering wheel is at 10 o'clock and 2 o'clock for optimal vehicle control.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test steering wheel, driving technique, safe driving"
+        },
+        {
+            "id": 159,
+            "question": "What is the purpose of using the horn?",
+            "options": {
+                "A": "To remind others",
+                "B": "To warn other road users",
+                "C": "To inform other drivers of your presence",
+                "D": "To signal others to give way"
+            },
+            "answer": "B",
+            "explanation": "The horn is primarily used to warn other road users and avoid potential danger.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test horn, driving etiquette, safety reminder"
+        },
+        {
+            "id": 160,
+            "question": "What should you do if you feel too tired while driving?",
+            "options": {
+                "A": "Turn up the music",
+                "B": "Pull over and rest",
+                "C": "Keep eating snacks",
+                "D": "Sing constantly to stay awake"
+            },
+            "answer": "B",
+            "explanation": "If you feel tired, pulling over to rest is the safest option.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test fatigue driving, rest, driving safety"
+        },
+        {
+            "id": 161,
+            "question": "If your speed is too slow and a queue of vehicles forms behind you, what is the best course of action?",
+            "options": {
+                "A": "Increase your speed",
+                "B": "Pull over and allow other vehicles to pass",
+                "C": "Move to the right lane",
+                "D": "Maintain your speed and continue forward"
+            },
+            "answer": "B",
+            "explanation": "If a queue forms behind you, the best action is to pull over and allow the vehicles to pass, relieving traffic pressure.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test slow driving, following vehicles, traffic pressure"
+        },
+        {
+            "id": 162,
+            "question": "In the event of an accident with injuries, what should you do first?",
+            "options": {
+                "A": "Call the police",
+                "B": "Assist the injured person",
+                "C": "Notify your insurance company",
+                "D": "Call for an ambulance"
+            },
+            "answer": "B",
+            "explanation": "In a traffic accident, the first priority is to assist the injured and ensure their safety before contacting emergency services.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic accident, assisting injured, emergency handling"
+        },
+        {
+            "id": 163,
+            "question": "When parking on the roadside, how close should you be to the curb?",
+            "options": {
+                "A": "Within 15 cm",
+                "B": "Within 20 cm",
+                "C": "Within 30 cm",
+                "D": "Within 40 cm"
+            },
+            "answer": "C",
+            "explanation": "To ensure safe and proper parking, vehicles should be within 30 cm of the curb.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test roadside parking, parking distance, driving rules"
+        },
+        {
+            "id": 164,
+            "question": "If a car in front of you signals to turn left, what should you do?",
+            "options": {
+                "A": "Honk in protest",
+                "B": "Slow down or stop and wait for the car to turn",
+                "C": "Speed up and go around it",
+                "D": "Change to the right lane"
+            },
+            "answer": "B",
+            "explanation": "When a car signals to turn left, you should slow down or stop and wait for it to complete the turn to avoid accidents.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test left-turn vehicle, slowing down, driving safety"
+        },
+        {
+            "id": 165,
+            "question": "If another driver gestures angrily at you, what should you do?",
+            "options": {
+                "A": "Make gestures back at them",
+                "B": "Avoid eye contact and do not respond",
+                "C": "Turn to another direction",
+                "D": "Call the police on your mobile phone"
+            },
+            "answer": "B",
+            "explanation": "When faced with an angry driver, stay calm and avoid engaging to ensure your safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driving conflict, staying calm, road etiquette"
+        },
+        {
+            "id": 166,
+            "question": "When can you pass through an intersection with a green light?",
+            "options": {
+                "A": "When there are no pedestrians",
+                "B": "When there is no traffic congestion",
+                "C": "Pass through directly",
+                "D": "When the intersection is clear"
+            },
+            "answer": "D",
+            "explanation": "You can only proceed through an intersection on a green light if it is clear of any obstacles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test intersection, green light, driving safety"
+        },
+        {
+            "id": 167,
+            "question": "What is the first thing you should consider before making a left turn?",
+            "options": {
+                "A": "Signal and check blind spots",
+                "B": "Judge the speed and distance of oncoming vehicles",
+                "C": "Slow down and prepare to stop",
+                "D": "Turn as quickly as possible"
+            },
+            "answer": "B",
+            "explanation": "Before making a left turn, the first priority is to assess the speed and distance of oncoming traffic for a safe maneuver.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test left turn, assessing distance, driving technique"
+        },
+        {
+            "id": 168,
+            "question": "What should you do if you are emotionally upset before driving?",
+            "options": {
+                "A": "Listen to relaxing music",
+                "B": "Wait until you calm down before driving",
+                "C": "Take deep breaths before driving",
+                "D": "Focus your attention on driving"
+            },
+            "answer": "B",
+            "explanation": "Driving while emotionally upset can impair judgment. Wait until you feel calm before getting behind the wheel.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test emotional management, driving safety, driving mindset"
+        },
+        {
+            "id": 169,
+            "question": "What is the cyclist in the circle about to do?",
+            "options": {
+                "A": "Stop",
+                "B": "Turn left",
+                "C": "Turn right",
+                "D": "Go straight"
+            },
+            "answer": "B",
+            "explanation": "Based on signals or the environment, the cyclist is about to make a left turn, requiring extra caution.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclist, left turn, road safety",
+            "image": "169.png"
+        },
+        {
+            "id": 170,
+            "question": "What is the driver in the picture about to do?",
+            "options": {
+                "A": "Stop",
+                "B": "Turn left",
+                "C": "Turn right",
+                "D": "Go straight"
+            },
+            "answer": "C",
+            "explanation": "From the picture, the driver is making a right turn, requiring attention to other vehicles and pedestrians.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driver, right turn, traffic rules",
+            "image": "170.png"
+        },
+        {
+            "id": 171,
+            "question": "What is the driver in the picture about to do?",
+            "options": {
+                "A": "Slow down and stop",
+                "B": "Turn left",
+                "C": "Turn right",
+                "D": "Go straight"
+            },
+            "answer": "A",
+            "explanation": "The driver appears to be slowing down to stop, likely to comply with traffic rules or yield to other vehicles or pedestrians.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driver, slowing down, stopping, traffic rules",
+            "image": "171.png"
+        },
+        {
+            "id": 172,
+            "question": "What is the best way to reduce accidents on snowy roads?",
+            "options": {
+                "A": "Install snow tires",
+                "B": "Brake frequently",
+                "C": "Drive cautiously and slowly",
+                "D": "Maintain a greater following distance"
+            },
+            "answer": "D",
+            "explanation": "Maintaining a greater following distance on snowy roads is the best way to reduce accidents, as slippery roads increase stopping distances.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test snowy roads, reducing accidents, following distance, slippery roads"
+        },
+        {
+            "id": 173,
+            "question": "Why do most vehicles tend to skid on snowy roads?",
+            "options": {
+                "A": "Driving too fast",
+                "B": "Sudden braking",
+                "C": "Worn tires with no tread",
+                "D": "Icy road surfaces"
+            },
+            "answer": "C",
+            "explanation": "Worn tires with no tread reduce traction, leading to skidding on snowy roads. Regular tire replacement is essential for safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test snowy roads, icy surfaces, skidding, driving safety"
+        },
+        {
+            "id": 174,
+            "question": "When must you use your headlights?",
+            "options": {
+                "A": "At night",
+                "B": "At all times",
+                "C": "Half an hour after sunset to half an hour before sunrise",
+                "D": "Half an hour before sunrise to half an hour before sunset"
+            },
+            "answer": "C",
+            "explanation": "Headlights must be used from half an hour after sunset to half an hour before sunrise to ensure visibility.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test headlights, sunset, sunrise, driving rules"
+        },
+        {
+            "id": 175,
+            "question": "When is it safe to return to your lane after overtaking a vehicle?",
+            "options": {
+                "A": "When the other driver waves at you",
+                "B": "When it is safe",
+                "C": "When you can fully see the overtaken vehicle in your rearview mirror",
+                "D": "When you are 150 meters away"
+            },
+            "answer": "C",
+            "explanation": "After overtaking, ensure the overtaken vehicle is fully visible in your rearview mirror before safely returning to your lane.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking, rearview mirror, driving safety"
+        },
+        {
+            "id": 176,
+            "question": "When should you use deceleration lines?",
+            "options": {
+                "A": "Before entering",
+                "B": "After entering",
+                "C": "Maintain your speed",
+                "D": "Accelerate"
+            },
+            "answer": "B",
+            "explanation": "Deceleration lines are meant for reducing speed after entering them, ensuring safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test deceleration lines, driving techniques, road safety"
+        },
+        {
+            "id": 177,
+            "question": "What does a white line on the road indicate?",
+            "options": {
+                "A": "Separates oncoming traffic",
+                "B": "Indicates multiple lanes moving in the same direction",
+                "C": "No lane changing allowed",
+                "D": "Lane changing allowed"
+            },
+            "answer": "B",
+            "explanation": "A white line indicates multiple lanes moving in the same direction, helping drivers maintain the correct lane.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test white line, same direction lanes, driving rules",
+            "image": "177.png"
+        },
+        {
+            "id": 178,
+            "question": "What does the double yellow line in the picture mean?",
+            "options": {
+                "A": "Separates oncoming traffic",
+                "B": "You cannot cross the line",
+                "C": "No overtaking allowed",
+                "D": "No turning allowed"
+            },
+            "answer": "C",
+            "explanation": "Double yellow lines indicate no crossing or overtaking, and drivers must follow the road rules.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test double yellow line, no overtaking, road safety",
+            "image": "178.png"
+        },
+        {
+            "id": 179,
+            "question": "What can the vehicles in the picture do?",
+            "options": {
+                "A": "Vehicle B can overtake cautiously",
+                "B": "Vehicle A can overtake cautiously",
+                "C": "No crossing allowed",
+                "D": "Vehicle B cannot overtake"
+            },
+            "answer": "A",
+            "explanation": "Vehicle B's left side has a broken yellow line, allowing cautious overtaking, while Vehicle A cannot overtake due to the solid yellow line.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test vehicles, crossing, road markings",
+            "image": "179.png"
+        },
+        {
+            "id": 180,
+            "question": "When should you yield to a bus?",
+            "options": {
+                "A": "In residential areas",
+                "B": "In urban areas",
+                "C": "In areas where the speed limit is 60 km/h or less",
+                "D": "On highways"
+            },
+            "answer": "C",
+            "explanation": "Drivers must yield to buses in areas where the speed limit is 60 km/h or less, ensuring passenger safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yielding, buses, urban areas, driving rules"
+        },
+        {
+            "id": 181,
+            "question": "What is the main adverse reaction to drunk driving?",
+            "options": {
+                "A": "Frequently honking the horn",
+                "B": "Constantly changing lanes",
+                "C": "Unstable control of distance and speed",
+                "D": "Shouting at other drivers"
+            },
+            "answer": "C",
+            "explanation": "Alcohol affects the driver's judgment and reaction speed, leading to unstable control of distance and speed, which is the most dangerous consequence of drunk driving.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test drunk driving, adverse reactions, unstable control"
+        },
+        {
+            "id": 182,
+            "question": "In an urban area, how soon must you report an accident?",
+            "options": {
+                "A": "Within 24 hours",
+                "B": "Within 48 hours",
+                "C": "Within 72 hours",
+                "D": "Within 12 hours"
+            },
+            "answer": "A",
+            "explanation": "In the event of an urban traffic accident, the law requires reporting it within 24 hours to ensure timely documentation.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test traffic accident, urban area, reporting time"
+        },
+        {
+            "id": 183,
+            "question": "What is the proper technique for emergency braking?",
+            "options": {
+                "A": "Brake hard to stop the car quickly",
+                "B": "Stop the vehicle quickly without locking the brakes",
+                "C": "Rapidly press and release the brake",
+                "D": "Honk to warn other vehicles"
+            },
+            "answer": "B",
+            "explanation": "In an emergency, avoid locking the brakes to maintain control of the vehicle and reduce the risk of an accident.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test emergency braking, technique, brake control"
+        },
+        {
+            "id": 184,
+            "question": "Which vehicle in the picture experiences the greatest sway while turning?",
+            "options": {
+                "A": "Vehicle C",
+                "B": "Vehicle A",
+                "C": "Vehicle B",
+                "D": "Vehicle D"
+            },
+            "answer": "C",
+            "explanation": "Vehicle B, due to its higher center of gravity or unevenly distributed load, is more prone to swaying while turning.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test turning, sway force, center of gravity",
+            "image": "184.png"
+        },
+        {
+            "id": 185,
+            "question": "When is it permissible for a car to share a lane with motorcycles?",
+            "options": {
+                "A": "In busy urban areas",
+                "B": "Never",
+                "C": "On single-lane roads",
+                "D": "On any street or highway"
+            },
+            "answer": "C",
+            "explanation": "On single-lane roads, cars can share lanes with motorcycles, but drivers must prioritize safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cars, motorcycles, lane sharing"
+        },
+        {
+            "id": 186,
+            "question": "What should you do first if your vehicle has a tire blowout while driving?",
+            "options": {
+                "A": "Grip the steering wheel firmly and move to the roadside",
+                "B": "Brake suddenly",
+                "C": "Signal other drivers to move away",
+                "D": "Turn the wheel opposite to the skid"
+            },
+            "answer": "A",
+            "explanation": "In the event of a blowout, hold the steering wheel firmly to stabilize the vehicle, then slowly pull over to the roadside.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test tire blowout, vehicle control, roadside parking"
+        },
+        {
+            "id": 187,
+            "question": "When can you turn left at an intersection with a red light?",
+            "options": {
+                "A": "When there are no oncoming vehicles",
+                "B": "If the left turn is onto a one-way street and there is no sign prohibiting it",
+                "C": "At any time",
+                "D": "When the oncoming driver waves you through"
+            },
+            "answer": "B",
+            "explanation": "Turning left on a red light is only allowed when the destination road is a one-way street and no signs prohibit the action.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test red light, left turn, one-way street"
+        },
+        {
+            "id": 188,
+            "question": "How far must you park from an intersection?",
+            "options": {
+                "A": "5 meters",
+                "B": "6 meters",
+                "C": "15 meters",
+                "D": "3 meters"
+            },
+            "answer": "B",
+            "explanation": "According to traffic regulations, vehicles must park at least 6 meters away from an intersection.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test parking, intersection, distance"
+        },
+        {
+            "id": 189,
+            "question": "How far must you park from a fire hydrant?",
+            "options": {
+                "A": "5 meters",
+                "B": "6 meters",
+                "C": "15 meters",
+                "D": "3 meters"
+            },
+            "answer": "A",
+            "explanation": "To ensure fire hydrants are accessible, vehicles must be parked at least 5 meters away.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test parking, fire hydrant, distance"
+        },
+        {
+            "id": 190,
+            "question": "What should you do when a student crossing guard is directing traffic?",
+            "options": {
+                "A": "Obey during school hours",
+                "B": "Always obey",
+                "C": "Obey when it does not conflict with traffic rules",
+                "D": "Slow down and proceed safely"
+            },
+            "answer": "B",
+            "explanation": "When a student crossing guard is directing traffic, drivers must obey their instructions unconditionally to ensure everyone's safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test student crossing guard, traffic direction, obeying rules"
+        },
+        {
+            "id": 191,
+            "question": "Can cyclists appear on highways?",
+            "options": {
+                "A": "At any time",
+                "B": "Never",
+                "C": "In good weather",
+                "D": "At night"
+            },
+            "answer": "A",
+            "explanation": "Cyclists may appear on highways, and drivers should be vigilant and maintain a safe distance.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test cyclists, highways, restrictions"
+        },
+        {
+            "id": 192,
+            "question": "At an intersection with a stop sign, stop line, and pedestrian crosswalk, where must you stop?",
+            "options": {
+                "A": "Before the stop sign",
+                "B": "Before the stop line",
+                "C": "Before the crosswalk",
+                "D": "At a position where you can see other vehicles"
+            },
+            "answer": "B",
+            "explanation": "When a stop line is present, drivers must stop before the stop line to ensure the safety of pedestrians and vehicles.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test intersections, stop line, pedestrian crosswalk"
+        },
+        {
+            "id": 193,
+            "question": "What is the lane in the image used for?",
+            "options": {
+                "A": "Bus-only",
+                "B": "Two-way left turn",
+                "C": "Two-way right turn",
+                "D": "Emergency vehicles"
+            },
+            "answer": "B",
+            "explanation": "The image depicts a two-way left-turn lane, typically used for vehicles turning left from both directions.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test two-way left turn, lane purpose",
+            "image": "193.png"
+        },
+        {
+            "id": 194,
+            "question": "What should the driver of the red car do?",
+            "options": {
+                "A": "Honk to signal intent to overtake",
+                "B": "Watch out for oncoming traffic",
+                "C": "Wait until the curve is cleared before overtaking",
+                "D": "Overtake as quickly as possible"
+            },
+            "answer": "C",
+            "explanation": "Overtaking on curves is highly dangerous. The driver should wait until the curve is cleared to ensure clear visibility and safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test overtaking, curves, safety",
+            "image": "194.png"
+        },
+        {
+            "id": 195,
+            "question": "Why should you keep more distance from motorcycles in strong winds?",
+            "options": {
+                "A": "Because motorcycles stop quickly",
+                "B": "Because wind can push motorcycles into your lane",
+                "C": "Because motorcycles provide a wind barrier for you",
+                "D": "Because motorcycles are too slow"
+            },
+            "answer": "B",
+            "explanation": "Strong winds can cause motorcycles to lose balance and veer into your lane, so maintaining a safe distance is crucial.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test strong winds, motorcycles, safety distance"
+        },
+        {
+            "id": 196,
+            "question": "What should the driver of car A do?",
+            "options": {
+                "A": "Honk to warn pedestrians",
+                "B": "Stop and yield to pedestrians crossing the road",
+                "C": "Yell at pedestrians that it's not a crosswalk",
+                "D": "Flash headlights to signal oncoming vehicles to stop"
+            },
+            "answer": "B",
+            "explanation": "Drivers must stop and yield to pedestrians crossing the road to ensure their safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test pedestrians, yielding, safe driving",
+            "image": "196.png"
+        },
+        {
+            "id": 197,
+            "question": "If you're driving at the maximum speed limit but a queue of vehicles is following you, what should you do?",
+            "options": {
+                "A": "Maintain your speed",
+                "B": "Flash your brake lights",
+                "C": "Move to the right lane",
+                "D": "Pull over to let other vehicles pass"
+            },
+            "answer": "D",
+            "explanation": "If there is a queue of vehicles behind you, pull over or slow down to allow the queue to pass, reducing traffic pressure.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test speed limit, traffic queues, safe driving"
+        },
+        {
+            "id": 198,
+            "question": "What should you do before making a right turn?",
+            "options": {
+                "A": "Signal and check side mirrors",
+                "B": "Signal and check all rearview mirrors",
+                "C": "Signal, check all mirrors, and shoulder check for blind spots",
+                "D": "Turn quickly if there are no pedestrians"
+            },
+            "answer": "C",
+            "explanation": "Before turning right, signal your intent, check all mirrors, and shoulder check for blind spots to ensure safety.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test right turns, blind spots, signaling"
+        },
+        {
+            "id": 199,
+            "question": "Your driving attitude and style are?",
+            "options": {
+                "A": "Different every day",
+                "B": "Affected by your emotions",
+                "C": "A choice you make",
+                "D": "Unrelated to your insurance premium"
+            },
+            "answer": "C",
+            "explanation": "Your driving attitude and style are choices you make, regardless of external circumstances or others' behavior.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test driving attitude, style, emotional impact"
+        },
+        {
+            "id": 200,
+            "question": "In the image, which vehicle should yield?",
+            "options": {
+                "A": "Vehicle A",
+                "B": "Vehicle B",
+                "C": "Both vehicles can turn at the same time",
+                "D": "Wait for the other driver to signal"
+            },
+            "answer": "A",
+            "explanation": "Vehicle B has already passed the stop sign, while Vehicle A is still behind it, so Vehicle A must yield to Vehicle B.",
+            "meta_keywords": "Vancouver driver's license test, BC driver's license test yielding, traffic rules, vehicle priority",
+            "image": "200.png"
         }
     ]
 }

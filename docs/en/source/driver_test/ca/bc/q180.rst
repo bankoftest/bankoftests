@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When should you yield to a bus?
+   :keywords: Vancouver driver's license test, BC driver's license test yielding, buses, urban areas, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When should you yield to a bus?
+==============================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q180" class="quiz">
+       <div class="option" id="q180-A" onclick="selectOption('q180', 'A', false)">
+           A. In residential areas
+       </div>
+       <div class="option" id="q180-B" onclick="selectOption('q180', 'B', false)">
+           B. In urban areas
+       </div>
+       <div class="option" id="q180-C" onclick="selectOption('q180', 'C', true)">
+           C. In areas where the speed limit is 60 km/h or less
+       </div>
+       <div class="option" id="q180-D" onclick="selectOption('q180', 'D', false)">
+           D. On highways
+       </div>
+       <p id="q180-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers must yield to buses in areas where the speed limit is 60 km/h or less, ensuring passenger safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q179.html" class="button">|prev_question|</a>
+       <span class="page-indicator">180 / 200</span>
+       <a href="q181.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

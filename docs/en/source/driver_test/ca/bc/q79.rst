@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which steering wheel grip position is correct in the image?
+   :keywords: Vancouver driver's license test, BC driver's license test steering wheel grip, proper driving, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which steering wheel grip position is correct in the image?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/79.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q79" class="quiz">
+       <div class="option" id="q79-A" onclick="selectOption('q79', 'A', false)">
+           A. Image A
+       </div>
+       <div class="option" id="q79-B" onclick="selectOption('q79', 'B', false)">
+           B. Image D
+       </div>
+       <div class="option" id="q79-C" onclick="selectOption('q79', 'C', false)">
+           C. Image B
+       </div>
+       <div class="option" id="q79-D" onclick="selectOption('q79', 'D', true)">
+           D. Image C
+       </div>
+       <p id="q79-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Image C shows the correct steering wheel grip position (9 and 3 o'clock) for optimal control in emergencies.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q78.html" class="button">|prev_question|</a>
+       <span class="page-indicator">79 / 200</span>
+       <a href="q80.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

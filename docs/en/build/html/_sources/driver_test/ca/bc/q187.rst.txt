@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When can you turn left at an intersection with a red light?
+   :keywords: Vancouver driver's license test, BC driver's license test red light, left turn, one-way street
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When can you turn left at an intersection with a red light?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q187" class="quiz">
+       <div class="option" id="q187-A" onclick="selectOption('q187', 'A', false)">
+           A. When there are no oncoming vehicles
+       </div>
+       <div class="option" id="q187-B" onclick="selectOption('q187', 'B', true)">
+           B. If the left turn is onto a one-way street and there is no sign prohibiting it
+       </div>
+       <div class="option" id="q187-C" onclick="selectOption('q187', 'C', false)">
+           C. At any time
+       </div>
+       <div class="option" id="q187-D" onclick="selectOption('q187', 'D', false)">
+           D. When the oncoming driver waves you through
+       </div>
+       <p id="q187-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Turning left on a red light is only allowed when the destination road is a one-way street and no signs prohibit the action.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q186.html" class="button">|prev_question|</a>
+       <span class="page-indicator">187 / 200</span>
+       <a href="q188.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

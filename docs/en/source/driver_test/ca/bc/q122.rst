@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best action to take when you hear a siren or see flashing lights?
+   :keywords: Vancouver driver's license test, BC driver's license test emergency vehicles, pull over, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best action to take when you hear a siren or see flashing lights?
+==========================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q122" class="quiz">
+       <div class="option" id="q122-A" onclick="selectOption('q122', 'A', true)">
+           A. Pull over to the roadside and stop
+       </div>
+       <div class="option" id="q122-B" onclick="selectOption('q122', 'B', false)">
+           B. Stop where you are
+       </div>
+       <div class="option" id="q122-C" onclick="selectOption('q122', 'C', false)">
+           C. Reverse to the roadside and stop
+       </div>
+       <div class="option" id="q122-D" onclick="selectOption('q122', 'D', false)">
+           D. Turn at the next intersection
+       </div>
+       <p id="q122-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When you hear a siren or see flashing lights, you should pull over to the roadside and stop to give way to emergency vehicles.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q121.html" class="button">|prev_question|</a>
+       <span class="page-indicator">122 / 200</span>
+       <a href="q123.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

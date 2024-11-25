@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What happens when hazard lights are activated?
+   :keywords: Vancouver driver's license test, BC driver's license test hazard lights, front and rear lights, road warning
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What happens when hazard lights are activated?
+============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q120" class="quiz">
+       <div class="option" id="q120-A" onclick="selectOption('q120', 'A', true)">
+           A. Both front and rear lights flash
+       </div>
+       <div class="option" id="q120-B" onclick="selectOption('q120', 'B', false)">
+           B. Rear lights stay on
+       </div>
+       <div class="option" id="q120-C" onclick="selectOption('q120', 'C', false)">
+           C. Front and rear lights stay on
+       </div>
+       <div class="option" id="q120-D" onclick="selectOption('q120', 'D', false)">
+           D. Rear lights flash
+       </div>
+       <p id="q120-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When hazard lights are activated, both front and rear lights flash to warn other road users of danger.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q119.html" class="button">|prev_question|</a>
+       <span class="page-indicator">120 / 200</span>
+       <a href="q121.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

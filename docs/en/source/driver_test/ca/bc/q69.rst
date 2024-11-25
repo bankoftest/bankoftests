@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: In the image, what danger should Vehicle A watch for when turning right?
+   :keywords: Vancouver driver's license test, BC driver's license test right turn, driving dangers, roadside obstacles
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In the image, what danger should Vehicle A watch for when turning right?
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/69.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q69" class="quiz">
+       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', true)">
+           A. A bicycle approaching from behind
+       </div>
+       <div class="option" id="q69-B" onclick="selectOption('q69', 'B', false)">
+           B. Vehicle B overtaking on the left
+       </div>
+       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', false)">
+           C. A dog or other animals coming from between parked cars
+       </div>
+       <div class="option" id="q69-D" onclick="selectOption('q69', 'D', false)">
+           D. Pedestrians on the sidewalk
+       </div>
+       <p id="q69-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Vehicle A should watch for bicycles approaching from behind when turning right to ensure the safety of pedestrians and cyclists.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q68.html" class="button">|prev_question|</a>
+       <span class="page-indicator">69 / 200</span>
+       <a href="q70.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

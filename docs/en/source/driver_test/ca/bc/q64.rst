@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When must you follow the speed limit on the sign?
+   :keywords: Vancouver driver's license test, BC driver's license test speed limits, sign regulations, time restrictions
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When must you follow the speed limit on the sign?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/64.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q64" class="quiz">
+       <div class="option" id="q64-A" onclick="selectOption('q64', 'A', false)">
+           A. From morning to afternoon every day
+       </div>
+       <div class="option" id="q64-B" onclick="selectOption('q64', 'B', false)">
+           B. At all times on school days
+       </div>
+       <div class="option" id="q64-C" onclick="selectOption('q64', 'C', true)">
+           C. From 8 a.m. to 5 p.m. on school days
+       </div>
+       <div class="option" id="q64-D" onclick="selectOption('q64', 'D', false)">
+           D. At any time
+       </div>
+       <p id="q64-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q63.html" class="button">|prev_question|</a>
+       <span class="page-indicator">64 / 200</span>
+       <a href="q65.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

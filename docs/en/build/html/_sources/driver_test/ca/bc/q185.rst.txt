@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When is it permissible for a car to share a lane with motorcycles?
+   :keywords: Vancouver driver's license test, BC driver's license test cars, motorcycles, lane sharing
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When is it permissible for a car to share a lane with motorcycles?
+====================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q185" class="quiz">
+       <div class="option" id="q185-A" onclick="selectOption('q185', 'A', false)">
+           A. In busy urban areas
+       </div>
+       <div class="option" id="q185-B" onclick="selectOption('q185', 'B', false)">
+           B. Never
+       </div>
+       <div class="option" id="q185-C" onclick="selectOption('q185', 'C', true)">
+           C. On single-lane roads
+       </div>
+       <div class="option" id="q185-D" onclick="selectOption('q185', 'D', false)">
+           D. On any street or highway
+       </div>
+       <p id="q185-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   On single-lane roads, cars can share lanes with motorcycles, but drivers must prioritize safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q184.html" class="button">|prev_question|</a>
+       <span class="page-indicator">185 / 200</span>
+       <a href="q186.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

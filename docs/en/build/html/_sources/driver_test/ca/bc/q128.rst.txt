@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: In foggy weather and at night, you should slow down and use?
+   :keywords: Vancouver driver's license test, BC driver's license test fog, nighttime driving, low beams, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In foggy weather and at night, you should slow down and use?
+========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q128" class="quiz">
+       <div class="option" id="q128-A" onclick="selectOption('q128', 'A', false)">
+           A. Parking lights
+       </div>
+       <div class="option" id="q128-B" onclick="selectOption('q128', 'B', false)">
+           B. Hazard lights
+       </div>
+       <div class="option" id="q128-C" onclick="selectOption('q128', 'C', false)">
+           C. High beams
+       </div>
+       <div class="option" id="q128-D" onclick="selectOption('q128', 'D', true)">
+           D. Low beams
+       </div>
+       <p id="q128-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Using low beams in foggy or nighttime conditions reduces glare and improves visibility of the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q127.html" class="button">|prev_question|</a>
+       <span class="page-indicator">128 / 200</span>
+       <a href="q129.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

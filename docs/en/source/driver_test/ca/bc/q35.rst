@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Most rear-end collisions can be avoided if drivers?
+   :keywords: Vancouver driver's license test, BC driver's license test rear-end collision, distance, safe following, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Most rear-end collisions can be avoided if drivers?
+======================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/35.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q35" class="quiz">
+       <div class="option" id="q35-A" onclick="selectOption('q35', 'A', true)">
+           A. Maintain a greater distance
+       </div>
+       <div class="option" id="q35-B" onclick="selectOption('q35', 'B', false)">
+           B. React faster
+       </div>
+       <div class="option" id="q35-C" onclick="selectOption('q35', 'C', false)">
+           C. Increase their speed
+       </div>
+       <div class="option" id="q35-D" onclick="selectOption('q35', 'D', false)">
+           D. Reduce their speed
+       </div>
+       <p id="q35-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Maintaining a safe following distance is the most effective way to avoid rear-end collisions, as it provides more reaction time for sudden situations.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q34.html" class="button">|prev_question|</a>
+       <span class="page-indicator">35 / 200</span>
+       <a href="q36.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

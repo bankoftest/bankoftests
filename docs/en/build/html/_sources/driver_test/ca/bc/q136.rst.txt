@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why do most car-train collisions at night occur?
+   :keywords: Vancouver driver's license test, BC driver's license test train, night driving, traffic accidents
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why do most car-train collisions at night occur?
+================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q136" class="quiz">
+       <div class="option" id="q136-A" onclick="selectOption('q136', 'A', false)">
+           A. Car drivers are too tired
+       </div>
+       <div class="option" id="q136-B" onclick="selectOption('q136', 'B', true)">
+           B. Drivers fail to see the train
+       </div>
+       <div class="option" id="q136-C" onclick="selectOption('q136', 'C', false)">
+           C. Train operators fail to see vehicles on the track
+       </div>
+       <div class="option" id="q136-D" onclick="selectOption('q136', 'D', false)">
+           D. Cars get stuck on the tracks
+       </div>
+       <p id="q136-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Limited visibility at night often causes drivers to miss seeing approaching trains, leading to collisions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q135.html" class="button">|prev_question|</a>
+       <span class="page-indicator">136 / 200</span>
+       <a href="q137.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

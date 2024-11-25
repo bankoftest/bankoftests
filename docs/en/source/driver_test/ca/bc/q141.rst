@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When overtaking a large truck, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking, large truck, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When overtaking a large truck, what should you do?
+====================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q141" class="quiz">
+       <div class="option" id="q141-A" onclick="selectOption('q141', 'A', true)">
+           A. Only return to your lane when you can see the truck’s headlights in your rearview mirror
+       </div>
+       <div class="option" id="q141-B" onclick="selectOption('q141', 'B', false)">
+           B. Slow down after returning to the truck’s lane
+       </div>
+       <div class="option" id="q141-C" onclick="selectOption('q141', 'C', false)">
+           C. Only return to your lane when you can see the truck driver’s door in your rearview mirror
+       </div>
+       <div class="option" id="q141-D" onclick="selectOption('q141', 'D', false)">
+           D. Flash high beams before returning to the lane
+       </div>
+       <p id="q141-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   After overtaking a large truck, ensure you can clearly see the truck's headlights in your rearview mirror before returning to the lane.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q140.html" class="button">|prev_question|</a>
+       <span class="page-indicator">141 / 200</span>
+       <a href="q142.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -154,6 +154,11 @@ def update_toctree(title, questions, rst_dir):
 
 # Main script logic
 def main(test_id):
+    # Check if the test ID is valid
+    if test_id is None:
+        print("No test id input.")
+        return
+
     if test_id not in paths_dataset:
         print(f"Test ID '{test_id}' not found in paths_dataset.")
         return
@@ -185,6 +190,8 @@ def main(test_id):
 
 
 if __name__ == "__main__":
-    #test_id = "math_test_elementary_school_grade_one_en"  
-    test_id = "driver_test_ca_bc_zh"
+    #test_id = "driver_test_ca_bc_en"  
+    #test_id = "driver_test_ca_bc_zh"
+    test_id = None
+
     main(test_id)

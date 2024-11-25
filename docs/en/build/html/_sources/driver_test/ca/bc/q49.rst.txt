@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which part of the road is hardest to see in a rearview mirror?
+   :keywords: Vancouver driver's license test, BC driver's license test rearview mirror, blind spots, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which part of the road is hardest to see in a rearview mirror?
+============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/49.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q49" class="quiz">
+       <div class="option" id="q49-A" onclick="selectOption('q49', 'A', false)">
+           A. Section A
+       </div>
+       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', false)">
+           B. Section C
+       </div>
+       <div class="option" id="q49-C" onclick="selectOption('q49', 'C', false)">
+           C. Section D
+       </div>
+       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', true)">
+           D. Section B
+       </div>
+       <p id="q49-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Blind spots are usually located on the sides and rear of the vehicle, making Section B difficult to see in the rearview mirror.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q48.html" class="button">|prev_question|</a>
+       <span class="page-indicator">49 / 200</span>
+       <a href="q50.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

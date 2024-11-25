@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Two vehicles arrive at an intersection simultaneously. Who should proceed first?
+   :keywords: Vancouver driver's license test, BC driver's license test intersection right of way, driving rules, straight priority
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Two vehicles arrive at an intersection simultaneously. Who should proceed first?
+================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/74.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q74" class="quiz">
+       <div class="option" id="q74-A" onclick="selectOption('q74', 'A', false)">
+           A. Whichever vehicle stops first, the other should proceed
+       </div>
+       <div class="option" id="q74-B" onclick="selectOption('q74', 'B', true)">
+           B. The vehicle going straight
+       </div>
+       <div class="option" id="q74-C" onclick="selectOption('q74', 'C', false)">
+           C. The vehicle signaling left
+       </div>
+       <div class="option" id="q74-D" onclick="selectOption('q74', 'D', false)">
+           D. The vehicle ready to move
+       </div>
+       <p id="q74-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   At an intersection, vehicles going straight have the right of way. Left-turning vehicles must yield.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q73.html" class="button">|prev_question|</a>
+       <span class="page-indicator">74 / 200</span>
+       <a href="q75.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

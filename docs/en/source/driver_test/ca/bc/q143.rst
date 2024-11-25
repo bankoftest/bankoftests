@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What can help reduce serious injuries in a traffic accident?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic accident, seat belt, injury prevention
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What can help reduce serious injuries in a traffic accident?
+========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q143" class="quiz">
+       <div class="option" id="q143-A" onclick="selectOption('q143', 'A', true)">
+           A. Wearing a lap and shoulder belt
+       </div>
+       <div class="option" id="q143-B" onclick="selectOption('q143', 'B', false)">
+           B. Wearing a lap belt
+       </div>
+       <div class="option" id="q143-C" onclick="selectOption('q143', 'C', false)">
+           C. Being thrown out of the vehicle
+       </div>
+       <div class="option" id="q143-D" onclick="selectOption('q143', 'D', false)">
+           D. Holding onto the steering wheel tightly
+       </div>
+       <p id="q143-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Wearing a lap and shoulder belt effectively reduces the risk of serious injuries in a traffic accident.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q142.html" class="button">|prev_question|</a>
+       <span class="page-indicator">143 / 200</span>
+       <a href="q144.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

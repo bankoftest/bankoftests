@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should Driver A do in the situation shown?
+   :keywords: Vancouver driver's license test, BC driver's license test stopping, pedestrian priority, crossing the road, safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should Driver A do in the situation shown?
+==============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/116.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q116" class="quiz">
+       <div class="option" id="q116-A" onclick="selectOption('q116', 'A', false)">
+           A. Stop and tell the pedestrian not to cross the road here
+       </div>
+       <div class="option" id="q116-B" onclick="selectOption('q116', 'B', true)">
+           B. Stop and let the pedestrian cross the road
+       </div>
+       <div class="option" id="q116-C" onclick="selectOption('q116', 'C', false)">
+           C. Continue driving because there is no crosswalk
+       </div>
+       <div class="option" id="q116-D" onclick="selectOption('q116', 'D', false)">
+           D. Stop and wave to the pedestrian to cross
+       </div>
+       <p id="q116-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The driver should stop and let the pedestrian cross the road to ensure their safety. Do not gesture or wave; only police officers should direct traffic.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q115.html" class="button">|prev_question|</a>
+       <span class="page-indicator">116 / 200</span>
+       <a href="q117.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

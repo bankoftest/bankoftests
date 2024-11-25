@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If you're driving at the maximum speed limit but a queue of vehicles is following you, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test speed limit, traffic queues, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you're driving at the maximum speed limit but a queue of vehicles is following you, what should you do?
+====================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q197" class="quiz">
+       <div class="option" id="q197-A" onclick="selectOption('q197', 'A', false)">
+           A. Maintain your speed
+       </div>
+       <div class="option" id="q197-B" onclick="selectOption('q197', 'B', false)">
+           B. Flash your brake lights
+       </div>
+       <div class="option" id="q197-C" onclick="selectOption('q197', 'C', false)">
+           C. Move to the right lane
+       </div>
+       <div class="option" id="q197-D" onclick="selectOption('q197', 'D', true)">
+           D. Pull over to let other vehicles pass
+       </div>
+       <p id="q197-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If there is a queue of vehicles behind you, pull over or slow down to allow the queue to pass, reducing traffic pressure.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q196.html" class="button">|prev_question|</a>
+       <span class="page-indicator">197 / 200</span>
+       <a href="q198.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

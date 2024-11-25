@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do before making a right turn?
+   :keywords: Vancouver driver's license test, BC driver's license test right turns, blind spots, signaling
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do before making a right turn?
+============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q198" class="quiz">
+       <div class="option" id="q198-A" onclick="selectOption('q198', 'A', false)">
+           A. Signal and check side mirrors
+       </div>
+       <div class="option" id="q198-B" onclick="selectOption('q198', 'B', false)">
+           B. Signal and check all rearview mirrors
+       </div>
+       <div class="option" id="q198-C" onclick="selectOption('q198', 'C', true)">
+           C. Signal, check all mirrors, and shoulder check for blind spots
+       </div>
+       <div class="option" id="q198-D" onclick="selectOption('q198', 'D', false)">
+           D. Turn quickly if there are no pedestrians
+       </div>
+       <p id="q198-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Before turning right, signal your intent, check all mirrors, and shoulder check for blind spots to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q197.html" class="button">|prev_question|</a>
+       <span class="page-indicator">198 / 200</span>
+       <a href="q199.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

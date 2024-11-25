@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do if you are emotionally upset before driving?
+   :keywords: Vancouver driver's license test, BC driver's license test emotional management, driving safety, driving mindset
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do if you are emotionally upset before driving?
+==============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q168" class="quiz">
+       <div class="option" id="q168-A" onclick="selectOption('q168', 'A', false)">
+           A. Listen to relaxing music
+       </div>
+       <div class="option" id="q168-B" onclick="selectOption('q168', 'B', true)">
+           B. Wait until you calm down before driving
+       </div>
+       <div class="option" id="q168-C" onclick="selectOption('q168', 'C', false)">
+           C. Take deep breaths before driving
+       </div>
+       <div class="option" id="q168-D" onclick="selectOption('q168', 'D', false)">
+           D. Focus your attention on driving
+       </div>
+       <p id="q168-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving while emotionally upset can impair judgment. Wait until you feel calm before getting behind the wheel.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q167.html" class="button">|prev_question|</a>
+       <span class="page-indicator">168 / 200</span>
+       <a href="q169.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

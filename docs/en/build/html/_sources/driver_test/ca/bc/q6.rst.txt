@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does a steady red light mean?
+   :keywords: Vancouver driver's license test, BC driver's license test red light, stop, intersection, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does a steady red light mean?
+====================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/6.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q6" class="quiz">
+       <div class="option" id="q6-A" onclick="selectOption('q6', 'A', false)">
+           A. Stop, proceed when safe
+       </div>
+       <div class="option" id="q6-B" onclick="selectOption('q6', 'B', false)">
+           B. Stop, except for a right turn
+       </div>
+       <div class="option" id="q6-C" onclick="selectOption('q6', 'C', true)">
+           C. Stop before the intersection
+       </div>
+       <div class="option" id="q6-D" onclick="selectOption('q6', 'D', false)">
+           D. Stop if there is an approaching vehicle
+       </div>
+       <p id="q6-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Option A, 'Stop, proceed when safe,' confuses the rules for a yellow light. Option B, 'Stop, except for a right turn,' applies in specific situations. Option C, 'Stop before the intersection,' clearly explains the red light rule. Option D, 'Stop if there is an approaching vehicle,' is incorrect.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q5.html" class="button">|prev_question|</a>
+       <span class="page-indicator">6 / 200</span>
+       <a href="q7.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

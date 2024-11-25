@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When can you pass through an intersection with a green light?
+   :keywords: Vancouver driver's license test, BC driver's license test intersection, green light, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When can you pass through an intersection with a green light?
+==========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q166" class="quiz">
+       <div class="option" id="q166-A" onclick="selectOption('q166', 'A', false)">
+           A. When there are no pedestrians
+       </div>
+       <div class="option" id="q166-B" onclick="selectOption('q166', 'B', false)">
+           B. When there is no traffic congestion
+       </div>
+       <div class="option" id="q166-C" onclick="selectOption('q166', 'C', false)">
+           C. Pass through directly
+       </div>
+       <div class="option" id="q166-D" onclick="selectOption('q166', 'D', true)">
+           D. When the intersection is clear
+       </div>
+       <p id="q166-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   You can only proceed through an intersection on a green light if it is clear of any obstacles.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q165.html" class="button">|prev_question|</a>
+       <span class="page-indicator">166 / 200</span>
+       <a href="q167.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What must you do when a school bus is stopped with flashing red lights?
+   :keywords: Vancouver driver's license test, BC driver's license test school bus, stop, red lights
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What must you do when a school bus is stopped with flashing red lights?
+==============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q126" class="quiz">
+       <div class="option" id="q126-A" onclick="selectOption('q126', 'A', false)">
+           A. Watch for children and prepare to stop
+       </div>
+       <div class="option" id="q126-B" onclick="selectOption('q126', 'B', true)">
+           B. Stop and wait until the red lights stop flashing
+       </div>
+       <div class="option" id="q126-C" onclick="selectOption('q126', 'C', false)">
+           C. Stop, check for children, then proceed
+       </div>
+       <div class="option" id="q126-D" onclick="selectOption('q126', 'D', false)">
+           D. Drive slowly and prepare to stop
+       </div>
+       <p id="q126-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When a school bus flashes red lights, you must stop and wait until the lights stop flashing to ensure the safety of children.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q125.html" class="button">|prev_question|</a>
+       <span class="page-indicator">126 / 200</span>
+       <a href="q127.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

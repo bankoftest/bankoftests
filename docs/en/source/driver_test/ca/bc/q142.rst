@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is true about bridges and overpasses?
+   :keywords: Vancouver driver's license test, BC driver's license test bridge, overpass, ice, road surface
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is true about bridges and overpasses?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q142" class="quiz">
+       <div class="option" id="q142-A" onclick="selectOption('q142', 'A', true)">
+           A. Their surfaces freeze faster than roadways
+       </div>
+       <div class="option" id="q142-B" onclick="selectOption('q142', 'B', false)">
+           B. They are not as slippery as roadways
+       </div>
+       <div class="option" id="q142-C" onclick="selectOption('q142', 'C', false)">
+           C. Ice and snow melt faster on them
+       </div>
+       <div class="option" id="q142-D" onclick="selectOption('q142', 'D', false)">
+           D. Their icy surfaces are not very slippery
+       </div>
+       <p id="q142-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Since bridges and overpasses lack ground support underneath, their surfaces freeze faster in cold weather.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q141.html" class="button">|prev_question|</a>
+       <span class="page-indicator">142 / 200</span>
+       <a href="q143.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

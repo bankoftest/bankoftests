@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why would a driver honk at a cyclist?
+   :keywords: Vancouver driver's license test, BC driver's license test cyclist, honking, driving warnings, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why would a driver honk at a cyclist?
+==========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q5" class="quiz">
+       <div class="option" id="q5-A" onclick="selectOption('q5', 'A', false)">
+           A. To let the cyclist know the driver is nearby
+       </div>
+       <div class="option" id="q5-B" onclick="selectOption('q5', 'B', true)">
+           B. To issue a warning
+       </div>
+       <div class="option" id="q5-C" onclick="selectOption('q5', 'C', false)">
+           C. To tell the cyclist to yield
+       </div>
+       <div class="option" id="q5-D" onclick="selectOption('q5', 'D', false)">
+           D. To inform the cyclist that there is a vehicle nearby
+       </div>
+       <p id="q5-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This question is somewhat tricky to understand. The analysis should go as follows: Drivers generally should not honk at cyclists unless in special situations that require issuing a warning. By elimination, options A, C, and D describe common situations. If honking were necessary in these cases, roads would constantly be filled with honking sounds.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q4.html" class="button">|prev_question|</a>
+       <span class="page-indicator">5 / 200</span>
+       <a href="q6.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

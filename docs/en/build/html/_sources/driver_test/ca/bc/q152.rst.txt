@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test construction sign, road construction, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/152.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q152" class="quiz">
+       <div class="option" id="q152-A" onclick="selectOption('q152', 'A', false)">
+           A. Construction ends
+       </div>
+       <div class="option" id="q152-B" onclick="selectOption('q152', 'B', true)">
+           B. Construction ahead
+       </div>
+       <div class="option" id="q152-C" onclick="selectOption('q152', 'C', false)">
+           C. Construction ahead, you must turn around
+       </div>
+       <div class="option" id="q152-D" onclick="selectOption('q152', 'D', false)">
+           D. Construction is underway
+       </div>
+       <p id="q152-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Memorize this sign for the test.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q151.html" class="button">|prev_question|</a>
+       <span class="page-indicator">152 / 200</span>
+       <a href="q153.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

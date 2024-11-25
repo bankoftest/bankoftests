@@ -1,54 +1,53 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">New BC Driving License Written Test Simulation 2024 Edition</div>
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
 
 .. meta::
-   :description: What is the minimum following distance while driving in BC?
-   :keywords: BC driving test, following distance, BC driving exam
+   :description: When parking on an uphill behind a large vehicle, why should you leave more space?
+   :keywords: Vancouver driver's license test, BC driver's license test uphill parking, parking, large vehicles, roll back, space
 
 .. raw:: html
 
    <div class="question-card">
 
 
-What is the minimum following distance while driving in BC?
-======================================================================================================================
+When parking on an uphill behind a large vehicle, why should you leave more space?
+====================================================================================================================================================================
 
-.. image:: /../../../images/driver_test/ca/bc/2.jpg
-   :width: 70%
-   :alt: Image for the question
-   :align: center
+.. raw:: html
 
+   <hr>
 
 .. raw:: html
 
    <div id="q2" class="quiz">
        <div class="option" id="q2-A" onclick="selectOption('q2', 'A', false)">
-           A. 1 second
+           A. You can be seen by the vehicle in front
        </div>
-       <div class="option" id="q2-B" onclick="selectOption('q2', 'B', true)">
-           B. 2 seconds
+       <div class="option" id="q2-B" onclick="selectOption('q2', 'B', false)">
+           B. You won’t inhale the truck's exhaust
        </div>
        <div class="option" id="q2-C" onclick="selectOption('q2', 'C', false)">
-           C. 3 seconds
+           C. You can bypass it when it starts slowly
        </div>
-       <div class="option" id="q2-D" onclick="selectOption('q2', 'D', false)">
-           D. 4 seconds
+       <div class="option" id="q2-D" onclick="selectOption('q2', 'D', true)">
+           D. Large vehicles may roll back when starting, hitting your car
        </div>
        <p id="q2-result" class="result"></p>
    </div>
 
+   <hr>
 
 .. dropdown:: ►|explanation|
 
-   Under ideal conditions, the minimum following distance in BC is 2 seconds.
+   Option A, 'You can be seen by the vehicle in front,' is not directly related to safety. Option B, 'You won’t inhale the truck's exhaust,' is beneficial to health but unrelated to safety. Option C, 'You can bypass it when it starts slowly,' is dangerous, especially if the vehicle rolls back. Option D, 'Large vehicles may roll back when starting, hitting your car,' explains the correct reason.
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q1.html" class="button">|prev_question|</a>
-       <span class="page-indicator">2 / 3</span>
+       <span class="page-indicator">2 / 200</span>
        <a href="q3.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: You should never overtake another vehicle?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking restrictions, hill crests, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+You should never overtake another vehicle?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q95" class="quiz">
+       <div class="option" id="q95-A" onclick="selectOption('q95', 'A', true)">
+           A. When approaching the crest of a hill
+       </div>
+       <div class="option" id="q95-B" onclick="selectOption('q95', 'B', false)">
+           B. During heavy rain
+       </div>
+       <div class="option" id="q95-C" onclick="selectOption('q95', 'C', false)">
+           C. On a two-lane road at night
+       </div>
+       <div class="option" id="q95-D" onclick="selectOption('q95', 'D', false)">
+           D. On an unfamiliar road
+       </div>
+       <p id="q95-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Overtaking near the crest of a hill is extremely dangerous as visibility is limited, preventing you from seeing oncoming traffic.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q94.html" class="button">|prev_question|</a>
+       <span class="page-indicator">95 / 200</span>
+       <a href="q96.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

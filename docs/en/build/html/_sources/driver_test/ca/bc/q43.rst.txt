@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When driving at high speed and approaching a sudden curve, the best way to handle it is?
+   :keywords: Vancouver driver's license test, BC driver's license test high speed, curves, deceleration, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When driving at high speed and approaching a sudden curve, the best way to handle it is?
+================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q43" class="quiz">
+       <div class="option" id="q43-A" onclick="selectOption('q43', 'A', true)">
+           A. Take your foot off the gas before entering the curve
+       </div>
+       <div class="option" id="q43-B" onclick="selectOption('q43', 'B', false)">
+           B. Brake after entering the curve
+       </div>
+       <div class="option" id="q43-C" onclick="selectOption('q43', 'C', false)">
+           C. Brake while entering the curve
+       </div>
+       <div class="option" id="q43-D" onclick="selectOption('q43', 'D', false)">
+           D. Maintain speed and grip the steering wheel tightly
+       </div>
+       <p id="q43-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Slowing down before entering a curve is the safest method. You can reduce speed gradually by lifting your foot off the gas, which helps maintain vehicle control.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q42.html" class="button">|prev_question|</a>
+       <span class="page-indicator">43 / 200</span>
+       <a href="q44.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

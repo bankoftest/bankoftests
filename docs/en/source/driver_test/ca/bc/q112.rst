@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If your vehicle breaks down, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test vehicle breakdown, hazard lights, stopping, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If your vehicle breaks down, what should you do?
+================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q112" class="quiz">
+       <div class="option" id="q112-A" onclick="selectOption('q112', 'A', false)">
+           A. Stop in your lane and turn on hazard lights
+       </div>
+       <div class="option" id="q112-B" onclick="selectOption('q112', 'B', true)">
+           B. Pull over and turn on hazard lights
+       </div>
+       <div class="option" id="q112-C" onclick="selectOption('q112', 'C', false)">
+           C. Slow down and drive to the next exit
+       </div>
+       <div class="option" id="q112-D" onclick="selectOption('q112', 'D', false)">
+           D. Honk and drive to the next intersection
+       </div>
+       <p id="q112-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If your vehicle breaks down, you should immediately pull over and turn on hazard lights to warn other road users and avoid accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q111.html" class="button">|prev_question|</a>
+       <span class="page-indicator">112 / 200</span>
+       <a href="q113.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

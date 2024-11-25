@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What danger does a motorcycle face when a traffic light just turns green?
+   :keywords: Vancouver driver's license test, BC driver's license test motorcycle, traffic light, green light, left-turn danger
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What danger does a motorcycle face when a traffic light just turns green?
+==================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/32.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q32" class="quiz">
+       <div class="option" id="q32-A" onclick="selectOption('q32', 'A', false)">
+           A. Vehicle B behind the motorcycle might hit it
+       </div>
+       <div class="option" id="q32-B" onclick="selectOption('q32', 'B', false)">
+           B. Vehicle A might skid at the intersection
+       </div>
+       <div class="option" id="q32-C" onclick="selectOption('q32', 'C', true)">
+           C. The driver of Vehicle A might not see it while turning left and collide
+       </div>
+       <div class="option" id="q32-D" onclick="selectOption('q32', 'D', false)">
+           D. The motorcycle might skid in the rain
+       </div>
+       <p id="q32-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The main danger a motorcycle faces is that the driver of another vehicle (e.g., Vehicle A) might not notice it while turning left due to a blind spot.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q31.html" class="button">|prev_question|</a>
+       <span class="page-indicator">32 / 200</span>
+       <a href="q33.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

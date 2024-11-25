@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to avoid fatigue during long-distance driving?
+   :keywords: Vancouver driver's license test, BC driver's license test long-distance driving, fatigue prevention, trip planning
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to avoid fatigue during long-distance driving?
+======================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q140" class="quiz">
+       <div class="option" id="q140-A" onclick="selectOption('q140', 'A', false)">
+           A. Bring a pot of coffee and drink a lot of it
+       </div>
+       <div class="option" id="q140-B" onclick="selectOption('q140', 'B', false)">
+           B. Keep the car temperature comfortable
+       </div>
+       <div class="option" id="q140-C" onclick="selectOption('q140', 'C', true)">
+           C. Plan your trip with breaks, meals, and stops
+       </div>
+       <div class="option" id="q140-D" onclick="selectOption('q140', 'D', false)">
+           D. Eat as much as possible
+       </div>
+       <p id="q140-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Planning your driving route with regular breaks and stops helps to reduce fatigue.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q139.html" class="button">|prev_question|</a>
+       <span class="page-indicator">140 / 200</span>
+       <a href="q141.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

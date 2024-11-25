@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What do car drivers often find about motorcycles?
+   :keywords: Vancouver driver's license test, BC driver's license test motorcycles, speed judgment, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What do car drivers often find about motorcycles?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q138" class="quiz">
+       <div class="option" id="q138-A" onclick="selectOption('q138', 'A', false)">
+           A. The type of helmet worn indicates the rider's skill level
+       </div>
+       <div class="option" id="q138-B" onclick="selectOption('q138', 'B', true)">
+           B. It's hard to judge their speed
+       </div>
+       <div class="option" id="q138-C" onclick="selectOption('q138', 'C', false)">
+           C. It's easy to judge the speed of an oncoming motorcycle
+       </div>
+       <div class="option" id="q138-D" onclick="selectOption('q138', 'D', false)">
+           D. They can share a lane with motorcycles
+       </div>
+       <p id="q138-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Due to their small size and high speed, motorcycles are challenging for drivers to accurately judge their speed.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q137.html" class="button">|prev_question|</a>
+       <span class="page-indicator">138 / 200</span>
+       <a href="q139.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

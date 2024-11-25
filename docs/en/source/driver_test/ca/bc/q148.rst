@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When should a driver use the horn?
+   :keywords: Vancouver driver's license test, BC driver's license test horn usage, safety warning
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When should a driver use the horn?
+====================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q148" class="quiz">
+       <div class="option" id="q148-A" onclick="selectOption('q148', 'A', false)">
+           A. To let others know you are nearby
+       </div>
+       <div class="option" id="q148-B" onclick="selectOption('q148', 'B', true)">
+           B. To give a warning
+       </div>
+       <div class="option" id="q148-C" onclick="selectOption('q148', 'C', false)">
+           C. When overtaking
+       </div>
+       <div class="option" id="q148-D" onclick="selectOption('q148', 'D', false)">
+           D. To remind other road users
+       </div>
+       <p id="q148-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers should use the horn only to warn other road users when necessary for safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q147.html" class="button">|prev_question|</a>
+       <span class="page-indicator">148 / 200</span>
+       <a href="q149.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

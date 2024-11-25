@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Where must the vehicle in the image stop?
+   :keywords: Vancouver driver's license test, BC driver's license test stop rules, white line stopping, intersection safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Where must the vehicle in the image stop?
+==================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/52.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q52" class="quiz">
+       <div class="option" id="q52-A" onclick="selectOption('q52', 'A', false)">
+           A. At the intersection
+       </div>
+       <div class="option" id="q52-B" onclick="selectOption('q52', 'B', false)">
+           B. One meter away from the intersection
+       </div>
+       <div class="option" id="q52-C" onclick="selectOption('q52', 'C', true)">
+           C. Before the white line on the road
+       </div>
+       <div class="option" id="q52-D" onclick="selectOption('q52', 'D', false)">
+           D. When the driver sees the intersection
+       </div>
+       <p id="q52-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   According to traffic rules, vehicles must stop before the white line at intersections to ensure they do not obstruct pedestrians or other vehicles.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q51.html" class="button">|prev_question|</a>
+       <span class="page-indicator">52 / 200</span>
+       <a href="q53.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

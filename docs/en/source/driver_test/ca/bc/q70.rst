@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test one-way road, traffic signs, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/70.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q70" class="quiz">
+       <div class="option" id="q70-A" onclick="selectOption('q70', 'A', false)">
+           A. You have the right of way
+       </div>
+       <div class="option" id="q70-B" onclick="selectOption('q70', 'B', false)">
+           B. No lane changes ahead
+       </div>
+       <div class="option" id="q70-C" onclick="selectOption('q70', 'C', false)">
+           C. One-way road ahead
+       </div>
+       <div class="option" id="q70-D" onclick="selectOption('q70', 'D', true)">
+           D. No turns at the upcoming intersection
+       </div>
+       <p id="q70-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q69.html" class="button">|prev_question|</a>
+       <span class="page-indicator">70 / 200</span>
+       <a href="q71.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

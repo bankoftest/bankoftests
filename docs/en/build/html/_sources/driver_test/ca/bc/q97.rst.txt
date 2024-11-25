@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should you pay extra attention to pedestrians and cyclists at night?
+   :keywords: Vancouver driver's license test, BC driver's license test night driving, pedestrians, cyclists, visibility
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should you pay extra attention to pedestrians and cyclists at night?
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q97" class="quiz">
+       <div class="option" id="q97-A" onclick="selectOption('q97', 'A', false)">
+           A. They tend to disregard traffic rules at night
+       </div>
+       <div class="option" id="q97-B" onclick="selectOption('q97', 'B', false)">
+           B. There are more bicycles at night
+       </div>
+       <div class="option" id="q97-C" onclick="selectOption('q97', 'C', true)">
+           C. They are harder to see
+       </div>
+       <div class="option" id="q97-D" onclick="selectOption('q97', 'D', false)">
+           D. They might be less careful
+       </div>
+       <p id="q97-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Pedestrians and cyclists are harder to see at night due to low visibility, so drivers must exercise extra caution.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q96.html" class="button">|prev_question|</a>
+       <span class="page-indicator">97 / 200</span>
+       <a href="q98.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

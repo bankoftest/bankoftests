@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why should you leave extra space when overtaking a motorcycle?
+   :keywords: Vancouver driver's license test, BC driver's license test motorcycle, overtaking, driving safety, distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why should you leave extra space when overtaking a motorcycle?
+============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q27" class="quiz">
+       <div class="option" id="q27-A" onclick="selectOption('q27', 'A', false)">
+           A. Because it is lighter than a car
+       </div>
+       <div class="option" id="q27-B" onclick="selectOption('q27', 'B', false)">
+           B. Because motorcyclists are less skilled than car drivers
+       </div>
+       <div class="option" id="q27-C" onclick="selectOption('q27', 'C', false)">
+           C. Because they often drive fast
+       </div>
+       <div class="option" id="q27-D" onclick="selectOption('q27', 'D', true)">
+           D. To avoid splashing dirt onto the motorcyclist
+       </div>
+       <p id="q27-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Leave extra space when overtaking motorcycles to avoid splashing dirt, which can affect the rider's visibility and safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q26.html" class="button">|prev_question|</a>
+       <span class="page-indicator">27 / 200</span>
+       <a href="q28.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

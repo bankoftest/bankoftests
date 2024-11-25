@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best reaction when your vehicle starts to skid?
+   :keywords: Vancouver driver's license test, BC driver's license test skidding, steering control, driving technique
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best reaction when your vehicle starts to skid?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q99" class="quiz">
+       <div class="option" id="q99-A" onclick="selectOption('q99', 'A', true)">
+           A. Take your foot off the gas and steer in the direction you want to go
+       </div>
+       <div class="option" id="q99-B" onclick="selectOption('q99', 'B', false)">
+           B. Take your foot off the gas and steer in the opposite direction
+       </div>
+       <div class="option" id="q99-C" onclick="selectOption('q99', 'C', false)">
+           C. Brake and steer in the direction of the skid
+       </div>
+       <div class="option" id="q99-D" onclick="selectOption('q99', 'D', false)">
+           D. Steer in the opposite direction of the skid
+       </div>
+       <p id="q99-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If your vehicle starts to skid, release the gas pedal and steer in the direction you want to go to regain control.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q98.html" class="button">|prev_question|</a>
+       <span class="page-indicator">99 / 200</span>
+       <a href="q100.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

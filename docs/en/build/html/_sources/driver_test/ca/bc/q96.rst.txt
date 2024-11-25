@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test sharp turn sign, road safety, slow down
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q96" class="quiz">
+       <div class="option" id="q96-A" onclick="selectOption('q96', 'A', false)">
+           A. This lane must turn right ahead
+       </div>
+       <div class="option" id="q96-B" onclick="selectOption('q96', 'B', true)">
+           B. Slow down, sharp right turn ahead
+       </div>
+       <div class="option" id="q96-C" onclick="selectOption('q96', 'C', false)">
+           C. Intersection allows only right turns
+       </div>
+       <div class="option" id="q96-D" onclick="selectOption('q96', 'D', false)">
+           D. Right U-turn ahead
+       </div>
+       <p id="q96-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just remember.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q95.html" class="button">|prev_question|</a>
+       <span class="page-indicator">96 / 200</span>
+       <a href="q97.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

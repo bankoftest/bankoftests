@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How far must you park from an intersection?
+   :keywords: Vancouver driver's license test, BC driver's license test parking, intersection, distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How far must you park from an intersection?
+======================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q188" class="quiz">
+       <div class="option" id="q188-A" onclick="selectOption('q188', 'A', false)">
+           A. 5 meters
+       </div>
+       <div class="option" id="q188-B" onclick="selectOption('q188', 'B', true)">
+           B. 6 meters
+       </div>
+       <div class="option" id="q188-C" onclick="selectOption('q188', 'C', false)">
+           C. 15 meters
+       </div>
+       <div class="option" id="q188-D" onclick="selectOption('q188', 'D', false)">
+           D. 3 meters
+       </div>
+       <p id="q188-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   According to traffic regulations, vehicles must park at least 6 meters away from an intersection.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q187.html" class="button">|prev_question|</a>
+       <span class="page-indicator">188 / 200</span>
+       <a href="q189.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

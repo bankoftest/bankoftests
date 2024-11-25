@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to see things in your blind spot?
+   :keywords: Vancouver driver's license test, BC driver's license test blind spot, turning check, lane change safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to see things in your blind spot?
+============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q88" class="quiz">
+       <div class="option" id="q88-A" onclick="selectOption('q88', 'A', true)">
+           A. Turn your head before turning or changing lanes
+       </div>
+       <div class="option" id="q88-B" onclick="selectOption('q88', 'B', false)">
+           B. Perform a 180-degree check
+       </div>
+       <div class="option" id="q88-C" onclick="selectOption('q88', 'C', false)">
+           C. Ask your passenger to check for you
+       </div>
+       <div class="option" id="q88-D" onclick="selectOption('q88', 'D', false)">
+           D. Regularly check your rearview mirror
+       </div>
+       <p id="q88-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Turning your head to check blind spots is the most effective method, as mirrors alone do not cover the entire view.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q87.html" class="button">|prev_question|</a>
+       <span class="page-indicator">88 / 200</span>
+       <a href="q89.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

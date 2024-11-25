@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver of this vehicle do?
+   :keywords: Vancouver driver's license test, BC driver's license test bend, overtaking, cyclist, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver of this vehicle do?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/105.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q105" class="quiz">
+       <div class="option" id="q105-A" onclick="selectOption('q105', 'A', false)">
+           A. Flash high beams to tell the cyclist to move
+       </div>
+       <div class="option" id="q105-B" onclick="selectOption('q105', 'B', false)">
+           B. Quickly overtake the cyclist
+       </div>
+       <div class="option" id="q105-C" onclick="selectOption('q105', 'C', false)">
+           C. Honk to tell the cyclist to move
+       </div>
+       <div class="option" id="q105-D" onclick="selectOption('q105', 'D', true)">
+           D. Wait until the bend is cleared by vehicles and the cyclist before overtaking
+       </div>
+       <p id="q105-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   On a bend, the driver should wait for other vehicles and the cyclist to clear the curve before safely overtaking to avoid danger.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q104.html" class="button">|prev_question|</a>
+       <span class="page-indicator">105 / 200</span>
+       <a href="q106.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

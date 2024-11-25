@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When must you turn on your headlights if visibility is below how many meters?
+   :keywords: Vancouver driver's license test, BC driver's license test visibility, headlights, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When must you turn on your headlights if visibility is below how many meters?
+==========================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q71" class="quiz">
+       <div class="option" id="q71-A" onclick="selectOption('q71', 'A', false)">
+           A. 200 meters
+       </div>
+       <div class="option" id="q71-B" onclick="selectOption('q71', 'B', false)">
+           B. 250 meters
+       </div>
+       <div class="option" id="q71-C" onclick="selectOption('q71', 'C', true)">
+           C. 150 meters
+       </div>
+       <div class="option" id="q71-D" onclick="selectOption('q71', 'D', false)">
+           D. 300 meters
+       </div>
+       <p id="q71-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Headlights must be turned on when visibility is below 150 meters to improve visibility to other drivers.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q70.html" class="button">|prev_question|</a>
+       <span class="page-indicator">71 / 200</span>
+       <a href="q72.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

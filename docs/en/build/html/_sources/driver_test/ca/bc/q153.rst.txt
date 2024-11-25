@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When the traffic light turns green, what should a driver do?
+   :keywords: Vancouver driver's license test, BC driver's license test green light, intersection, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When the traffic light turns green, what should a driver do?
+========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q153" class="quiz">
+       <div class="option" id="q153-A" onclick="selectOption('q153', 'A', false)">
+           A. Honk before entering the intersection
+       </div>
+       <div class="option" id="q153-B" onclick="selectOption('q153', 'B', false)">
+           B. Enter the intersection immediately
+       </div>
+       <div class="option" id="q153-C" onclick="selectOption('q153', 'C', false)">
+           C. Slow down near the intersection and prepare to stop
+       </div>
+       <div class="option" id="q153-D" onclick="selectOption('q153', 'D', true)">
+           D. Check traffic before entering the intersection
+       </div>
+       <p id="q153-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A green light does not always guarantee safety. Drivers should check traffic conditions before entering the intersection.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q152.html" class="button">|prev_question|</a>
+       <span class="page-indicator">153 / 200</span>
+       <a href="q154.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

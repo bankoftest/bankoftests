@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does a solid green arrow mean?
+   :keywords: Vancouver driver's license test, BC driver's license test green arrow, intersection, turn signal
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does a solid green arrow mean?
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/108.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q108" class="quiz">
+       <div class="option" id="q108-A" onclick="selectOption('q108', 'A', false)">
+           A. You can turn in the arrow's direction after a full stop
+       </div>
+       <div class="option" id="q108-B" onclick="selectOption('q108', 'B', false)">
+           B. The street ahead is one-way
+       </div>
+       <div class="option" id="q108-C" onclick="selectOption('q108', 'C', true)">
+           C. You can turn in the arrow's direction when the intersection is clear
+       </div>
+       <div class="option" id="q108-D" onclick="selectOption('q108', 'D', false)">
+           D. You can only turn left at the intersection
+       </div>
+       <p id="q108-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A solid green arrow means you can safely turn in the arrow's direction if the intersection is clear.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q107.html" class="button">|prev_question|</a>
+       <span class="page-indicator">108 / 200</span>
+       <a href="q109.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

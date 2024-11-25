@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When should you use turn signals?
+   :keywords: Vancouver driver's license test, BC driver's license test turn signals, turning, lane change, traffic signal
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When should you use turn signals?
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q107" class="quiz">
+       <div class="option" id="q107-A" onclick="selectOption('q107', 'A', false)">
+           A. When traffic is heavy
+       </div>
+       <div class="option" id="q107-B" onclick="selectOption('q107', 'B', false)">
+           B. One street before making a turn
+       </div>
+       <div class="option" id="q107-C" onclick="selectOption('q107', 'C', false)">
+           C. Only when turning at a corner
+       </div>
+       <div class="option" id="q107-D" onclick="selectOption('q107', 'D', true)">
+           D. Whenever turning or changing lanes
+       </div>
+       <p id="q107-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Turn signals should be used whenever turning or changing lanes to give clear signals to other road users.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q106.html" class="button">|prev_question|</a>
+       <span class="page-indicator">107 / 200</span>
+       <a href="q108.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

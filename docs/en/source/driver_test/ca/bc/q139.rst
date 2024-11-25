@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What about traffic controller instructions?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic controller, road rules, follow instructions
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What about traffic controller instructions?
+======================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q139" class="quiz">
+       <div class="option" id="q139-A" onclick="selectOption('q139', 'A', false)">
+           A. Must be followed only if they don't conflict with road rules
+       </div>
+       <div class="option" id="q139-B" onclick="selectOption('q139', 'B', true)">
+           B. Must always be followed
+       </div>
+       <div class="option" id="q139-C" onclick="selectOption('q139', 'C', false)">
+           C. Cannot override traffic rules
+       </div>
+       <div class="option" id="q139-D" onclick="selectOption('q139', 'D', false)">
+           D. Do not need to be followed on public roads
+       </div>
+       <p id="q139-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Traffic controller instructions always take precedence, regardless of whether they conflict with road rules.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q138.html" class="button">|prev_question|</a>
+       <span class="page-indicator">139 / 200</span>
+       <a href="q140.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

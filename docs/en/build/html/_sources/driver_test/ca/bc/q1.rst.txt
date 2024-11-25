@@ -1,47 +1,52 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">New BC Driving License Written Test Simulation 2024 Edition</div>
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
 
 .. meta::
-   :description: What is the legal alcohol limit for driving in BC?
-   :keywords: BC driving test, alcohol limit, BC driving exam
+   :description: When reversing, you should?
+   :keywords: Vancouver driver's license test, BC driver's license test reversing, check side mirrors, check rearview mirrors, turn around and look, driving skills
 
 .. raw:: html
 
    <div class="question-card">
 
 
-What is the legal alcohol limit for driving in BC?
-====================================================================================================
+When reversing, you should?
+======================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
    <div id="q1" class="quiz">
        <div class="option" id="q1-A" onclick="selectOption('q1', 'A', false)">
-           A. 0.05%
+           A. Check both side mirrors
        </div>
-       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', true)">
-           B. 0.08%
+       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', false)">
+           B. Check all rearview mirrors
        </div>
-       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', false)">
-           C. 0.10%
+       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', true)">
+           C. Turn around and look through the rear window
        </div>
        <div class="option" id="q1-D" onclick="selectOption('q1', 'D', false)">
-           D. Zero tolerance
+           D. Look at the rearview mirror
        </div>
        <p id="q1-result" class="result"></p>
    </div>
 
+   <hr>
 
 .. dropdown:: ►|explanation|
 
-   The legal alcohol limit for driving in BC is 0.08%, but penalties may apply at lower levels.
+   Option A, 'Check both side mirrors,' provides limited visibility and is insufficient for a comprehensive view of the rear. Option B, 'Check all rearview mirrors,' is better than A but still leaves blind spots. Option C, 'Turn around and look through the rear window,' offers the clearest rear view and is the correct method. Option D, 'Look at the rearview mirror,' is too limited and can overlook obstacles.
 
 .. raw:: html
 
    <div class="nav-buttons single-next">
-       <span class="page-indicator">1 / 3</span>
+       <span class="page-indicator">1 / 200</span>
        <a href="q2.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver do when the elderly person steps onto the crosswalk?
+   :keywords: Vancouver driver's license test, BC driver's license test crosswalk, elderly, eye contact, safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver do when the elderly person steps onto the crosswalk?
+======================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/101.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q101" class="quiz">
+       <div class="option" id="q101-A" onclick="selectOption('q101', 'A', false)">
+           A. Continue driving unless she is directly in front of the vehicle
+       </div>
+       <div class="option" id="q101-B" onclick="selectOption('q101', 'B', false)">
+           B. Wave her across
+       </div>
+       <div class="option" id="q101-C" onclick="selectOption('q101', 'C', true)">
+           C. Acknowledge her with eye contact and wait for her to cross
+       </div>
+       <div class="option" id="q101-D" onclick="selectOption('q101', 'D', false)">
+           D. Honk to tell her to continue crossing
+       </div>
+       <p id="q101-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When a pedestrian steps onto the crosswalk, the driver should use eye contact to signal to the elderly person and patiently wait for her to cross safely. Do not wave or gesture to others; only police officers should direct traffic.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q100.html" class="button">|prev_question|</a>
+       <span class="page-indicator">101 / 200</span>
+       <a href="q102.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

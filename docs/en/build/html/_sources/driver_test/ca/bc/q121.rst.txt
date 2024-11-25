@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you not do after a traffic accident?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic accident, what not to do, responsibility discussion, securing the scene
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you not do after a traffic accident?
+================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q121" class="quiz">
+       <div class="option" id="q121-A" onclick="selectOption('q121', 'A', true)">
+           A. Discuss who is at fault
+       </div>
+       <div class="option" id="q121-B" onclick="selectOption('q121', 'B', false)">
+           B. Write down the names and addresses of witnesses
+       </div>
+       <div class="option" id="q121-C" onclick="selectOption('q121', 'C', false)">
+           C. Draw a diagram noting the time, location, and weather
+       </div>
+       <div class="option" id="q121-D" onclick="selectOption('q121', 'D', false)">
+           D. Move the vehicle off the road
+       </div>
+       <p id="q121-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Discussing who is at fault after a traffic accident may lead to arguments. You should prioritize gathering evidence and securing the scene to avoid disrupting traffic.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q120.html" class="button">|prev_question|</a>
+       <span class="page-indicator">121 / 200</span>
+       <a href="q122.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

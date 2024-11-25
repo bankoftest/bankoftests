@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When must you use your headlights?
+   :keywords: Vancouver driver's license test, BC driver's license test headlights, sunset, sunrise, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When must you use your headlights?
+====================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q174" class="quiz">
+       <div class="option" id="q174-A" onclick="selectOption('q174', 'A', false)">
+           A. At night
+       </div>
+       <div class="option" id="q174-B" onclick="selectOption('q174', 'B', false)">
+           B. At all times
+       </div>
+       <div class="option" id="q174-C" onclick="selectOption('q174', 'C', true)">
+           C. Half an hour after sunset to half an hour before sunrise
+       </div>
+       <div class="option" id="q174-D" onclick="selectOption('q174', 'D', false)">
+           D. Half an hour before sunrise to half an hour before sunset
+       </div>
+       <p id="q174-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Headlights must be used from half an hour after sunset to half an hour before sunrise to ensure visibility.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q173.html" class="button">|prev_question|</a>
+       <span class="page-indicator">174 / 200</span>
+       <a href="q175.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

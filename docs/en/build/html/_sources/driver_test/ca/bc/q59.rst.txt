@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this signal placed on the traffic lane mean?
+   :keywords: Vancouver driver's license test, BC driver's license test lane signals, lane ending, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this signal placed on the traffic lane mean?
+============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/59.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q59" class="quiz">
+       <div class="option" id="q59-A" onclick="selectOption('q59', 'A', false)">
+           A. This lane is under construction
+       </div>
+       <div class="option" id="q59-B" onclick="selectOption('q59', 'B', false)">
+           B. Driving on this lane is prohibited
+       </div>
+       <div class="option" id="q59-C" onclick="selectOption('q59', 'C', true)">
+           C. This lane is ending soon, exit immediately
+       </div>
+       <div class="option" id="q59-D" onclick="selectOption('q59', 'D', false)">
+           D. This lane will soon reopen for use
+       </div>
+       <p id="q59-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The signal indicates that the lane is ending soon. Drivers should merge safely into another lane to avoid congestion or danger.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q58.html" class="button">|prev_question|</a>
+       <span class="page-indicator">59 / 200</span>
+       <a href="q60.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

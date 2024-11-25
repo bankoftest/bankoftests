@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When entering a roundabout, you must?
+   :keywords: Vancouver driver's license test, BC driver's license test roundabout, yield, road rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When entering a roundabout, you must?
+==========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q45" class="quiz">
+       <div class="option" id="q45-A" onclick="selectOption('q45', 'A', true)">
+           A. Yield to any vehicles already in the roundabout
+       </div>
+       <div class="option" id="q45-B" onclick="selectOption('q45', 'B', false)">
+           B. Drive clockwise in the roundabout
+       </div>
+       <div class="option" id="q45-C" onclick="selectOption('q45', 'C', false)">
+           C. Maintain speed while entering
+       </div>
+       <div class="option" id="q45-D" onclick="selectOption('q45', 'D', false)">
+           D. Signal while entering
+       </div>
+       <p id="q45-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When entering a roundabout, you must yield to vehicles already in the roundabout to ensure smooth traffic flow and prevent accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q44.html" class="button">|prev_question|</a>
+       <span class="page-indicator">45 / 200</span>
+       <a href="q46.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

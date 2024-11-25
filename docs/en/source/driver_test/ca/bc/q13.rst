@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should this driver do before turning?
+   :keywords: Vancouver driver's license test, BC driver's license test turning, shoulder check, driving rules, blind spot check
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should this driver do before turning?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/13.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q13" class="quiz">
+       <div class="option" id="q13-A" onclick="selectOption('q13', 'A', false)">
+           A. Slow down and flash their headlights
+       </div>
+       <div class="option" id="q13-B" onclick="selectOption('q13', 'B', false)">
+           B. Maintain speed and check 180 degrees at the intersection
+       </div>
+       <div class="option" id="q13-C" onclick="selectOption('q13', 'C', true)">
+           C. Shoulder check and perform a 180-degree scan at the intersection
+       </div>
+       <div class="option" id="q13-D" onclick="selectOption('q13', 'D', false)">
+           D. Move left and check side mirrors
+       </div>
+       <p id="q13-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Before turning, perform a shoulder check to look for blind spots and scan the intersection to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q12.html" class="button">|prev_question|</a>
+       <span class="page-indicator">13 / 200</span>
+       <a href="q14.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

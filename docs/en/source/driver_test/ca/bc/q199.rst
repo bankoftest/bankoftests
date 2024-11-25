@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Your driving attitude and style are?
+   :keywords: Vancouver driver's license test, BC driver's license test driving attitude, style, emotional impact
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Your driving attitude and style are?
+========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q199" class="quiz">
+       <div class="option" id="q199-A" onclick="selectOption('q199', 'A', false)">
+           A. Different every day
+       </div>
+       <div class="option" id="q199-B" onclick="selectOption('q199', 'B', false)">
+           B. Affected by your emotions
+       </div>
+       <div class="option" id="q199-C" onclick="selectOption('q199', 'C', true)">
+           C. A choice you make
+       </div>
+       <div class="option" id="q199-D" onclick="selectOption('q199', 'D', false)">
+           D. Unrelated to your insurance premium
+       </div>
+       <p id="q199-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Your driving attitude and style are choices you make, regardless of external circumstances or others' behavior.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q198.html" class="button">|prev_question|</a>
+       <span class="page-indicator">199 / 200</span>
+       <a href="q200.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should drivers consider to be the most dangerous?
+   :keywords: Vancouver driver's license test, BC driver's license test driving environment, traffic hazards, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should drivers consider to be the most dangerous?
+============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q104" class="quiz">
+       <div class="option" id="q104-A" onclick="selectOption('q104', 'A', true)">
+           A. Any driving environment that could cause harm
+       </div>
+       <div class="option" id="q104-B" onclick="selectOption('q104', 'B', false)">
+           B. Other vehicles on the road
+       </div>
+       <div class="option" id="q104-C" onclick="selectOption('q104', 'C', false)">
+           C. Drivers violating traffic rules
+       </div>
+       <div class="option" id="q104-D" onclick="selectOption('q104', 'D', false)">
+           D. Adverse weather conditions
+       </div>
+       <p id="q104-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The most dangerous situation is any driving environment that could cause harm. Drivers must remain vigilant and take preventive measures.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q103.html" class="button">|prev_question|</a>
+       <span class="page-indicator">104 / 200</span>
+       <a href="q105.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

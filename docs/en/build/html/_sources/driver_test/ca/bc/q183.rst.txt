@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the proper technique for emergency braking?
+   :keywords: Vancouver driver's license test, BC driver's license test emergency braking, technique, brake control
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the proper technique for emergency braking?
+======================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q183" class="quiz">
+       <div class="option" id="q183-A" onclick="selectOption('q183', 'A', false)">
+           A. Brake hard to stop the car quickly
+       </div>
+       <div class="option" id="q183-B" onclick="selectOption('q183', 'B', true)">
+           B. Stop the vehicle quickly without locking the brakes
+       </div>
+       <div class="option" id="q183-C" onclick="selectOption('q183', 'C', false)">
+           C. Rapidly press and release the brake
+       </div>
+       <div class="option" id="q183-D" onclick="selectOption('q183', 'D', false)">
+           D. Honk to warn other vehicles
+       </div>
+       <p id="q183-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In an emergency, avoid locking the brakes to maintain control of the vehicle and reduce the risk of an accident.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q182.html" class="button">|prev_question|</a>
+       <span class="page-indicator">183 / 200</span>
+       <a href="q184.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

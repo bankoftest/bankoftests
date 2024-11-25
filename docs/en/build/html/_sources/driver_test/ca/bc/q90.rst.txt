@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Cyclists are entitled to?
+   :keywords: Vancouver driver's license test, BC driver's license test cyclist, road safety, traffic rights
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Cyclists are entitled to?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q90" class="quiz">
+       <div class="option" id="q90-A" onclick="selectOption('q90', 'A', false)">
+           A. Not stopping at stop signs
+       </div>
+       <div class="option" id="q90-B" onclick="selectOption('q90', 'B', false)">
+           B. Riding against traffic
+       </div>
+       <div class="option" id="q90-C" onclick="selectOption('q90', 'C', true)">
+           C. Move to the center of the lane if unsafe in the right-turn lane
+       </div>
+       <div class="option" id="q90-D" onclick="selectOption('q90', 'D', false)">
+           D. Ignore traffic officer instructions
+       </div>
+       <p id="q90-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Cyclists may move to the center of the lane if they feel unsafe in the right-turn lane to avoid hazards.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q89.html" class="button">|prev_question|</a>
+       <span class="page-indicator">90 / 200</span>
+       <a href="q91.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When can drivers use a bike lane?
+   :keywords: Vancouver driver's license test, BC driver's license test bike lane, usage rules, driving regulations
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When can drivers use a bike lane?
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q62" class="quiz">
+       <div class="option" id="q62-A" onclick="selectOption('q62', 'A', false)">
+           A. When there are no bicycles
+       </div>
+       <div class="option" id="q62-B" onclick="selectOption('q62', 'B', false)">
+           B. When overtaking
+       </div>
+       <div class="option" id="q62-C" onclick="selectOption('q62', 'C', false)">
+           C. When parking on the roadside
+       </div>
+       <div class="option" id="q62-D" onclick="selectOption('q62', 'D', true)">
+           D. When turning right
+       </div>
+       <p id="q62-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers may use a bike lane when turning right but must ensure there are no bicycles on the bike lane.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q61.html" class="button">|prev_question|</a>
+       <span class="page-indicator">62 / 200</span>
+       <a href="q63.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

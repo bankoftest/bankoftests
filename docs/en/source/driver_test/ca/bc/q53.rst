@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does a flashing green light mean?
+   :keywords: Vancouver driver's license test, BC driver's license test flashing green light, pedestrian control, traffic signals
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does a flashing green light mean?
+============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/53.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q53" class="quiz">
+       <div class="option" id="q53-A" onclick="selectOption('q53', 'A', false)">
+           A. You can continue driving under the green light
+       </div>
+       <div class="option" id="q53-B" onclick="selectOption('q53', 'B', false)">
+           B. Oncoming vehicles face a red light
+       </div>
+       <div class="option" id="q53-C" onclick="selectOption('q53', 'C', true)">
+           C. The traffic light is pedestrian-controlled
+       </div>
+       <div class="option" id="q53-D" onclick="selectOption('q53', 'D', false)">
+           D. The light will soon turn red
+       </div>
+       <p id="q53-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A flashing green light indicates that the traffic light is controlled by pedestrians. Drivers should watch for pedestrians preparing to cross the street.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q52.html" class="button">|prev_question|</a>
+       <span class="page-indicator">53 / 200</span>
+       <a href="q54.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

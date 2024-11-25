@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why do most vehicles tend to skid on snowy roads?
+   :keywords: Vancouver driver's license test, BC driver's license test snowy roads, icy surfaces, skidding, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why do most vehicles tend to skid on snowy roads?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q173" class="quiz">
+       <div class="option" id="q173-A" onclick="selectOption('q173', 'A', false)">
+           A. Driving too fast
+       </div>
+       <div class="option" id="q173-B" onclick="selectOption('q173', 'B', false)">
+           B. Sudden braking
+       </div>
+       <div class="option" id="q173-C" onclick="selectOption('q173', 'C', true)">
+           C. Worn tires with no tread
+       </div>
+       <div class="option" id="q173-D" onclick="selectOption('q173', 'D', false)">
+           D. Icy road surfaces
+       </div>
+       <p id="q173-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Worn tires with no tread reduce traction, leading to skidding on snowy roads. Regular tire replacement is essential for safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q172.html" class="button">|prev_question|</a>
+       <span class="page-indicator">173 / 200</span>
+       <a href="q174.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which vehicle does not have a safe gap to move to the roadside?
+   :keywords: Vancouver driver's license test, BC driver's license test safe gap, driving rules, roadside parking
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which vehicle does not have a safe gap to move to the roadside?
+==============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/58.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q58" class="quiz">
+       <div class="option" id="q58-A" onclick="selectOption('q58', 'A', false)">
+           A. Vehicle A
+       </div>
+       <div class="option" id="q58-B" onclick="selectOption('q58', 'B', false)">
+           B. Vehicle B
+       </div>
+       <div class="option" id="q58-C" onclick="selectOption('q58', 'C', true)">
+           C. Vehicle D
+       </div>
+       <div class="option" id="q58-D" onclick="selectOption('q58', 'D', false)">
+           D. Vehicle C
+       </div>
+       <p id="q58-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In the image, Vehicle C lacks sufficient space to safely move to the roadside, which may pose risks to other vehicles or pedestrians.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q57.html" class="button">|prev_question|</a>
+       <span class="page-indicator">58 / 200</span>
+       <a href="q59.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

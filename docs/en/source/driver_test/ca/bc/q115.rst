@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When should you particularly check your rearview mirror?
+   :keywords: Vancouver driver's license test, BC driver's license test rearview mirror, slowing down, stopping, traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When should you particularly check your rearview mirror?
+================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q115" class="quiz">
+       <div class="option" id="q115-A" onclick="selectOption('q115', 'A', true)">
+           A. When slowing down and preparing to stop
+       </div>
+       <div class="option" id="q115-B" onclick="selectOption('q115', 'B', false)">
+           B. When preparing to accelerate
+       </div>
+       <div class="option" id="q115-C" onclick="selectOption('q115', 'C', false)">
+           C. When reversing into a parking space
+       </div>
+       <div class="option" id="q115-D" onclick="selectOption('q115', 'D', false)">
+           D. When starting at a stop sign
+       </div>
+       <p id="q115-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When slowing down or preparing to stop, checking the rearview mirror helps you assess traffic behind and ensure safe stopping.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q114.html" class="button">|prev_question|</a>
+       <span class="page-indicator">115 / 200</span>
+       <a href="q116.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

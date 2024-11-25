@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: At a yield sign intersection, drivers should?
+   :keywords: Vancouver driver's license test, BC driver's license test yield sign, driving rules, traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At a yield sign intersection, drivers should?
+==========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/60.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q60" class="quiz">
+       <div class="option" id="q60-A" onclick="selectOption('q60', 'A', false)">
+           A. Bring the vehicle to a complete stop
+       </div>
+       <div class="option" id="q60-B" onclick="selectOption('q60', 'B', false)">
+           B. Yield to crossing vehicles
+       </div>
+       <div class="option" id="q60-C" onclick="selectOption('q60', 'C', true)">
+           C. Yield to all vehicles, including bicycles and pedestrians
+       </div>
+       <div class="option" id="q60-D" onclick="selectOption('q60', 'D', false)">
+           D. Yield to pedestrians crossing the road
+       </div>
+       <p id="q60-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A yield sign means drivers must yield to all vehicles and pedestrians, whether crossing or traveling along the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q59.html" class="button">|prev_question|</a>
+       <span class="page-indicator">60 / 200</span>
+       <a href="q61.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

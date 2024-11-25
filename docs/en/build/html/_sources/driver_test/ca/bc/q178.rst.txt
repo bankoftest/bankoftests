@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does the double yellow line in the picture mean?
+   :keywords: Vancouver driver's license test, BC driver's license test double yellow line, no overtaking, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does the double yellow line in the picture mean?
+==========================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/178.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q178" class="quiz">
+       <div class="option" id="q178-A" onclick="selectOption('q178', 'A', false)">
+           A. Separates oncoming traffic
+       </div>
+       <div class="option" id="q178-B" onclick="selectOption('q178', 'B', false)">
+           B. You cannot cross the line
+       </div>
+       <div class="option" id="q178-C" onclick="selectOption('q178', 'C', true)">
+           C. No overtaking allowed
+       </div>
+       <div class="option" id="q178-D" onclick="selectOption('q178', 'D', false)">
+           D. No turning allowed
+       </div>
+       <p id="q178-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Double yellow lines indicate no crossing or overtaking, and drivers must follow the road rules.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q177.html" class="button">|prev_question|</a>
+       <span class="page-indicator">178 / 200</span>
+       <a href="q179.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

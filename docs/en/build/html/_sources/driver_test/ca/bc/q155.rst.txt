@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to avoid glare from oncoming headlights at night?
+   :keywords: Vancouver driver's license test, BC driver's license test night driving, oncoming headlights, driving technique
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to avoid glare from oncoming headlights at night?
+============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q155" class="quiz">
+       <div class="option" id="q155-A" onclick="selectOption('q155', 'A', false)">
+           A. Turn on your high beams
+       </div>
+       <div class="option" id="q155-B" onclick="selectOption('q155', 'B', true)">
+           B. Look towards the right edge of the road
+       </div>
+       <div class="option" id="q155-C" onclick="selectOption('q155', 'C', false)">
+           C. Flash your high beams to signal the oncoming driver to dim their lights
+       </div>
+       <div class="option" id="q155-D" onclick="selectOption('q155', 'D', false)">
+           D. Look at the vehicle ahead
+       </div>
+       <p id="q155-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The best way to avoid glare is to direct your gaze towards the right edge of the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q154.html" class="button">|prev_question|</a>
+       <span class="page-indicator">155 / 200</span>
+       <a href="q156.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

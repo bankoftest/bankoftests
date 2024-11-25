@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: You’re out with a friend who is responsible for driving but keeps drinking. What is the least safe action?
+   :keywords: Vancouver driver's license test, BC driver's license test drunk driving, safe driving, driving rules, avoiding danger
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+You’re out with a friend who is responsible for driving but keeps drinking. What is the least safe action?
+====================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q12" class="quiz">
+       <div class="option" id="q12-A" onclick="selectOption('q12', 'A', false)">
+           A. Tell them why they can’t drive
+       </div>
+       <div class="option" id="q12-B" onclick="selectOption('q12', 'B', false)">
+           B. Suggest taking a taxi, public transit, or calling a friend
+       </div>
+       <div class="option" id="q12-C" onclick="selectOption('q12', 'C', false)">
+           C. Take away their car keys
+       </div>
+       <div class="option" id="q12-D" onclick="selectOption('q12', 'D', true)">
+           D. Make sure they drive slowly
+       </div>
+       <p id="q12-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This question is tricky because it asks for the 'least safe' action, not the 'safest.' Options A, B, and C are all safe actions. Option D, 'Make sure they drive slowly,' is incorrect and dangerous behavior.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q11.html" class="button">|prev_question|</a>
+       <span class="page-indicator">12 / 200</span>
+       <a href="q13.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

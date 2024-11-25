@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: If a car in front of you signals to turn left, what should you do?
+   :keywords: Vancouver driver's license test, BC driver's license test left-turn vehicle, slowing down, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If a car in front of you signals to turn left, what should you do?
+====================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q164" class="quiz">
+       <div class="option" id="q164-A" onclick="selectOption('q164', 'A', false)">
+           A. Honk in protest
+       </div>
+       <div class="option" id="q164-B" onclick="selectOption('q164', 'B', true)">
+           B. Slow down or stop and wait for the car to turn
+       </div>
+       <div class="option" id="q164-C" onclick="selectOption('q164', 'C', false)">
+           C. Speed up and go around it
+       </div>
+       <div class="option" id="q164-D" onclick="selectOption('q164', 'D', false)">
+           D. Change to the right lane
+       </div>
+       <p id="q164-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When a car signals to turn left, you should slow down or stop and wait for it to complete the turn to avoid accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q163.html" class="button">|prev_question|</a>
+       <span class="page-indicator">164 / 200</span>
+       <a href="q165.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

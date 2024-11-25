@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What are hazard lights for?
+   :keywords: Vancouver driver's license test, BC driver's license test hazard lights, parking warning, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What are hazard lights for?
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q72" class="quiz">
+       <div class="option" id="q72-A" onclick="selectOption('q72', 'A', false)">
+           A. To make it easier for other drivers to see you on the highway
+       </div>
+       <div class="option" id="q72-B" onclick="selectOption('q72', 'B', false)">
+           B. They should be on when parked
+       </div>
+       <div class="option" id="q72-C" onclick="selectOption('q72', 'C', true)">
+           C. To warn other drivers to approach a stationary vehicle with caution
+       </div>
+       <div class="option" id="q72-D" onclick="selectOption('q72', 'D', false)">
+           D. They must be turned on when driving slowly
+       </div>
+       <p id="q72-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Hazard lights are used to warn other drivers that you are stopped or that your vehicle has an issue, especially when approaching.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q71.html" class="button">|prev_question|</a>
+       <span class="page-indicator">72 / 200</span>
+       <a href="q73.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

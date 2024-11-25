@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What speed will you see on this sign?
+   :keywords: Vancouver driver's license test, BC driver's license test speed limit sign, speed restrictions, road signs
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What speed will you see on this sign?
+==========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/94.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q94" class="quiz">
+       <div class="option" id="q94-A" onclick="selectOption('q94', 'A', false)">
+           A. 20 km/h
+       </div>
+       <div class="option" id="q94-B" onclick="selectOption('q94', 'B', false)">
+           B. 25 km/h
+       </div>
+       <div class="option" id="q94-C" onclick="selectOption('q94', 'C', true)">
+           C. 30 km/h
+       </div>
+       <div class="option" id="q94-D" onclick="selectOption('q94', 'D', false)">
+           D. 35 km/h
+       </div>
+       <p id="q94-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   This sign typically indicates a speed limit, most commonly 30 km/h, used for special areas or sections of road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q93.html" class="button">|prev_question|</a>
+       <span class="page-indicator">94 / 200</span>
+       <a href="q95.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic signs, yield right of way, driving rules, BC driver's license
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/4.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q4" class="quiz">
+       <div class="option" id="q4-A" onclick="selectOption('q4', 'A', false)">
+           A. Slow-moving vehicles
+       </div>
+       <div class="option" id="q4-B" onclick="selectOption('q4', 'B', false)">
+           B. You have the right of way
+       </div>
+       <div class="option" id="q4-C" onclick="selectOption('q4', 'C', true)">
+           C. Yield the right of way to others
+       </div>
+       <div class="option" id="q4-D" onclick="selectOption('q4', 'D', false)">
+           D. Vehicles for disabled individuals
+       </div>
+       <p id="q4-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just memorize it.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q3.html" class="button">|prev_question|</a>
+       <span class="page-indicator">4 / 200</span>
+       <a href="q5.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

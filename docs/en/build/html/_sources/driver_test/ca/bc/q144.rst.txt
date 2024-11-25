@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the best way to keep your vehicle running smoothly?
+   :keywords: Vancouver driver's license test, BC driver's license test smooth driving, anticipation, response planning
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the best way to keep your vehicle running smoothly?
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q144" class="quiz">
+       <div class="option" id="q144-A" onclick="selectOption('q144', 'A', false)">
+           A. Look for interesting things along the way
+       </div>
+       <div class="option" id="q144-B" onclick="selectOption('q144', 'B', false)">
+           B. Frequently change CDs and tapes
+       </div>
+       <div class="option" id="q144-C" onclick="selectOption('q144', 'C', false)">
+           C. Constantly use your phone to stay connected with friends
+       </div>
+       <div class="option" id="q144-D" onclick="selectOption('q144', 'D', true)">
+           D. Anticipate possible situations and plan how to respond
+       </div>
+       <p id="q144-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Anticipating possible road situations and planning responses is the best way to keep your vehicle running smoothly.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q143.html" class="button">|prev_question|</a>
+       <span class="page-indicator">144 / 200</span>
+       <a href="q145.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

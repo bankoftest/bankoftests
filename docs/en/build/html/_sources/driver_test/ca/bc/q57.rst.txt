@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When the light is green, what should a driver turning left do?
+   :keywords: Vancouver driver's license test, BC driver's license test left turn, green light, safe driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When the light is green, what should a driver turning left do?
+============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q57" class="quiz">
+       <div class="option" id="q57-A" onclick="selectOption('q57', 'A', false)">
+           A. Quickly leave the intersection
+       </div>
+       <div class="option" id="q57-B" onclick="selectOption('q57', 'B', false)">
+           B. Claim the right of way
+       </div>
+       <div class="option" id="q57-C" onclick="selectOption('q57', 'C', true)">
+           C. Yield to oncoming traffic until there is a safe gap to turn
+       </div>
+       <div class="option" id="q57-D" onclick="selectOption('q57', 'D', false)">
+           D. Wait until all vehicles have passed
+       </div>
+       <p id="q57-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers turning left at a green light must yield to oncoming traffic and ensure there is enough space to turn safely.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q56.html" class="button">|prev_question|</a>
+       <span class="page-indicator">57 / 200</span>
+       <a href="q58.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

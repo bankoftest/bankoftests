@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When is it safe to return to your lane after overtaking a vehicle?
+   :keywords: Vancouver driver's license test, BC driver's license test overtaking, rearview mirror, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When is it safe to return to your lane after overtaking a vehicle?
+====================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q175" class="quiz">
+       <div class="option" id="q175-A" onclick="selectOption('q175', 'A', false)">
+           A. When the other driver waves at you
+       </div>
+       <div class="option" id="q175-B" onclick="selectOption('q175', 'B', false)">
+           B. When it is safe
+       </div>
+       <div class="option" id="q175-C" onclick="selectOption('q175', 'C', true)">
+           C. When you can fully see the overtaken vehicle in your rearview mirror
+       </div>
+       <div class="option" id="q175-D" onclick="selectOption('q175', 'D', false)">
+           D. When you are 150 meters away
+       </div>
+       <p id="q175-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   After overtaking, ensure the overtaken vehicle is fully visible in your rearview mirror before safely returning to your lane.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q174.html" class="button">|prev_question|</a>
+       <span class="page-indicator">175 / 200</span>
+       <a href="q176.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

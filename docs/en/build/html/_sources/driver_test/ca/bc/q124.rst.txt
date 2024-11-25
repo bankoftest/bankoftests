@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test stop sign, slow down, prepare to stop
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/124.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q124" class="quiz">
+       <div class="option" id="q124-A" onclick="selectOption('q124', 'A', false)">
+           A. Stop and proceed when safe
+       </div>
+       <div class="option" id="q124-B" onclick="selectOption('q124', 'B', true)">
+           B. Stop sign ahead, prepare to stop
+       </div>
+       <div class="option" id="q124-C" onclick="selectOption('q124', 'C', false)">
+           C. Stop if vehicles are approaching
+       </div>
+       <div class="option" id="q124-D" onclick="selectOption('q124', 'D', false)">
+           D. Stop except when turning right
+       </div>
+       <p id="q124-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Memorize this.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q123.html" class="button">|prev_question|</a>
+       <span class="page-indicator">124 / 200</span>
+       <a href="q125.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

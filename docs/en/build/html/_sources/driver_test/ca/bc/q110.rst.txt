@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What danger does this cyclist face?
+   :keywords: Vancouver driver's license test, BC driver's license test cyclist, parked vehicles, door opening danger
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What danger does this cyclist face?
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/110.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q110" class="quiz">
+       <div class="option" id="q110-A" onclick="selectOption('q110', 'A', false)">
+           A. Getting hit by a parked vehicle on the opposite side
+       </div>
+       <div class="option" id="q110-B" onclick="selectOption('q110', 'B', false)">
+           B. Being hit by a vehicle approaching from behind
+       </div>
+       <div class="option" id="q110-C" onclick="selectOption('q110', 'C', false)">
+           C. Falling into parked vehicles on the roadside
+       </div>
+       <div class="option" id="q110-D" onclick="selectOption('q110', 'D', true)">
+           D. Being hit by a car door suddenly opened by a parked vehicle
+       </div>
+       <p id="q110-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Cyclists face the danger of parked vehicle occupants suddenly opening car doors. Drivers should maintain a safe distance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q109.html" class="button">|prev_question|</a>
+       <span class="page-indicator">110 / 200</span>
+       <a href="q111.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When the traffic light turns yellow at an intersection, you must?
+   :keywords: Vancouver driver's license test, BC driver's license test yellow traffic light, stopping rules, intersection driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When the traffic light turns yellow at an intersection, you must?
+==================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q98" class="quiz">
+       <div class="option" id="q98-A" onclick="selectOption('q98', 'A', false)">
+           A. Stop
+       </div>
+       <div class="option" id="q98-B" onclick="selectOption('q98', 'B', false)">
+           B. Slow down
+       </div>
+       <div class="option" id="q98-C" onclick="selectOption('q98', 'C', false)">
+           C. Proceed cautiously
+       </div>
+       <div class="option" id="q98-D" onclick="selectOption('q98', 'D', true)">
+           D. Stop unless it is unsafe to do so
+       </div>
+       <p id="q98-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A yellow light warns drivers that it is about to turn red. Drivers should stop unless doing so would cause danger.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q97.html" class="button">|prev_question|</a>
+       <span class="page-indicator">98 / 200</span>
+       <a href="q99.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

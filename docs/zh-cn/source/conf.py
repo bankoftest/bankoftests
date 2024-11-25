@@ -10,15 +10,31 @@ project = 'bankoftests'
 copyright = '2024, bankoftests'
 author = 'bankoftests'
 
-html_title = "题库之家"
+html_title = "题库之家 bankoftests.com"
 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+# General configuration
+# General configuration
 extensions = [
-     "sphinx_design",
+    'myst_parser',
+    'sphinx_design',
 ]
+
+# MyST settings
+myst_enable_extensions = [
+    "colon_fence",
+    "substitution",
+    "deflist",
+    "html_image",
+    "smartquotes",
+    "fieldlist",  # Add this
+    "tasklist",   # Add this
+    "attrs_inline" # Add this for inline attributes
+]
+
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -37,7 +53,6 @@ html_js_files = ["custom.js", "language-switcher.js"]
 # Configure theme options
 html_theme_options = {
     "secondary_sidebar_items": {
-         "math_test/elementary_school/grade_one/**": [], 
          "driver_test/ca/bc/**": [],
     },
     "navbar_end": ["lang-switcher"],  # Add a custom language switcher
@@ -45,6 +60,5 @@ html_theme_options = {
 }
 
 html_sidebars = {
-    "math_test/elementary_school/grade_one/**": [], 
     "driver_test/ca/bc/**": [],
 }

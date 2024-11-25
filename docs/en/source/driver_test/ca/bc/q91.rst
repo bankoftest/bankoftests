@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should the driver of this vehicle do?
+   :keywords: Vancouver driver's license test, BC driver's license test approaching intersection, stopping, yielding
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should the driver of this vehicle do?
+====================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/91.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q91" class="quiz">
+       <div class="option" id="q91-A" onclick="selectOption('q91', 'A', true)">
+           A. Slow down and apply the brake pedal before approaching the intersection
+       </div>
+       <div class="option" id="q91-B" onclick="selectOption('q91', 'B', false)">
+           B. Stop and yield before approaching the intersection
+       </div>
+       <div class="option" id="q91-C" onclick="selectOption('q91', 'C', false)">
+           C. Maintain speed and check for other vehicles at the intersection
+       </div>
+       <div class="option" id="q91-D" onclick="selectOption('q91', 'D', false)">
+           D. Slow down before approaching the intersection
+       </div>
+       <p id="q91-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The driver should slow down and apply the brake pedal when approaching an intersection to ensure safety and avoid collisions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q90.html" class="button">|prev_question|</a>
+       <span class="page-indicator">91 / 200</span>
+       <a href="q92.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

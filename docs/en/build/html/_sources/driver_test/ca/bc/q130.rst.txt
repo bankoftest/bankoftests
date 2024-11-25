@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Before entering the street, this driver must?
+   :keywords: Vancouver driver's license test, BC driver's license test entering street, crosswalk, stop, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Before entering the street, this driver must?
+==========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/130.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q130" class="quiz">
+       <div class="option" id="q130-A" onclick="selectOption('q130', 'A', false)">
+           A. Stop before the crosswalk
+       </div>
+       <div class="option" id="q130-B" onclick="selectOption('q130', 'B', true)">
+           B. Stop before the sidewalk
+       </div>
+       <div class="option" id="q130-C" onclick="selectOption('q130', 'C', false)">
+           C. Proceed if no pedestrians are present
+       </div>
+       <div class="option" id="q130-D" onclick="selectOption('q130', 'D', false)">
+           D. Slow down and proceed carefully
+       </div>
+       <p id="q130-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers must stop before the sidewalk to ensure safety before entering the street.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q129.html" class="button">|prev_question|</a>
+       <span class="page-indicator">130 / 200</span>
+       <a href="q131.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

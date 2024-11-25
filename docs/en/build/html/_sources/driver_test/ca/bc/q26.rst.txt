@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Which car is in Vehicle E's blind spot?
+   :keywords: Vancouver driver's license test, BC driver's license test blind spot, driving safety, rearview mirror, Canadian rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which car is in Vehicle E's blind spot?
+==============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/26.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q26" class="quiz">
+       <div class="option" id="q26-A" onclick="selectOption('q26', 'A', false)">
+           A. Vehicle A
+       </div>
+       <div class="option" id="q26-B" onclick="selectOption('q26', 'B', true)">
+           B. Vehicle B
+       </div>
+       <div class="option" id="q26-C" onclick="selectOption('q26', 'C', false)">
+           C. Vehicle C
+       </div>
+       <div class="option" id="q26-D" onclick="selectOption('q26', 'D', false)">
+           D. Vehicle D
+       </div>
+       <p id="q26-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Vehicle B is in Vehicle E's blind spot, meaning Vehicle E may not see Vehicle B, so a shoulder check is necessary.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q25.html" class="button">|prev_question|</a>
+       <span class="page-indicator">26 / 200</span>
+       <a href="q27.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: How should you deal with aggressive behavior from a road bully?
+   :keywords: Vancouver driver's license test, BC driver's license test road bully, aggressive behavior, driving safety, coping methods
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How should you deal with aggressive behavior from a road bully?
+==============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q15" class="quiz">
+       <div class="option" id="q15-A" onclick="selectOption('q15', 'A', false)">
+           A. Find a public phone to call the police
+       </div>
+       <div class="option" id="q15-B" onclick="selectOption('q15', 'B', false)">
+           B. Drive straight home
+       </div>
+       <div class="option" id="q15-C" onclick="selectOption('q15', 'C', true)">
+           C. Drive to a crowded place
+       </div>
+       <div class="option" id="q15-D" onclick="selectOption('q15', 'D', false)">
+           D. Honk and yell at them
+       </div>
+       <p id="q15-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving to a crowded place can help avoid further conflict and ensure personal safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q14.html" class="button">|prev_question|</a>
+       <span class="page-indicator">15 / 200</span>
+       <a href="q16.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

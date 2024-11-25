@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test uneven road, driving safety, road sign
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/34.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q34" class="quiz">
+       <div class="option" id="q34-A" onclick="selectOption('q34', 'A', false)">
+           A. Concrete road ahead
+       </div>
+       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', false)">
+           B. Uneven road ahead
+       </div>
+       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', true)">
+           C. Asphalt pavement ends ahead
+       </div>
+       <div class="option" id="q34-D" onclick="selectOption('q34', 'D', false)">
+           D. Beware of rocks on the road
+       </div>
+       <p id="q34-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just memorize this.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q33.html" class="button">|prev_question|</a>
+       <span class="page-indicator">34 / 200</span>
+       <a href="q35.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

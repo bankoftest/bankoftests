@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What should you do when approaching a traffic light failure at an intersection?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic light failure, four-way stop, intersection rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when approaching a traffic light failure at an intersection?
+==============================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q89" class="quiz">
+       <div class="option" id="q89-A" onclick="selectOption('q89', 'A', true)">
+           A. Treat it as a four-way stop
+       </div>
+       <div class="option" id="q89-B" onclick="selectOption('q89', 'B', false)">
+           B. Proceed if there is space
+       </div>
+       <div class="option" id="q89-C" onclick="selectOption('q89', 'C', false)">
+           C. Cross when another driver signals you to go
+       </div>
+       <div class="option" id="q89-D" onclick="selectOption('q89', 'D', false)">
+           D. Wait for a traffic officer to direct traffic
+       </div>
+       <p id="q89-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Treat intersections with malfunctioning traffic lights as four-way stops. Stop, take turns, and yield appropriately.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q88.html" class="button">|prev_question|</a>
+       <span class="page-indicator">89 / 200</span>
+       <a href="q90.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

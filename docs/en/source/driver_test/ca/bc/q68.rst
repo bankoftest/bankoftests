@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: When four vehicles approach a four-way stop, who has the right of way?
+   :keywords: Vancouver driver's license test, BC driver's license test right of way, four-way stop, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When four vehicles approach a four-way stop, who has the right of way?
+============================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q68" class="quiz">
+       <div class="option" id="q68-A" onclick="selectOption('q68', 'A', false)">
+           A. The vehicle to your right
+       </div>
+       <div class="option" id="q68-B" onclick="selectOption('q68', 'B', true)">
+           B. The first vehicle to stop at the intersection
+       </div>
+       <div class="option" id="q68-C" onclick="selectOption('q68', 'C', false)">
+           C. The vehicle turning right
+       </div>
+       <div class="option" id="q68-D" onclick="selectOption('q68', 'D', false)">
+           D. The vehicle to your left
+       </div>
+       <p id="q68-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   At a four-way stop, the right of way is generally given to the first vehicle to stop at the intersection.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q67.html" class="button">|prev_question|</a>
+       <span class="page-indicator">68 / 200</span>
+       <a href="q69.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: Why did the truck stop on the road?
+   :keywords: Vancouver driver's license test, BC driver's license test truck, stopping, pedestrian safety, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why did the truck stop on the road?
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/37.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q37" class="quiz">
+       <div class="option" id="q37-A" onclick="selectOption('q37', 'A', true)">
+           A. Because there are pedestrians on the sidewalk
+       </div>
+       <div class="option" id="q37-B" onclick="selectOption('q37', 'B', false)">
+           B. Because the truck is turning
+       </div>
+       <div class="option" id="q37-C" onclick="selectOption('q37', 'C', false)">
+           C. The truck driver is lost and checking a map
+       </div>
+       <div class="option" id="q37-D" onclick="selectOption('q37', 'D', false)">
+           D. The truck driver wants to park
+       </div>
+       <p id="q37-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The truck might have stopped because there are pedestrians on the sidewalk, ensuring their safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q36.html" class="button">|prev_question|</a>
+       <span class="page-indicator">37 / 200</span>
+       <a href="q38.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: In the event of an accident with injuries, what should you do first?
+   :keywords: Vancouver driver's license test, BC driver's license test traffic accident, assisting injured, emergency handling
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In the event of an accident with injuries, what should you do first?
+========================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q162" class="quiz">
+       <div class="option" id="q162-A" onclick="selectOption('q162', 'A', false)">
+           A. Call the police
+       </div>
+       <div class="option" id="q162-B" onclick="selectOption('q162', 'B', true)">
+           B. Assist the injured person
+       </div>
+       <div class="option" id="q162-C" onclick="selectOption('q162', 'C', false)">
+           C. Notify your insurance company
+       </div>
+       <div class="option" id="q162-D" onclick="selectOption('q162', 'D', false)">
+           D. Call for an ambulance
+       </div>
+       <p id="q162-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   In a traffic accident, the first priority is to assist the injured and ensure their safety before contacting emergency services.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q161.html" class="button">|prev_question|</a>
+       <span class="page-indicator">162 / 200</span>
+       <a href="q163.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

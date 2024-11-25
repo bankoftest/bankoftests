@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test vehicle merging, traffic signs, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/66.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q66" class="quiz">
+       <div class="option" id="q66-A" onclick="selectOption('q66', 'A', false)">
+           A. The lane ahead narrows
+       </div>
+       <div class="option" id="q66-B" onclick="selectOption('q66', 'B', false)">
+           B. Traffic merges
+       </div>
+       <div class="option" id="q66-C" onclick="selectOption('q66', 'C', true)">
+           C. Vehicles merging ahead
+       </div>
+       <div class="option" id="q66-D" onclick="selectOption('q66', 'D', false)">
+           D. An intersection ahead
+       </div>
+       <p id="q66-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The sign indicates vehicles merging ahead. Drivers should be alert and provide space to avoid collisions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q65.html" class="button">|prev_question|</a>
+       <span class="page-indicator">66 / 200</span>
+       <a href="q67.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

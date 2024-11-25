@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What is the driver in the picture about to do?
+   :keywords: Vancouver driver's license test, BC driver's license test driver, slowing down, stopping, traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the driver in the picture about to do?
+============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/171.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q171" class="quiz">
+       <div class="option" id="q171-A" onclick="selectOption('q171', 'A', true)">
+           A. Slow down and stop
+       </div>
+       <div class="option" id="q171-B" onclick="selectOption('q171', 'B', false)">
+           B. Turn left
+       </div>
+       <div class="option" id="q171-C" onclick="selectOption('q171', 'C', false)">
+           C. Turn right
+       </div>
+       <div class="option" id="q171-D" onclick="selectOption('q171', 'D', false)">
+           D. Go straight
+       </div>
+       <p id="q171-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The driver appears to be slowing down to stop, likely to comply with traffic rules or yield to other vehicles or pedestrians.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q170.html" class="button">|prev_question|</a>
+       <span class="page-indicator">171 / 200</span>
+       <a href="q172.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

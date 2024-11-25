@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Canada BC Driver's License Knowledge Test Test Bank (2024)</div>
+
+.. meta::
+   :description: What does this sign mean?
+   :keywords: Vancouver driver's license test, BC driver's license test sports field, driving safety, traffic sign
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What does this sign mean?
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/40.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q40" class="quiz">
+       <div class="option" id="q40-A" onclick="selectOption('q40', 'A', true)">
+           A. Nearby sports field, drive carefully
+       </div>
+       <div class="option" id="q40-B" onclick="selectOption('q40', 'B', false)">
+           B. Sports field crossing, stop and yield to pedestrians
+       </div>
+       <div class="option" id="q40-C" onclick="selectOption('q40', 'C', false)">
+           C. 30 km/h during dawn to dusk
+       </div>
+       <div class="option" id="q40-D" onclick="selectOption('q40', 'D', false)">
+           D. 30 km/h from 8 AM to 5 PM on school days
+       </div>
+       <p id="q40-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Just memorize this.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q39.html" class="button">|prev_question|</a>
+       <span class="page-indicator">40 / 200</span>
+       <a href="q41.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>
