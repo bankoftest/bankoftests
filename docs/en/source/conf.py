@@ -5,25 +5,68 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+import os
+import sys
 
 project = 'bankoftests'
-copyright = '2024, bankoftests'
+copyright = '2024, BANKofTESTS'
 author = 'bankoftests'
 
-html_title = "题库之家"
+sys.path.insert(0, os.path.abspath('_extension'))
+sys.path.insert(0, os.path.abspath('scripts'))
+
+
+html_title = "BANK of TESTS"
+
+html_baseurl = 'https://www.bankoftests.com/'
+html_extra_path = ['robots.txt']
+sitemap_url_scheme = "{lang}/{version}/{link}"
+html_context = {
+    "version": "latest",
+    "languages": ["en", "zh-CN"],
+    "meta_tags": [
+        {"name": "title", "content": "Bank of Tests"},
+        {"name": "description", "content": "Bank of Tests is an online test bank that provides various test banks, including driver's license test"},
+        {"name": "robots", "content": "index, follow"},
+        {"name": "keywords", "content": "test bank, driver's license test bank"},
+    ],
+}
 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+# General configuration
+# General configuration
 extensions = [
-     "sphinx_design",
+    'myst_parser',
+    'sphinx_design',
+    'gallery_directive',
+    'component_directive',
+    'sphinx_sitemap',
+
 ]
+
+# MyST settings
+myst_enable_extensions = [
+    "colon_fence",
+    "substitution",
+    "deflist",
+    "html_image",
+    "smartquotes",
+    "fieldlist",  # Add this
+    "tasklist",   # Add this
+    "attrs_inline" # Add this for inline attributes
+]
+
+
+
+
 
 templates_path = ['_templates']
 exclude_patterns = []
-
-language = 'zh-cn'
+    
+language = 'en'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -37,14 +80,13 @@ html_js_files = ["custom.js", "language-switcher.js"]
 # Configure theme options
 html_theme_options = {
     "secondary_sidebar_items": {
-         "math_test/elementary_school/grade_one/**": [], 
          "driver_test/ca/bc/**": [],
     },
     "navbar_end": ["lang-switcher"],  # Add a custom language switcher
-
+    "footer_start": "",
+    "footer_end": ["copyright"],
 }
 
 html_sidebars = {
-    "math_test/elementary_school/grade_one/**": [], 
     "driver_test/ca/bc/**": [],
 }

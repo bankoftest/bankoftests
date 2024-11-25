@@ -1,0 +1,17 @@
+User-agent: Googlebot
+Disallow: /_sources/
+Allow: /
+
+User-agent: Bingbot
+Disallow: /_sources/
+Allow: /
+
+User-agent: Baiduspider
+Disallow: /_sources/
+Allow: /
+
+User-agent: *
+Disallow: /_static/
+Disallow: /_sources/
+Allow: /
+Sitemap: https://www.bankoftests.com/sitemap.xml

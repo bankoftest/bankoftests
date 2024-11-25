@@ -6,9 +6,9 @@ myst:
 ---
 
 
-# 驾照笔试
+# 加拿大BC省/温哥华驾照笔试题库(小红书200题带解析)|2024版
 
-<!-- ```{gallery-grid}
+```{gallery-grid}
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`clock;pst-color-primary` 加拿大BC省驾照笔试题库"
@@ -19,7 +19,7 @@ myst:
 - header: "{fas}`shoe-prints;pst-color-primary` ICBC官网"
   content: "加拿大BC省ICBC官网。点击查看"
   link: https:icbc.com/driver-licensing
-``` -->
+```
 
 
 ```{toctree}
