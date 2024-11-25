@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在红灯时,你何时可以右转？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试红灯, 右转, 停车, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在红灯时,你何时可以右转？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在红灯时，若没有禁止右转标志，并且在完全停车后确保安全的情况下，右转是允许的。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q22.html" class="button">|prev_question|</a>
-       <span class="page-indicator">23 / 100</span>
+       <span class="page-indicator">23 / 200</span>
        <a href="q24.html" class="button">|next_question|</a>
    </div>
    </div>

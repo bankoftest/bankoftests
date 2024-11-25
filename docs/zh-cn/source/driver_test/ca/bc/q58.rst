@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 哪一辆车没有安全的空隙驶往路边？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试安全空隙, 驾驶规则, 路边停车
 
 .. raw:: html
 
@@ -17,18 +17,30 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/58.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q58" class="quiz">
        <div class="option" id="q58-A" onclick="selectOption('q58', 'A', false)">
-           A. 车辆a
+           A. 车辆A
        </div>
        <div class="option" id="q58-B" onclick="selectOption('q58', 'B', false)">
-           B. 车辆b
+           B. 车辆B
        </div>
        <div class="option" id="q58-C" onclick="selectOption('q58', 'C', true)">
-           C. 车辆d
+           C. 车辆D
        </div>
        <div class="option" id="q58-D" onclick="selectOption('q58', 'D', false)">
-           D. 车辆c
+           D. 车辆C
        </div>
        <p id="q58-result" class="result"></p>
    </div>
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   图中车辆C的空间不足以安全驶入路边，这可能导致与其他车辆或行人的碰撞风险。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q57.html" class="button">|prev_question|</a>
-       <span class="page-indicator">58 / 100</span>
+       <span class="page-indicator">58 / 200</span>
        <a href="q59.html" class="button">|next_question|</a>
    </div>
    </div>

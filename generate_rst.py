@@ -55,6 +55,10 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
         question_title = f"{question['question']}"
         write_title(f, question_title)
 
+        # Add a horizontal line (hr) below the title
+        f.write(".. raw:: html\n\n")
+        f.write("   <hr>\n\n")
+
         # Add image if available
         if "image" in question:
             image_path = os.path.join(image_dir, question['image'])

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: HOV车道只适用于？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试HOV车道, 高乘载车道, 公交车
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 HOV车道只适用于？
 ====================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@ HOV车道只适用于？
 
 .. dropdown:: ►|explanation|
 
-   
+   HOV车道是高乘载车辆专用车道，通常要求车内有两名或以上乘客，也适用于公交车、摩托车和自行车。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q72.html" class="button">|prev_question|</a>
-       <span class="page-indicator">73 / 100</span>
+       <span class="page-indicator">73 / 200</span>
        <a href="q74.html" class="button">|next_question|</a>
    </div>
    </div>

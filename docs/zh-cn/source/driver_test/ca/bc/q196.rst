@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: a车驾驶员应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试行人, 让路, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+a车驾驶员应该？
+================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/196.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q196" class="quiz">
+       <div class="option" id="q196-A" onclick="selectOption('q196', 'A', false)">
+           A. 响喇叭警告行人
+       </div>
+       <div class="option" id="q196-B" onclick="selectOption('q196', 'B', true)">
+           B. 停车,让行人横过马路
+       </div>
+       <div class="option" id="q196-C" onclick="selectOption('q196', 'C', false)">
+           C. 呼喝行人这里不是过路线
+       </div>
+       <div class="option" id="q196-D" onclick="selectOption('q196', 'D', false)">
+           D. 闪亮灯号,告诉迎面车辆停车
+       </div>
+       <p id="q196-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶员有责任在有行人横过马路时停车并给予让路，以确保行人安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q195.html" class="button">|prev_question|</a>
+       <span class="page-indicator">196 / 200</span>
+       <a href="q197.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

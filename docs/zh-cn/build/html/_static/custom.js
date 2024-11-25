@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 
+
 function selectOption(questionId, selectedLetter, isCorrect) {
     // Clear previous styles
     const options = document.querySelectorAll(`#${questionId} .option`);
@@ -70,3 +71,62 @@ function selectOption(questionId, selectedLetter, isCorrect) {
     // Style the result message
     resultElement.classList.add("result-message");
 }
+
+
+// Keyboard Navigation
+document.addEventListener("DOMContentLoaded", function () {
+    // Extract the total number of questions from the page-indicator span
+    const pageIndicator = document.querySelector(".page-indicator");
+    if (!pageIndicator) return; // Exit if the page-indicator is not found
+
+    const totalQuestionsMatch = pageIndicator.textContent.match(/\/\s*(\d+)/); // Match "1 / 200"
+    const totalQuestions = totalQuestionsMatch ? parseInt(totalQuestionsMatch[1], 10) : 0;
+
+    if (totalQuestions > 0) {
+        document.addEventListener("keydown", function (event) {
+            // Extract the current question number from the page-indicator
+            const currentQuestionMatch = pageIndicator.textContent.match(/(\d+)\s*\/\s*\d+/); // Match "1 / 200"
+            const currentQuestion = currentQuestionMatch ? parseInt(currentQuestionMatch[1], 10) : 0;
+
+            if (event.key === "ArrowRight" && currentQuestion < totalQuestions) {
+                // Navigate to the next question
+                const nextQuestion = currentQuestion + 1;
+                window.location.href = `q${nextQuestion}.html`;
+            } else if (event.key === "ArrowLeft" && currentQuestion > 1) {
+                // Navigate to the previous question
+                const prevQuestion = currentQuestion - 1;
+                window.location.href = `q${prevQuestion}.html`;
+            }
+        });
+    }
+});
+
+
+
+
+
+// test code
+document.addEventListener('DOMContentLoaded', () => {
+    // Automatically expand dropdowns during development
+    const dropdownContents = document.querySelectorAll('.dropdown-content');
+    dropdownContents.forEach(content => {
+        content.classList.add('show'); // Expand all dropdowns
+    });
+
+    console.log("Dropdown explanations are visible. Comment out this code when done.");
+});
+
+// Toggle visibility on user click (normal functionality)
+document.addEventListener('DOMContentLoaded', () => {
+    const dropdowns = document.querySelectorAll('.dropdown');
+
+    dropdowns.forEach(dropdown => {
+        dropdown.addEventListener('click', (event) => {
+            // Toggle the dropdown content
+            const content = dropdown.querySelector('.dropdown-content');
+            if (content) {
+                content.classList.toggle('show');
+            }
+        });
+    });
+});

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 此标志意思是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试车辆汇入, 交通标志, 驾驶安全
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 此标志意思是？
 ==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/66.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   标志显示前方有车辆汇入，驾驶员应提前注意并预留空间以防碰撞。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q65.html" class="button">|prev_question|</a>
-       <span class="page-indicator">66 / 100</span>
+       <span class="page-indicator">66 / 200</span>
        <a href="q67.html" class="button">|next_question|</a>
    </div>
    </div>

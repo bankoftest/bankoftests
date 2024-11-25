@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 打滑的原因最有可能是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试打滑, 路面湿滑, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+打滑的原因最有可能是？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q151" class="quiz">
+       <div class="option" id="q151-A" onclick="selectOption('q151', 'A', false)">
+           A. 车辆太旧
+       </div>
+       <div class="option" id="q151-B" onclick="selectOption('q151', 'B', false)">
+           B. 路面太滑
+       </div>
+       <div class="option" id="q151-C" onclick="selectOption('q151', 'C', false)">
+           C. 其他驾驶员突然停车
+       </div>
+       <div class="option" id="q151-D" onclick="selectOption('q151', 'D', true)">
+           D. 驾驶技术差
+       </div>
+       <p id="q151-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   打滑的原因可能是驾驶员技术不佳，应提高驾驶技术以避免打滑。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q150.html" class="button">|prev_question|</a>
+       <span class="page-indicator">151 / 200</span>
+       <a href="q152.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

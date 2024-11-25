@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你想左转之前,应考虑的第一件事是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试左转, 判断距离, 驾驶技巧
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你想左转之前,应考虑的第一件事是？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q167" class="quiz">
+       <div class="option" id="q167-A" onclick="selectOption('q167', 'A', false)">
+           A. 亮着方向灯和回头看盲点
+       </div>
+       <div class="option" id="q167-B" onclick="selectOption('q167', 'B', true)">
+           B. 判断迎面而来第一辆车后的速度与距离
+       </div>
+       <div class="option" id="q167-C" onclick="selectOption('q167', 'C', false)">
+           C. 慢驶并准备停车
+       </div>
+       <div class="option" id="q167-D" onclick="selectOption('q167', 'D', false)">
+           D. 尽快转弯
+       </div>
+       <p id="q167-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   左转时，首要考虑是判断迎面车辆的速度与距离，以便安全转弯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q166.html" class="button">|prev_question|</a>
+       <span class="page-indicator">167 / 200</span>
+       <a href="q168.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

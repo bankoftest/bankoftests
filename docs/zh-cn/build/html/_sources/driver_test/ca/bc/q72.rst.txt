@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 紧急灯是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试紧急灯, 停车警告, 驾驶安全
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 紧急灯是？
 ==========
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   紧急灯是用来警告其他驾驶员你已停车或车辆有问题，特别是在接近时应格外小心。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q71.html" class="button">|prev_question|</a>
-       <span class="page-indicator">72 / 100</span>
+       <span class="page-indicator">72 / 200</span>
        <a href="q73.html" class="button">|next_question|</a>
    </div>
    </div>

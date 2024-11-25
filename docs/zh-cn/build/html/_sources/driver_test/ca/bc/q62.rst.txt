@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 驾驶者可以使用自行车道？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试自行车道, 使用规则, 驾驶规范
 
 .. raw:: html
 
@@ -17,6 +17,10 @@
 
 .. raw:: html
 
+   <hr>
+
+.. raw:: html
+
    <div id="q62" class="quiz">
        <div class="option" id="q62-A" onclick="selectOption('q62', 'A', false)">
            A. 当没有自行车时
@@ -24,10 +28,10 @@
        <div class="option" id="q62-B" onclick="selectOption('q62', 'B', false)">
            B. 当超车时
        </div>
-       <div class="option" id="q62-C" onclick="selectOption('q62', 'C', true)">
+       <div class="option" id="q62-C" onclick="selectOption('q62', 'C', false)">
            C. 在路边泊车时
        </div>
-       <div class="option" id="q62-D" onclick="selectOption('q62', 'D', false)">
+       <div class="option" id="q62-D" onclick="selectOption('q62', 'D', true)">
            D. 在右转时
        </div>
        <p id="q62-result" class="result"></p>
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   驾驶者可以在右转时使用自行车道，但必须确保没有自行车行驶在自行车道上。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q61.html" class="button">|prev_question|</a>
-       <span class="page-indicator">62 / 100</span>
+       <span class="page-indicator">62 / 200</span>
        <a href="q63.html" class="button">|next_question|</a>
    </div>
    </div>

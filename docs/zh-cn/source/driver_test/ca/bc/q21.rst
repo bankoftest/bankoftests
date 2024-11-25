@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 图中的车辆同时到达停车标志,谁应该先行？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试停车标志, 优先权, 加拿大驾驶规则
 
 .. raw:: html
 
@@ -17,12 +17,24 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/21.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q21" class="quiz">
        <div class="option" id="q21-A" onclick="selectOption('q21', 'A', false)">
-           A. 车辆a
+           A. 车辆A
        </div>
        <div class="option" id="q21-B" onclick="selectOption('q21', 'B', true)">
-           B. 车辆b
+           B. 车辆B
        </div>
        <div class="option" id="q21-C" onclick="selectOption('q21', 'C', false)">
            C. 无论是谁先抵达路口
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   如果同时到达停车标志，左转让直行
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q20.html" class="button">|prev_question|</a>
-       <span class="page-indicator">21 / 100</span>
+       <span class="page-indicator">21 / 200</span>
        <a href="q22.html" class="button">|next_question|</a>
    </div>
    </div>

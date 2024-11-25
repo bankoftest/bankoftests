@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 晴天在高速公路上行驶,你与前车最少要保持多少距离？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试安全距离, 高速公路, 3秒规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 晴天在高速公路上行驶,你与前车最少要保持多少距离？
 ==================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   3秒规则是晴天在高速公路上安全驾驶的基本要求，确保有足够的反应时间。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q66.html" class="button">|prev_question|</a>
-       <span class="page-indicator">67 / 100</span>
+       <span class="page-indicator">67 / 200</span>
        <a href="q68.html" class="button">|next_question|</a>
    </div>
    </div>

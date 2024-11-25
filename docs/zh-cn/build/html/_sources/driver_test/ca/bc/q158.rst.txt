@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 握方向盘最好的位置是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试握方向盘, 驾驶技巧, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+握方向盘最好的位置是？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q158" class="quiz">
+       <div class="option" id="q158-A" onclick="selectOption('q158', 'A', false)">
+           A. 左手8点钟和右手2点钟
+       </div>
+       <div class="option" id="q158-B" onclick="selectOption('q158', 'B', false)">
+           B. 左手9点钟和右手4点钟
+       </div>
+       <div class="option" id="q158-C" onclick="selectOption('q158', 'C', true)">
+           C. 左手10点钟和右手2点钟
+       </div>
+       <div class="option" id="q158-D" onclick="selectOption('q158', 'D', false)">
+           D. 左手8点钟和右手5点钟
+       </div>
+       <p id="q158-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   握方向盘的最佳位置是左手10点钟和右手2点钟，这样可以更好地控制车辆。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q157.html" class="button">|prev_question|</a>
+       <span class="page-indicator">158 / 200</span>
+       <a href="q159.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

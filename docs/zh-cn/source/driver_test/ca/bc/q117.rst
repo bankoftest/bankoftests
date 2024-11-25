@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在接近一个绿灯已经亮了很久的路口,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试绿灯, 路口, 准备停车, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在接近一个绿灯已经亮了很久的路口,你应该？
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q117" class="quiz">
+       <div class="option" id="q117-A" onclick="selectOption('q117', 'A', true)">
+           A. 准备停车
+       </div>
+       <div class="option" id="q117-B" onclick="selectOption('q117', 'B', false)">
+           B. 查看交通情况,如没有车辆加速
+       </div>
+       <div class="option" id="q117-C" onclick="selectOption('q117', 'C', false)">
+           C. 保持速度
+       </div>
+       <div class="option" id="q117-D" onclick="selectOption('q117', 'D', false)">
+           D. 开始停车
+       </div>
+       <p id="q117-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   绿灯已经亮了很久，可能即将变为黄灯，驾驶员应准备停车以避免闯红灯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q116.html" class="button">|prev_question|</a>
+       <span class="page-indicator">117 / 200</span>
+       <a href="q118.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

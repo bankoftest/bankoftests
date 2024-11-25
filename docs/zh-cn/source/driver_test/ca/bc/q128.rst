@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在雾天和夜间驾驶员应该减速和亮起？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试雾天, 夜间驾驶, 近光灯, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在雾天和夜间驾驶员应该减速和亮起？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q128" class="quiz">
+       <div class="option" id="q128-A" onclick="selectOption('q128', 'A', false)">
+           A. 泊车灯
+       </div>
+       <div class="option" id="q128-B" onclick="selectOption('q128', 'B', false)">
+           B. 紧急灯号
+       </div>
+       <div class="option" id="q128-C" onclick="selectOption('q128', 'C', false)">
+           C. 远光灯
+       </div>
+       <div class="option" id="q128-D" onclick="selectOption('q128', 'D', true)">
+           D. 近光灯
+       </div>
+       <p id="q128-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   雾天和夜间使用近光灯可以减少眩光，并提高对路况的可见性。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q127.html" class="button">|prev_question|</a>
+       <span class="page-indicator">128 / 200</span>
+       <a href="q129.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

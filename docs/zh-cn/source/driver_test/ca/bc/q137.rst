@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试行人道, 信号灯, 停车
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/137.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q137" class="quiz">
+       <div class="option" id="q137-A" onclick="selectOption('q137', 'A', true)">
+           A. 受行人控制的行人道,如果灯号闪亮时准备停车
+       </div>
+       <div class="option" id="q137-B" onclick="selectOption('q137', 'B', false)">
+           B. 行人永远有道路优先权
+       </div>
+       <div class="option" id="q137-C" onclick="selectOption('q137', 'C', false)">
+           C. 受行人控制的行人道,如果灯号亮着时准备停车
+       </div>
+       <div class="option" id="q137-D" onclick="selectOption('q137', 'D', false)">
+           D. 在行人横过的前尽快离开
+       </div>
+       <p id="q137-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   记住即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q136.html" class="button">|prev_question|</a>
+       <span class="page-indicator">137 / 200</span>
+       <a href="q138.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -4,27 +4,39 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: 图中车辆a将要右转,他应该留意的危险是什么？
-   :keywords: 
+   :description: 图中车辆A将要右转,他应该留意的危险是什么？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试右转, 驾驶危险, 路边障碍
 
 .. raw:: html
 
    <div class="question-card">
 
 
-图中车辆a将要右转,他应该留意的危险是什么？
+图中车辆A将要右转,他应该留意的危险是什么？
 ============================================
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/69.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q69" class="quiz">
-       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', false)">
+       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', true)">
            A. 从后面上来的自行车
        </div>
        <div class="option" id="q69-B" onclick="selectOption('q69', 'B', false)">
-           B. 从左边超车的b车
+           B. 从左边超车的B车
        </div>
-       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', true)">
+       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', false)">
            C. 从停泊车辆的空隙间走出来的狗或其他动物
        </div>
        <div class="option" id="q69-D" onclick="selectOption('q69', 'D', false)">
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   车辆A右转时，应留意从后面上来的自行车，以避免碰撞和保证行人和自行车的安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q68.html" class="button">|prev_question|</a>
-       <span class="page-indicator">69 / 100</span>
+       <span class="page-indicator">69 / 200</span>
        <a href="q70.html" class="button">|next_question|</a>
    </div>
    </div>

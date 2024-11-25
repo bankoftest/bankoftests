@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 转向灯应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试转向灯, 转弯, 换车道, 交通信号
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+转向灯应该？
+============
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q107" class="quiz">
+       <div class="option" id="q107-A" onclick="selectOption('q107', 'A', false)">
+           A. 在交通繁忙时亮起
+       </div>
+       <div class="option" id="q107-B" onclick="selectOption('q107', 'B', false)">
+           B. 在一条街口之前亮起
+       </div>
+       <div class="option" id="q107-C" onclick="selectOption('q107', 'C', false)">
+           C. 只是在街角转弯时亮起
+       </div>
+       <div class="option" id="q107-D" onclick="selectOption('q107', 'D', true)">
+           D. 在每次转弯或转换行车道时亮起
+       </div>
+       <p id="q107-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   转向灯应在每次转弯或转换车道时使用，向其他道路使用者发出清晰信号。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q106.html" class="button">|prev_question|</a>
+       <span class="page-indicator">107 / 200</span>
+       <a href="q108.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 十字路口亮着红灯时,什么情况下可以左转？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试红灯, 左转, 单程路
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+十字路口亮着红灯时,什么情况下可以左转？
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q187" class="quiz">
+       <div class="option" id="q187-A" onclick="selectOption('q187', 'A', false)">
+           A. 在迎面没有车辆来的时候
+       </div>
+       <div class="option" id="q187-B" onclick="selectOption('q187', 'B', true)">
+           B. 如果左转方向是单程路和没有路标禁止此转弯时
+       </div>
+       <div class="option" id="q187-C" onclick="selectOption('q187', 'C', false)">
+           C. 任何时候
+       </div>
+       <div class="option" id="q187-D" onclick="selectOption('q187', 'D', false)">
+           D. 在迎面车辆驾驶员挥手时候
+       </div>
+       <p id="q187-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   红灯下允许左转的唯一情况是目标道路为单程路且没有路标禁止此行为。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q186.html" class="button">|prev_question|</a>
+       <span class="page-indicator">187 / 200</span>
+       <a href="q188.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

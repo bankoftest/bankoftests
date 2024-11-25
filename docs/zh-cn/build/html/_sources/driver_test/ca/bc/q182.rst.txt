@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在市区发生意外,你应在多长时间内报警？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试交通意外, 市区, 报警时间
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在市区发生意外,你应在多长时间内报警？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q182" class="quiz">
+       <div class="option" id="q182-A" onclick="selectOption('q182', 'A', true)">
+           A. 24小时
+       </div>
+       <div class="option" id="q182-B" onclick="selectOption('q182', 'B', false)">
+           B. 48小时
+       </div>
+       <div class="option" id="q182-C" onclick="selectOption('q182', 'C', false)">
+           C. 72小时
+       </div>
+       <div class="option" id="q182-D" onclick="selectOption('q182', 'D', false)">
+           D. 12小时
+       </div>
+       <p id="q182-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在市区发生交通事故后，法律要求在24小时内报警，以确保及时记录事故信息。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q181.html" class="button">|prev_question|</a>
+       <span class="page-indicator">182 / 200</span>
+       <a href="q183.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

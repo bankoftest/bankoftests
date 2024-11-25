@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当铁路交叉路口的红灯闪动时,你必须？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试铁路交叉路口, 红灯闪动, 停车
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当铁路交叉路口的红灯闪动时,你必须？
 ====================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   铁路交叉路口的红灯闪动时表示有火车接近，必须停车等待红灯熄灭，并在确认安全后再通过。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q80.html" class="button">|prev_question|</a>
-       <span class="page-indicator">81 / 100</span>
+       <span class="page-indicator">81 / 200</span>
        <a href="q82.html" class="button">|next_question|</a>
    </div>
    </div>

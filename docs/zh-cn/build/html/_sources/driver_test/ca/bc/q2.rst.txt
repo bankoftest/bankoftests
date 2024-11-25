@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在上斜坡停车于大型车辆后面要多留下空位原因是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试上斜坡, 停车, 大型车辆, 滑后, 空间
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在上斜坡停车于大型车辆后面要多留下空位原因是？
 ==============================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   A选项“你可被前面的车辆看见”与安全无直接关联；B选项“你不会呼吸到卡车排出的废气”虽有益健康，但与安全性无关；C选项“在它起步慢的时候,你可以绕过它”有危险，尤其是车辆滑动；D选项“大型车辆在起步时会滑后撞倒你的车”解释了正确原因。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q1.html" class="button">|prev_question|</a>
-       <span class="page-indicator">2 / 100</span>
+       <span class="page-indicator">2 / 200</span>
        <a href="q3.html" class="button">|next_question|</a>
    </div>
    </div>

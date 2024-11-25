@@ -4,21 +4,33 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: 此标志意思是？
-   :keywords: 
+   :description: 此标志的意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试运动场, 驾驶安全, 交通标志
 
 .. raw:: html
 
    <div class="question-card">
 
 
-此标志意思是？
-==============
+此标志的意思是？
+================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/40.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
    <div id="q40" class="quiz">
-       <div class="option" id="q40-A" onclick="selectOption('q40', 'A', false)">
+       <div class="option" id="q40-A" onclick="selectOption('q40', 'A', true)">
            A. 附近有运动场,小心驾驶
        </div>
        <div class="option" id="q40-B" onclick="selectOption('q40', 'B', false)">
@@ -27,7 +39,7 @@
        <div class="option" id="q40-C" onclick="selectOption('q40', 'C', false)">
            C. 时速30公里每天黎明到黄昏
        </div>
-       <div class="option" id="q40-D" onclick="selectOption('q40', 'D', true)">
+       <div class="option" id="q40-D" onclick="selectOption('q40', 'D', false)">
            D. 时速30公里从早上8点到下午5点在上课日子里
        </div>
        <p id="q40-result" class="result"></p>
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   记住即可
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q39.html" class="button">|prev_question|</a>
-       <span class="page-indicator">40 / 100</span>
+       <span class="page-indicator">40 / 200</span>
        <a href="q41.html" class="button">|next_question|</a>
    </div>
    </div>

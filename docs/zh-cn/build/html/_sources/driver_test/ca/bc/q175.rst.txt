@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在超越一辆车之后,什么时候可以回到你的行车道？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试超车, 后视镜, 行车安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在超越一辆车之后,什么时候可以回到你的行车道？
+==============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q175" class="quiz">
+       <div class="option" id="q175-A" onclick="selectOption('q175', 'A', false)">
+           A. 等其他驾驶员挥手
+       </div>
+       <div class="option" id="q175-B" onclick="selectOption('q175', 'B', false)">
+           B. 在安全的时候
+       </div>
+       <div class="option" id="q175-C" onclick="selectOption('q175', 'C', true)">
+           C. 在后视镜完全看见被超越的车辆时
+       </div>
+       <div class="option" id="q175-D" onclick="selectOption('q175', 'D', false)">
+           D. 在离开150公尺的时候
+       </div>
+       <p id="q175-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   超车后，需确保从后视镜完全看到被超越车辆时才能安全返回车道。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q174.html" class="button">|prev_question|</a>
+       <span class="page-indicator">175 / 200</span>
+       <a href="q176.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

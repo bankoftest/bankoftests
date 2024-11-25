@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在此标志上你会看到什么速度？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试限速标志, 速度限制, 道路标志
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 在此标志上你会看到什么速度？
 ============================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/94.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   此标志通常用于提示限速，最常见的速度为时速30公里，用于特殊区域或路段。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q93.html" class="button">|prev_question|</a>
-       <span class="page-indicator">94 / 100</span>
+       <span class="page-indicator">94 / 200</span>
        <a href="q95.html" class="button">|next_question|</a>
    </div>
    </div>

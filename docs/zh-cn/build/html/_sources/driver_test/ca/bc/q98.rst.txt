@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当十字路口交通灯转为黄色时,你必须？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试黄色交通灯, 停车规则, 路口驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当十字路口交通灯转为黄色时,你必须？
 ====================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   黄色灯是警告驾驶员即将变为红灯，驾驶员应停车，除非当时停车会造成危险。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q97.html" class="button">|prev_question|</a>
-       <span class="page-indicator">98 / 100</span>
+       <span class="page-indicator">98 / 200</span>
        <a href="q99.html" class="button">|next_question|</a>
    </div>
    </div>

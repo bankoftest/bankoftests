@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在下雪天要减低交通意外的发生,你最好的做法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试下雪天, 减少交通意外, 保持距离, 湿滑路面
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在下雪天要减低交通意外的发生,你最好的做法是？
+==============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q172" class="quiz">
+       <div class="option" id="q172-A" onclick="selectOption('q172', 'A', false)">
+           A. 换上雪胎
+       </div>
+       <div class="option" id="q172-B" onclick="selectOption('q172', 'B', false)">
+           B. 常用刹车
+       </div>
+       <div class="option" id="q172-C" onclick="selectOption('q172', 'C', false)">
+           C. 小心慢驶
+       </div>
+       <div class="option" id="q172-D" onclick="selectOption('q172', 'D', true)">
+           D. 保持更远的距离
+       </div>
+       <p id="q172-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在下雪天保持更远的跟车距离是减少交通意外的最佳做法，因为湿滑的路面会导致刹车距离变长。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q171.html" class="button">|prev_question|</a>
+       <span class="page-indicator">172 / 200</span>
+       <a href="q173.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

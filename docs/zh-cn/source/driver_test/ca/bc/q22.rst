@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 跟随摩托车时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试摩托车, 跟车距离, 安全驾驶, 加拿大规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 跟随摩托车时,你应该？
 ======================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   由于摩托车相对车辆更小，减速和刹车时较不稳定，因此需要保持更远的跟车距离以确保安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q21.html" class="button">|prev_question|</a>
-       <span class="page-indicator">22 / 100</span>
+       <span class="page-indicator">22 / 200</span>
        <a href="q23.html" class="button">|next_question|</a>
    </div>
    </div>

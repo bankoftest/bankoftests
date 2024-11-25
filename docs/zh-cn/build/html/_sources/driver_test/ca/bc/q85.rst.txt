@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在市区开车驾驶者应向前扫描最少？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试市区驾驶, 前方扫描, 交通安全
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 在市区开车驾驶者应向前扫描最少？
 ================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/85.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在市区驾驶时，应向前观察至少12秒以预测潜在的危险并做出反应。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q84.html" class="button">|prev_question|</a>
-       <span class="page-indicator">85 / 100</span>
+       <span class="page-indicator">85 / 200</span>
        <a href="q86.html" class="button">|next_question|</a>
    </div>
    </div>

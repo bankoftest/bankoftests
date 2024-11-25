@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 要确保看到盲点内的东西,最好方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试盲点, 转弯检查, 换线安全
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 要确保看到盲点内的东西,最好方法是？
 ====================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   最佳方法是回头查看盲点，因为仅依赖后视镜或侧视镜无法完全覆盖视野。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q87.html" class="button">|prev_question|</a>
-       <span class="page-indicator">88 / 100</span>
+       <span class="page-indicator">88 / 200</span>
        <a href="q89.html" class="button">|next_question|</a>
    </div>
    </div>

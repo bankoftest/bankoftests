@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在行驶时感觉太疲倦,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试疲倦驾驶, 停车休息, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在行驶时感觉太疲倦,你应该？
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q160" class="quiz">
+       <div class="option" id="q160-A" onclick="selectOption('q160', 'A', false)">
+           A. 把音响调大声
+       </div>
+       <div class="option" id="q160-B" onclick="selectOption('q160', 'B', true)">
+           B. 停车并走出车外休息
+       </div>
+       <div class="option" id="q160-C" onclick="selectOption('q160', 'C', false)">
+           C. 不停地吃东西
+       </div>
+       <div class="option" id="q160-D" onclick="selectOption('q160', 'D', false)">
+           D. 不停地唱歌而保持清醒
+       </div>
+       <p id="q160-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   感到疲倦时，停车休息是最安全的选择。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q159.html" class="button">|prev_question|</a>
+       <span class="page-indicator">160 / 200</span>
+       <a href="q161.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

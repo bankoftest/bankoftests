@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当该老人踏上行人道时,此驾驶员应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试行人道, 老人, 目光接触, 安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当该老人踏上行人道时,此驾驶员应该？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/101.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q101" class="quiz">
+       <div class="option" id="q101-A" onclick="selectOption('q101', 'A', false)">
+           A. 继续行驶除非她已经在车辆面前
+       </div>
+       <div class="option" id="q101-B" onclick="selectOption('q101', 'B', false)">
+           B. 挥手叫她横过
+       </div>
+       <div class="option" id="q101-C" onclick="selectOption('q101', 'C', true)">
+           C. 已眼神让她知道并等她横过马路
+       </div>
+       <div class="option" id="q101-D" onclick="selectOption('q101', 'D', false)">
+           D. 响喇叭告诉她继续横过马路
+       </div>
+       <p id="q101-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   当行人踏上人行道时，驾驶员通过目光接触向老人示意，并耐心等待老人安全横过马路，是最合适的做法。不要挥手指挥其他人做什么，只有警察可以这样做。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q100.html" class="button">|prev_question|</a>
+       <span class="page-indicator">101 / 200</span>
+       <a href="q102.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

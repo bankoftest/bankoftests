@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此驾驶员在进入街道之前,他必须？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试进入街道, 行人道, 停车, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此驾驶员在进入街道之前,他必须？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/130.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q130" class="quiz">
+       <div class="option" id="q130-A" onclick="selectOption('q130', 'A', false)">
+           A. 在行人道之前停车
+       </div>
+       <div class="option" id="q130-B" onclick="selectOption('q130', 'B', true)">
+           B. 在便道之前停车
+       </div>
+       <div class="option" id="q130-C" onclick="selectOption('q130', 'C', false)">
+           C. 如果没有行人的情况下开出马路
+       </div>
+       <div class="option" id="q130-D" onclick="selectOption('q130', 'D', false)">
+           D. 慢驶并小心向前
+       </div>
+       <p id="q130-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶员在进入街道之前必须在便道处停车，确保安全后再驶入街道。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q129.html" class="button">|prev_question|</a>
+       <span class="page-indicator">130 / 200</span>
+       <a href="q131.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

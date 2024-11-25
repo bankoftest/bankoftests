@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 有一辆车在你面前打着灯号左转,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试左转车辆, 减速, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+有一辆车在你面前打着灯号左转,你应该？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q164" class="quiz">
+       <div class="option" id="q164-A" onclick="selectOption('q164', 'A', false)">
+           A. 响喇叭抗议
+       </div>
+       <div class="option" id="q164-B" onclick="selectOption('q164', 'B', true)">
+           B. 减速或停车等他转过
+       </div>
+       <div class="option" id="q164-C" onclick="selectOption('q164', 'C', false)">
+           C. 加速并绕过它
+       </div>
+       <div class="option" id="q164-D" onclick="selectOption('q164', 'D', false)">
+           D. 转到右线行驶
+       </div>
+       <p id="q164-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   当前车打灯左转时，应减速或停车，等待其完成转弯以避免发生事故。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q163.html" class="button">|prev_question|</a>
+       <span class="page-indicator">164 / 200</span>
+       <a href="q165.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试施工标志, 前方施工, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/152.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q152" class="quiz">
+       <div class="option" id="q152-A" onclick="selectOption('q152', 'A', false)">
+           A. 施工结束
+       </div>
+       <div class="option" id="q152-B" onclick="selectOption('q152', 'B', true)">
+           B. 前面有施工
+       </div>
+       <div class="option" id="q152-C" onclick="selectOption('q152', 'C', false)">
+           C. 前面有施工你必须掉头
+       </div>
+       <div class="option" id="q152-D" onclick="selectOption('q152', 'D', false)">
+           D. 施工正展开
+       </div>
+       <p id="q152-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   记住即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q151.html" class="button">|prev_question|</a>
+       <span class="page-indicator">152 / 200</span>
+       <a href="q153.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

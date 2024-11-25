@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在下斜坡时使用空档？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试下斜坡, 空档驾驶, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在下斜坡时使用空档？
 ====================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在下斜坡时使用空档会失去发动机制动功能，增加刹车负担，从而引发刹车失灵等安全问题。这也是法律禁止的行为。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q54.html" class="button">|prev_question|</a>
-       <span class="page-indicator">55 / 100</span>
+       <span class="page-indicator">55 / 200</span>
        <a href="q56.html" class="button">|next_question|</a>
    </div>
    </div>

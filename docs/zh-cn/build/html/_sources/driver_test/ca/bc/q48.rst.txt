@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 行驶所标明的最高限速应该是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试最高限速, 理想条件, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 行驶所标明的最高限速应该是？
 ============================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   最高限速是指在理想条件下的最高安全速度，应根据路况和天气调整速度。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q47.html" class="button">|prev_question|</a>
-       <span class="page-indicator">48 / 100</span>
+       <span class="page-indicator">48 / 200</span>
        <a href="q49.html" class="button">|next_question|</a>
    </div>
    </div>

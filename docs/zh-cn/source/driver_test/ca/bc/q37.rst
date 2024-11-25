@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 路上的卡车为何要停车？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试卡车, 停车, 行人安全, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 路上的卡车为何要停车？
 ======================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/37.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   卡车可能因行人道上有行人而停车，这是为了确保行人的安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q36.html" class="button">|prev_question|</a>
-       <span class="page-indicator">37 / 100</span>
+       <span class="page-indicator">37 / 200</span>
        <a href="q38.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: a车应该做的是什么？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试换道, 安全驾驶, 信号灯
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+a车应该做的是什么？
+====================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/145.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q145" class="quiz">
+       <div class="option" id="q145-A" onclick="selectOption('q145', 'A', false)">
+           A. 打信号灯并移到左边
+       </div>
+       <div class="option" id="q145-B" onclick="selectOption('q145', 'B', false)">
+           B. 慢驶,打信号灯并移到左边
+       </div>
+       <div class="option" id="q145-C" onclick="selectOption('q145', 'C', true)">
+           C. 打信号灯,在必要时调整速度并找空间
+       </div>
+       <div class="option" id="q145-D" onclick="selectOption('q145', 'D', false)">
+           D. 加速.打信号灯开始移到左
+       </div>
+       <p id="q145-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶员应打信号灯，在必要时调整速度并寻找安全的空间来切换车道。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q144.html" class="button">|prev_question|</a>
+       <span class="page-indicator">145 / 200</span>
+       <a href="q146.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

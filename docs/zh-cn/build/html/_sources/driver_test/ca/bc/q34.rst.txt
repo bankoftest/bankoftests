@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 此标志意思是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试不平坦道路, 驾驶安全, 路面标志
 
 .. raw:: html
 
@@ -17,14 +17,26 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/34.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q34" class="quiz">
        <div class="option" id="q34-A" onclick="selectOption('q34', 'A', false)">
            A. 前面是水泥路面
        </div>
-       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', true)">
+       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', false)">
            B. 前面路不平坦
        </div>
-       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', false)">
+       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', true)">
            C. 前面柏油路面终止
        </div>
        <div class="option" id="q34-D" onclick="selectOption('q34', 'D', false)">
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   记住即可。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q33.html" class="button">|prev_question|</a>
-       <span class="page-indicator">34 / 100</span>
+       <span class="page-indicator">34 / 200</span>
        <a href="q35.html" class="button">|next_question|</a>
    </div>
    </div>

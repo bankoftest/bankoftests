@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 交通管理员的指示？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试交通管理员, 道路规则, 遵从指示
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+交通管理员的指示？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q139" class="quiz">
+       <div class="option" id="q139-A" onclick="selectOption('q139', 'A', false)">
+           A. 在于道路规则无冲突的情况下必须服从
+       </div>
+       <div class="option" id="q139-B" onclick="selectOption('q139', 'B', true)">
+           B. 任何情况下必须服从
+       </div>
+       <div class="option" id="q139-C" onclick="selectOption('q139', 'C', false)">
+           C. 不可以改变交通规则
+       </div>
+       <div class="option" id="q139-D" onclick="selectOption('q139', 'D', false)">
+           D. 在公众道路上不需服从
+       </div>
+       <p id="q139-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   无论是否与道路规则冲突，交通管理员的指示始终优先。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q138.html" class="button">|prev_question|</a>
+       <span class="page-indicator">139 / 200</span>
+       <a href="q140.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

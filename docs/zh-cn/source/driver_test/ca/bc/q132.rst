@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 黄灯意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试黄灯, 停车, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+黄灯意思是？
+============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/132.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q132" class="quiz">
+       <div class="option" id="q132-A" onclick="selectOption('q132', 'A', true)">
+           A. 停车,除非当时不安全
+       </div>
+       <div class="option" id="q132-B" onclick="selectOption('q132', 'B', false)">
+           B. 停车安全时向前
+       </div>
+       <div class="option" id="q132-C" onclick="selectOption('q132', 'C', false)">
+           C. 慢下来小心向前
+       </div>
+       <div class="option" id="q132-D" onclick="selectOption('q132', 'D', false)">
+           D. 十字路口清晰时可以向前
+       </div>
+       <p id="q132-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   黄灯表示驾驶员应停车，除非突然停车会造成危险时才缓慢通过。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q131.html" class="button">|prev_question|</a>
+       <span class="page-indicator">132 / 200</span>
+       <a href="q133.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

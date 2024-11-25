@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 大部分撞车尾可以避免,如果驾驶者？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试撞车尾, 距离, 跟车安全, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 大部分撞车尾可以避免,如果驾驶者？
 ==================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/35.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   保持安全的跟车距离是避免撞车尾的最有效方法，可为突发情况提供反应时间。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q34.html" class="button">|prev_question|</a>
-       <span class="page-indicator">35 / 100</span>
+       <span class="page-indicator">35 / 200</span>
        <a href="q36.html" class="button">|next_question|</a>
    </div>
    </div>

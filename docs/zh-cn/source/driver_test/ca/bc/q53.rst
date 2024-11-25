@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 闪动的绿灯是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试闪动绿灯, 行人控制, 交通信号灯
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 闪动的绿灯是？
 ==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/53.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   闪动绿灯表示该交通灯由行人控制，驾驶者需要留意是否有行人即将横过马路。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q52.html" class="button">|prev_question|</a>
-       <span class="page-indicator">53 / 100</span>
+       <span class="page-indicator">53 / 200</span>
        <a href="q54.html" class="button">|next_question|</a>
    </div>
    </div>

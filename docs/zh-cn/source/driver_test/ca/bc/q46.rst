@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 要保持正确的行车位置,最佳方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试行车位置, 驾驶技巧, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 要保持正确的行车位置,最佳方法是？
 ==================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   保持正确的行车位置需要向远处看，以便更好地判断道路情况和保持直线行驶。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q45.html" class="button">|prev_question|</a>
-       <span class="page-indicator">46 / 100</span>
+       <span class="page-indicator">46 / 200</span>
        <a href="q47.html" class="button">|next_question|</a>
    </div>
    </div>

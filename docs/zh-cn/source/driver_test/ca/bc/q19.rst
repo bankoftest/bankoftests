@@ -4,16 +4,28 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: 禁止U形掉头？
-   :keywords: 
+   :description: 在什么时候禁止U形掉头？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试禁止掉头, U形转弯, 交通标志, 驾驶规则
 
 .. raw:: html
 
    <div class="question-card">
 
 
-禁止U形掉头？
-==============
+在什么时候禁止U形掉头？
+========================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/19.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   禁止U形掉头的标志是一个红色圆圈，表示禁止在弯路或坡顶等视线受阻的地方掉头。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q18.html" class="button">|prev_question|</a>
-       <span class="page-indicator">19 / 100</span>
+       <span class="page-indicator">19 / 200</span>
        <a href="q20.html" class="button">|next_question|</a>
    </div>
    </div>

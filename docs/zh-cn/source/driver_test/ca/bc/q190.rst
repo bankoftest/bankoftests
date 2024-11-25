@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 学生交通队员在指挥交通时,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试学生交通队员, 指挥交通, 服从
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+学生交通队员在指挥交通时,你应该？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q190" class="quiz">
+       <div class="option" id="q190-A" onclick="selectOption('q190', 'A', false)">
+           A. 在上课时服从
+       </div>
+       <div class="option" id="q190-B" onclick="selectOption('q190', 'B', true)">
+           B. 任何时候必须服从
+       </div>
+       <div class="option" id="q190-C" onclick="selectOption('q190', 'C', false)">
+           C. 在不违反交通规则时服从
+       </div>
+       <div class="option" id="q190-D" onclick="selectOption('q190', 'D', false)">
+           D. 慢下来安全向前
+       </div>
+       <p id="q190-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   学生交通队员在指挥交通时，所有驾驶员必须无条件服从，以确保行人和车辆的安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q189.html" class="button">|prev_question|</a>
+       <span class="page-indicator">190 / 200</span>
+       <a href="q191.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

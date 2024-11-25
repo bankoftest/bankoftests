@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 红色车辆的驾驶员他应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试弯路, 超车, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+红色车辆的驾驶员他应该？
+========================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/194.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q194" class="quiz">
+       <div class="option" id="q194-A" onclick="selectOption('q194', 'A', false)">
+           A. 响喇叭告诉前面的驾驶员他要超车
+       </div>
+       <div class="option" id="q194-B" onclick="selectOption('q194', 'B', false)">
+           B. 小心迎面而来的车辆
+       </div>
+       <div class="option" id="q194-C" onclick="selectOption('q194', 'C', true)">
+           C. 等过了弯路之后超车
+       </div>
+       <div class="option" id="q194-D" onclick="selectOption('q194', 'D', false)">
+           D. 尽快超车
+       </div>
+       <p id="q194-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在弯道处超车是非常危险的，驾驶员应等待过弯后超车，以确保视野清晰和安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q193.html" class="button">|prev_question|</a>
+       <span class="page-indicator">194 / 200</span>
+       <a href="q195.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

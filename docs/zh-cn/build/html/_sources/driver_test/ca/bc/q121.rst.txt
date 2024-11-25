@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在交通意外后,不应该做的是什么？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试交通事故, 不应该做的, 责任讨论, 保护现场
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在交通意外后,不应该做的是什么？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q121" class="quiz">
+       <div class="option" id="q121-A" onclick="selectOption('q121', 'A', true)">
+           A. 讨论是谁的错
+       </div>
+       <div class="option" id="q121-B" onclick="selectOption('q121', 'B', false)">
+           B. 写下证人的名字和地址
+       </div>
+       <div class="option" id="q121-C" onclick="selectOption('q121', 'C', false)">
+           C. 画图列出时间地点和天气
+       </div>
+       <div class="option" id="q121-D" onclick="selectOption('q121', 'D', false)">
+           D. 将车辆移开路面
+       </div>
+       <p id="q121-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在交通事故后讨论谁的责任可能导致争执，应优先收集证据和保护现场，避免影响其他交通。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q120.html" class="button">|prev_question|</a>
+       <span class="page-indicator">121 / 200</span>
+       <a href="q122.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

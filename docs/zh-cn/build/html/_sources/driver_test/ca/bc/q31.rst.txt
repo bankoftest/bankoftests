@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 恶劣天气影响视线情况下,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试恶劣天气, 视线, 近光灯, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 恶劣天气影响视线情况下,你应该？
 ================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -28,7 +32,7 @@
            C. 闪动紧急灯号
        </div>
        <div class="option" id="q31-D" onclick="selectOption('q31', 'D', true)">
-           D. 慢车以及亮着近光灯
+           D. 慢车以及开近光灯
        </div>
        <p id="q31-result" class="result"></p>
    </div>
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在恶劣天气条件下，如雨雾天气，亮着近光灯可以提高自身能见度并避免影响对向车辆，而减速行驶则确保安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q30.html" class="button">|prev_question|</a>
-       <span class="page-indicator">31 / 100</span>
+       <span class="page-indicator">31 / 200</span>
        <a href="q32.html" class="button">|next_question|</a>
    </div>
    </div>

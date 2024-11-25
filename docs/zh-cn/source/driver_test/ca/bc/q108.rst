@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 固定绿箭头意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试绿箭头, 十字路口, 转弯信号
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+固定绿箭头意思是？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/108.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q108" class="quiz">
+       <div class="option" id="q108-A" onclick="selectOption('q108', 'A', false)">
+           A. 在完全停车后,你可以向箭头方向转弯
+       </div>
+       <div class="option" id="q108-B" onclick="selectOption('q108', 'B', false)">
+           B. 见面街道是单程道
+       </div>
+       <div class="option" id="q108-C" onclick="selectOption('q108', 'C', true)">
+           C. 在十字路口清晰情况下你可以向箭头方向转弯
+       </div>
+       <div class="option" id="q108-D" onclick="selectOption('q108', 'D', false)">
+           D. 在十字路口你只可以左转
+       </div>
+       <p id="q108-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   固定绿箭头表示在十字路口交通清晰的情况下，可以按照箭头方向安全转弯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q107.html" class="button">|prev_question|</a>
+       <span class="page-indicator">108 / 200</span>
+       <a href="q109.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

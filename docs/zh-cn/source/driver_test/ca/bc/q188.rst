@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你必须泊车离开路口？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试泊车, 距离, 路口
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你必须泊车离开路口？
+====================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q188" class="quiz">
+       <div class="option" id="q188-A" onclick="selectOption('q188', 'A', false)">
+           A. 5公尺
+       </div>
+       <div class="option" id="q188-B" onclick="selectOption('q188', 'B', true)">
+           B. 6公尺
+       </div>
+       <div class="option" id="q188-C" onclick="selectOption('q188', 'C', false)">
+           C. 15公尺
+       </div>
+       <div class="option" id="q188-D" onclick="selectOption('q188', 'D', false)">
+           D. 3公尺
+       </div>
+       <p id="q188-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   根据交通法规，车辆在路口附近停放时必须距离路口至少6公尺。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q187.html" class="button">|prev_question|</a>
+       <span class="page-indicator">188 / 200</span>
+       <a href="q189.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

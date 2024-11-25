@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 下列哪一项对处理来自朋党负面影响的做法不适宜？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试朋党影响, 负面处理, 正面改进
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+下列哪一项对处理来自朋党负面影响的做法不适宜？
+==============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q102" class="quiz">
+       <div class="option" id="q102-A" onclick="selectOption('q102', 'A', true)">
+           A. 呆想—我的表现对他们看来是否太笨
+       </div>
+       <div class="option" id="q102-B" onclick="selectOption('q102', 'B', false)">
+           B. 认识错误
+       </div>
+       <div class="option" id="q102-C" onclick="selectOption('q102', 'C', false)">
+           C. 回想过程
+       </div>
+       <div class="option" id="q102-D" onclick="selectOption('q102', 'D', false)">
+           D. 认识转机
+       </div>
+       <p id="q102-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   对于朋党负面影响，过度纠结自己是否表现笨拙是一种不适宜的做法。更好的方式是回顾过程，认识错误并把握机会改进。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q101.html" class="button">|prev_question|</a>
+       <span class="page-indicator">102 / 200</span>
+       <a href="q103.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 为什么在大风的时候要离摩托车远些？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试大风, 摩托车, 安全距离
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+为什么在大风的时候要离摩托车远些？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q195" class="quiz">
+       <div class="option" id="q195-A" onclick="selectOption('q195', 'A', false)">
+           A. 因为摩托车停车快
+       </div>
+       <div class="option" id="q195-B" onclick="selectOption('q195', 'B', true)">
+           B. 因为狂风会将摩托车吹到你的车道上
+       </div>
+       <div class="option" id="q195-C" onclick="selectOption('q195', 'C', false)">
+           C. 摩托车会使到你的旁避风
+       </div>
+       <div class="option" id="q195-D" onclick="selectOption('q195', 'D', false)">
+           D. 摩托车的速度太慢
+       </div>
+       <p id="q195-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   大风可能导致摩托车失去平衡并偏离车道，因此其他车辆需要与摩托车保持安全距离。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q194.html" class="button">|prev_question|</a>
+       <span class="page-indicator">195 / 200</span>
+       <a href="q196.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

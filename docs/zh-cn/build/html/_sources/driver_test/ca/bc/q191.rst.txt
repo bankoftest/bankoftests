@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 骑自行车人士会出现在高速公路上？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试骑自行车, 高速公路, 禁止
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+骑自行车人士会出现在高速公路上？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q191" class="quiz">
+       <div class="option" id="q191-A" onclick="selectOption('q191', 'A', true)">
+           A. 任何时候
+       </div>
+       <div class="option" id="q191-B" onclick="selectOption('q191', 'B', false)">
+           B. 永远不可以
+       </div>
+       <div class="option" id="q191-C" onclick="selectOption('q191', 'C', false)">
+           C. 天气良好的时候
+       </div>
+       <div class="option" id="q191-D" onclick="selectOption('q191', 'D', false)">
+           D. 在晚间
+       </div>
+       <p id="q191-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   骑自行车人士可能出现在高速公路上，驾驶员应注意观察并保持安全距离。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q190.html" class="button">|prev_question|</a>
+       <span class="page-indicator">191 / 200</span>
+       <a href="q192.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

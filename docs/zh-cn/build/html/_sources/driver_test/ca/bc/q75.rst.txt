@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 以60公里时速撞向其它车辆,车内人员受伤程度如同几层楼顶掉下？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试速度撞击, 受伤程度, 高速危险
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 以60公里时速撞向其它车辆,车内人员受伤程度如同几层楼顶掉下？
 ==============================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   以60公里/小时的速度撞击其他车辆相当于从4层楼高处跌落，显示了高速撞击的危险性。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q74.html" class="button">|prev_question|</a>
-       <span class="page-indicator">75 / 100</span>
+       <span class="page-indicator">75 / 200</span>
        <a href="q76.html" class="button">|next_question|</a>
    </div>
    </div>

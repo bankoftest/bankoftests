@@ -4,16 +4,28 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: 哪一辆车在e车的盲点内？
-   :keywords: 
+   :description: 哪一辆车在E车的盲点内？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试盲点, 驾驶安全, 后视镜, 加拿大规则
 
 .. raw:: html
 
    <div class="question-card">
 
 
-哪一辆车在e车的盲点内？
+哪一辆车在E车的盲点内？
 ========================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/26.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   车辆B在E车的盲点内，因此E车可能看不见B车，所以需要shoulder check。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q25.html" class="button">|prev_question|</a>
-       <span class="page-indicator">26 / 100</span>
+       <span class="page-indicator">26 / 200</span>
        <a href="q27.html" class="button">|next_question|</a>
    </div>
    </div>

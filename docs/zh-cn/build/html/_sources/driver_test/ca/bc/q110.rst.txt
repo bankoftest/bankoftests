@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此骑自行车的人所面临的危险是什么？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试自行车, 停泊车辆, 开车门危险
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此骑自行车的人所面临的危险是什么？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/110.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q110" class="quiz">
+       <div class="option" id="q110-A" onclick="selectOption('q110', 'A', false)">
+           A. 停泊在对面马路的车辆在开启时会撞到她
+       </div>
+       <div class="option" id="q110-B" onclick="selectOption('q110', 'B', false)">
+           B. 路上后车的车辆
+       </div>
+       <div class="option" id="q110-C" onclick="selectOption('q110', 'C', false)">
+           C. 她可能歪倒撞到停泊在路旁的车辆
+       </div>
+       <div class="option" id="q110-D" onclick="selectOption('q110', 'D', true)">
+           D. 车里的人可能随时打开车门撞倒她
+       </div>
+       <p id="q110-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   骑自行车的人可能遇到停泊车辆内的人突然打开车门，因此驾驶员应保持安全距离。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q109.html" class="button">|prev_question|</a>
+       <span class="page-indicator">110 / 200</span>
+       <a href="q111.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 大部分车辆容易在下雪天打滑,原因是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试下雪天, 路面结冰, 车辆打滑, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+大部分车辆容易在下雪天打滑,原因是？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q173" class="quiz">
+       <div class="option" id="q173-A" onclick="selectOption('q173', 'A', false)">
+           A. 速度太快
+       </div>
+       <div class="option" id="q173-B" onclick="selectOption('q173', 'B', false)">
+           B. 刹车太急
+       </div>
+       <div class="option" id="q173-C" onclick="selectOption('q173', 'C', true)">
+           C. 轮胎太旧没有线纹
+       </div>
+       <div class="option" id="q173-D" onclick="selectOption('q173', 'D', false)">
+           D. 因为路面结冰
+       </div>
+       <p id="q173-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   轮胎太旧没有线纹会导致车辆在下雪天打滑，因此需要定期更换新的轮胎。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q172.html" class="button">|prev_question|</a>
+       <span class="page-indicator">173 / 200</span>
+       <a href="q174.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

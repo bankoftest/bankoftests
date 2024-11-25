@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你已行驶到最高限速而后面依然跟随大队车辆, 你最好的处理方法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试最高限速, 大队车辆, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你已行驶到最高限速而后面依然跟随大队车辆, 你最好的处理方法是？
+================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q197" class="quiz">
+       <div class="option" id="q197-A" onclick="selectOption('q197', 'A', false)">
+           A. 保持速度继续行驶
+       </div>
+       <div class="option" id="q197-B" onclick="selectOption('q197', 'B', false)">
+           B. 闪亮你的刹车灯
+       </div>
+       <div class="option" id="q197-C" onclick="selectOption('q197', 'C', false)">
+           C. 移到右车道行驶
+       </div>
+       <div class="option" id="q197-D" onclick="selectOption('q197', 'D', true)">
+           D. 驶至路旁停下来让其它车辆先行
+       </div>
+       <p id="q197-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   当有大量车辆在后面跟随时，应选择驶至路旁或减速让车队通过，这样有助于缓解交通压力。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q196.html" class="button">|prev_question|</a>
+       <span class="page-indicator">197 / 200</span>
+       <a href="q198.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

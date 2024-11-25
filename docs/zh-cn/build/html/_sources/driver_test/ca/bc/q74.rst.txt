@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 两辆车同时抵达路口, 谁该先行？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试路口优先权, 驾驶规则, 直行优先
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 两辆车同时抵达路口, 谁该先行？
 ================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/74.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在路口，直行车辆通常拥有优先权，左转车辆应避让直行车辆。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q73.html" class="button">|prev_question|</a>
-       <span class="page-indicator">74 / 100</span>
+       <span class="page-indicator">74 / 200</span>
        <a href="q75.html" class="button">|next_question|</a>
    </div>
    </div>

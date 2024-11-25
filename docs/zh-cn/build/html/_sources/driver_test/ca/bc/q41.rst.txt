@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 下列哪一项不是醉酒的迹象？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试醉酒, 醉驾迹象, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 下列哪一项不是醉酒的迹象？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   醉酒的主要迹象包括对周围失去感觉、眼睛凝视以及视程减低。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q40.html" class="button">|prev_question|</a>
-       <span class="page-indicator">41 / 100</span>
+       <span class="page-indicator">41 / 200</span>
        <a href="q42.html" class="button">|next_question|</a>
    </div>
    </div>

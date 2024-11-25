@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此驾驶员应留下更多空间,原因是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试自行车, 路面空间, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此驾驶员应留下更多空间,原因是？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/149.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q149" class="quiz">
+       <div class="option" id="q149-A" onclick="selectOption('q149', 'A', false)">
+           A. 骑自行车的人可能慢下来
+       </div>
+       <div class="option" id="q149-B" onclick="selectOption('q149', 'B', true)">
+           B. 骑自行车的人可能转弯
+       </div>
+       <div class="option" id="q149-C" onclick="selectOption('q149', 'C', false)">
+           C. 骑自行车的人可能会换道
+       </div>
+       <div class="option" id="q149-D" onclick="selectOption('q149', 'D', false)">
+           D. 骑自行车的人可能会下车
+       </div>
+       <p id="q149-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   骑自行车的人可能会在路上转弯，因此需要保持更大的空间。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q148.html" class="button">|prev_question|</a>
+       <span class="page-indicator">149 / 200</span>
+       <a href="q150.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

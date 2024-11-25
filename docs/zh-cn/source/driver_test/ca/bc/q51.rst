@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 要防备他人做出意料之外的行为,最佳方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试意料之外行为, 驾驶安全, 预留空间
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 要防备他人做出意料之外的行为,最佳方法是？
 ==========================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   预留更大的空间可以提供充足的反应时间，尤其在他人驾驶不确定的情况下，这有助于更好地规避潜在危险。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q50.html" class="button">|prev_question|</a>
-       <span class="page-indicator">51 / 100</span>
+       <span class="page-indicator">51 / 200</span>
        <a href="q52.html" class="button">|next_question|</a>
    </div>
    </div>

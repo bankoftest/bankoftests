@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 跟随消防车,你最少离它？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试消防车, 距离, 驾驶规则, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 跟随消防车,你最少离它？
 ========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   消防车通常需要较大的空间以便应急响应，因此至少应保持150公尺（米）的距离。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q19.html" class="button">|prev_question|</a>
-       <span class="page-indicator">20 / 100</span>
+       <span class="page-indicator">20 / 200</span>
        <a href="q21.html" class="button">|next_question|</a>
    </div>
    </div>

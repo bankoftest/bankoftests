@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你什么时候特别要查看后视镜？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试后视镜, 减速, 停车, 交通安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你什么时候特别要查看后视镜？
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q115" class="quiz">
+       <div class="option" id="q115-A" onclick="selectOption('q115', 'A', true)">
+           A. 在减速和准备停车时
+       </div>
+       <div class="option" id="q115-B" onclick="selectOption('q115', 'B', false)">
+           B. 在准备加速时
+       </div>
+       <div class="option" id="q115-C" onclick="selectOption('q115', 'C', false)">
+           C. 在到后泊车时
+       </div>
+       <div class="option" id="q115-D" onclick="selectOption('q115', 'D', false)">
+           D. 在停车标起步时
+       </div>
+       <p id="q115-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在减速或准备停车时，查看后视镜可以了解后方交通状况，确保安全停车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q114.html" class="button">|prev_question|</a>
+       <span class="page-indicator">115 / 200</span>
+       <a href="q116.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

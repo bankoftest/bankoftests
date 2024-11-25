@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 乘客怎样可以帮助驾驶员安全驾驶？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试乘客, 安全驾驶, 驾驶注意力
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+乘客怎样可以帮助驾驶员安全驾驶？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q118" class="quiz">
+       <div class="option" id="q118-A" onclick="selectOption('q118', 'A', false)">
+           A. 常询问路途,令驾驶员提高警觉
+       </div>
+       <div class="option" id="q118-B" onclick="selectOption('q118', 'B', false)">
+           B. 打开收音机
+       </div>
+       <div class="option" id="q118-C" onclick="selectOption('q118', 'C', true)">
+           C. 避免火爆与激励的谈话
+       </div>
+       <div class="option" id="q118-D" onclick="selectOption('q118', 'D', false)">
+           D. 声量增大让他听到谈话内容
+       </div>
+       <p id="q118-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   乘客应避免激烈或火爆的谈话，以帮助驾驶员集中注意力，确保安全驾驶。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q117.html" class="button">|prev_question|</a>
+       <span class="page-indicator">118 / 200</span>
+       <a href="q119.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

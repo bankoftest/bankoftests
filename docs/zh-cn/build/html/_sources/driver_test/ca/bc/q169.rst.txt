@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 圈中骑自行车的人,他将要？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试骑自行车, 左转, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+圈中骑自行车的人,他将要？
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/169.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q169" class="quiz">
+       <div class="option" id="q169-A" onclick="selectOption('q169', 'A', false)">
+           A. 停车
+       </div>
+       <div class="option" id="q169-B" onclick="selectOption('q169', 'B', true)">
+           B. 左转
+       </div>
+       <div class="option" id="q169-C" onclick="selectOption('q169', 'C', false)">
+           C. 右转
+       </div>
+       <div class="option" id="q169-D" onclick="selectOption('q169', 'D', false)">
+           D. 直去
+       </div>
+       <p id="q169-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   根据手势或环境，骑自行车的人将要左转，需特别注意。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q168.html" class="button">|prev_question|</a>
+       <span class="page-indicator">169 / 200</span>
+       <a href="q170.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

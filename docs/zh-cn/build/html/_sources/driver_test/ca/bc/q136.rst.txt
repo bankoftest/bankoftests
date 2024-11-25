@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在夜间大部分车辆与火车相撞的原因是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试火车, 夜间驾驶, 交通事故
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在夜间大部分车辆与火车相撞的原因是？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q136" class="quiz">
+       <div class="option" id="q136-A" onclick="selectOption('q136', 'A', false)">
+           A. 汽车驾驶员太疲倦
+       </div>
+       <div class="option" id="q136-B" onclick="selectOption('q136', 'B', true)">
+           B. 驾驶员没看到火车
+       </div>
+       <div class="option" id="q136-C" onclick="selectOption('q136', 'C', false)">
+           C. 火车驾驶员没有看到铁路上的车辆
+       </div>
+       <div class="option" id="q136-D" onclick="selectOption('q136', 'D', false)">
+           D. 因为车辆卡在轨道上
+       </div>
+       <p id="q136-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   夜间视线有限，驾驶员很容易忽视火车的存在，导致事故。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q135.html" class="button">|prev_question|</a>
+       <span class="page-indicator">136 / 200</span>
+       <a href="q137.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

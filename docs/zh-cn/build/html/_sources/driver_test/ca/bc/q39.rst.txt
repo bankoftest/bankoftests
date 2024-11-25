@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在没有标明情况下,最高限速是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试最高限速, 市区限速, 郊区限速, 驾驶规则
 
 .. raw:: html
 
@@ -17,18 +17,22 @@
 
 .. raw:: html
 
+   <hr>
+
+.. raw:: html
+
    <div id="q39" class="quiz">
        <div class="option" id="q39-A" onclick="selectOption('q39', 'A', false)">
-           A. 市区60公里和郊区80公里
+           A. 市区60公里/小时和郊区80公里/小时
        </div>
        <div class="option" id="q39-B" onclick="selectOption('q39', 'B', true)">
-           B. 市区50公里和郊区80公里
+           B. 市区50公里/小时和郊区80公里/小时
        </div>
        <div class="option" id="q39-C" onclick="selectOption('q39', 'C', false)">
-           C. 市区50公里和郊区90公里
+           C. 市区50公里/小时和郊区90公里/小时
        </div>
        <div class="option" id="q39-D" onclick="selectOption('q39', 'D', false)">
-           D. 市区60公里和郊区90公里
+           D. 市区60公里/小时和郊区90公里/小时
        </div>
        <p id="q39-result" class="result"></p>
    </div>
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在没有标明限速的情况下，加拿大大部分地区市区最高限速为50公里/小时，郊区最高限速为80公里/小时。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q38.html" class="button">|prev_question|</a>
-       <span class="page-indicator">39 / 100</span>
+       <span class="page-indicator">39 / 200</span>
        <a href="q40.html" class="button">|next_question|</a>
    </div>
    </div>

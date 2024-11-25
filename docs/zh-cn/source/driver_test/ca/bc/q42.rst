@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当你要驶入交通道路时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试让路, 驶入交通, 道路规则
 
 .. raw:: html
 
@@ -17,12 +17,16 @@
 
 .. raw:: html
 
+   <hr>
+
+.. raw:: html
+
    <div id="q42" class="quiz">
        <div class="option" id="q42-A" onclick="selectOption('q42', 'A', false)">
            A. 在来车距离低于两公尺时必须让路
        </div>
        <div class="option" id="q42-B" onclick="selectOption('q42', 'B', false)">
-           B. 用手号
+           B. 用手示意
        </div>
        <div class="option" id="q42-C" onclick="selectOption('q42', 'C', true)">
            C. 让路给已在交通的车辆
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在驶入交通道路时，必须让路给已在道路上的车辆，以避免碰撞并确保交通流畅。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q41.html" class="button">|prev_question|</a>
-       <span class="page-indicator">42 / 100</span>
+       <span class="page-indicator">42 / 200</span>
        <a href="q43.html" class="button">|next_question|</a>
    </div>
    </div>

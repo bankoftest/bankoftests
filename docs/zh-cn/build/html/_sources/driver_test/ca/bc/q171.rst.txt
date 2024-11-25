@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中的驾驶员,他将要？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试驾驶员, 减速, 停车, 交通规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中的驾驶员,他将要？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/171.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q171" class="quiz">
+       <div class="option" id="q171-A" onclick="selectOption('q171', 'A', true)">
+           A. 慢车和停车
+       </div>
+       <div class="option" id="q171-B" onclick="selectOption('q171', 'B', false)">
+           B. 左转
+       </div>
+       <div class="option" id="q171-C" onclick="selectOption('q171', 'C', false)">
+           C. 右转
+       </div>
+       <div class="option" id="q171-D" onclick="selectOption('q171', 'D', false)">
+           D. 直去
+       </div>
+       <p id="q171-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   从图中信息可以看出，驾驶员正在减速准备停车，这通常是为了遵守交通规则或避让其他车辆或行人。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q170.html" class="button">|prev_question|</a>
+       <span class="page-indicator">171 / 200</span>
+       <a href="q172.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

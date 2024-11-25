@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 什么是'看-想-做'的正确策略？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试驾驶策略, 看想做, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+什么是'看-想-做'的正确策略？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/133.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q133" class="quiz">
+       <div class="option" id="q133-A" onclick="selectOption('q133', 'A', false)">
+           A. 他看到黄灯时他想'我可以穿过',加速
+       </div>
+       <div class="option" id="q133-B" onclick="selectOption('q133', 'B', false)">
+           B. 他看到卡车转弯时,他想'卡车不在我的道上',加速
+       </div>
+       <div class="option" id="q133-C" onclick="selectOption('q133', 'C', true)">
+           C. 他看到卡车转弯时,他想'他可能转大弯',慢驶
+       </div>
+       <div class="option" id="q133-D" onclick="selectOption('q133', 'D', false)">
+           D. 他看到卡车转弯时,他想'卡车和可能转大弯',突然停车
+       </div>
+       <p id="q133-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   '看-想-做'强调驾驶员在观察路况后作出正确判断，例如看到卡车转弯时应慢驶并保持安全距离。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q132.html" class="button">|prev_question|</a>
+       <span class="page-indicator">133 / 200</span>
+       <a href="q134.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

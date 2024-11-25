@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你必须泊车离开消防龙头？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试泊车, 消防龙头, 距离
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你必须泊车离开消防龙头？
+========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q189" class="quiz">
+       <div class="option" id="q189-A" onclick="selectOption('q189', 'A', true)">
+           A. 5公尺
+       </div>
+       <div class="option" id="q189-B" onclick="selectOption('q189', 'B', false)">
+           B. 6公尺
+       </div>
+       <div class="option" id="q189-C" onclick="selectOption('q189', 'C', false)">
+           C. 15公尺
+       </div>
+       <div class="option" id="q189-D" onclick="selectOption('q189', 'D', false)">
+           D. 3公尺
+       </div>
+       <p id="q189-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   为确保消防设施的可用性，泊车时需距离消防龙头至少5公尺。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q188.html" class="button">|prev_question|</a>
+       <span class="page-indicator">189 / 200</span>
+       <a href="q190.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

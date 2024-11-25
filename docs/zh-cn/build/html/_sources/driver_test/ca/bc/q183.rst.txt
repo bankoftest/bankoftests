@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 紧急刹车的技巧是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试紧急刹车, 技巧, 刹车制
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+紧急刹车的技巧是？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q183" class="quiz">
+       <div class="option" id="q183-A" onclick="selectOption('q183', 'A', false)">
+           A. 使劲刹车尽快把车停下
+       </div>
+       <div class="option" id="q183-B" onclick="selectOption('q183', 'B', true)">
+           B. 尽快把车辆停下来而不锁死刹车制
+       </div>
+       <div class="option" id="q183-C" onclick="selectOption('q183', 'C', false)">
+           C. 快速踩放刹车制
+       </div>
+       <div class="option" id="q183-D" onclick="selectOption('q183', 'D', false)">
+           D. 响喇叭叫其他车辆离开
+       </div>
+       <p id="q183-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   紧急刹车时，驾驶员应避免锁死刹车制，这样可以保持对车辆的控制，减少事故发生的可能性。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q182.html" class="button">|prev_question|</a>
+       <span class="page-indicator">183 / 200</span>
+       <a href="q184.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

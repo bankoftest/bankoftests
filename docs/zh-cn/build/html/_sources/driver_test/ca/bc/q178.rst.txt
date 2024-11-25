@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中的双黄线的意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试双黄线, 越线行驶, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中的双黄线的意思是？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/178.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q178" class="quiz">
+       <div class="option" id="q178-A" onclick="selectOption('q178', 'A', false)">
+           A. 分隔迎面车辆
+       </div>
+       <div class="option" id="q178-B" onclick="selectOption('q178', 'B', false)">
+           B. 你不可能越线行驶
+       </div>
+       <div class="option" id="q178-C" onclick="selectOption('q178', 'C', true)">
+           C. 严禁超车
+       </div>
+       <div class="option" id="q178-D" onclick="selectOption('q178', 'D', false)">
+           D. 不可以转弯
+       </div>
+       <p id="q178-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   双黄线表示不准越线行驶，严禁超车，驾驶员应遵守道路标志。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q177.html" class="button">|prev_question|</a>
+       <span class="page-indicator">178 / 200</span>
+       <a href="q179.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

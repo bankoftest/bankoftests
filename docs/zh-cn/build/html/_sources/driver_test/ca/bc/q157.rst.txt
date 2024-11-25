@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 卡车周围的车辆应该格外小心,因为？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试卡车盲点, 驾驶安全, 大型车辆
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+卡车周围的车辆应该格外小心,因为？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q157" class="quiz">
+       <div class="option" id="q157-A" onclick="selectOption('q157', 'A', false)">
+           A. 他的速度太慢
+       </div>
+       <div class="option" id="q157-B" onclick="selectOption('q157', 'B', true)">
+           B. 卡车的盲点比较大
+       </div>
+       <div class="option" id="q157-C" onclick="selectOption('q157', 'C', false)">
+           C. 他会突然停车
+       </div>
+       <div class="option" id="q157-D" onclick="selectOption('q157', 'D', false)">
+           D. 你可能呼吸到废气
+       </div>
+       <p id="q157-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   卡车盲点较大，驾驶员可能看不到你所在的位置，需特别小心。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q156.html" class="button">|prev_question|</a>
+       <span class="page-indicator">157 / 200</span>
+       <a href="q158.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

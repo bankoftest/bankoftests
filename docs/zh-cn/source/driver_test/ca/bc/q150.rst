@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在一个没有控制的十字路口,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试十字路口, 无信号, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在一个没有控制的十字路口,你应该？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q150" class="quiz">
+       <div class="option" id="q150-A" onclick="selectOption('q150', 'A', false)">
+           A. 响喇叭告诉其他驾驶员你在附近
+       </div>
+       <div class="option" id="q150-B" onclick="selectOption('q150', 'B', true)">
+           B. 减速并查看危险
+       </div>
+       <div class="option" id="q150-C" onclick="selectOption('q150', 'C', false)">
+           C. 保持速度,但是要查危险
+       </div>
+       <div class="option" id="q150-D" onclick="selectOption('q150', 'D', false)">
+           D. 停车
+       </div>
+       <p id="q150-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在没有控制的十字路口，应减速并注意观察危险情况，确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q149.html" class="button">|prev_question|</a>
+       <span class="page-indicator">150 / 200</span>
+       <a href="q151.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在双线路上,避免意外发生最不安全的做法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试双线路, 意外避免, 驾驶不安全行为
 
 .. raw:: html
 
@@ -17,6 +17,10 @@
 
 .. raw:: html
 
+   <hr>
+
+.. raw:: html
+
    <div id="q9" class="quiz">
        <div class="option" id="q9-A" onclick="selectOption('q9', 'A', false)">
            A. 把脚离开油门
@@ -25,7 +29,7 @@
            B. 转到左线
        </div>
        <div class="option" id="q9-C" onclick="selectOption('q9', 'C', false)">
-           C. 用力刹车而不锁死刹车制
+           C. 用力刹车而不锁死刹车
        </div>
        <div class="option" id="q9-D" onclick="selectOption('q9', 'D', false)">
            D. 闪亮车头灯和响喇叭提醒其他驾驶者
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   A选项“把脚离开油门”是合理的防御性驾驶；B选项“转到左线”可能与迎面车辆冲突，是不安全的；C选项“用力刹车而不锁死刹车”避免了车辆失控；D选项“闪亮车头灯和响喇叭提醒其他驾驶者”可能有效提醒。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q8.html" class="button">|prev_question|</a>
-       <span class="page-indicator">9 / 100</span>
+       <span class="page-indicator">9 / 200</span>
        <a href="q10.html" class="button">|next_question|</a>
    </div>
    </div>

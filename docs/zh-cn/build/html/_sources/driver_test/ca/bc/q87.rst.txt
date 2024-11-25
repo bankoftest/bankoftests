@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在进入高速公路时,驾驶员应怎样查看交通情况？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试高速公路, 盲点检查, 合流驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在进入高速公路时,驾驶员应怎样查看交通情况？
 ============================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   进入高速公路时，驾驶员必须检查侧视镜和后视镜，并回头查看盲点以确保安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q86.html" class="button">|prev_question|</a>
-       <span class="page-indicator">87 / 100</span>
+       <span class="page-indicator">87 / 200</span>
        <a href="q88.html" class="button">|next_question|</a>
    </div>
    </div>

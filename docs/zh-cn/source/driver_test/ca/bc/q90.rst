@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 骑自行车的有权？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试骑自行车, 道路安全, 交通权利
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 骑自行车的有权？
 ================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   骑自行车的人在右转车道感到不安全时，可以移到车道中间以避免危险。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q89.html" class="button">|prev_question|</a>
-       <span class="page-indicator">90 / 100</span>
+       <span class="page-indicator">90 / 200</span>
        <a href="q91.html" class="button">|next_question|</a>
    </div>
    </div>

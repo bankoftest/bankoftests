@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 驾驶的态度和风格？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试驾驶态度, 风格, 情绪影响
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+驾驶的态度和风格？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q199" class="quiz">
+       <div class="option" id="q199-A" onclick="selectOption('q199', 'A', false)">
+           A. 每天都不同
+       </div>
+       <div class="option" id="q199-B" onclick="selectOption('q199', 'B', false)">
+           B. 会受到情绪影响
+       </div>
+       <div class="option" id="q199-C" onclick="selectOption('q199', 'C', true)">
+           C. 是自己选择的
+       </div>
+       <div class="option" id="q199-D" onclick="selectOption('q199', 'D', false)">
+           D. 不会影响你的保险费
+       </div>
+       <p id="q199-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶的态度和风格是驾驶员自己选择的，不管外界环境如何、其他人态度如何，你都可以选择自己的驾驶态度。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q198.html" class="button">|prev_question|</a>
+       <span class="page-indicator">199 / 200</span>
+       <a href="q200.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

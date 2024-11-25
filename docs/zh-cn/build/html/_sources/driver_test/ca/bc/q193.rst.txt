@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中的行车道是用来？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试双程左转, 车道功能
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中的行车道是用来？
+====================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/193.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q193" class="quiz">
+       <div class="option" id="q193-A" onclick="selectOption('q193', 'A', false)">
+           A. 公交车专用
+       </div>
+       <div class="option" id="q193-B" onclick="selectOption('q193', 'B', true)">
+           B. 双程左转
+       </div>
+       <div class="option" id="q193-C" onclick="selectOption('q193', 'C', false)">
+           C. 双程右转
+       </div>
+       <div class="option" id="q193-D" onclick="selectOption('q193', 'D', false)">
+           D. 紧急车辆专用
+       </div>
+       <p id="q193-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   图中显示的是双程左转车道，通常用于允许两个方向的车辆同时左转。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q192.html" class="button">|prev_question|</a>
+       <span class="page-indicator">193 / 200</span>
+       <a href="q194.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

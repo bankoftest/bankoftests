@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: A车将要左转,他的危险和视线受限于？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试左转, 卡车盲点, 视线受限
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A车将要左转,他的危险和视线受限于？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/129.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q129" class="quiz">
+       <div class="option" id="q129-A" onclick="selectOption('q129', 'A', false)">
+           A. 他的盲点
+       </div>
+       <div class="option" id="q129-B" onclick="selectOption('q129', 'B', true)">
+           B. 卡车的后面和侧面
+       </div>
+       <div class="option" id="q129-C" onclick="selectOption('q129', 'C', false)">
+           C. 直接跟在他后面的车辆
+       </div>
+       <div class="option" id="q129-D" onclick="selectOption('q129', 'D', false)">
+           D. 在他右车道后的车辆
+       </div>
+       <p id="q129-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   由于卡车的体积较大，可能阻挡A车的视线，驾驶员需特别小心观察卡车周围环境。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q128.html" class="button">|prev_question|</a>
+       <span class="page-indicator">129 / 200</span>
+       <a href="q130.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

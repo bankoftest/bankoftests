@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当倒车时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试倒车, 检查侧视镜, 查看后视镜, 转身观望, 驾驶技巧
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当倒车时,你应该？
 ==================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,12 +41,12 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   A选项“检查两边侧视镜”只能提供有限视角，不足以全面了解后方情况；B选项“查看所有后视镜”虽比A好，但仍有盲区；C选项“转身向后玻璃观望”提供了最清晰的后方视角，是正确方法；D选项“看后视镜”过于局限，容易忽略障碍物。
 
 .. raw:: html
 
    <div class="nav-buttons single-next">
-       <span class="page-indicator">1 / 100</span>
+       <span class="page-indicator">1 / 200</span>
        <a href="q2.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在夜间驾驶要避免迎面车辆的灯光刺眼,最佳方法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试夜间驾驶, 迎面灯光, 驾驶技巧
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在夜间驾驶要避免迎面车辆的灯光刺眼,最佳方法是？
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q155" class="quiz">
+       <div class="option" id="q155-A" onclick="selectOption('q155', 'A', false)">
+           A. 亮起远光灯
+       </div>
+       <div class="option" id="q155-B" onclick="selectOption('q155', 'B', true)">
+           B. 向马路的右边看
+       </div>
+       <div class="option" id="q155-C" onclick="selectOption('q155', 'C', false)">
+           C. 闪烁远光灯告诉迎面驾驶员调暗灯光
+       </div>
+       <div class="option" id="q155-D" onclick="selectOption('q155', 'D', false)">
+           D. 看着前面车辆
+       </div>
+       <p id="q155-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   避免灯光刺眼的最佳方法是将视线移向道路的右侧边缘。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q154.html" class="button">|prev_question|</a>
+       <span class="page-indicator">155 / 200</span>
+       <a href="q156.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

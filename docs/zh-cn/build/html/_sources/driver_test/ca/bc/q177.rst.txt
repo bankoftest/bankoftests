@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 马路上的白线是告诉你？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试白线, 同方向车道, 驾驶规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+马路上的白线是告诉你？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/177.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q177" class="quiz">
+       <div class="option" id="q177-A" onclick="selectOption('q177', 'A', false)">
+           A. 分开迎面车辆
+       </div>
+       <div class="option" id="q177-B" onclick="selectOption('q177', 'B', true)">
+           B. 一条以上向同方向行驶的行车道
+       </div>
+       <div class="option" id="q177-C" onclick="selectOption('q177', 'C', false)">
+           C. 不准换线
+       </div>
+       <div class="option" id="q177-D" onclick="selectOption('q177', 'D', false)">
+           D. 可以换线
+       </div>
+       <p id="q177-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   马路上的白线标识的是同方向的多条车道，帮助驾驶员保持正确的行车位置。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q176.html" class="button">|prev_question|</a>
+       <span class="page-indicator">177 / 200</span>
+       <a href="q178.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

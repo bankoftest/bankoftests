@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: A车驾驶员最应留意的是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试儿童, 路上球, 驾驶安全, 提高警惕
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A车驾驶员最应留意的是？
+========================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/113.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q113" class="quiz">
+       <div class="option" id="q113-A" onclick="selectOption('q113', 'A', true)">
+           A. 路上的球,因小孩会追随它
+       </div>
+       <div class="option" id="q113-B" onclick="selectOption('q113', 'B', false)">
+           B. 该车后面的车辆
+       </div>
+       <div class="option" id="q113-C" onclick="selectOption('q113', 'C', false)">
+           C. 在行人道上的行人
+       </div>
+       <div class="option" id="q113-D" onclick="selectOption('q113', 'D', false)">
+           D. 迎面来的车辆
+       </div>
+       <p id="q113-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶员需要特别注意路上的球，因为可能有小孩追着球跑到车前，增加事故风险。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q112.html" class="button">|prev_question|</a>
+       <span class="page-indicator">113 / 200</span>
+       <a href="q114.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

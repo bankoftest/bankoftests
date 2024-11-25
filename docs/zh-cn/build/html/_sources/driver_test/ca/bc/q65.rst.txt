@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 你何时可以获准超过标志牌的限速行驶？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试限速, 超速, 交通规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 你何时可以获准超过标志牌的限速行驶？
 ====================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   限速是法律规定的最高速度，任何情况下都不允许超过标志牌的限速行驶。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q64.html" class="button">|prev_question|</a>
-       <span class="page-indicator">65 / 100</span>
+       <span class="page-indicator">65 / 200</span>
        <a href="q66.html" class="button">|next_question|</a>
    </div>
    </div>

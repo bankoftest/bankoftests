@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在什么时候你必须亮着车头行车？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试车头灯, 黄昏, 黎明, 驾驶规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在什么时候你必须亮着车头行车？
+==============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q174" class="quiz">
+       <div class="option" id="q174-A" onclick="selectOption('q174', 'A', false)">
+           A. 晚间
+       </div>
+       <div class="option" id="q174-B" onclick="selectOption('q174', 'B', false)">
+           B. 任何时候
+       </div>
+       <div class="option" id="q174-C" onclick="selectOption('q174', 'C', true)">
+           C. 黄昏后半小时至黎明前半小时
+       </div>
+       <div class="option" id="q174-D" onclick="selectOption('q174', 'D', false)">
+           D. 黎明前半小时至黄昏前半小时
+       </div>
+       <p id="q174-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   根据规定，车头灯必须在黄昏后半小时至黎明前半小时期间亮起，以确保能见度。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q173.html" class="button">|prev_question|</a>
+       <span class="page-indicator">174 / 200</span>
+       <a href="q175.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

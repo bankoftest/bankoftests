@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中车辆谁应让路？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试让路, 交通规则, 车辆优先
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中车辆谁应让路？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/200.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q200" class="quiz">
+       <div class="option" id="q200-A" onclick="selectOption('q200', 'A', true)">
+           A. 车辆A
+       </div>
+       <div class="option" id="q200-B" onclick="selectOption('q200', 'B', false)">
+           B. 车辆B
+       </div>
+       <div class="option" id="q200-C" onclick="selectOption('q200', 'C', false)">
+           C. 两部车可以同时转弯
+       </div>
+       <div class="option" id="q200-D" onclick="selectOption('q200', 'D', false)">
+           D. 等候对方挥手示意
+       </div>
+       <p id="q200-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   B车已经超过了停牌，而A车还在停牌前，所以A车应该让路给B车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q199.html" class="button">|prev_question|</a>
+       <span class="page-indicator">200 / 200</span>
+   </div>
+   </div>
+
+   </div>

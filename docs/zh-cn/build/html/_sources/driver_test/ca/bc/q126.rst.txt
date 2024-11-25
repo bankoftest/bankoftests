@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当一辆学校巴士停在路旁并闪着红灯,你必须？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试学校巴士, 停车, 红灯
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当一辆学校巴士停在路旁并闪着红灯,你必须？
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q126" class="quiz">
+       <div class="option" id="q126-A" onclick="selectOption('q126', 'A', false)">
+           A. 留意学童并准备停车
+       </div>
+       <div class="option" id="q126-B" onclick="selectOption('q126', 'B', true)">
+           B. 停车等待红灯熄灭为止
+       </div>
+       <div class="option" id="q126-C" onclick="selectOption('q126', 'C', false)">
+           C. 停车查看学童然后向前
+       </div>
+       <div class="option" id="q126-D" onclick="selectOption('q126', 'D', false)">
+           D. 慢驶准备停车
+       </div>
+       <p id="q126-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   遇到学校巴士闪红灯时，必须停车并等待灯熄灭，保障学生安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q125.html" class="button">|prev_question|</a>
+       <span class="page-indicator">126 / 200</span>
+       <a href="q127.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

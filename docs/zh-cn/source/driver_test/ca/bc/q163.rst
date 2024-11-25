@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在路边停车时,应距离路边？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试路边停车, 停车距离, 驾驶规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在路边停车时,应距离路边？
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q163" class="quiz">
+       <div class="option" id="q163-A" onclick="selectOption('q163', 'A', false)">
+           A. 15公分内
+       </div>
+       <div class="option" id="q163-B" onclick="selectOption('q163', 'B', false)">
+           B. 20公分内
+       </div>
+       <div class="option" id="q163-C" onclick="selectOption('q163', 'C', true)">
+           C. 30公分内
+       </div>
+       <div class="option" id="q163-D" onclick="selectOption('q163', 'D', false)">
+           D. 40公分内
+       </div>
+       <p id="q163-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   为了确保停车安全和方便其他道路使用者，车辆应距离路边不超过30公分。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q162.html" class="button">|prev_question|</a>
+       <span class="page-indicator">163 / 200</span>
+       <a href="q164.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

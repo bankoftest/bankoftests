@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在下雪天要安全驾驶,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试下雪天, 安全驾驶, 预留空间, 冬季驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在下雪天要安全驾驶,你应该？
 ============================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在下雪天驾驶时，应保持足够的车距，以便在紧急情况下有足够的反应时间。A、B与是否是下雪天无关。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q17.html" class="button">|prev_question|</a>
-       <span class="page-indicator">18 / 100</span>
+       <span class="page-indicator">18 / 200</span>
        <a href="q19.html" class="button">|next_question|</a>
    </div>
    </div>

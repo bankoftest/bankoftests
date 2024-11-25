@@ -4,16 +4,20 @@
    <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
 
 .. meta::
-   :description: 一个负责任的驾驶员？
-   :keywords: 
+   :description: 一个负责任的驾驶员_________？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试负责任驾驶, 道路安全, 规则意识
 
 .. raw:: html
 
    <div class="question-card">
 
 
-一个负责任的驾驶员？
-====================
+一个负责任的驾驶员_________？
+======================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   负责任的驾驶员不仅要关心自己的安全，还应关注其他道路使用者的安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q35.html" class="button">|prev_question|</a>
-       <span class="page-indicator">36 / 100</span>
+       <span class="page-indicator">36 / 200</span>
        <a href="q37.html" class="button">|next_question|</a>
    </div>
    </div>

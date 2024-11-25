@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当绿灯时,要左转司机应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试左转, 绿灯, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当绿灯时,要左转司机应该？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在绿灯时左转的司机必须让路于迎面直行车辆，确保有足够的空隙才可以安全完成转弯。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q56.html" class="button">|prev_question|</a>
-       <span class="page-indicator">57 / 100</span>
+       <span class="page-indicator">57 / 200</span>
        <a href="q58.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 此驾驶员在转弯之前,他应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试转弯, 回头查看, 驾驶规则, 盲点检查
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 此驾驶员在转弯之前,他应该？
 ============================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/13.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   转弯前需要回头查（shoulder check）看是否有盲点，并在路口进行全面观察，以确保安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q12.html" class="button">|prev_question|</a>
-       <span class="page-indicator">13 / 100</span>
+       <span class="page-indicator">13 / 200</span>
        <a href="q14.html" class="button">|next_question|</a>
    </div>
    </div>

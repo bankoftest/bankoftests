@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 右转之前应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试右转, 检查盲点, 转向灯
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+右转之前应该？
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q198" class="quiz">
+       <div class="option" id="q198-A" onclick="selectOption('q198', 'A', false)">
+           A. 打信号灯和检查侧视镜
+       </div>
+       <div class="option" id="q198-B" onclick="selectOption('q198', 'B', false)">
+           B. 打信号灯和检查所有倒后镜
+       </div>
+       <div class="option" id="q198-C" onclick="selectOption('q198', 'C', true)">
+           C. 打信号灯,查看所有倒后镜和回头看盲点
+       </div>
+       <div class="option" id="q198-D" onclick="selectOption('q198', 'D', false)">
+           D. 如果没有行人尽快转弯
+       </div>
+       <p id="q198-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   右转前需要打转向灯、检查所有后视镜并回头检查盲点，以确保周围安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q197.html" class="button">|prev_question|</a>
+       <span class="page-indicator">198 / 200</span>
+       <a href="q199.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

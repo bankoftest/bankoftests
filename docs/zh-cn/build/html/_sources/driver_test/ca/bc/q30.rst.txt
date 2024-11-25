@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在红灯下面的绿箭头闪动时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试绿箭头, 左转, 驾驶规则, 交通标志
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 在红灯下面的绿箭头闪动时,你应该？
 ==================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/30.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -28,7 +40,7 @@
            C. 任何时候不可以左转
        </div>
        <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
-           D. 左转
+           D. 确保安全后左转
        </div>
        <p id="q30-result" class="result"></p>
    </div>
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   绿箭头闪动表示可以在确保安全的情况下左转，无需等待红灯变绿。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q29.html" class="button">|prev_question|</a>
-       <span class="page-indicator">30 / 100</span>
+       <span class="page-indicator">30 / 200</span>
        <a href="q31.html" class="button">|next_question|</a>
    </div>
    </div>

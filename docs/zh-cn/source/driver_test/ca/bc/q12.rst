@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 你与一位负责驾驶的朋友外出,而他不停喝酒,你最不安全的做法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试酒驾, 安全驾驶, 驾驶规则, 避免危险
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 你与一位负责驾驶的朋友外出,而他不停喝酒,你最不安全的做法是？
 ==============================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   这题有点狡猾，题干是要求选“最不安全”的做法，不是“最安全”的做法。A、B、C都是安全的；D选项“确保他开慢车”是错误且危险的行为。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q11.html" class="button">|prev_question|</a>
-       <span class="page-indicator">12 / 100</span>
+       <span class="page-indicator">12 / 200</span>
        <a href="q13.html" class="button">|next_question|</a>
    </div>
    </div>

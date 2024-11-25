@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 响喇叭是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试响喇叭, 驾驶礼仪, 安全提醒
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+响喇叭是？
+==========
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q159" class="quiz">
+       <div class="option" id="q159-A" onclick="selectOption('q159', 'A', false)">
+           A. 提醒他人
+       </div>
+       <div class="option" id="q159-B" onclick="selectOption('q159', 'B', true)">
+           B. 警告其他道路使用者
+       </div>
+       <div class="option" id="q159-C" onclick="selectOption('q159', 'C', false)">
+           C. 告诉其他驾驶员你在附近
+       </div>
+       <div class="option" id="q159-D" onclick="selectOption('q159', 'D', false)">
+           D. 通知他人让路
+       </div>
+       <p id="q159-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   响喇叭主要用于警告其他道路使用者，以避免潜在的危险。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q158.html" class="button">|prev_question|</a>
+       <span class="page-indicator">159 / 200</span>
+       <a href="q160.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

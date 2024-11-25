@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当一辆学校巴士停在路边闪着红灯时,你必须停车？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试学校巴士, 红灯, 停车规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当一辆学校巴士停在路边闪着红灯时,你必须停车？
 ==============================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   无论是从迎面还是后方接近，当学校巴士闪着红灯时，你必须停车以保护上下车的学生安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q75.html" class="button">|prev_question|</a>
-       <span class="page-indicator">76 / 100</span>
+       <span class="page-indicator">76 / 200</span>
        <a href="q77.html" class="button">|next_question|</a>
    </div>
    </div>

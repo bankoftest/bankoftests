@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 你不应该超越车辆？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试弯路, 超车, 驾驶安全, 超车规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 你不应该超越车辆？
 ==================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在弯路上超车视线受限，非常危险，应避免这种行为。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q37.html" class="button">|prev_question|</a>
-       <span class="page-indicator">38 / 100</span>
+       <span class="page-indicator">38 / 200</span>
        <a href="q39.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 朋友开车太快,要让他知道你的想法最好是说？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试超速驾驶, 表达建议, 交通安全
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 朋友开车太快,要让他知道你的想法最好是说？
 ==========================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   通过表达你的感受，如“你的速度让我不舒服”，是让朋友意识到问题的最佳方式，而不会引起防御情绪。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q77.html" class="button">|prev_question|</a>
-       <span class="page-indicator">78 / 100</span>
+       <span class="page-indicator">78 / 200</span>
        <a href="q79.html" class="button">|next_question|</a>
    </div>
    </div>

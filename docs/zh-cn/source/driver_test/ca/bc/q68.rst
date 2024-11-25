@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当四辆车驶近一个四道停车路口,驾驶者必须让道优先权给？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试优先权, 四道停车, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当四辆车驶近一个四道停车路口,驾驶者必须让道优先权给？
 ======================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在四道停车路口，优先权通常给予第一个到达并停车的车辆。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q67.html" class="button">|prev_question|</a>
-       <span class="page-indicator">68 / 100</span>
+       <span class="page-indicator">68 / 200</span>
        <a href="q69.html" class="button">|next_question|</a>
    </div>
    </div>

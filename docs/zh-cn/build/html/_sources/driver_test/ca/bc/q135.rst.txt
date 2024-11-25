@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你为什么要特别小心摩托车？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试摩托车, 盲点, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你为什么要特别小心摩托车？
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q135" class="quiz">
+       <div class="option" id="q135-A" onclick="selectOption('q135', 'A', false)">
+           A. 因为警察经常使用摩托车
+       </div>
+       <div class="option" id="q135-B" onclick="selectOption('q135', 'B', false)">
+           B. 摩托车永远有道路优先权
+       </div>
+       <div class="option" id="q135-C" onclick="selectOption('q135', 'C', true)">
+           C. 摩托车体积大小,不容易被看见
+       </div>
+       <div class="option" id="q135-D" onclick="selectOption('q135', 'D', false)">
+           D. 摩托车的速度比车辆快
+       </div>
+       <p id="q135-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   摩托车体积较小，在盲点或复杂路况中不容易被发现，因此需要特别注意。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q134.html" class="button">|prev_question|</a>
+       <span class="page-indicator">135 / 200</span>
+       <a href="q136.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

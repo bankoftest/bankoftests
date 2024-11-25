@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 应急灯号亮着是怎样？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试应急灯号, 前后灯, 道路警示
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+应急灯号亮着是怎样？
+====================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q120" class="quiz">
+       <div class="option" id="q120-A" onclick="selectOption('q120', 'A', true)">
+           A. 前后灯都闪亮
+       </div>
+       <div class="option" id="q120-B" onclick="selectOption('q120', 'B', false)">
+           B. 后灯持久亮着
+       </div>
+       <div class="option" id="q120-C" onclick="selectOption('q120', 'C', false)">
+           C. 前后灯持久亮着
+       </div>
+       <div class="option" id="q120-D" onclick="selectOption('q120', 'D', false)">
+           D. 后灯闪亮
+       </div>
+       <p id="q120-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   应急灯号启动时，前后灯会同时闪亮，以警示其他道路使用者注意危险。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q119.html" class="button">|prev_question|</a>
+       <span class="page-indicator">120 / 200</span>
+       <a href="q121.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

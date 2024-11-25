@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 这个放在行车道上的信号灯,意思是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试车道信号灯, 终止车道, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 这个放在行车道上的信号灯,意思是？
 ==================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/59.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   信号灯指示该车道即将终止，驾驶员应尽快安全地并入其他车道以避免交通堵塞或危险。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q58.html" class="button">|prev_question|</a>
-       <span class="page-indicator">59 / 100</span>
+       <span class="page-indicator">59 / 200</span>
        <a href="q60.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 超越一辆大型卡车时,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试超越, 大型卡车, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+超越一辆大型卡车时,你应该？
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q141" class="quiz">
+       <div class="option" id="q141-A" onclick="selectOption('q141', 'A', true)">
+           A. 从后视镜里看见被超越卡车的车头灯时才可以转回你的行车线
+       </div>
+       <div class="option" id="q141-B" onclick="selectOption('q141', 'B', false)">
+           B. 在回到卡车和之前慢下来
+       </div>
+       <div class="option" id="q141-C" onclick="selectOption('q141', 'C', false)">
+           C. 从后视镜看到被超越卡车驾驶员的车门,才可以回到原来的车线
+       </div>
+       <div class="option" id="q141-D" onclick="selectOption('q141', 'D', false)">
+           D. 在回到列车道之前闪动远光灯
+       </div>
+       <p id="q141-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在超越大型卡车后，确保从后视镜中清楚看到卡车的车头灯，然后才可以安全地返回行车道。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q140.html" class="button">|prev_question|</a>
+       <span class="page-indicator">141 / 200</span>
+       <a href="q142.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

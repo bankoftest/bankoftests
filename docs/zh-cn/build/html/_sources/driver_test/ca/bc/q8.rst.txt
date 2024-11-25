@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 下列哪一辆车在转弯时最容易失控？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试转弯失控, 车辆类型, 驾驶安全
 
 .. raw:: html
 
@@ -17,18 +17,30 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/8.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q8" class="quiz">
        <div class="option" id="q8-A" onclick="selectOption('q8', 'A', true)">
-           A. 车辆b
+           A. 车辆B
        </div>
        <div class="option" id="q8-B" onclick="selectOption('q8', 'B', false)">
-           B. 车辆d
+           B. 车辆D
        </div>
        <div class="option" id="q8-C" onclick="selectOption('q8', 'C', false)">
-           C. 车辆c
+           C. 车辆C
        </div>
        <div class="option" id="q8-D" onclick="selectOption('q8', 'D', false)">
-           D. 车辆a
+           D. 车辆A
        </div>
        <p id="q8-result" class="result"></p>
    </div>
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   这题很狡猾。首先选项和车不是一一对应；其次，我们先看车，转弯的时候，重心越高越容易失控，B车最高，所以最容易失控。B车在A选项里，所以选A。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q7.html" class="button">|prev_question|</a>
-       <span class="page-indicator">8 / 100</span>
+       <span class="page-indicator">8 / 200</span>
        <a href="q9.html" class="button">|next_question|</a>
    </div>
    </div>

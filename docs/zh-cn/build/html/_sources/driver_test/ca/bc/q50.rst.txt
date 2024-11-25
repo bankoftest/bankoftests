@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 两部迎面而来的车辆同时到达一个无控制的十字路口时？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试无控制路口, 左转让路, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 两部迎面而来的车辆同时到达一个无控制的十字路口时？
 ==================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   无控制的十字路口中，左转车辆必须让路给直行或右转车辆，这是优先权的基本规则。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q49.html" class="button">|prev_question|</a>
-       <span class="page-indicator">50 / 100</span>
+       <span class="page-indicator">50 / 200</span>
        <a href="q51.html" class="button">|next_question|</a>
    </div>
    </div>

@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 摩托车将要左转,哪一辆车与它最没有危险？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试摩托车, 左转, 安全距离
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+摩托车将要左转,哪一辆车与它最没有危险？
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/134.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q134" class="quiz">
+       <div class="option" id="q134-A" onclick="selectOption('q134', 'A', false)">
+           A. 车辆A
+       </div>
+       <div class="option" id="q134-B" onclick="selectOption('q134', 'B', false)">
+           B. 车辆C
+       </div>
+       <div class="option" id="q134-C" onclick="selectOption('q134', 'C', false)">
+           C. 车辆D
+       </div>
+       <div class="option" id="q134-D" onclick="selectOption('q134', 'D', true)">
+           D. 车辆B
+       </div>
+       <p id="q134-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   车辆B位置安全且与摩托车转弯的轨迹没有冲突。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q133.html" class="button">|prev_question|</a>
+       <span class="page-indicator">134 / 200</span>
+       <a href="q135.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

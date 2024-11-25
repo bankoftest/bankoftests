@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 车辆打滑时你的最佳反应是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试车辆打滑, 控制方向, 驾驶技巧
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 车辆打滑时你的最佳反应是？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   当车辆打滑时，应松开油门并将方向盘朝目标方向转动，以重新获得控制。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q98.html" class="button">|prev_question|</a>
-       <span class="page-indicator">99 / 100</span>
+       <span class="page-indicator">99 / 200</span>
        <a href="q100.html" class="button">|next_question|</a>
    </div>
    </div>

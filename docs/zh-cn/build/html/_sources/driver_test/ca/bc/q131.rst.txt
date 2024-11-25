@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 如果你的车辆在积水路面滑行,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试积水路面, 滑行, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你的车辆在积水路面滑行,你应该？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q131" class="quiz">
+       <div class="option" id="q131-A" onclick="selectOption('q131', 'A', false)">
+           A. 轻踩刹车
+       </div>
+       <div class="option" id="q131-B" onclick="selectOption('q131', 'B', true)">
+           B. 轻离油门并向前直驶
+       </div>
+       <div class="option" id="q131-C" onclick="selectOption('q131', 'C', false)">
+           C. 使劲刹车
+       </div>
+       <div class="option" id="q131-D" onclick="selectOption('q131', 'D', false)">
+           D. 赶快驶到路旁
+       </div>
+       <p id="q131-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在积水路面滑行时，轻离油门并保持车辆直驶，以免打滑加剧。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q130.html" class="button">|prev_question|</a>
+       <span class="page-indicator">131 / 200</span>
+       <a href="q132.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

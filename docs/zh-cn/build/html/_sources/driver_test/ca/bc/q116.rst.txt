@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 图中A车驾驶员应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试停车, 行人优先, 横过马路, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+图中A车驾驶员应该？
+====================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/116.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q116" class="quiz">
+       <div class="option" id="q116-A" onclick="selectOption('q116', 'A', false)">
+           A. 停车,告诉行人他不应该在这里过马路
+       </div>
+       <div class="option" id="q116-B" onclick="selectOption('q116', 'B', true)">
+           B. 停车让行人横过马路
+       </div>
+       <div class="option" id="q116-C" onclick="selectOption('q116', 'C', false)">
+           C. 应该继续行驶因为那里没有过路线
+       </div>
+       <div class="option" id="q116-D" onclick="selectOption('q116', 'D', false)">
+           D. 必须停车和挥手叫行人过马路
+       </div>
+       <p id="q116-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶员应停车让行人优先横过马路，保障行人安全。不要挥手指挥其他人做什么，只有警察可以这样做。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q115.html" class="button">|prev_question|</a>
+       <span class="page-indicator">116 / 200</span>
+       <a href="q117.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

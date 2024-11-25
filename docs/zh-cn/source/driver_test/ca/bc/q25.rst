@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 要鼓励你的朋友安全开车最好方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试安全驾驶, 鼓励, 表扬, 驾驶规则
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 要鼓励你的朋友安全开车最好方法是？
 ==================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   表扬他人的正确行为可以鼓励安全驾驶，相比直接指出错误更容易被接受。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q24.html" class="button">|prev_question|</a>
-       <span class="page-indicator">25 / 100</span>
+       <span class="page-indicator">25 / 200</span>
        <a href="q26.html" class="button">|next_question|</a>
    </div>
    </div>

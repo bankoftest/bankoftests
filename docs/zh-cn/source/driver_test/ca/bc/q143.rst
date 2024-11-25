@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 要减轻交通意外的严重受伤,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试交通意外, 安全带, 预防受伤
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+要减轻交通意外的严重受伤,你应该？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q143" class="quiz">
+       <div class="option" id="q143-A" onclick="selectOption('q143', 'A', true)">
+           A. 系上腰部和肩部安全带
+       </div>
+       <div class="option" id="q143-B" onclick="selectOption('q143', 'B', false)">
+           B. 系上腰部安全带
+       </div>
+       <div class="option" id="q143-C" onclick="selectOption('q143', 'C', false)">
+           C. 抛出车外
+       </div>
+       <div class="option" id="q143-D" onclick="selectOption('q143', 'D', false)">
+           D. 紧握方向盘
+       </div>
+       <p id="q143-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   系上腰部和肩部安全带可以有效减轻交通事故中的严重受伤。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q142.html" class="button">|prev_question|</a>
+       <span class="page-indicator">143 / 200</span>
+       <a href="q144.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

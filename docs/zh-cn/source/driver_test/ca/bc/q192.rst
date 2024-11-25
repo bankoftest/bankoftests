@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 十字路口有停车后标志,停车线和行人过路线,你必须把车停在？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试十字路口, 停车线, 行人过路
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+十字路口有停车后标志,停车线和行人过路线,你必须把车停在？
+==========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q192" class="quiz">
+       <div class="option" id="q192-A" onclick="selectOption('q192', 'A', false)">
+           A. 停车标志前
+       </div>
+       <div class="option" id="q192-B" onclick="selectOption('q192', 'B', true)">
+           B. 停车线之前
+       </div>
+       <div class="option" id="q192-C" onclick="selectOption('q192', 'C', false)">
+           C. 人行道之前
+       </div>
+       <div class="option" id="q192-D" onclick="selectOption('q192', 'D', false)">
+           D. 看到其他车辆的位置
+       </div>
+       <p id="q192-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在有停车线的情况下，驾驶员必须在停车线之前停车，以确保行人和车辆的安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q191.html" class="button">|prev_question|</a>
+       <span class="page-indicator">192 / 200</span>
+       <a href="q193.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

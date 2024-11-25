@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 当正在高速行驶时,前面突然要转弯,最好的处理方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试高速行驶, 转弯, 减速, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 当正在高速行驶时,前面突然要转弯,最好的处理方法是？
 ====================================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在进入弯道前减速是最安全的方法，可以通过离开油门来逐步减速，从而更好地控制车辆。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q42.html" class="button">|prev_question|</a>
-       <span class="page-indicator">43 / 100</span>
+       <span class="page-indicator">43 / 200</span>
        <a href="q44.html" class="button">|next_question|</a>
    </div>
    </div>

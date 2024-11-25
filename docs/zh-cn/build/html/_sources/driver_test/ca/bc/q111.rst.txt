@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试学校范围, 学童, 行人, 注意安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/111.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q111" class="quiz">
+       <div class="option" id="q111-A" onclick="selectOption('q111', 'A', true)">
+           A. 学校范围,小心附近学童和行人
+       </div>
+       <div class="option" id="q111-B" onclick="selectOption('q111', 'B', false)">
+           B. 学校范围减速至时速30公里
+       </div>
+       <div class="option" id="q111-C" onclick="selectOption('q111', 'C', false)">
+           C. 前面有行人横过马路
+       </div>
+       <div class="option" id="q111-D" onclick="selectOption('q111', 'D', false)">
+           D. 前面是学校过路线
+       </div>
+       <p id="q111-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   此标志提醒驾驶员注意学校区域内的学童和行人，保持低速并注意周围动态。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q110.html" class="button">|prev_question|</a>
+       <span class="page-indicator">111 / 200</span>
+       <a href="q112.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

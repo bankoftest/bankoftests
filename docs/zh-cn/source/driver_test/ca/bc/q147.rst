@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在市区,理想情况下跟随前面车辆的距离是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试跟车距离, 市区, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在市区,理想情况下跟随前面车辆的距离是？
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q147" class="quiz">
+       <div class="option" id="q147-A" onclick="selectOption('q147', 'A', false)">
+           A. 1秒
+       </div>
+       <div class="option" id="q147-B" onclick="selectOption('q147', 'B', true)">
+           B. 2秒
+       </div>
+       <div class="option" id="q147-C" onclick="selectOption('q147', 'C', false)">
+           C. 4秒
+       </div>
+       <div class="option" id="q147-D" onclick="selectOption('q147', 'D', false)">
+           D. 3秒
+       </div>
+       <p id="q147-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   市区理想的跟车距离是2秒，以确保有足够的反应时间。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q146.html" class="button">|prev_question|</a>
+       <span class="page-indicator">147 / 200</span>
+       <a href="q148.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

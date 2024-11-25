@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在驾驶前情绪不稳定,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试情绪管理, 驾驶安全, 开车心态
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在驾驶前情绪不稳定,你应该？
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q168" class="quiz">
+       <div class="option" id="q168-A" onclick="selectOption('q168', 'A', false)">
+           A. 听一些轻松的音乐
+       </div>
+       <div class="option" id="q168-B" onclick="selectOption('q168', 'B', true)">
+           B. 待情绪稳定下来才开车
+       </div>
+       <div class="option" id="q168-C" onclick="selectOption('q168', 'C', false)">
+           C. 在驾驶之前深呼吸
+       </div>
+       <div class="option" id="q168-D" onclick="selectOption('q168', 'D', false)">
+           D. 把精神集中起来
+       </div>
+       <p id="q168-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   情绪不稳定时开车会影响判断力，应该等情绪平复后再驾驶。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q167.html" class="button">|prev_question|</a>
+       <span class="page-indicator">168 / 200</span>
+       <a href="q169.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

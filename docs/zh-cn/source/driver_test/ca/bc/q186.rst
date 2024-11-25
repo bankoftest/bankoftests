@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 你的车辆在行驶中爆胎,你首先该做的是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试爆胎, 车辆控制, 路边停车
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你的车辆在行驶中爆胎,你首先该做的是？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q186" class="quiz">
+       <div class="option" id="q186-A" onclick="selectOption('q186', 'A', true)">
+           A. 紧握方向盘,并驶往路边停车
+       </div>
+       <div class="option" id="q186-B" onclick="selectOption('q186', 'B', false)">
+           B. 突然刹车
+       </div>
+       <div class="option" id="q186-C" onclick="selectOption('q186', 'C', false)">
+           C. 告诉其他驾驶者离开
+       </div>
+       <div class="option" id="q186-D" onclick="selectOption('q186', 'D', false)">
+           D. 向滑行的反方面扭方向盘
+       </div>
+       <p id="q186-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   爆胎时，应紧握方向盘，保持车辆稳定，然后缓慢驶往路边停车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q185.html" class="button">|prev_question|</a>
+       <span class="page-indicator">186 / 200</span>
+       <a href="q187.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

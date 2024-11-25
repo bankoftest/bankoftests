@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 如何应付路霸的侵略性行为？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试路霸, 侵略性行为, 驾驶安全, 应对方法
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 如何应付路霸的侵略性行为？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -28,7 +32,7 @@
            C. 把车开到人群多的地方
        </div>
        <div class="option" id="q15-D" onclick="selectOption('q15', 'D', false)">
-           D. 响喇叭和呼喝他
+           D. 响喇叭和呵斥对方
        </div>
        <p id="q15-result" class="result"></p>
    </div>
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   把车开到人群多的地方，可以避免进一步冲突并保护自身安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q14.html" class="button">|prev_question|</a>
-       <span class="page-indicator">15 / 100</span>
+       <span class="page-indicator">15 / 200</span>
        <a href="q16.html" class="button">|next_question|</a>
    </div>
    </div>

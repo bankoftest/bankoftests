@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 驾驶此车辆的驾驶员应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试接近路口, 停车, 让路
 
 .. raw:: html
 
@@ -17,11 +17,23 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/91.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q91" class="quiz">
-       <div class="option" id="q91-A" onclick="selectOption('q91', 'A', false)">
+       <div class="option" id="q91-A" onclick="selectOption('q91', 'A', true)">
            A. 慢驶,在接近路口之前脚踏刹车制
        </div>
-       <div class="option" id="q91-B" onclick="selectOption('q91', 'B', true)">
+       <div class="option" id="q91-B" onclick="selectOption('q91', 'B', false)">
            B. 在接近路口之前停车和让路
        </div>
        <div class="option" id="q91-C" onclick="selectOption('q91', 'C', false)">
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   驾驶员应慢行并在接近路口时脚踏刹车，以确保安全并避免碰撞。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q90.html" class="button">|prev_question|</a>
-       <span class="page-indicator">91 / 100</span>
+       <span class="page-indicator">91 / 200</span>
        <a href="q92.html" class="button">|next_question|</a>
    </div>
    </div>

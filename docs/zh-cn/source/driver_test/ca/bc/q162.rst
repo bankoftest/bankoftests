@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 在发生有人受伤的交通意外现场,你首先应该做的是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试交通意外, 协助受伤, 紧急处理
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在发生有人受伤的交通意外现场,你首先应该做的是？
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q162" class="quiz">
+       <div class="option" id="q162-A" onclick="selectOption('q162', 'A', false)">
+           A. 打电话报警
+       </div>
+       <div class="option" id="q162-B" onclick="selectOption('q162', 'B', true)">
+           B. 协助受伤人士
+       </div>
+       <div class="option" id="q162-C" onclick="selectOption('q162', 'C', false)">
+           C. 通知保险公司
+       </div>
+       <div class="option" id="q162-D" onclick="selectOption('q162', 'D', false)">
+           D. 打电话叫救护车
+       </div>
+       <p id="q162-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在交通意外中，第一优先是协助受伤者，确保他们的安全，然后再联系紧急服务。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q161.html" class="button">|prev_question|</a>
+       <span class="page-indicator">162 / 200</span>
+       <a href="q163.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在有让路标志路口,驾驶者应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试让路标志, 驾驶规则, 交通安全
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 在有让路标志路口,驾驶者应该？
 ==============================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/60.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   让路标志表示驾驶者必须让路给所有的车辆和行人，无论是横过还是沿道路行驶的交通参与者。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q59.html" class="button">|prev_question|</a>
-       <span class="page-indicator">60 / 100</span>
+       <span class="page-indicator">60 / 200</span>
        <a href="q61.html" class="button">|next_question|</a>
    </div>
    </div>

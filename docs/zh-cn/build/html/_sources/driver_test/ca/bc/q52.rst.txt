@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 图中的车辆必须停在？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试停车规则, 白线停车, 路口安全
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 图中的车辆必须停在？
 ====================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/52.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   根据交通规则，车辆必须停在路口白线之前，确保不会阻碍行人或其他车辆通行。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q51.html" class="button">|prev_question|</a>
-       <span class="page-indicator">52 / 100</span>
+       <span class="page-indicator">52 / 200</span>
        <a href="q53.html" class="button">|next_question|</a>
    </div>
    </div>

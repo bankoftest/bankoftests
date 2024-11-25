@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 处理一个有侵略性行为的驾驶员,最好的方法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试侵略性驾驶员, 空间, 道路优先权
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+处理一个有侵略性行为的驾驶员,最好的方法是？
+============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q109" class="quiz">
+       <div class="option" id="q109-A" onclick="selectOption('q109', 'A', false)">
+           A. 跟上去告诉他你是不可以欺负
+       </div>
+       <div class="option" id="q109-B" onclick="selectOption('q109', 'B', true)">
+           B. 给予他们更大的空间和道路优先权
+       </div>
+       <div class="option" id="q109-C" onclick="selectOption('q109', 'C', false)">
+           C. 响喇叭示意他们你并不欣赏他们的恶劣态度
+       </div>
+       <div class="option" id="q109-D" onclick="selectOption('q109', 'D', false)">
+           D. 坚持你有道路优先权
+       </div>
+       <p id="q109-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   遇到侵略性驾驶员时，给他们更多空间并让出优先权是最安全的应对方式。出门在外，以怂服人。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q108.html" class="button">|prev_question|</a>
+       <span class="page-indicator">109 / 200</span>
+       <a href="q110.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 驾驶员对骑自行车人响喇叭是因为？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试自行车, 响喇叭, 驾驶警告, 安全驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 驾驶员对骑自行车人响喇叭是因为？
 ================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   这题有点难理解。应该这样分析：驾驶员轻易不应该向骑自行车的人按喇叭，除非碰到特殊情况，需要警告骑车者。这题可以用反证法，A、C、D都是日常常见情况，如果这种时候都需要按喇叭的话，那路上一定到处都是喇叭声了。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q4.html" class="button">|prev_question|</a>
-       <span class="page-indicator">5 / 100</span>
+       <span class="page-indicator">5 / 200</span>
        <a href="q6.html" class="button">|next_question|</a>
    </div>
    </div>

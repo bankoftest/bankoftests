@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 此标志意思是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试禁止卡车, 标志, 交通规则
 
 .. raw:: html
 
@@ -17,14 +17,26 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/61.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q61" class="quiz">
-       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', true)">
+       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', false)">
            A. 禁止卡车通行
        </div>
        <div class="option" id="q61-B" onclick="selectOption('q61', 'B', false)">
            B. 驾驶者应小心高速行驶的卡车
        </div>
-       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', false)">
+       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', true)">
            C. 前面有卡车或工程车横过
        </div>
        <div class="option" id="q61-D" onclick="selectOption('q61', 'D', false)">
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   记住即可。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q60.html" class="button">|prev_question|</a>
-       <span class="page-indicator">61 / 100</span>
+       <span class="page-indicator">61 / 200</span>
        <a href="q62.html" class="button">|next_question|</a>
    </div>
    </div>

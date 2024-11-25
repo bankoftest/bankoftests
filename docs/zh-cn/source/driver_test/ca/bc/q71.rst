@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 你必须亮起车头灯,在能见度低于多少米时？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试能见度, 车头灯, 安全驾驶
 
 .. raw:: html
 
@@ -17,14 +17,18 @@
 
 .. raw:: html
 
+   <hr>
+
+.. raw:: html
+
    <div id="q71" class="quiz">
-       <div class="option" id="q71-A" onclick="selectOption('q71', 'A', true)">
+       <div class="option" id="q71-A" onclick="selectOption('q71', 'A', false)">
            A. 200公尺
        </div>
        <div class="option" id="q71-B" onclick="selectOption('q71', 'B', false)">
            B. 250公尺
        </div>
-       <div class="option" id="q71-C" onclick="selectOption('q71', 'C', false)">
+       <div class="option" id="q71-C" onclick="selectOption('q71', 'C', true)">
            C. 150公尺
        </div>
        <div class="option" id="q71-D" onclick="selectOption('q71', 'D', false)">
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   当能见度低于150米时，亮起车头灯是为了提高其他驾驶员对你的车辆的可见性。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q70.html" class="button">|prev_question|</a>
-       <span class="page-indicator">71 / 100</span>
+       <span class="page-indicator">71 / 200</span>
        <a href="q72.html" class="button">|next_question|</a>
    </div>
    </div>

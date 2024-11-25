@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 在夜间驾驶你特别要留意行人和自行车,原因是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试夜间驾驶, 行人自行车, 可见性
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 在夜间驾驶你特别要留意行人和自行车,原因是？
 ============================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   行人和自行车在夜间由于光线不足更难被发现，驾驶员需要特别注意。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q96.html" class="button">|prev_question|</a>
-       <span class="page-indicator">97 / 100</span>
+       <span class="page-indicator">97 / 200</span>
        <a href="q98.html" class="button">|next_question|</a>
    </div>
    </div>

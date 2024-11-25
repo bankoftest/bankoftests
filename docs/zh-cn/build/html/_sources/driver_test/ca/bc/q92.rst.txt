@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 一个持着白色拐杖的人在过马路时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试白色拐杖, 行人安全, 驾驶注意
 
 .. raw:: html
 
@@ -14,6 +14,18 @@
 
 一个持着白色拐杖的人在过马路时,你应该？
 ========================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/92.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
 
 .. raw:: html
 
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   白色拐杖通常表示行人是视障人士。驾驶员应小心慢行，并留出更多空间以确保其安全通过。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q91.html" class="button">|prev_question|</a>
-       <span class="page-indicator">92 / 100</span>
+       <span class="page-indicator">92 / 200</span>
        <a href="q93.html" class="button">|next_question|</a>
    </div>
    </div>

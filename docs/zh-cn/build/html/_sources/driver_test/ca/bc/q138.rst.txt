@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 汽车驾驶员常发觉？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试摩托车, 判断速度, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+汽车驾驶员常发觉？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q138" class="quiz">
+       <div class="option" id="q138-A" onclick="selectOption('q138', 'A', false)">
+           A. 骑摩托车人所配带头盔的类别可以判断他们的技术
+       </div>
+       <div class="option" id="q138-B" onclick="selectOption('q138', 'B', true)">
+           B. 在判断摩托车速度时有困难
+       </div>
+       <div class="option" id="q138-C" onclick="selectOption('q138', 'C', false)">
+           C. 可以很容易判断迎面而来的摩托车的速度
+       </div>
+       <div class="option" id="q138-D" onclick="selectOption('q138', 'D', false)">
+           D. 可以与摩托车共同一条车道
+       </div>
+       <p id="q138-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   由于摩托车体积小且速度快，驾驶员通常难以准确判断其速度。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q137.html" class="button">|prev_question|</a>
+       <span class="page-indicator">138 / 200</span>
+       <a href="q139.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

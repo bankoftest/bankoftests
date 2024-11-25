@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 长途驾驶避免太累的最佳方法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试长途驾驶, 防疲劳, 行程规划
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+长途驾驶避免太累的最佳方法是？
+==============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q140" class="quiz">
+       <div class="option" id="q140-A" onclick="selectOption('q140', 'A', false)">
+           A. 携带一壶咖啡并多喝一点
+       </div>
+       <div class="option" id="q140-B" onclick="selectOption('q140', 'B', false)">
+           B. 保持车辆温度
+       </div>
+       <div class="option" id="q140-C" onclick="selectOption('q140', 'C', true)">
+           C. 计划你的行程必须包括休息,用餐和停车
+       </div>
+       <div class="option" id="q140-D" onclick="selectOption('q140', 'D', false)">
+           D. 尽量多吃一些
+       </div>
+       <p id="q140-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   规划驾驶行程时应安排合理休息和停车，以减少疲劳。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q139.html" class="button">|prev_question|</a>
+       <span class="page-indicator">140 / 200</span>
+       <a href="q141.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

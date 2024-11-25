@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 你永远不应该超越一辆车？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试超车限制, 坡顶, 驾驶安全
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 你永远不应该超越一辆车？
 ========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   在接近坡顶时超车是非常危险的，因为视线受限，无法看到迎面来车。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q94.html" class="button">|prev_question|</a>
-       <span class="page-indicator">95 / 100</span>
+       <span class="page-indicator">95 / 200</span>
        <a href="q96.html" class="button">|next_question|</a>
    </div>
    </div>

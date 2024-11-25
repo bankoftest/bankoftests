@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 如果后面车辆跟你太近,保护你的最佳方法是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试跟车太近, 增加空间, 安全距离, 避免事故
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 如果后面车辆跟你太近,保护你的最佳方法是？
 ==========================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   A选项“增加车前的空间”通过减少自身紧急刹车的可能性，降低事故风险；B选项“增加车后的空间”在车辆太近时几乎不可能实现；C选项“响喇叭以及闪亮刹车灯”可能引发尾随车辆紧张或惊慌；D选项“急刹车然后尽快离去”极易引发追尾事故。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q2.html" class="button">|prev_question|</a>
-       <span class="page-indicator">3 / 100</span>
+       <span class="page-indicator">3 / 200</span>
        <a href="q4.html" class="button">|next_question|</a>
    </div>
    </div>

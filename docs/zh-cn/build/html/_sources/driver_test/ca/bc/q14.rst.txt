@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 有一辆车在双线路上准备超越时,你应该？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试超车, 让路, 驾驶安全, 空间预留
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 有一辆车在双线路上准备超越时,你应该？
 ======================================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   当有车辆超越时，应减速并给对方足够空间，确保安全。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q13.html" class="button">|prev_question|</a>
-       <span class="page-indicator">14 / 100</span>
+       <span class="page-indicator">14 / 200</span>
        <a href="q15.html" class="button">|next_question|</a>
    </div>
    </div>

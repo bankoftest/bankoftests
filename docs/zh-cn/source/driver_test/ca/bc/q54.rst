@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 尾随卡车太近最大的危险是？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试尾随卡车, 视线阻挡, 驾驶安全
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 尾随卡车太近最大的危险是？
 ==========================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   尾随卡车时，巨大的车身会阻挡驾驶员的视线，无法清晰观察前方的路况，这极易引发意外。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q53.html" class="button">|prev_question|</a>
-       <span class="page-indicator">54 / 100</span>
+       <span class="page-indicator">54 / 200</span>
        <a href="q55.html" class="button">|next_question|</a>
    </div>
    </div>

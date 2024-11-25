@@ -71,3 +71,32 @@ function selectOption(questionId, selectedLetter, isCorrect) {
     // Style the result message
     resultElement.classList.add("result-message");
 }
+
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Extract the total number of questions from the page-indicator span
+    const pageIndicator = document.querySelector(".page-indicator");
+    if (!pageIndicator) return; // Exit if the page-indicator is not found
+
+    const totalQuestionsMatch = pageIndicator.textContent.match(/\/\s*(\d+)/); // Match "1 / 200"
+    const totalQuestions = totalQuestionsMatch ? parseInt(totalQuestionsMatch[1], 10) : 0;
+
+    if (totalQuestions > 0) {
+        document.addEventListener("keydown", function (event) {
+            // Extract the current question number from the page-indicator
+            const currentQuestionMatch = pageIndicator.textContent.match(/(\d+)\s*\/\s*\d+/); // Match "1 / 200"
+            const currentQuestion = currentQuestionMatch ? parseInt(currentQuestionMatch[1], 10) : 0;
+
+            if (event.key === "ArrowRight" && currentQuestion < totalQuestions) {
+                // Navigate to the next question
+                const nextQuestion = currentQuestion + 1;
+                window.location.href = `q${nextQuestion}.html`;
+            } else if (event.key === "ArrowLeft" && currentQuestion > 1) {
+                // Navigate to the previous question
+                const prevQuestion = currentQuestion - 1;
+                window.location.href = `q${prevQuestion}.html`;
+            }
+        });
+    }
+});

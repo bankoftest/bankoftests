@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 什么时候你应该让路给公共汽车？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试让路, 公共汽车, 市区, 驾驶规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+什么时候你应该让路给公共汽车？
+==============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q180" class="quiz">
+       <div class="option" id="q180-A" onclick="selectOption('q180', 'A', false)">
+           A. 在住宅区
+       </div>
+       <div class="option" id="q180-B" onclick="selectOption('q180', 'B', false)">
+           B. 在市区
+       </div>
+       <div class="option" id="q180-C" onclick="selectOption('q180', 'C', true)">
+           C. 在任何时速不超过60公里的地方
+       </div>
+       <div class="option" id="q180-D" onclick="selectOption('q180', 'D', false)">
+           D. 在高速公路上
+       </div>
+       <p id="q180-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在任何时速不超过60公里的地方，驾驶员应该让路给公共汽车，以确保乘客的安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q179.html" class="button">|prev_question|</a>
+       <span class="page-indicator">180 / 200</span>
+       <a href="q181.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

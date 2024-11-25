@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 黑冰是怎样形成？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试黑冰, 路面结冰, 冬季驾驶
 
 .. raw:: html
 
@@ -14,6 +14,10 @@
 
 黑冰是怎样形成？
 ================
+
+.. raw:: html
+
+   <hr>
 
 .. raw:: html
 
@@ -37,13 +41,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   黑冰是路上的水在低温下冻结而成，通常非常滑且难以察觉。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q82.html" class="button">|prev_question|</a>
-       <span class="page-indicator">83 / 100</span>
+       <span class="page-indicator">83 / 200</span>
        <a href="q84.html" class="button">|next_question|</a>
    </div>
    </div>

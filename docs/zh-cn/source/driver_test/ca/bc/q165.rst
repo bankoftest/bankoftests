@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 当有其他驾驶员向你做生气的手势,你应该？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试驾驶冲突, 冷静处理, 道路礼仪
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当有其他驾驶员向你做生气的手势,你应该？
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q165" class="quiz">
+       <div class="option" id="q165-A" onclick="selectOption('q165', 'A', false)">
+           A. 同时对他做出手势
+       </div>
+       <div class="option" id="q165-B" onclick="selectOption('q165', 'B', true)">
+           B. 不要用眼神去看他也不对他做任何手势
+       </div>
+       <div class="option" id="q165-C" onclick="selectOption('q165', 'C', false)">
+           C. 转到其他方向
+       </div>
+       <div class="option" id="q165-D" onclick="selectOption('q165', 'D', false)">
+           D. 打手提电话报警
+       </div>
+       <p id="q165-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   面对愤怒的驾驶员，保持冷静，避免与其互动，以确保自身安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q164.html" class="button">|prev_question|</a>
+       <span class="page-indicator">165 / 200</span>
+       <a href="q166.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

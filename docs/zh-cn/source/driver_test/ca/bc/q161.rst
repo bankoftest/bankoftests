@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 因你的速度太慢而后面跟随着大队车辆,你最好的处理方法是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试慢速驾驶, 后方车辆, 交通压力
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+因你的速度太慢而后面跟随着大队车辆,你最好的处理方法是？
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q161" class="quiz">
+       <div class="option" id="q161-A" onclick="selectOption('q161', 'A', false)">
+           A. 加快速度
+       </div>
+       <div class="option" id="q161-B" onclick="selectOption('q161', 'B', true)">
+           B. 驶至路边停下来让其他车辆先行
+       </div>
+       <div class="option" id="q161-C" onclick="selectOption('q161', 'C', false)">
+           C. 移到右车道行驶
+       </div>
+       <div class="option" id="q161-D" onclick="selectOption('q161', 'D', false)">
+           D. 保持速度继续向前
+       </div>
+       <p id="q161-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   如果后方车辆排成大队，最好的做法是靠边停车，让后方车辆先行，这有助于缓解交通压力。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q160.html" class="button">|prev_question|</a>
+       <span class="page-indicator">161 / 200</span>
+       <a href="q162.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 使用减速线应该是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试减速线, 驾驶技巧, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+使用减速线应该是？
+==================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q176" class="quiz">
+       <div class="option" id="q176-A" onclick="selectOption('q176', 'A', false)">
+           A. 在进入之前减速
+       </div>
+       <div class="option" id="q176-B" onclick="selectOption('q176', 'B', true)">
+           B. 在进入之后减速
+       </div>
+       <div class="option" id="q176-C" onclick="selectOption('q176', 'C', false)">
+           C. 保持速度
+       </div>
+       <div class="option" id="q176-D" onclick="selectOption('q176', 'D', false)">
+           D. 加快速度
+       </div>
+       <p id="q176-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   减速线是用来减速的，因此在进入之后应减速以确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q175.html" class="button">|prev_question|</a>
+       <span class="page-indicator">176 / 200</span>
+       <a href="q177.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

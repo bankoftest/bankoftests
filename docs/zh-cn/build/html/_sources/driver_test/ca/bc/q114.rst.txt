@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 水面滑行的危险性增加是因为？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试水面滑行, 轮胎, 抓地力, 道路安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+水面滑行的危险性增加是因为？
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q114" class="quiz">
+       <div class="option" id="q114-A" onclick="selectOption('q114', 'A', false)">
+           A. 车辆在上坡
+       </div>
+       <div class="option" id="q114-B" onclick="selectOption('q114', 'B', false)">
+           B. 车辆太重
+       </div>
+       <div class="option" id="q114-C" onclick="selectOption('q114', 'C', false)">
+           C. 已换上雪胎
+       </div>
+       <div class="option" id="q114-D" onclick="selectOption('q114', 'D', true)">
+           D. 轮胎太旧线纹太浅
+       </div>
+       <p id="q114-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   轮胎太旧或线纹太浅会减少车辆在湿滑路面上的抓地力，显著增加水面滑行的风险。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q113.html" class="button">|prev_question|</a>
+       <span class="page-indicator">114 / 200</span>
+       <a href="q115.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -5,7 +5,7 @@
 
 .. meta::
    :description: 图中的哪一段路在后视镜不容易看见？
-   :keywords: 
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试后视镜, 盲区, 驾驶安全
 
 .. raw:: html
 
@@ -17,18 +17,30 @@
 
 .. raw:: html
 
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/49.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
    <div id="q49" class="quiz">
        <div class="option" id="q49-A" onclick="selectOption('q49', 'A', false)">
-           A. 路段a
+           A. 路段A
        </div>
-       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', true)">
-           B. 路段c
+       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', false)">
+           B. 路段C
        </div>
        <div class="option" id="q49-C" onclick="selectOption('q49', 'C', false)">
-           C. 路段d
+           C. 路段D
        </div>
-       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', false)">
-           D. 路段b
+       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', true)">
+           D. 路段B
        </div>
        <p id="q49-result" class="result"></p>
    </div>
@@ -37,13 +49,13 @@
 
 .. dropdown:: ►|explanation|
 
-   
+   注意，路段与选项不是一一对应的。后视镜的盲区通常位于车辆两侧和后方的特定区域，如B车就在盲区。
 
 .. raw:: html
 
    <div class="nav-buttons">
        <a href="q48.html" class="button">|prev_question|</a>
-       <span class="page-indicator">49 / 100</span>
+       <span class="page-indicator">49 / 200</span>
        <a href="q50.html" class="button">|next_question|</a>
    </div>
    </div>

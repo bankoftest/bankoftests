@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">New加拿大BC驾照考试笔试全真模拟题2024版</div>
+
+.. meta::
+   :description: 此标志意思是？
+   :keywords: 温哥华驾照笔试,  温哥华驾照,  BC省驾照笔试停车标志, 减速, 准备停车
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+此标志意思是？
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/bc/124.png
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q124" class="quiz">
+       <div class="option" id="q124-A" onclick="selectOption('q124', 'A', false)">
+           A. 停车,安全时向前
+       </div>
+       <div class="option" id="q124-B" onclick="selectOption('q124', 'B', true)">
+           B. 前面有停车标志,准备停车
+       </div>
+       <div class="option" id="q124-C" onclick="selectOption('q124', 'C', false)">
+           C. 如有车辆靠近时停车
+       </div>
+       <div class="option" id="q124-D" onclick="selectOption('q124', 'D', false)">
+           D. 停车,右转除外
+       </div>
+       <p id="q124-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   记住即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q123.html" class="button">|prev_question|</a>
+       <span class="page-indicator">124 / 200</span>
+       <a href="q125.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>
