@@ -190,8 +190,8 @@ def main(test_id):
 
 
 if __name__ == "__main__":
-    test_id = "driver_test_ca_bc_en"  
+    #test_id = "driver_test_ca_bc_en"  
     #test_id = "driver_test_ca_bc_zh"
-    #test_id = None
+    test_id = None
 
     main(test_id)

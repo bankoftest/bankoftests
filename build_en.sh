@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Step 0: Generate requirements.txt
+echo "Generating requirements.txt..."
+pip3 freeze > requirements.txt
+
 # Step 1: Copy requirements.txt to docs/en
 echo "Copying requirements.txt to docs/en..."
 cp requirements.txt docs/en/

@@ -15,10 +15,6 @@ myst:
   content: "加拿大BC省（温哥华、维多利亚等）驾照笔试题库，高频真题、中文版、在线刷题。点击查看"
   link: driver_test/ca/bc/index.html
 
-
-- header: "{fas}`shoe-prints;pst-color-primary` ICBC官网"
-  content: "加拿大BC省ICBC官网。点击查看"
-  link: https:icbc.com/driver-licensing
 ```
 
 
