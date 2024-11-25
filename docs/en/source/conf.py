@@ -65,7 +65,7 @@ myst_enable_extensions = [
 
 templates_path = ['_templates']
 exclude_patterns = []
-    
+
 language = 'en'
 
 # -- Options for HTML output -------------------------------------------------
@@ -74,7 +74,7 @@ language = 'en'
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
-html_js_files = ["custom.js", "language-switcher.js"]
+html_js_files = ["custom.js", "language-switcher.js", "google_analytics.js"]
 
 
 # Configure theme options

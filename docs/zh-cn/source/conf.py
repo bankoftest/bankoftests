@@ -74,7 +74,7 @@ language = 'zh-CN'
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
-html_js_files = ["custom.js", "language-switcher.js"]
+html_js_files = ["custom.js", "language-switcher.js", "google_analytics.js"]
 
 
 # Configure theme options
