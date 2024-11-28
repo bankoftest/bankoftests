@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果交通灯转了，而行人仍然在过马路，以下谁有优先权
+   :keywords: 安大略省驾驶知识, 行人优先权, 交通信号, 转弯规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果交通灯转了，而行人仍然在过马路，以下谁有优先权
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q29" class="quiz">
+       <div class="option" id="q29-A" onclick="selectOption('q29', 'A', false)">
+           A. 驾驶者正在转弯
+       </div>
+       <div class="option" id="q29-B" onclick="selectOption('q29', 'B', true)">
+           B. 行人
+       </div>
+       <div class="option" id="q29-C" onclick="selectOption('q29', 'C', false)">
+           C. 驾驶者从右面驶来
+       </div>
+       <div class="option" id="q29-D" onclick="selectOption('q29', 'D', false)">
+           D. 驾驶者从左面驶来
+       </div>
+       <p id="q29-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   即使交通灯变换，行人在马路上仍然享有优先权。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q28.html" class="button">|prev_question|</a>
+       <span class="page-indicator">29 / 105</span>
+       <a href="q30.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

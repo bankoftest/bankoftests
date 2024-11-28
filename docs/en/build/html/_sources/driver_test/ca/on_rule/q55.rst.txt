@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: How close to a fire hydrant may you legally park?
+   :keywords: fire hydrant parking rules, Ontario traffic laws, emergency access
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How close to a fire hydrant may you legally park?
+==================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q55" class="quiz">
+       <div class="option" id="q55-A" onclick="selectOption('q55', 'A', true)">
+           A. 3 meters (10 ft.)
+       </div>
+       <div class="option" id="q55-B" onclick="selectOption('q55', 'B', false)">
+           B. 4.5 meters (15 ft.)
+       </div>
+       <div class="option" id="q55-C" onclick="selectOption('q55', 'C', false)">
+           C. 1.5 meters (5 ft.)
+       </div>
+       <div class="option" id="q55-D" onclick="selectOption('q55', 'D', false)">
+           D. 6 meters (20 ft.)
+       </div>
+       <p id="q55-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Parking near a fire hydrant obstructs emergency services, so a minimum distance is required.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q54.html" class="button">|prev_question|</a>
+       <span class="page-indicator">55 / 106</span>
+       <a href="q56.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

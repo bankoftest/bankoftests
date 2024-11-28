@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What documents may a police officer require a motor vehicle owner to produce?
+   :keywords: police requirements, vehicle ownership, insurance documents
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What documents may a police officer require a motor vehicle owner to produce?
+==========================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q42" class="quiz">
+       <div class="option" id="q42-A" onclick="selectOption('q42', 'A', false)">
+           A. If the motor vehicle is insured—a liability insurance card
+       </div>
+       <div class="option" id="q42-B" onclick="selectOption('q42', 'B', false)">
+           B. The motor vehicle ownership
+       </div>
+       <div class="option" id="q42-C" onclick="selectOption('q42', 'C', false)">
+           C. If they are operating a motor vehicle—a valid driver's license
+       </div>
+       <div class="option" id="q42-D" onclick="selectOption('q42', 'D', true)">
+           D. Any of the above
+       </div>
+       <p id="q42-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Producing these documents is required to verify legal ownership, insurance, and driving privileges.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q41.html" class="button">|prev_question|</a>
+       <span class="page-indicator">42 / 106</span>
+       <a href="q43.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

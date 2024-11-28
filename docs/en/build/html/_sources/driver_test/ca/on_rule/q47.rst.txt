@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What should you do when approaching a school bus that is stopped with its lights flashing?
+   :keywords: school bus, flashing lights, safety rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What should you do when approaching a school bus that is stopped with its lights flashing?
+====================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q47" class="quiz">
+       <div class="option" id="q47-A" onclick="selectOption('q47', 'A', false)">
+           A. Slow down and proceed with caution
+       </div>
+       <div class="option" id="q47-B" onclick="selectOption('q47', 'B', true)">
+           B. Stop until the bus moves or the lights stop flashing
+       </div>
+       <div class="option" id="q47-C" onclick="selectOption('q47', 'C', false)">
+           C. Wait for approaching vehicles to pass
+       </div>
+       <div class="option" id="q47-D" onclick="selectOption('q47', 'D', false)">
+           D. Sound your horn and pass cautiously
+       </div>
+       <p id="q47-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Stopping for school buses ensures the safety of children boarding or alighting.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q46.html" class="button">|prev_question|</a>
+       <span class="page-indicator">47 / 106</span>
+       <a href="q48.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

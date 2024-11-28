@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: At an intersection where is flashing amber (yellow) traffic light, you must:
+   :keywords: flashing amber light, intersection rules, slow down, caution
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At an intersection where is flashing amber (yellow) traffic light, you must:
+========================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q1" class="quiz">
+       <div class="option" id="q1-A" onclick="selectOption('q1', 'A', false)">
+           A. Stop if making right turn
+       </div>
+       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', false)">
+           B. Continue at same speed
+       </div>
+       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', false)">
+           C. Stop if making left turn
+       </div>
+       <div class="option" id="q1-D" onclick="selectOption('q1', 'D', true)">
+           D. Slow down and proceed with caution
+       </div>
+       <p id="q1-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Flashing amber lights indicate caution. Slowing down and proceeding carefully ensures safety for all road users.
+
+.. raw:: html
+
+   <div class="nav-buttons single-next">
+       <span class="page-indicator">1 / 106</span>
+       <a href="q2.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you lose control of your vehicle and it goes off the road, you should:
+   :keywords: vehicle control, off-road recovery, Ontario driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you lose control of your vehicle and it goes off the road, you should:
+==================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q83" class="quiz">
+       <div class="option" id="q83-A" onclick="selectOption('q83', 'A', false)">
+           A. Grip the steering wheel firmly
+       </div>
+       <div class="option" id="q83-B" onclick="selectOption('q83', 'B', false)">
+           B. Take your foot off the gas pedal to slow down and avoid heavy braking
+       </div>
+       <div class="option" id="q83-C" onclick="selectOption('q83', 'C', false)">
+           C. When the vehicle is under control, steer back to the road
+       </div>
+       <div class="option" id="q83-D" onclick="selectOption('q83', 'D', true)">
+           D. All of the above
+       </div>
+       <p id="q83-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Staying calm and following these steps ensures you safely return to the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q82.html" class="button">|prev_question|</a>
+       <span class="page-indicator">83 / 106</span>
+       <a href="q84.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

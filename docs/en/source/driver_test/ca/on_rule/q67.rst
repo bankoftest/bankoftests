@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When driving a motor vehicle on the highway at night, you should use low beam headlights (dim lights) when:
+   :keywords: low beam headlights, night driving, Ontario traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When driving a motor vehicle on the highway at night, you should use low beam headlights (dim lights) when:
+======================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q67" class="quiz">
+       <div class="option" id="q67-A" onclick="selectOption('q67', 'A', false)">
+           A. Approaching an intersection
+       </div>
+       <div class="option" id="q67-B" onclick="selectOption('q67', 'B', true)">
+           B. Meeting or following another vehicle
+       </div>
+       <div class="option" id="q67-C" onclick="selectOption('q67', 'C', false)">
+           C. Another driver dims their lights
+       </div>
+       <div class="option" id="q67-D" onclick="selectOption('q67', 'D', false)">
+           D. Blinded by the headlights of an approaching vehicle
+       </div>
+       <p id="q67-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Low beam headlights reduce glare for oncoming traffic and improve safety at night.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q66.html" class="button">|prev_question|</a>
+       <span class="page-indicator">67 / 106</span>
+       <a href="q68.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

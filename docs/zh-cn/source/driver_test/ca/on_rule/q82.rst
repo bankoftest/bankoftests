@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你的汽车滑胎时, 首先怎样应付：(例如车尾滑向右边)
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你的汽车滑胎时, 首先怎样应付：(例如车尾滑向右边)
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q82" class="quiz">
+       <div class="option" id="q82-A" onclick="selectOption('q82', 'A', false)">
+           A. 把方向盘转向相反滑的方向
+       </div>
+       <div class="option" id="q82-B" onclick="selectOption('q82', 'B', false)">
+           B. 把方向盘转直走
+       </div>
+       <div class="option" id="q82-C" onclick="selectOption('q82', 'C', false)">
+           C. 大力刹停汽车
+       </div>
+       <div class="option" id="q82-D" onclick="selectOption('q82', 'D', true)">
+           D. 把方向盘转向滑车的方向
+       </div>
+       <p id="q82-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q81.html" class="button">|prev_question|</a>
+       <span class="page-indicator">82 / 105</span>
+       <a href="q83.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 除非你打算超车及超越另一辆车，或想转左，否则你应：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+除非你打算超车及超越另一辆车，或想转左，否则你应：
+==================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q73" class="quiz">
+       <div class="option" id="q73-A" onclick="selectOption('q73', 'A', false)">
+           A. 驾驶在路的中间
+       </div>
+       <div class="option" id="q73-B" onclick="selectOption('q73', 'B', true)">
+           B. 时时靠路的右面行驶
+       </div>
+       <div class="option" id="q73-C" onclick="selectOption('q73', 'C', false)">
+           C. 在公路的路肩上行驶
+       </div>
+       <div class="option" id="q73-D" onclick="selectOption('q73', 'D', false)">
+           D. 时时靠路的左边行驶
+       </div>
+       <p id="q73-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q72.html" class="button">|prev_question|</a>
+       <span class="page-indicator">73 / 105</span>
+       <a href="q74.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

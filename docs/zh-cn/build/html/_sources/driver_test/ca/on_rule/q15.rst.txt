@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你想转右时，你应驶在路的哪一条线？
+   :keywords: 安大略省驾驶知识, 转右, 安全驾驶, 道路位置
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你想转右时，你应驶在路的哪一条线？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q15" class="quiz">
+       <div class="option" id="q15-A" onclick="selectOption('q15', 'A', false)">
+           A. 靠近路的左边
+       </div>
+       <div class="option" id="q15-B" onclick="selectOption('q15', 'B', true)">
+           B. 靠近路的右边
+       </div>
+       <div class="option" id="q15-C" onclick="selectOption('q15', 'C', false)">
+           C. 靠近路的中线
+       </div>
+       <div class="option" id="q15-D" onclick="selectOption('q15', 'D', false)">
+           D. 不成问题，打灯便可
+       </div>
+       <p id="q15-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   右转时应靠近路的右边车道，以确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q14.html" class="button">|prev_question|</a>
+       <span class="page-indicator">15 / 105</span>
+       <a href="q16.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

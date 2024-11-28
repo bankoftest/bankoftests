@@ -15,10 +15,17 @@ html_theme.sidebar_secondary.remove: true
   content: "Canada BC Driver's License Knowledge Test Test Bank (2024)"
   link: driver_test/ca/bc/q1.html
 
+- header: "{fas}`clock;pst-color-primary` ON Driver's License (Signs)"
+  content: "Canada ON Driver's License Knowledge Test (Signs) Test Bank (2024)"
+  link: driver_test/ca/on_sign/q1.html
+
+- header: "{fas}`clock;pst-color-primary` ON Driver's License (Rules)"
+  content: "Canada ON Driver's License Knowledge Test (Rules) Test Bank (2024)"
+  link: driver_test/ca/on_rule/q1.html
 ```
 
 ```{toctree}
 :hidden:
 
-driver_test/ca/bc/index
+driver_test/index
 ```

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在什么情形下，驾驶执照会被取消？
+   :keywords: 驾驶执照取消, 驾驶违规, 安大略省法律, 驾驶知识
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在什么情形下，驾驶执照会被取消？
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q41" class="quiz">
+       <div class="option" id="q41-A" onclick="selectOption('q41', 'A', false)">
+           A. 没有去重考
+       </div>
+       <div class="option" id="q41-B" onclick="selectOption('q41', 'B', false)">
+           B. 持有改过的执照
+       </div>
+       <div class="option" id="q41-C" onclick="selectOption('q41', 'C', false)">
+           C. 重考而不合格
+       </div>
+       <div class="option" id="q41-D" onclick="selectOption('q41', 'D', true)">
+           D. 以上任何情形或全部都是
+       </div>
+       <p id="q41-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶执照被取消可能因多种违规情况，例如重考不合格或使用改造的执照。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q40.html" class="button">|prev_question|</a>
+       <span class="page-indicator">41 / 105</span>
+       <a href="q42.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

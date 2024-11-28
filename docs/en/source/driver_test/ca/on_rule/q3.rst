@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When lights are required, drivers are required to use low beam headlights:
+   :keywords: low beam headlights, required lights, approach distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When lights are required, drivers are required to use low beam headlights:
+====================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q3" class="quiz">
+       <div class="option" id="q3-A" onclick="selectOption('q3', 'A', false)">
+           A. Within 1 km (0.6 mile) of the approach of another vehicle
+       </div>
+       <div class="option" id="q3-B" onclick="selectOption('q3', 'B', true)">
+           B. Within 150 m (500 ft.) of the approach of another vehicle
+       </div>
+       <div class="option" id="q3-C" onclick="selectOption('q3', 'C', false)">
+           C. Within 300m (1000 ft.) of the approach of another vehicle
+       </div>
+       <div class="option" id="q3-D" onclick="selectOption('q3', 'D', false)">
+           D. This is a safety practice, not a law
+       </div>
+       <p id="q3-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Low beams prevent glare for oncoming traffic, ensuring safe driving conditions for everyone.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q2.html" class="button">|prev_question|</a>
+       <span class="page-indicator">3 / 106</span>
+       <a href="q4.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

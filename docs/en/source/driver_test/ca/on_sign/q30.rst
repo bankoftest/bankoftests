@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: The green circle means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The green circle means:
+==============================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/30.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q30" class="quiz">
+       <div class="option" id="q30-A" onclick="selectOption('q30', 'A', false)">
+           A. Truck route
+       </div>
+       <div class="option" id="q30-B" onclick="selectOption('q30', 'B', false)">
+           B. No trucks
+       </div>
+       <div class="option" id="q30-C" onclick="selectOption('q30', 'C', false)">
+           C. Route for large trucks
+       </div>
+       <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
+           D. Permissive sign
+       </div>
+       <p id="q30-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q29.html" class="button">|prev_question|</a>
+       <span class="page-indicator">30 / 53</span>
+       <a href="q31.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

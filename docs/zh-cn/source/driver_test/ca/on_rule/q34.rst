@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 持有驾驶执照而需要转姓名或地址，他需要在什么时间内通知交通部？
+   :keywords: 安大略省驾驶知识, 驾驶执照, 更新信息, 法律要求
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+持有驾驶执照而需要转姓名或地址，他需要在什么时间内通知交通部？
+==============================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q34" class="quiz">
+       <div class="option" id="q34-A" onclick="selectOption('q34', 'A', true)">
+           A. 六天之内
+       </div>
+       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', false)">
+           B. 十五天之内
+       </div>
+       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', false)">
+           C. 三十天之内
+       </div>
+       <div class="option" id="q34-D" onclick="selectOption('q34', 'D', false)">
+           D. 在换新牌前任何时间都可
+       </div>
+       <p id="q34-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   法律要求在更改姓名或地址后的六天内通知交通部以更新记录。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q33.html" class="button">|prev_question|</a>
+       <span class="page-indicator">34 / 105</span>
+       <a href="q35.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A flashing blue light mounted on a motor vehicle indicates:
+   :keywords: flashing blue light, snow removal, vehicle identification
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A flashing blue light mounted on a motor vehicle indicates:
+======================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q31" class="quiz">
+       <div class="option" id="q31-A" onclick="selectOption('q31', 'A', false)">
+           A. A motor vehicle carrying explosives
+       </div>
+       <div class="option" id="q31-B" onclick="selectOption('q31', 'B', true)">
+           B. Snow removal equipment
+       </div>
+       <div class="option" id="q31-C" onclick="selectOption('q31', 'C', false)">
+           C. An ambulance
+       </div>
+       <div class="option" id="q31-D" onclick="selectOption('q31', 'D', false)">
+           D. A police emergency vehicle
+       </div>
+       <p id="q31-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Flashing blue lights are used to identify snow removal vehicles, alerting drivers to their presence during hazardous conditions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q30.html" class="button">|prev_question|</a>
+       <span class="page-indicator">31 / 106</span>
+       <a href="q32.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

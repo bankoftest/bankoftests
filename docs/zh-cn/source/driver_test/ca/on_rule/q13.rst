@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在十字路口闪着红灯，表示：
+   :keywords: 安大略省驾驶知识, 红灯闪烁, 停车, 十字路口
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在十字路口闪着红灯，表示：
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q13" class="quiz">
+       <div class="option" id="q13-A" onclick="selectOption('q13', 'A', false)">
+           A. 慢驶，然后加倍小心驾驶
+       </div>
+       <div class="option" id="q13-B" onclick="selectOption('q13', 'B', false)">
+           B. 慢驶，如有需要，让左右迎面的车辆有优先权
+       </div>
+       <div class="option" id="q13-C" onclick="selectOption('q13', 'C', false)">
+           C. 灯号坏了，小心前进
+       </div>
+       <div class="option" id="q13-D" onclick="selectOption('q13', 'D', true)">
+           D. 停车，直至安全才前进
+       </div>
+       <p id="q13-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   红灯闪烁表示必须完全停车，确保安全后再继续前进。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q12.html" class="button">|prev_question|</a>
+       <span class="page-indicator">13 / 105</span>
+       <a href="q14.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

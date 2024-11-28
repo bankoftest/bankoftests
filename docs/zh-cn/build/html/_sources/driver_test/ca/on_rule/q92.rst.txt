@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在公路交通法规被停牌, 而你是第一次被抓驾驶, 刑罚是：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在公路交通法规被停牌, 而你是第一次被抓驾驶, 刑罚是：
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q92" class="quiz">
+       <div class="option" id="q92-A" onclick="selectOption('q92', 'A', false)">
+           A. 罚款500元
+       </div>
+       <div class="option" id="q92-B" onclick="selectOption('q92', 'B', false)">
+           B. 罚款1000到5000元
+       </div>
+       <div class="option" id="q92-C" onclick="selectOption('q92', 'C', false)">
+           C. 监禁6个月
+       </div>
+       <div class="option" id="q92-D" onclick="selectOption('q92', 'D', true)">
+           D. 以上全部都是
+       </div>
+       <p id="q92-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q91.html" class="button">|prev_question|</a>
+       <span class="page-indicator">92 / 105</span>
+       <a href="q93.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

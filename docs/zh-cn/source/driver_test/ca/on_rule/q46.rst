@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你接近十字路口时，发觉十字路口前面交通很挤迫，你应：
+   :keywords: 交通拥堵, 十字路口, 驾驶安全, 避免阻塞
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你接近十字路口时，发觉十字路口前面交通很挤迫，你应：
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q46" class="quiz">
+       <div class="option" id="q46-A" onclick="selectOption('q46', 'A', false)">
+           A. 贴着前面的车辆行驶
+       </div>
+       <div class="option" id="q46-B" onclick="selectOption('q46', 'B', false)">
+           B. 慢慢驶入十字路口，直至前面交通畅通后才前进
+       </div>
+       <div class="option" id="q46-C" onclick="selectOption('q46', 'C', true)">
+           C. 停在十字路口之前，等待前面交通畅通后才前进
+       </div>
+       <div class="option" id="q46-D" onclick="selectOption('q46', 'D', false)">
+           D. 响号警告前面车辆前进
+       </div>
+       <p id="q46-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在交通拥堵时，应避免阻塞十字路口，确保通行顺畅。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q45.html" class="button">|prev_question|</a>
+       <span class="page-indicator">46 / 105</span>
+       <a href="q47.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

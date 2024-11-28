@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果你想超越一部摩托车, 你应：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你想超越一部摩托车, 你应：
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q99" class="quiz">
+       <div class="option" id="q99-A" onclick="selectOption('q99', 'A', false)">
+           A. 在超越前鸣喇叭
+       </div>
+       <div class="option" id="q99-B" onclick="selectOption('q99', 'B', false)">
+           B. 在超越前将高灯开亮
+       </div>
+       <div class="option" id="q99-C" onclick="selectOption('q99', 'C', true)">
+           C. 方法与超越其他车辆相同
+       </div>
+       <div class="option" id="q99-D" onclick="selectOption('q99', 'D', false)">
+           D. 用摩托车的一半车道
+       </div>
+       <p id="q99-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q98.html" class="button">|prev_question|</a>
+       <span class="page-indicator">99 / 105</span>
+       <a href="q100.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

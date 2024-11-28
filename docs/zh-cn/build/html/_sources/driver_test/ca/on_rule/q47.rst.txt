@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 一辆“校车”闪红灯停在中间没有栏杆或障碍物的高速公路中，
+   :keywords: 校车, 闪灯, 停车规定, 学生安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+一辆“校车”闪红灯停在中间没有栏杆或障碍物的高速公路中，
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q47" class="quiz">
+       <div class="option" id="q47-A" onclick="selectOption('q47', 'A', false)">
+           A. 没有关系，只要你响号
+       </div>
+       <div class="option" id="q47-B" onclick="selectOption('q47', 'B', true)">
+           B. 停车，直至校车前进或红灯已不再闪
+       </div>
+       <div class="option" id="q47-C" onclick="selectOption('q47', 'C', false)">
+           C. 等待接近的车辆驶过
+       </div>
+       <div class="option" id="q47-D" onclick="selectOption('q47', 'D', false)">
+           D. 小心驶过，确保安全
+       </div>
+       <p id="q47-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   法律规定，在校车闪灯时，车辆必须停下，确保学生安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q46.html" class="button">|prev_question|</a>
+       <span class="page-indicator">47 / 105</span>
+       <a href="q48.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

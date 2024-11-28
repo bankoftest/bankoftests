@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When a truck becomes disabled on a highway with a speed limit exceeding 60 km/h, flares or reflectors must be placed approximately what distance ahead and behind the vehicle?
+   :keywords: disabled truck, flares, reflectors, highway safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a truck becomes disabled on a highway with a speed limit exceeding 60 km/h, flares or reflectors must be placed approximately what distance ahead and behind the vehicle?
+============================================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q36" class="quiz">
+       <div class="option" id="q36-A" onclick="selectOption('q36', 'A', false)">
+           A. 15 m (50 ft.)
+       </div>
+       <div class="option" id="q36-B" onclick="selectOption('q36', 'B', true)">
+           B. 30 m (100 ft.)
+       </div>
+       <div class="option" id="q36-C" onclick="selectOption('q36', 'C', false)">
+           C. 60 m (200 ft.)
+       </div>
+       <div class="option" id="q36-D" onclick="selectOption('q36', 'D', false)">
+           D. 90 m (300 ft.)
+       </div>
+       <p id="q36-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Placing flares or reflectors at a safe distance ensures that other drivers are alerted to the disabled vehicle.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q35.html" class="button">|prev_question|</a>
+       <span class="page-indicator">36 / 106</span>
+       <a href="q37.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

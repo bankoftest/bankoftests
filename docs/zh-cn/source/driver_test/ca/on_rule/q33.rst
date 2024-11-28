@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在离开城市，镇或乡村的高速公路同一方向行驶，除超越外，
+   :keywords: 安大略省驾驶知识, 高速公路, 安全车距, 超车
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在离开城市，镇或乡村的高速公路同一方向行驶，除超越外，
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q33" class="quiz">
+       <div class="option" id="q33-A" onclick="selectOption('q33', 'A', false)">
+           A. 30公尺（100呎）
+       </div>
+       <div class="option" id="q33-B" onclick="selectOption('q33', 'B', true)">
+           B. 60公尺（200呎）
+       </div>
+       <div class="option" id="q33-C" onclick="selectOption('q33', 'C', false)">
+           C. 120公尺（400呎）
+       </div>
+       <div class="option" id="q33-D" onclick="selectOption('q33', 'D', false)">
+           D. 以上皆是
+       </div>
+       <p id="q33-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶者在高速公路上应与前车保持至少60公尺（200呎）的距离，除非正在超车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q32.html" class="button">|prev_question|</a>
+       <span class="page-indicator">33 / 105</span>
+       <a href="q34.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

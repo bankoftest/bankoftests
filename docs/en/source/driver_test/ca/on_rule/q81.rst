@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Demerit points lost will remain on your driver's record for a period of:
+   :keywords: demerit points, driving record, Ontario rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Demerit points lost will remain on your driver's record for a period of:
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q81" class="quiz">
+       <div class="option" id="q81-A" onclick="selectOption('q81', 'A', false)">
+           A. One year
+       </div>
+       <div class="option" id="q81-B" onclick="selectOption('q81', 'B', true)">
+           B. Two years
+       </div>
+       <div class="option" id="q81-C" onclick="selectOption('q81', 'C', false)">
+           C. Three years
+       </div>
+       <div class="option" id="q81-D" onclick="selectOption('q81', 'D', false)">
+           D. Five years
+       </div>
+       <p id="q81-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Demerit points stay on your record for two years from the date of the offense, impacting your driving record and insurance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q80.html" class="button">|prev_question|</a>
+       <span class="page-indicator">81 / 106</span>
+       <a href="q82.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

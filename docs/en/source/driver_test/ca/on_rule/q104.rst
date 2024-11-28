@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: There are some exemptions for a teenage G2 driver, if you are accompanied by a fully licensed driver with at least how many years of driving experience in the front seat, or if your young passengers are members of your immediate family?
+   :keywords: G2 exemptions, experienced driver, driving rules, immediate family
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+There are some exemptions for a teenage G2 driver, if you are accompanied by a fully licensed driver with at least how many years of driving experience in the front seat, or if your young passengers are members of your immediate family?
+========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q104" class="quiz">
+       <div class="option" id="q104-A" onclick="selectOption('q104', 'A', false)">
+           A. Two years
+       </div>
+       <div class="option" id="q104-B" onclick="selectOption('q104', 'B', false)">
+           B. Three years
+       </div>
+       <div class="option" id="q104-C" onclick="selectOption('q104', 'C', true)">
+           C. Four years
+       </div>
+       <div class="option" id="q104-D" onclick="selectOption('q104', 'D', false)">
+           D. Five years
+       </div>
+       <p id="q104-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Exemptions for G2 drivers include having an experienced driver in the car or passengers being immediate family members, which ensures safety and compliance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q103.html" class="button">|prev_question|</a>
+       <span class="page-indicator">104 / 106</span>
+       <a href="q105.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

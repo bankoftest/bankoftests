@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A solid center line on the roadway is on your side of a broken center line. What does the solid center line mean?
+   :keywords: solid line rules, passing restrictions, Ontario traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A solid center line on the roadway is on your side of a broken center line. What does the solid center line mean?
+==================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q75" class="quiz">
+       <div class="option" id="q75-A" onclick="selectOption('q75', 'A', true)">
+           A. Passing is unsafe
+       </div>
+       <div class="option" id="q75-B" onclick="selectOption('q75', 'B', false)">
+           B. Pass only when no traffic is in sight
+       </div>
+       <div class="option" id="q75-C" onclick="selectOption('q75', 'C', false)">
+           C. It is safe to overtake and pass
+       </div>
+       <div class="option" id="q75-D" onclick="selectOption('q75', 'D', false)">
+           D. Pass at any time
+       </div>
+       <p id="q75-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A solid line indicates that passing is unsafe and should not be attempted.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q74.html" class="button">|prev_question|</a>
+       <span class="page-indicator">75 / 106</span>
+       <a href="q76.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

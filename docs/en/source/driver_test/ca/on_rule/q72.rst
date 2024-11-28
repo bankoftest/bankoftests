@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: The broken center line on a roadway means you may:
+   :keywords: broken center line, passing rules, Ontario driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The broken center line on a roadway means you may:
+====================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q72" class="quiz">
+       <div class="option" id="q72-A" onclick="selectOption('q72', 'A', false)">
+           A. Never pass
+       </div>
+       <div class="option" id="q72-B" onclick="selectOption('q72', 'B', true)">
+           B. Pass if the way is clear
+       </div>
+       <div class="option" id="q72-C" onclick="selectOption('q72', 'C', false)">
+           C. Pass at any time
+       </div>
+       <div class="option" id="q72-D" onclick="selectOption('q72', 'D', false)">
+           D. Pass only during daylight hours
+       </div>
+       <p id="q72-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A broken center line indicates that passing is permitted when it is safe to do so.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q71.html" class="button">|prev_question|</a>
+       <span class="page-indicator">72 / 106</span>
+       <a href="q73.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

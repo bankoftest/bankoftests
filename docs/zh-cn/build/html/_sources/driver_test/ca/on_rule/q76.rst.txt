@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 由私家路驶入公路之前，驾驶者应：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+由私家路驶入公路之前，驾驶者应：
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q76" class="quiz">
+       <div class="option" id="q76-A" onclick="selectOption('q76', 'A', false)">
+           A. 响号并小心前进
+       </div>
+       <div class="option" id="q76-B" onclick="selectOption('q76', 'B', false)">
+           B. 尽快驶入或横过公路
+       </div>
+       <div class="option" id="q76-C" onclick="selectOption('q76', 'C', false)">
+           C. 打手势及取优先权先行
+       </div>
+       <div class="option" id="q76-D" onclick="selectOption('q76', 'D', true)">
+           D. 让所有驶近公路的车辆有优先权
+       </div>
+       <p id="q76-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q75.html" class="button">|prev_question|</a>
+       <span class="page-indicator">76 / 105</span>
+       <a href="q77.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 驾驶者被停牌，而被控再次驾驶，他应受什么责罚？
+   :keywords: 安大略省驾驶知识, 停牌, 重犯, 法律惩罚
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+驾驶者被停牌，而被控再次驾驶，他应受什么责罚？
+==============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q38" class="quiz">
+       <div class="option" id="q38-A" onclick="selectOption('q38', 'A', false)">
+           A. 罚款一干至伍千元或入狱六个月或两样都罚
+       </div>
+       <div class="option" id="q38-B" onclick="selectOption('q38', 'B', false)">
+           B. 将汽车扣留最少45天
+       </div>
+       <div class="option" id="q38-C" onclick="selectOption('q38', 'C', false)">
+           C. 再加多六个月不准驾驶的权利
+       </div>
+       <div class="option" id="q38-D" onclick="selectOption('q38', 'D', true)">
+           D. 以上任何一点或全部
+       </div>
+       <p id="q38-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   被停牌后驾驶是严重违法行为，可导致罚款、汽车扣留或延长禁驾期限。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q37.html" class="button">|prev_question|</a>
+       <span class="page-indicator">38 / 105</span>
+       <a href="q39.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Should your right wheels drop off the roadway, what is the best way to get back on the roadway?
+   :keywords: road re-entry, driving techniques, Ontario driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Should your right wheels drop off the roadway, what is the best way to get back on the roadway?
+==============================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q62" class="quiz">
+       <div class="option" id="q62-A" onclick="selectOption('q62', 'A', false)">
+           A. Steer hard to left
+       </div>
+       <div class="option" id="q62-B" onclick="selectOption('q62', 'B', false)">
+           B. Apply brakes and steer hard to the left
+       </div>
+       <div class="option" id="q62-C" onclick="selectOption('q62', 'C', true)">
+           C. Take foot off gas pedal, turn back when vehicle has slowed
+       </div>
+       <div class="option" id="q62-D" onclick="selectOption('q62', 'D', false)">
+           D. Apply brakes to reduce speed
+       </div>
+       <p id="q62-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Gradual re-entry to the road prevents sudden movements that could cause a loss of control.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q61.html" class="button">|prev_question|</a>
+       <span class="page-indicator">62 / 106</span>
+       <a href="q63.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你在双线行车路上驾驶，听到紧急信号的车，法律上要求你怎样做？
+   :keywords: 安大略省驾驶知识, 紧急车辆, 安全让行, 法律规定
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你在双线行车路上驾驶，听到紧急信号的车，法律上要求你怎样做？
+==============================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q2" class="quiz">
+       <div class="option" id="q2-A" onclick="selectOption('q2', 'A', false)">
+           A. 加速，尽快离开
+       </div>
+       <div class="option" id="q2-B" onclick="selectOption('q2', 'B', false)">
+           B. 打灯号，让驾驶者超越
+       </div>
+       <div class="option" id="q2-C" onclick="selectOption('q2', 'C', true)">
+           C. 尽快驶向路的最右方停下
+       </div>
+       <div class="option" id="q2-D" onclick="selectOption('q2', 'D', false)">
+           D. 保持同一速度行驶
+       </div>
+       <p id="q2-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   听到紧急信号时，法律要求驾驶者将车辆移到最右侧并停下，以让紧急车辆安全通过。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q1.html" class="button">|prev_question|</a>
+       <span class="page-indicator">2 / 105</span>
+       <a href="q3.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

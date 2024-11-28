@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你把车驶出路边停车位前，你应：
+   :keywords: 路边停车, 离开停车位, 驾驶技巧, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你把车驶出路边停车位前，你应：
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q65" class="quiz">
+       <div class="option" id="q65-A" onclick="selectOption('q65', 'A', false)">
+           A. 看交通情形，打灯号及立即驶离路边
+       </div>
+       <div class="option" id="q65-B" onclick="selectOption('q65', 'B', false)">
+           B. 响号然后慢慢从路边驶出
+       </div>
+       <div class="option" id="q65-C" onclick="selectOption('q65', 'C', true)">
+           C. 看清楚交通情形，打灯号，当安全的时候才从路边驶出
+       </div>
+       <div class="option" id="q65-D" onclick="selectOption('q65', 'D', false)">
+           D. 打灯号，然后驶出路边
+       </div>
+       <p id="q65-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   离开停车位前应观察交通状况，发出信号并确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q64.html" class="button">|prev_question|</a>
+       <span class="page-indicator">65 / 105</span>
+       <a href="q66.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

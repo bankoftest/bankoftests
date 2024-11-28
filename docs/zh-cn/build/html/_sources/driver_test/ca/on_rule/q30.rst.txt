@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果你被控醉酒行车，第一次会被罚停牌多久？
+   :keywords: 安大略省驾驶知识, 酒驾, 吊销执照, 法律惩罚
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你被控醉酒行车，第一次会被罚停牌多久？
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q30" class="quiz">
+       <div class="option" id="q30-A" onclick="selectOption('q30', 'A', false)">
+           A. 一个月
+       </div>
+       <div class="option" id="q30-B" onclick="selectOption('q30', 'B', false)">
+           B. 三个月
+       </div>
+       <div class="option" id="q30-C" onclick="selectOption('q30', 'C', false)">
+           C. 六个月
+       </div>
+       <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
+           D. 一年
+       </div>
+       <p id="q30-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   醉酒驾驶的初犯通常会被吊销驾驶执照一年。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q29.html" class="button">|prev_question|</a>
+       <span class="page-indicator">30 / 105</span>
+       <a href="q31.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

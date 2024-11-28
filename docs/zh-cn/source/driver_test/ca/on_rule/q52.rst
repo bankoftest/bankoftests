@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 卖汽车给别人，卖车者应该：
+   :keywords: 卖汽车, 车主变更, 安全合格证, 安大略省法律
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+卖汽车给别人，卖车者应该：
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q52" class="quiz">
+       <div class="option" id="q52-A" onclick="selectOption('q52', 'A', false)">
+           A. 在卖车后六日内通知交通部及改车主姓名
+       </div>
+       <div class="option" id="q52-B" onclick="selectOption('q52', 'B', false)">
+           B. 和买车者到换牌处登记更换新车主姓名
+       </div>
+       <div class="option" id="q52-C" onclick="selectOption('q52', 'C', false)">
+           C. 如汽车没有“安全合格证”应交还车牌及车证给换牌处，而用卖车者的名下取得“汽车未合格证”
+       </div>
+       <div class="option" id="q52-D" onclick="selectOption('q52', 'D', true)">
+           D. 以上所有情形都是
+       </div>
+       <p id="q52-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   卖车后需按规定完成所有文件变更和安全认证程序。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q51.html" class="button">|prev_question|</a>
+       <span class="page-indicator">52 / 105</span>
+       <a href="q53.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在安全的情况下，可从别的车辆右方超越：
+   :keywords: 安大略省驾驶知识, 右方超车, 交通规则, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在安全的情况下，可从别的车辆右方超越：
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q20" class="quiz">
+       <div class="option" id="q20-A" onclick="selectOption('q20', 'A', false)">
+           A. 任何街道及公路都准许
+       </div>
+       <div class="option" id="q20-B" onclick="selectOption('q20', 'B', false)">
+           B. 如果可能在路旁驶过是准许的
+       </div>
+       <div class="option" id="q20-C" onclick="selectOption('q20', 'C', false)">
+           C. 无论在什么情况下都不准许
+       </div>
+       <div class="option" id="q20-D" onclick="selectOption('q20', 'D', true)">
+           D. 是准许的，当街道及公路有两条或以上同一方向的行车线
+       </div>
+       <p id="q20-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在有两条或以上同方向车道时，允许从右方超车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q19.html" class="button">|prev_question|</a>
+       <span class="page-indicator">20 / 105</span>
+       <a href="q21.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 你应保持一种速度行车，无论在任何情况下，你也能：
+   :keywords: 安全驾驶, 停车距离, 速度控制, 安大略省
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你应保持一种速度行车，无论在任何情况下，你也能：
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q53" class="quiz">
+       <div class="option" id="q53-A" onclick="selectOption('q53', 'A', false)">
+           A. 在90公尺（300呎）内停车
+       </div>
+       <div class="option" id="q53-B" onclick="selectOption('q53', 'B', false)">
+           B. 在60公尺（200呎）内停车
+       </div>
+       <div class="option" id="q53-C" onclick="selectOption('q53', 'C', true)">
+           C. 在一个安全距离内停车
+       </div>
+       <div class="option" id="q53-D" onclick="selectOption('q53', 'D', false)">
+           D. 在150公尺（500呎）内停车
+       </div>
+       <p id="q53-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   保持安全的驾驶距离和速度是为了在任何情况下都能迅速停车。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q52.html" class="button">|prev_question|</a>
+       <span class="page-indicator">53 / 105</span>
+       <a href="q54.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

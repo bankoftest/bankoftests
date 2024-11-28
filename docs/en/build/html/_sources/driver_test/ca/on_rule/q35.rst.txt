@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are involved in a reportable accident, when must you report it to the police?
+   :keywords: accident reporting, legal requirements, Ontario traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are involved in a reportable accident, when must you report it to the police?
+========================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q35" class="quiz">
+       <div class="option" id="q35-A" onclick="selectOption('q35', 'A', true)">
+           A. At once
+       </div>
+       <div class="option" id="q35-B" onclick="selectOption('q35', 'B', false)">
+           B. Within 24 hours
+       </div>
+       <div class="option" id="q35-C" onclick="selectOption('q35', 'C', false)">
+           C. Within 48 hours
+       </div>
+       <div class="option" id="q35-D" onclick="selectOption('q35', 'D', false)">
+           D. Within 7 days
+       </div>
+       <p id="q35-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Immediate reporting is required to document the incident and address legal or insurance needs.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q34.html" class="button">|prev_question|</a>
+       <span class="page-indicator">35 / 106</span>
+       <a href="q36.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

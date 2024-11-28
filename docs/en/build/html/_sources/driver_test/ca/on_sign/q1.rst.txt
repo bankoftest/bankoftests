@@ -1,0 +1,61 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/1.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q1" class="quiz">
+       <div class="option" id="q1-A" onclick="selectOption('q1', 'A', false)">
+           A. Stop sign 150 meters (500 feet) ahead
+       </div>
+       <div class="option" id="q1-B" onclick="selectOption('q1', 'B', false)">
+           B. Bump 120 meters (400 feet) ahead
+       </div>
+       <div class="option" id="q1-C" onclick="selectOption('q1', 'C', true)">
+           C. Stop at all times
+       </div>
+       <div class="option" id="q1-D" onclick="selectOption('q1', 'D', false)">
+           D. Stop only if other vehicles are approaching
+       </div>
+       <p id="q1-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons single-next">
+       <span class="page-indicator">1 / 53</span>
+       <a href="q2.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

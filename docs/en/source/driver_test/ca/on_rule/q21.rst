@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When does the law require lights on vehicles to be turned on?
+   :keywords: vehicle lights, law, visibility, Ontario rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When does the law require lights on vehicles to be turned on?
+==========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q21" class="quiz">
+       <div class="option" id="q21-A" onclick="selectOption('q21', 'A', false)">
+           A. Between sunset and sunrise
+       </div>
+       <div class="option" id="q21-B" onclick="selectOption('q21', 'B', false)">
+           B. Between dusk and dawn and at any other time you cannot see clearly for a distance of 150m (500 ft.)
+       </div>
+       <div class="option" id="q21-C" onclick="selectOption('q21', 'C', true)">
+           C. Between half an hour before sunset to half an hour after sunrise and at any other time you cannot see clearly for a distance of 150 m (500 ft.)
+       </div>
+       <div class="option" id="q21-D" onclick="selectOption('q21', 'D', false)">
+           D. No specified time
+       </div>
+       <p id="q21-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Turning on lights at dusk, dawn, or when visibility is poor helps other drivers and pedestrians see you, reducing accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q20.html" class="button">|prev_question|</a>
+       <span class="page-indicator">21 / 106</span>
+       <a href="q22.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

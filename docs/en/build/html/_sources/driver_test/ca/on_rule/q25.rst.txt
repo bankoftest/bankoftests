@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: At what level of alcohol in the blood can you be convicted of being an impaired driver?
+   :keywords: impaired driving, blood alcohol level, Ontario laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At what level of alcohol in the blood can you be convicted of being an impaired driver?
+==============================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q25" class="quiz">
+       <div class="option" id="q25-A" onclick="selectOption('q25', 'A', false)">
+           A. 0.03 %
+       </div>
+       <div class="option" id="q25-B" onclick="selectOption('q25', 'B', true)">
+           B. 0.05 %
+       </div>
+       <div class="option" id="q25-C" onclick="selectOption('q25', 'C', false)">
+           C. 0.08 %
+       </div>
+       <div class="option" id="q25-D" onclick="selectOption('q25', 'D', false)">
+           D. 1.0 %
+       </div>
+       <p id="q25-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A blood alcohol level of 0.05% or higher impairs judgment and reaction times, making it illegal to drive.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q24.html" class="button">|prev_question|</a>
+       <span class="page-indicator">25 / 106</span>
+       <a href="q26.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

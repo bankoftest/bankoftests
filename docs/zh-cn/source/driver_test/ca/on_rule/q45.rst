@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 驾驶者犯上开快车，比限制时速超过五十公里（三十哩）或以上时，
+   :keywords: 超速驾驶, 停牌, 安大略省交通法规, 违规处罚
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+驾驶者犯上开快车，比限制时速超过五十公里（三十哩）或以上时，
+============================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q45" class="quiz">
+       <div class="option" id="q45-A" onclick="selectOption('q45', 'A', true)">
+           A. 停牌六个月
+       </div>
+       <div class="option" id="q45-B" onclick="selectOption('q45', 'B', false)">
+           B. 停牌三十天
+       </div>
+       <div class="option" id="q45-C" onclick="selectOption('q45', 'C', false)">
+           C. 扣留汽车六个月
+       </div>
+       <div class="option" id="q45-D" onclick="selectOption('q45', 'D', false)">
+           D. 罚款并增加违规点
+       </div>
+       <p id="q45-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   严重超速驾驶会导致停牌六个月以及罚款等处罚。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q44.html" class="button">|prev_question|</a>
+       <span class="page-indicator">45 / 105</span>
+       <a href="q46.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

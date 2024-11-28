@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A driver may be required to attend an interview and re-examination of their driving ability:
+   :keywords: driver re-examination, demerit points, driving skills
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A driver may be required to attend an interview and re-examination of their driving ability:
+========================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q48" class="quiz">
+       <div class="option" id="q48-A" onclick="selectOption('q48', 'A', true)">
+           A. When 9 demerit points have been accumulated
+       </div>
+       <div class="option" id="q48-B" onclick="selectOption('q48', 'B', false)">
+           B. When 3 demerit points have been accumulated
+       </div>
+       <div class="option" id="q48-C" onclick="selectOption('q48', 'C', false)">
+           C. When 6 demerit points have been accumulated
+       </div>
+       <div class="option" id="q48-D" onclick="selectOption('q48', 'D', false)">
+           D. When 15 demerit points have been accumulated
+       </div>
+       <p id="q48-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers with 9 demerit points must demonstrate improved driving skills or face penalties.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q47.html" class="button">|prev_question|</a>
+       <span class="page-indicator">48 / 106</span>
+       <a href="q49.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

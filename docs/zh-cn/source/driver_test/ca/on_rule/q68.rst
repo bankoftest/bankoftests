@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在夜间以最高限制速度行驶比日间更危险，因为：
+   :keywords: 夜间驾驶, 限速, 驾驶风险, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在夜间以最高限制速度行驶比日间更危险，因为：
+============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q68" class="quiz">
+       <div class="option" id="q68-A" onclick="selectOption('q68', 'A', false)">
+           A. 一些非法驾驶者只用泊车灯行驶
+       </div>
+       <div class="option" id="q68-B" onclick="selectOption('q68', 'B', true)">
+           B. 在夜间，你不能看得前面很远
+       </div>
+       <div class="option" id="q68-C" onclick="selectOption('q68', 'C', false)">
+           C. 在夜间，路面更容易湿滑
+       </div>
+       <div class="option" id="q68-D" onclick="selectOption('q68', 'D', false)">
+           D. 你的反应在夜间会较慢
+       </div>
+       <p id="q68-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   夜间驾驶视野有限，因此以最高限速行驶更具风险。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q67.html" class="button">|prev_question|</a>
+       <span class="page-indicator">68 / 105</span>
+       <a href="q69.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

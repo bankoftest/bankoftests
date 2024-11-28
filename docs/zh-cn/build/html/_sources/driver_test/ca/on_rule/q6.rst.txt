@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当亮红灯时，你想驶过十字路口，你一定要：
+   :keywords: 安大略省驾驶知识, 红灯, 安全停车, 十字路口, 法律规定
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当亮红灯时，你想驶过十字路口，你一定要：
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q6" class="quiz">
+       <div class="option" id="q6-A" onclick="selectOption('q6', 'A', false)">
+           A. 停车，让行人有优先权，然后小心前进
+       </div>
+       <div class="option" id="q6-B" onclick="selectOption('q6', 'B', false)">
+           B. 停车，当交通安全才前进
+       </div>
+       <div class="option" id="q6-C" onclick="selectOption('q6', 'C', false)">
+           C. 慢驶，交通安全才前进
+       </div>
+       <div class="option" id="q6-D" onclick="selectOption('q6', 'D', true)">
+           D. 停车，直至灯号转绿色，同时安全才前进
+       </div>
+       <p id="q6-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   红灯时驾驶者必须完全停车，并等待灯号变绿后在确保安全时继续行驶。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q5.html" class="button">|prev_question|</a>
+       <span class="page-indicator">6 / 105</span>
+       <a href="q7.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Parking lights may be used:
+   :keywords: parking lights, vehicle safety, Ontario driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Parking lights may be used:
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q57" class="quiz">
+       <div class="option" id="q57-A" onclick="selectOption('q57', 'A', false)">
+           A. At any time
+       </div>
+       <div class="option" id="q57-B" onclick="selectOption('q57', 'B', true)">
+           B. For parking only
+       </div>
+       <div class="option" id="q57-C" onclick="selectOption('q57', 'C', false)">
+           C. When driving in heavy fog
+       </div>
+       <div class="option" id="q57-D" onclick="selectOption('q57', 'D', false)">
+           D. When driving on a well-lit street
+       </div>
+       <p id="q57-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Parking lights are meant only for stationary vehicles to signal their presence to other drivers.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q56.html" class="button">|prev_question|</a>
+       <span class="page-indicator">57 / 106</span>
+       <a href="q58.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

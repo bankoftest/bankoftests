@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当驶近火车路时，
+   :keywords: 安大略省驾驶知识, 火车轨道, 停车规则, 安全距离
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当驶近火车路时，
+================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q39" class="quiz">
+       <div class="option" id="q39-A" onclick="selectOption('q39', 'A', false)">
+           A. 停车在距离路轨最少1.5公尺（5呎）
+       </div>
+       <div class="option" id="q39-B" onclick="selectOption('q39', 'B', false)">
+           B. 加速尽快驶过火车路
+       </div>
+       <div class="option" id="q39-C" onclick="selectOption('q39', 'C', true)">
+           C. 停车在距离路轨最少5公尺（15呎）
+       </div>
+       <div class="option" id="q39-D" onclick="selectOption('q39', 'D', false)">
+           D. 注意红灯后快速通过
+       </div>
+       <p id="q39-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶者在火车轨道前应停车，距离轨道至少5公尺（15呎）以确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q38.html" class="button">|prev_question|</a>
+       <span class="page-indicator">39 / 105</span>
+       <a href="q40.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

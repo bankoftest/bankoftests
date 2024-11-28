@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: At night when you meet another vehicle with blinding bright lights, the safest thing to do is:
+   :keywords: night driving, bright lights, Ontario road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At night when you meet another vehicle with blinding bright lights, the safest thing to do is:
+============================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q70" class="quiz">
+       <div class="option" id="q70-A" onclick="selectOption('q70', 'A', false)">
+           A. Open and shut your eyes rapidly
+       </div>
+       <div class="option" id="q70-B" onclick="selectOption('q70', 'B', false)">
+           B. Look at the headlights of the approaching vehicle
+       </div>
+       <div class="option" id="q70-C" onclick="selectOption('q70', 'C', false)">
+           C. Turn your high beam lights on
+       </div>
+       <div class="option" id="q70-D" onclick="selectOption('q70', 'D', true)">
+           D. Look slightly to the right-hand side
+       </div>
+       <p id="q70-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Looking slightly to the right avoids glare and helps maintain visibility of the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q69.html" class="button">|prev_question|</a>
+       <span class="page-indicator">70 / 106</span>
+       <a href="q71.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

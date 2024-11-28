@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Except when you intend to overtake and pass another vehicle or when you intend to make a left turn, you should:
+   :keywords: lane rules, passing, Ontario driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Except when you intend to overtake and pass another vehicle or when you intend to make a left turn, you should:
+==============================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q73" class="quiz">
+       <div class="option" id="q73-A" onclick="selectOption('q73', 'A', false)">
+           A. Drive in the center of the roadway
+       </div>
+       <div class="option" id="q73-B" onclick="selectOption('q73', 'B', true)">
+           B. Always keep well to the right
+       </div>
+       <div class="option" id="q73-C" onclick="selectOption('q73', 'C', false)">
+           C. Drive on the shoulder of the highway
+       </div>
+       <div class="option" id="q73-D" onclick="selectOption('q73', 'D', false)">
+           D. Always keep well to the left
+       </div>
+       <p id="q73-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Staying in the right lane except for passing or turning reduces traffic congestion and improves safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q72.html" class="button">|prev_question|</a>
+       <span class="page-indicator">73 / 106</span>
+       <a href="q74.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

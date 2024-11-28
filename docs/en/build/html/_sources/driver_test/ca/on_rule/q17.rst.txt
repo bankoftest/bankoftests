@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A person whose driver's license is under suspension, may:
+   :keywords: suspended license, driving rules, legal restrictions
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A person whose driver's license is under suspension, may:
+==================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q17" class="quiz">
+       <div class="option" id="q17-A" onclick="selectOption('q17', 'A', false)">
+           A. Operate a motor vehicle in a case of extreme emergency
+       </div>
+       <div class="option" id="q17-B" onclick="selectOption('q17', 'B', false)">
+           B. Operate a motor vehicle to and from work
+       </div>
+       <div class="option" id="q17-C" onclick="selectOption('q17', 'C', false)">
+           C. Operate a motor vehicle when accompanied by a licensed driver
+       </div>
+       <div class="option" id="q17-D" onclick="selectOption('q17', 'D', true)">
+           D. Not operate a motor vehicle under any conditions
+       </div>
+       <p id="q17-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving under a suspended license is illegal under all circumstances to ensure road safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q16.html" class="button">|prev_question|</a>
+       <span class="page-indicator">17 / 106</span>
+       <a href="q18.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

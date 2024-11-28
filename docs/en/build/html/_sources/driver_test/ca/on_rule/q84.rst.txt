@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: As a level one or level two driver, if you collect nine or more points during a two-year period, your licence will be suspended for:
+   :keywords: new driver, demerit points, licence suspension
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+As a level one or level two driver, if you collect nine or more points during a two-year period, your licence will be suspended for:
+========================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q84" class="quiz">
+       <div class="option" id="q84-A" onclick="selectOption('q84', 'A', true)">
+           A. 60 days
+       </div>
+       <div class="option" id="q84-B" onclick="selectOption('q84', 'B', false)">
+           B. 30 days
+       </div>
+       <div class="option" id="q84-C" onclick="selectOption('q84', 'C', false)">
+           C. 1 year
+       </div>
+       <div class="option" id="q84-D" onclick="selectOption('q84', 'D', false)">
+           D. 15 days
+       </div>
+       <p id="q84-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   New drivers must follow strict rules, and accumulating 9 or more demerit points results in a 60-day suspension to encourage safe driving.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q83.html" class="button">|prev_question|</a>
+       <span class="page-indicator">84 / 106</span>
+       <a href="q85.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

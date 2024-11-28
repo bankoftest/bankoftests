@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# run ./build_zh.sh
+
 # Step 0: Generate requirements.txt
 echo "Generating requirements.txt..."
 pip3 freeze > requirements.txt

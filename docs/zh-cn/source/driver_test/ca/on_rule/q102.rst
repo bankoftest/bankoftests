@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果你是19岁或以下青年驾驶者,刚在6个月内考取G2牌照
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你是19岁或以下青年驾驶者,刚在6个月内考取G2牌照
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q102" class="quiz">
+       <div class="option" id="q102-A" onclick="selectOption('q102', 'A', false)">
+           A. 3个在19岁或以下的乘客
+       </div>
+       <div class="option" id="q102-B" onclick="selectOption('q102', 'B', false)">
+           B. 不能有乘客在19岁或以下
+       </div>
+       <div class="option" id="q102-C" onclick="selectOption('q102', 'C', true)">
+           C. 1个在19岁或以下的乘客
+       </div>
+       <div class="option" id="q102-D" onclick="selectOption('q102', 'D', false)">
+           D. 以上都不正确
+       </div>
+       <p id="q102-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q101.html" class="button">|prev_question|</a>
+       <span class="page-indicator">102 / 105</span>
+       <a href="q103.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

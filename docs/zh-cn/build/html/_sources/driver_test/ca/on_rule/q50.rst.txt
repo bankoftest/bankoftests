@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当驾驶人的过失记录达到十五点或以上时，执照将受暂停：
+   :keywords: 违规点, 自动停牌, 驾驶法规, 安大略省
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当驾驶人的过失记录达到十五点或以上时，执照将受暂停：
+====================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q50" class="quiz">
+       <div class="option" id="q50-A" onclick="selectOption('q50', 'A', true)">
+           A. 自动停牌，从退回执照起停牌三十天
+       </div>
+       <div class="option" id="q50-B" onclick="selectOption('q50', 'B', false)">
+           B. 由交通部再审查
+       </div>
+       <div class="option" id="q50-C" onclick="selectOption('q50', 'C', false)">
+           C. 如执照不是作商业用途
+       </div>
+       <div class="option" id="q50-D" onclick="selectOption('q50', 'D', false)">
+           D. 三个月
+       </div>
+       <p id="q50-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   当违规点达到15点时，执照会被自动暂停30天。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q49.html" class="button">|prev_question|</a>
+       <span class="page-indicator">50 / 105</span>
+       <a href="q51.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当汽车驶下斜坡时，最安全的方法是：
+   :keywords: 下坡驾驶, 低档位, 制动技巧, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当汽车驶下斜坡时，最安全的方法是：
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q66" class="quiz">
+       <div class="option" id="q66-A" onclick="selectOption('q66', 'A', true)">
+           A. 用低波行驶及利用机器帮助煞掣
+       </div>
+       <div class="option" id="q66-B" onclick="selectOption('q66', 'B', false)">
+           B. 扭熄汽车机器
+       </div>
+       <div class="option" id="q66-C" onclick="selectOption('q66', 'C', false)">
+           C. 用中波行驶
+       </div>
+       <div class="option" id="q66-D" onclick="selectOption('q66', 'D', false)">
+           D. 解脱汽车离合器，使车溜下
+       </div>
+       <p id="q66-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   使用低档位和发动机制动是下坡驾驶中最安全的方法，可以有效控制速度。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q65.html" class="button">|prev_question|</a>
+       <span class="page-indicator">66 / 105</span>
+       <a href="q67.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

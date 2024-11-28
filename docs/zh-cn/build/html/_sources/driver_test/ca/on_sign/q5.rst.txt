@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通标志篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 这个标志表示：
+   :keywords: 加拿大安省驾照笔试, 加拿大安省驾照考试, 加拿大安省驾照理论考试,  G1驾照笔试, 交通标志, 交通标志考试, 交通标志理论考试，多伦多驾照笔试，多伦多驾照考试，多伦多驾照理论考试，多伦多G1驾照笔试
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+这个标志表示：
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/5.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q5" class="quiz">
+       <div class="option" id="q5-A" onclick="selectOption('q5', 'A', true)">
+           A. 停牌在前
+       </div>
+       <div class="option" id="q5-B" onclick="selectOption('q5', 'B', false)">
+           B. 让有优先权者先行
+       </div>
+       <div class="option" id="q5-C" onclick="selectOption('q5', 'C', false)">
+           C. 前面是路的尽头
+       </div>
+       <div class="option" id="q5-D" onclick="selectOption('q5', 'D', false)">
+           D. 慢行的车辆在前面
+       </div>
+       <p id="q5-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   死记硬背即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q4.html" class="button">|prev_question|</a>
+       <span class="page-indicator">5 / 53</span>
+       <a href="q6.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果车主没有买汽车保险，他有什么保障？
+   :keywords: 安大略省驾驶知识, 汽车保险, 事故赔偿, 法律要求
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果车主没有买汽车保险，他有什么保障？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q40" class="quiz">
+       <div class="option" id="q40-A" onclick="selectOption('q40', 'A', false)">
+           A. 一万元保险赔偿
+       </div>
+       <div class="option" id="q40-B" onclick="selectOption('q40', 'B', false)">
+           B. 二万元保险赔偿
+       </div>
+       <div class="option" id="q40-C" onclick="selectOption('q40', 'C', false)">
+           C. 三万五千元保险赔偿
+       </div>
+       <div class="option" id="q40-D" onclick="selectOption('q40', 'D', true)">
+           D. 全无保险赔偿
+       </div>
+       <p id="q40-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   法律要求所有车辆购买保险，没有保险的车辆在事故中没有任何赔偿。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q39.html" class="button">|prev_question|</a>
+       <span class="page-indicator">40 / 105</span>
+       <a href="q41.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Which of the following hand-and-arm signals is correct for slowing or stopping?
+   :keywords: hand signals, stopping, Ontario driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which of the following hand-and-arm signals is correct for slowing or stopping?
+==============================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q69" class="quiz">
+       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', false)">
+           A. Arm out and up
+       </div>
+       <div class="option" id="q69-B" onclick="selectOption('q69', 'B', false)">
+           B. Arm straight out the window
+       </div>
+       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', true)">
+           C. Arm out and down
+       </div>
+       <div class="option" id="q69-D" onclick="selectOption('q69', 'D', false)">
+           D. Circle motion
+       </div>
+       <p id="q69-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   An arm extended downward is a universal signal for slowing or stopping.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q68.html" class="button">|prev_question|</a>
+       <span class="page-indicator">69 / 106</span>
+       <a href="q70.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A flashing red signal light at an intersection means:
+   :keywords: flashing red light, intersection rules, stop sign
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A flashing red signal light at an intersection means:
+==========================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q13" class="quiz">
+       <div class="option" id="q13-A" onclick="selectOption('q13', 'A', false)">
+           A. Slow down and drive with increased caution
+       </div>
+       <div class="option" id="q13-B" onclick="selectOption('q13', 'B', false)">
+           B. Slow down and if necessary yield right-of-way to cars approaching from the left or right
+       </div>
+       <div class="option" id="q13-C" onclick="selectOption('q13', 'C', false)">
+           C. Signal light is out of order, proceed with caution
+       </div>
+       <div class="option" id="q13-D" onclick="selectOption('q13', 'D', true)">
+           D. Stop, proceed only when it is safe to do so
+       </div>
+       <p id="q13-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A flashing red light acts as a stop sign, requiring a complete stop before proceeding safely.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q12.html" class="button">|prev_question|</a>
+       <span class="page-indicator">13 / 106</span>
+       <a href="q14.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

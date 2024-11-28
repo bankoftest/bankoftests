@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通标志篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 这个标志表示：
+   :keywords: 加拿大安省驾照笔试, 加拿大安省驾照考试, 加拿大安省驾照理论考试,  G1驾照笔试, 交通标志, 交通标志考试, 交通标志理论考试，多伦多驾照笔试，多伦多驾照考试，多伦多驾照理论考试，多伦多G1驾照笔试
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+这个标志表示：
+==============
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/53.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q53" class="quiz">
+       <div class="option" id="q53-A" onclick="selectOption('q53', 'A', true)">
+           A. 在班马线30公尺内不准超越其他车辆
+       </div>
+       <div class="option" id="q53-B" onclick="selectOption('q53', 'B', false)">
+           B. 学校地区
+       </div>
+       <div class="option" id="q53-C" onclick="selectOption('q53', 'C', false)">
+           C. 不平路面在前
+       </div>
+       <div class="option" id="q53-D" onclick="selectOption('q53', 'D', false)">
+           D. 修路工程地带
+       </div>
+       <p id="q53-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   死记硬背即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q52.html" class="button">|prev_question|</a>
+       <span class="page-indicator">53 / 53</span>
+   </div>
+   </div>
+
+   </div>

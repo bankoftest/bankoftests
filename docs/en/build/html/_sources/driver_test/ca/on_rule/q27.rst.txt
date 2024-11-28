@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Every accident must be reported to the police where there is personal injury or when the damage exceeds:
+   :keywords: accident reporting, damage threshold, Ontario traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Every accident must be reported to the police where there is personal injury or when the damage exceeds:
+================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q27" class="quiz">
+       <div class="option" id="q27-A" onclick="selectOption('q27', 'A', false)">
+           A. $100
+       </div>
+       <div class="option" id="q27-B" onclick="selectOption('q27', 'B', false)">
+           B. $150
+       </div>
+       <div class="option" id="q27-C" onclick="selectOption('q27', 'C', false)">
+           C. $1500
+       </div>
+       <div class="option" id="q27-D" onclick="selectOption('q27', 'D', true)">
+           D. $2000
+       </div>
+       <p id="q27-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Reporting accidents ensures that injuries and significant damages are properly documented and addressed.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q26.html" class="button">|prev_question|</a>
+       <span class="page-indicator">27 / 106</span>
+       <a href="q28.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

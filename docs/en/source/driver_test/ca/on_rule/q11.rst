@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: In what position on roadway must you be before making a left turn from a one-way traffic street?
+   :keywords: left turn, one-way street, road positioning
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In what position on roadway must you be before making a left turn from a one-way traffic street?
+================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q11" class="quiz">
+       <div class="option" id="q11-A" onclick="selectOption('q11', 'A', false)">
+           A. Close to the right-hand side of the roadway
+       </div>
+       <div class="option" id="q11-B" onclick="selectOption('q11', 'B', false)">
+           B. Close to the center line of the roadway
+       </div>
+       <div class="option" id="q11-C" onclick="selectOption('q11', 'C', true)">
+           C. Close to the left side of the roadway
+       </div>
+       <div class="option" id="q11-D" onclick="selectOption('q11', 'D', false)">
+           D. Does not matter provided you signal
+       </div>
+       <p id="q11-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When turning left on a one-way street, staying near the left side ensures a smooth and safe turn.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q10.html" class="button">|prev_question|</a>
+       <span class="page-indicator">11 / 106</span>
+       <a href="q12.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

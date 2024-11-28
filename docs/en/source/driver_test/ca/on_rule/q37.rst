@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Under which of the following conditions is it dangerous and unlawful to make a 'U' turn?
+   :keywords: U-turn restrictions, traffic safety, Ontario rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Under which of the following conditions is it dangerous and unlawful to make a 'U' turn?
+================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q37" class="quiz">
+       <div class="option" id="q37-A" onclick="selectOption('q37', 'A', false)">
+           A. Upon a curve or on a hill where there is a clear view of less than 150 m (500 ft.) in either direction
+       </div>
+       <div class="option" id="q37-B" onclick="selectOption('q37', 'B', false)">
+           B. On a railway crossing or within 30 m (100 ft.) of a railway crossing
+       </div>
+       <div class="option" id="q37-C" onclick="selectOption('q37', 'C', false)">
+           C. Within 150 m (500 ft.) of a bridge, viaduct, or tunnel if the driver's view is obstructed
+       </div>
+       <div class="option" id="q37-D" onclick="selectOption('q37', 'D', true)">
+           D. Under all of the above conditions
+       </div>
+       <p id="q37-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   These conditions create significant safety risks, making 'U' turns both dangerous and illegal.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q36.html" class="button">|prev_question|</a>
+       <span class="page-indicator">37 / 106</span>
+       <a href="q38.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

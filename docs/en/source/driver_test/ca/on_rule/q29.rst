@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If a traffic signal changes while a pedestrian is still in the street, which of the following has the right-of-way?
+   :keywords: pedestrian right-of-way, traffic signals, crossing rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If a traffic signal changes while a pedestrian is still in the street, which of the following has the right-of-way?
+======================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q29" class="quiz">
+       <div class="option" id="q29-A" onclick="selectOption('q29', 'A', false)">
+           A. Motorists making turns
+       </div>
+       <div class="option" id="q29-B" onclick="selectOption('q29', 'B', true)">
+           B. The pedestrian
+       </div>
+       <div class="option" id="q29-C" onclick="selectOption('q29', 'C', false)">
+           C. Motorists coming from his right
+       </div>
+       <div class="option" id="q29-D" onclick="selectOption('q29', 'D', false)">
+           D. Motorists coming from his left
+       </div>
+       <p id="q29-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Pedestrians always have the right-of-way when crossing legally, even if the traffic signal changes.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q28.html" class="button">|prev_question|</a>
+       <span class="page-indicator">29 / 106</span>
+       <a href="q30.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

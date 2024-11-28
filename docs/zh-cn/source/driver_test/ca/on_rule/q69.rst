@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 以下哪一种手势讯号是表示慢驶或停车？
+   :keywords: 手势信号, 减速停车, 驾驶手势, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+以下哪一种手势讯号是表示慢驶或停车？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q69" class="quiz">
+       <div class="option" id="q69-A" onclick="selectOption('q69', 'A', false)">
+           A. 手臂伸出向上
+       </div>
+       <div class="option" id="q69-B" onclick="selectOption('q69', 'B', false)">
+           B. 手臂伸直向窗外
+       </div>
+       <div class="option" id="q69-C" onclick="selectOption('q69', 'C', true)">
+           C. 手臂伸出向下
+       </div>
+       <div class="option" id="q69-D" onclick="selectOption('q69', 'D', false)">
+           D. 转圆圈的动作
+       </div>
+       <p id="q69-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   手臂向下伸出是国际公认的减速或停车手势信号。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q68.html" class="button">|prev_question|</a>
+       <span class="page-indicator">69 / 105</span>
+       <a href="q70.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

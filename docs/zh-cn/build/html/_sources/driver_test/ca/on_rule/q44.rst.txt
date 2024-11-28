@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你驶近十字路口，正亮着红色交通灯，而警察打手势指挥你通过，你应：
+   :keywords: 交通灯, 警察指挥, 优先规则, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你驶近十字路口，正亮着红色交通灯，而警察打手势指挥你通过，你应：
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q44" class="quiz">
+       <div class="option" id="q44-A" onclick="selectOption('q44', 'A', false)">
+           A. 等候绿灯
+       </div>
+       <div class="option" id="q44-B" onclick="selectOption('q44', 'B', true)">
+           B. 服从警察的指挥，立即通过
+       </div>
+       <div class="option" id="q44-C" onclick="selectOption('q44', 'C', false)">
+           C. 让警察知道当时亮着红灯
+       </div>
+       <div class="option" id="q44-D" onclick="selectOption('q44', 'D', false)">
+           D. 停下来，确定他要你通过
+       </div>
+       <p id="q44-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在有警察指挥的情况下，警察的手势优先于交通信号灯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q43.html" class="button">|prev_question|</a>
+       <span class="page-indicator">44 / 105</span>
+       <a href="q45.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

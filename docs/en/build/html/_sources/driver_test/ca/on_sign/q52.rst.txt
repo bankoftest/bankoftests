@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/52.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q52" class="quiz">
+       <div class="option" id="q52-A" onclick="selectOption('q52', 'A', false)">
+           A. It is a warning sign
+       </div>
+       <div class="option" id="q52-B" onclick="selectOption('q52', 'B', true)">
+           B. During school hours when the yellow lights are flashing, follow the speed limit shown
+       </div>
+       <div class="option" id="q52-C" onclick="selectOption('q52', 'C', false)">
+           C. Watch for cross guard only
+       </div>
+       <div class="option" id="q52-D" onclick="selectOption('q52', 'D', false)">
+           D. Watch for children only
+       </div>
+       <p id="q52-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q51.html" class="button">|prev_question|</a>
+       <span class="page-indicator">52 / 53</span>
+       <a href="q53.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

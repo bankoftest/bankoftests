@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在什么情形下可将驾驶执照借给他人？
+   :keywords: 驾驶执照, 驾驶执照借用, 安大略省驾驶法规, 个人文件
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在什么情形下可将驾驶执照借给他人？
+==================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q43" class="quiz">
+       <div class="option" id="q43-A" onclick="selectOption('q43', 'A', true)">
+           A. 永远不可
+       </div>
+       <div class="option" id="q43-B" onclick="selectOption('q43', 'B', false)">
+           B. 可以借给正在学车者
+       </div>
+       <div class="option" id="q43-C" onclick="selectOption('q43', 'C', false)">
+           C. 只可作表明身份用
+       </div>
+       <div class="option" id="q43-D" onclick="selectOption('q43', 'D', false)">
+           D. 在紧急时
+       </div>
+       <p id="q43-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶执照是个人专属文件，任何情况下都不可借出。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q42.html" class="button">|prev_question|</a>
+       <span class="page-indicator">43 / 105</span>
+       <a href="q44.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

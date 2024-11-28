@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When selling a motor vehicle to another person, you, the seller, should:
+   :keywords: selling vehicle, Ontario vehicle laws, ownership transfer
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When selling a motor vehicle to another person, you, the seller, should:
+================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q52" class="quiz">
+       <div class="option" id="q52-A" onclick="selectOption('q52', 'A', false)">
+           A. Notify the ministry of the change of ownership within six days from the date of sale
+       </div>
+       <div class="option" id="q52-B" onclick="selectOption('q52', 'B', false)">
+           B. Go with the buyer to a vehicle license issuing office to carry out the change of ownership
+       </div>
+       <div class="option" id="q52-C" onclick="selectOption('q52', 'C', false)">
+           C. If selling the vehicle without a safety standards certificate, return the vehicle plates and permit, and obtain an unfit vehicle permit in the buyer's name
+       </div>
+       <div class="option" id="q52-D" onclick="selectOption('q52', 'D', true)">
+           D. All of the above
+       </div>
+       <p id="q52-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Proper vehicle sale procedures protect both the buyer and the seller and ensure legal compliance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q51.html" class="button">|prev_question|</a>
+       <span class="page-indicator">52 / 106</span>
+       <a href="q53.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

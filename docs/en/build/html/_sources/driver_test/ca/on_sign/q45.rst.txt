@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/45.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q45" class="quiz">
+       <div class="option" id="q45-A" onclick="selectOption('q45', 'A', false)">
+           A. You may exit if you remain in the right-hand lane
+       </div>
+       <div class="option" id="q45-B" onclick="selectOption('q45', 'B', false)">
+           B. You must not drive in the right-hand lane under any circumstances
+       </div>
+       <div class="option" id="q45-C" onclick="selectOption('q45', 'C', false)">
+           C. End of highway; you must move into the right-hand lane
+       </div>
+       <div class="option" id="q45-D" onclick="selectOption('q45', 'D', true)">
+           D. You must exit if you remain in the right-hand lane
+       </div>
+       <p id="q45-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q44.html" class="button">|prev_question|</a>
+       <span class="page-indicator">45 / 53</span>
+       <a href="q46.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

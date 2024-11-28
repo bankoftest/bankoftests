@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 为什么在换线时要查看盲点?
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+为什么在换线时要查看盲点?
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q100" class="quiz">
+       <div class="option" id="q100-A" onclick="selectOption('q100', 'A', false)">
+           A. 这个动作对你的颈部有益
+       </div>
+       <div class="option" id="q100-B" onclick="selectOption('q100', 'B', true)">
+           B. 无论怎样调校, 你的镜子总有些盲点
+       </div>
+       <div class="option" id="q100-C" onclick="selectOption('q100', 'C', false)">
+           C. 要看看谁是驾驶者
+       </div>
+       <div class="option" id="q100-D" onclick="selectOption('q100', 'D', false)">
+           D. 以上全部都是
+       </div>
+       <p id="q100-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q99.html" class="button">|prev_question|</a>
+       <span class="page-indicator">100 / 105</span>
+       <a href="q101.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

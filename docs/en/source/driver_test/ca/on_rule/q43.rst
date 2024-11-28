@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When may you lend your driver's license?
+   :keywords: driver's license, lending rules, Ontario laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When may you lend your driver's license?
+================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q43" class="quiz">
+       <div class="option" id="q43-A" onclick="selectOption('q43', 'A', true)">
+           A. Never
+       </div>
+       <div class="option" id="q43-B" onclick="selectOption('q43', 'B', false)">
+           B. To another person who is learning to drive
+       </div>
+       <div class="option" id="q43-C" onclick="selectOption('q43', 'C', false)">
+           C. For identification purposes only
+       </div>
+       <div class="option" id="q43-D" onclick="selectOption('q43', 'D', false)">
+           D. In emergencies
+       </div>
+       <p id="q43-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Lending your driver's license is illegal and can result in penalties.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q42.html" class="button">|prev_question|</a>
+       <span class="page-indicator">43 / 106</span>
+       <a href="q44.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

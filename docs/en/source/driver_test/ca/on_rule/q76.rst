@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What must a driver do before entering a highway from a private road or driveway?
+   :keywords: yielding rules, merging, Ontario traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What must a driver do before entering a highway from a private road or driveway?
+================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q76" class="quiz">
+       <div class="option" id="q76-A" onclick="selectOption('q76', 'A', false)">
+           A. Sound horn and proceed with caution
+       </div>
+       <div class="option" id="q76-B" onclick="selectOption('q76', 'B', false)">
+           B. Enter or cross the highway as quickly as possible
+       </div>
+       <div class="option" id="q76-C" onclick="selectOption('q76', 'C', false)">
+           C. Give hand signal then take right-of-way
+       </div>
+       <div class="option" id="q76-D" onclick="selectOption('q76', 'D', true)">
+           D. Yield right-of-way to all vehicles approaching on the highway
+       </div>
+       <p id="q76-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Yielding to traffic ensures safe merging and prevents accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q75.html" class="button">|prev_question|</a>
+       <span class="page-indicator">76 / 106</span>
+       <a href="q77.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你知道另一辆车准备驶过或超越时，你应：
+   :keywords: 超车, 驾驶安全, 路权, 安大略省驾驶规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你知道另一辆车准备驶过或超越时，你应：
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q61" class="quiz">
+       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', true)">
+           A. 驶向路的右边，让他超越
+       </div>
+       <div class="option" id="q61-B" onclick="selectOption('q61', 'B', false)">
+           B. 加速使他不能超越
+       </div>
+       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', false)">
+           C. 打灯号暗示他不要超越
+       </div>
+       <div class="option" id="q61-D" onclick="selectOption('q61', 'D', false)">
+           D. 驶向左边，阻止他超越
+       </div>
+       <p id="q61-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   法律规定，当其他车辆尝试超车时，应该靠右让路，确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q60.html" class="button">|prev_question|</a>
+       <span class="page-indicator">61 / 105</span>
+       <a href="q62.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

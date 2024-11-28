@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are a teenage driver aged 19 or under in the first six months after receiving your G2 licence, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?
+   :keywords: G2 licence, teenage driver, passenger restrictions, nighttime driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are a teenage driver aged 19 or under in the first six months after receiving your G2 licence, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?
+============================================================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q102" class="quiz">
+       <div class="option" id="q102-A" onclick="selectOption('q102', 'A', false)">
+           A. Three passengers aged 19 or under
+       </div>
+       <div class="option" id="q102-B" onclick="selectOption('q102', 'B', false)">
+           B. No passengers aged 19 or under
+       </div>
+       <div class="option" id="q102-C" onclick="selectOption('q102', 'C', true)">
+           C. One passenger aged 19 or under
+       </div>
+       <div class="option" id="q102-D" onclick="selectOption('q102', 'D', false)">
+           D. Two passengers aged 19 or under
+       </div>
+       <p id="q102-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Restrictions on the number of young passengers help reduce distractions and accidents during nighttime driving for new drivers.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q101.html" class="button">|prev_question|</a>
+       <span class="page-indicator">102 / 106</span>
+       <a href="q103.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

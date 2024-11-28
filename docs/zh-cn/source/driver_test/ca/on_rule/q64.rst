@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 除非有特别标志，在城镇、乡村或发展区以外的公路，最高的驾驶速度是：
+   :keywords: 最高限速, 公路驾驶, 驾驶法规, 安大略省
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+除非有特别标志，在城镇、乡村或发展区以外的公路，最高的驾驶速度是：
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q64" class="quiz">
+       <div class="option" id="q64-A" onclick="selectOption('q64', 'A', false)">
+           A. 每小时100公里（60哩）
+       </div>
+       <div class="option" id="q64-B" onclick="selectOption('q64', 'B', true)">
+           B. 每小时80公里（50哩）
+       </div>
+       <div class="option" id="q64-C" onclick="selectOption('q64', 'C', false)">
+           C. 每小时60公里（40哩）
+       </div>
+       <div class="option" id="q64-D" onclick="selectOption('q64', 'D', false)">
+           D. 每小时50公里（30哩）
+       </div>
+       <p id="q64-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在城镇或发展区以外，通常公路最高限速为每小时80公里，除非另有标志指明。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q63.html" class="button">|prev_question|</a>
+       <span class="page-indicator">64 / 105</span>
+       <a href="q65.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

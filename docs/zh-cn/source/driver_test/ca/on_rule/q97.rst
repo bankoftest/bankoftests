@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果你是"犯刑事法"被停牌, 而被抓驾驶, 你的汽车会被扣押多久?
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你是"犯刑事法"被停牌, 而被抓驾驶, 你的汽车会被扣押多久?
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q97" class="quiz">
+       <div class="option" id="q97-A" onclick="selectOption('q97', 'A', false)">
+           A. 1年
+       </div>
+       <div class="option" id="q97-B" onclick="selectOption('q97', 'B', false)">
+           B. 6个月
+       </div>
+       <div class="option" id="q97-C" onclick="selectOption('q97', 'C', true)">
+           C. 45天
+       </div>
+       <div class="option" id="q97-D" onclick="selectOption('q97', 'D', false)">
+           D. 30天
+       </div>
+       <p id="q97-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q96.html" class="button">|prev_question|</a>
+       <span class="page-indicator">97 / 105</span>
+       <a href="q98.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

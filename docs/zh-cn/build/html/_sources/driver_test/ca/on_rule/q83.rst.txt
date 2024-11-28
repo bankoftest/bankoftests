@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在驾驶时, 如果你失控, 车胎驶出路旁, 你应：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在驾驶时, 如果你失控, 车胎驶出路旁, 你应：
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q83" class="quiz">
+       <div class="option" id="q83-A" onclick="selectOption('q83', 'A', false)">
+           A. 紧握方向盘
+       </div>
+       <div class="option" id="q83-B" onclick="selectOption('q83', 'B', false)">
+           B. 脚离开油门使车速放慢, 避免重踏脚制
+       </div>
+       <div class="option" id="q83-C" onclick="selectOption('q83', 'C', false)">
+           C. 当车得到控制后驶回车路上
+       </div>
+       <div class="option" id="q83-D" onclick="selectOption('q83', 'D', true)">
+           D. 以上全部都是
+       </div>
+       <p id="q83-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q82.html" class="button">|prev_question|</a>
+       <span class="page-indicator">83 / 105</span>
+       <a href="q84.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

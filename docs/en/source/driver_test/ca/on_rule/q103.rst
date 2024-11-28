@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are a teenage driver, after six months with your G2 licence and until you obtain your full G licence or turn 20, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?
+   :keywords: G2 licence, teenage driver, passenger rules, driving restrictions
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are a teenage driver, after six months with your G2 licence and until you obtain your full G licence or turn 20, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?
+================================================================================================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q103" class="quiz">
+       <div class="option" id="q103-A" onclick="selectOption('q103', 'A', true)">
+           A. Three passengers aged 19 or under
+       </div>
+       <div class="option" id="q103-B" onclick="selectOption('q103', 'B', false)">
+           B. No passengers aged 19 or under
+       </div>
+       <div class="option" id="q103-C" onclick="selectOption('q103', 'C', false)">
+           C. One passenger aged 19 or under
+       </div>
+       <div class="option" id="q103-D" onclick="selectOption('q103', 'D', false)">
+           D. Two passengers aged 19 or under
+       </div>
+       <p id="q103-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Teenage drivers are allowed more passengers after six months to encourage skill development and responsible driving habits.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q102.html" class="button">|prev_question|</a>
+       <span class="page-indicator">103 / 106</span>
+       <a href="q104.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

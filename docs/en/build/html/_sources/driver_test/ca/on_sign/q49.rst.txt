@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/49.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q49" class="quiz">
+       <div class="option" id="q49-A" onclick="selectOption('q49', 'A', false)">
+           A. Highway with two express lanes
+       </div>
+       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', false)">
+           B. The two lanes ahead are closed
+       </div>
+       <div class="option" id="q49-C" onclick="selectOption('q49', 'C', true)">
+           C. Two or more passengers must be in the vehicle to use this lane on the highway (HOV lane)
+       </div>
+       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', false)">
+           D. Two lanes will merge into one
+       </div>
+       <p id="q49-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q48.html" class="button">|prev_question|</a>
+       <span class="page-indicator">49 / 53</span>
+       <a href="q50.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

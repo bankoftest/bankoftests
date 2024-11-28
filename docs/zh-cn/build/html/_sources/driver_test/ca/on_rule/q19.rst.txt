@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当两架车在大约同一时间驶到没有标志的十字路口，哪一架车有优先权？
+   :keywords: 安大略省驾驶知识, 优先权, 无标志十字路口, 交通规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当两架车在大约同一时间驶到没有标志的十字路口，哪一架车有优先权？
+================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q19" class="quiz">
+       <div class="option" id="q19-A" onclick="selectOption('q19', 'A', false)">
+           A. 从左方驶来的车辆
+       </div>
+       <div class="option" id="q19-B" onclick="selectOption('q19', 'B', true)">
+           B. 从右方驶来的车辆
+       </div>
+       <div class="option" id="q19-C" onclick="selectOption('q19', 'C', false)">
+           C. 两者都不是
+       </div>
+       <div class="option" id="q19-D" onclick="selectOption('q19', 'D', false)">
+           D. 驶得较快的车辆
+       </div>
+       <p id="q19-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在无标志的十字路口，从右侧驶来的车辆具有优先权。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q18.html" class="button">|prev_question|</a>
+       <span class="page-indicator">19 / 105</span>
+       <a href="q20.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

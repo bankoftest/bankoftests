@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Snow tires are good for:
+   :keywords: snow tires, winter driving, vehicle safety, tire types
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Snow tires are good for:
+================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q91" class="quiz">
+       <div class="option" id="q91-A" onclick="selectOption('q91', 'A', false)">
+           A. Summer driving
+       </div>
+       <div class="option" id="q91-B" onclick="selectOption('q91', 'B', false)">
+           B. All season driving
+       </div>
+       <div class="option" id="q91-C" onclick="selectOption('q91', 'C', true)">
+           C. Winter driving
+       </div>
+       <div class="option" id="q91-D" onclick="selectOption('q91', 'D', false)">
+           D. Spring and fall only
+       </div>
+       <p id="q91-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Snow tires are specifically designed for better traction and safety in winter driving conditions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q90.html" class="button">|prev_question|</a>
+       <span class="page-indicator">91 / 106</span>
+       <a href="q92.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

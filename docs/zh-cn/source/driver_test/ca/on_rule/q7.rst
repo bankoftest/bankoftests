@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当驶入高速公路时，你应该：
+   :keywords: 安大略省驾驶知识, 高速公路, 安全驾驶, 加速线, 交通流
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当驶入高速公路时，你应该：
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q7" class="quiz">
+       <div class="option" id="q7-A" onclick="selectOption('q7', 'A', false)">
+           A. 停在加速线，看准有安全的位置才尽快驶入高速公路
+       </div>
+       <div class="option" id="q7-B" onclick="selectOption('q7', 'B', true)">
+           B. 加速达到高速公路的速度，然后驶入公路交通中
+       </div>
+       <div class="option" id="q7-C" onclick="selectOption('q7', 'C', false)">
+           C. 慢车，然后用直角方向驶入高速公路
+       </div>
+       <div class="option" id="q7-D" onclick="selectOption('q7', 'D', false)">
+           D. 慢驶，随时准备停下来应付公路的交通
+       </div>
+       <p id="q7-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   进入高速公路时，应加速到与高速公路交通流相匹配的速度，并安全地融入交通。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q6.html" class="button">|prev_question|</a>
+       <span class="page-indicator">7 / 105</span>
+       <a href="q8.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -30,7 +30,23 @@ def add_images_to_questions(json_file_path, images_path):
 
 if __name__ == "__main__":
     # Update these paths as needed
-    json_file_path = "testbanks/driver_test_ca_bc_zh.json"
-    images_path = "images/driver_test/ca/bc"
+
+    dict_pair = {
+        "driver_test_ca_on_sign_zh": {
+            "json_file_path": "testbanks/driver_test_ca_on_sign_zh.json",
+            "images_path": "images/driver_test/ca/on/sign"
+        },
+        "driver_test_ca_on_sign_en": {
+            "json_file_path": "testbanks/driver_test_ca_on_sign_en.json",
+            "images_path": "images/driver_test/ca/on/sign"
+        },
+
+    }
+
+    #target_file = "driver_test_ca_on_sign_zh"
+    target_file = "driver_test_ca_on_sign_en"
+
+    json_file_path = dict_pair[target_file]["json_file_path"]
+    images_path = dict_pair[target_file]["images_path"]
 
     add_images_to_questions(json_file_path, images_path)

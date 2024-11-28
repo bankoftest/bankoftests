@@ -1,10 +1,3 @@
-# Configuration file for the Sphinx documentation builder.
-#
-# For the full list of built-in configuration values, see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
-
-# -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 import os
 import sys
 
@@ -57,13 +50,13 @@ html_js_files = ["custom.js", "language-switcher.js", "google_analytics.js"]
 html_favicon = "_static/favicon.ico"
 
 html_sidebars = {
-    "driver_test/ca/bc/**": [],
+    "driver_test/**": [],
 }
 
 # Configure theme options
 html_theme_options = {
     "secondary_sidebar_items": {
-         "driver_test/ca/bc/**": [],
+         "driver_test/**": [],
     },
     "navbar_end": ["lang-switcher"],  # Add a custom language switcher
     "footer_start": "",

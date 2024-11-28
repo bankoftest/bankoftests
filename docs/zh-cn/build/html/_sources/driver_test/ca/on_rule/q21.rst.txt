@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 法律上，在什么时候需要把车头灯开着？
+   :keywords: 安大略省驾驶知识, 车头灯, 夜间驾驶, 能见度
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+法律上，在什么时候需要把车头灯开着？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q21" class="quiz">
+       <div class="option" id="q21-A" onclick="selectOption('q21', 'A', false)">
+           A. 在日落和日出时
+       </div>
+       <div class="option" id="q21-B" onclick="selectOption('q21', 'B', false)">
+           B. 在黄昏及黎明之间和在任何时间150公尺（500呎）内看不清时
+       </div>
+       <div class="option" id="q21-C" onclick="selectOption('q21', 'C', true)">
+           C. 在日落前半小时，在日出后半小时及任何时间在150公尺（500呎）内看不清事物时
+       </div>
+       <div class="option" id="q21-D" onclick="selectOption('q21', 'D', false)">
+           D. 没有特别时间规定
+       </div>
+       <p id="q21-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   根据法律，驾驶者必须在日落前半小时至日出后半小时期间，以及能见度低于150公尺时使用车头灯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q20.html" class="button">|prev_question|</a>
+       <span class="page-indicator">21 / 105</span>
+       <a href="q22.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

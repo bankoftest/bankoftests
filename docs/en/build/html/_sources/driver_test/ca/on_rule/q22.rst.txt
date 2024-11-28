@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Are drivers responsible for their passengers buckling up?
+   :keywords: seatbelt responsibility, passengers, Ontario laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Are drivers responsible for their passengers buckling up?
+==================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q22" class="quiz">
+       <div class="option" id="q22-A" onclick="selectOption('q22', 'A', false)">
+           A. Only if passengers are over sixteen years of age
+       </div>
+       <div class="option" id="q22-B" onclick="selectOption('q22', 'B', true)">
+           B. Only if passengers are under the age of sixteen
+       </div>
+       <div class="option" id="q22-C" onclick="selectOption('q22', 'C', false)">
+           C. Only if the passengers are in the front seat
+       </div>
+       <div class="option" id="q22-D" onclick="selectOption('q22', 'D', false)">
+           D. Only if passengers are over eighteen years of age
+       </div>
+       <p id="q22-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Drivers are responsible for ensuring that passengers under 16 are buckled up as part of their duty to ensure vehicle safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q21.html" class="button">|prev_question|</a>
+       <span class="page-indicator">22 / 106</span>
+       <a href="q23.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

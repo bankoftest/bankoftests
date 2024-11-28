@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: At 15 demerit points your license is suspended. After 30 days, the number of points on the driver's record is:
+   :keywords: demerit points, driving record, Ontario traffic penalties
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+At 15 demerit points your license is suspended. After 30 days, the number of points on the driver's record is:
+============================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q51" class="quiz">
+       <div class="option" id="q51-A" onclick="selectOption('q51', 'A', true)">
+           A. Reduced to 7 points
+       </div>
+       <div class="option" id="q51-B" onclick="selectOption('q51', 'B', false)">
+           B. Reduced to 0 points
+       </div>
+       <div class="option" id="q51-C" onclick="selectOption('q51', 'C', false)">
+           C. Reduced to 5 points
+       </div>
+       <div class="option" id="q51-D" onclick="selectOption('q51', 'D', false)">
+           D. None of the above
+       </div>
+       <p id="q51-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   After suspension, points are reduced to encourage better driving while retaining a record of infractions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q50.html" class="button">|prev_question|</a>
+       <span class="page-indicator">51 / 106</span>
+       <a href="q52.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

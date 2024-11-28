@@ -1,0 +1,2137 @@
+import json
+import re
+
+def parse_input_to_json(input_text, output_file):
+    chinese_questions = []
+    english_questions = []
+
+    # Split input text by "Picture"
+    parts = input_text.split("Picture")
+    question_id = 0
+
+    def clean_line(line):
+        """Helper function to clean and normalize lines."""
+        return line.strip().replace("\u3000", "").replace("\t", "")
+
+    def remove_prefix(line):
+        """Helper function to remove prefixes like '第 9 题：' and '5. '."""
+        return re.sub(r"^(第\s*\d+\s*题：|^\d+\.\s*)", "", line).strip()
+
+    def extract_options(lines, start_index):
+        """Helper function to extract options (Chinese and English)."""
+        options_chinese = {}
+        options_english = {}
+        key_mapping = ["A", "B", "C", "D"]  # Map 1, 2, 3, 4 to A, B, C, D
+
+        for i, key in enumerate(key_mapping):
+            if start_index + i < len(lines):
+                chinese_option = clean_line(lines[start_index + i]) if (start_index + i) < len(lines) else ""
+                english_option = clean_line(lines[start_index + i + 5]) if (start_index + i + 5) < len(lines) else ""
+                
+                # Extract option text, skipping numerical prefix
+                if re.match(r"^\d+\.", chinese_option) or re.match(r"^\d+,", chinese_option):
+                    _, option_text = re.split(r"[.,]", chinese_option, maxsplit=1)
+                    options_chinese[key] = option_text.strip()
+                if re.match(r"^\d+,", english_option):
+                    _, option_text = re.split(r"[.,]", english_option, maxsplit=1)
+                    options_english[key] = option_text.strip()
+        return options_chinese, options_english
+
+    for part in parts:
+        lines = [clean_line(line) for line in part.strip().split("\n") if line.strip()]
+        if not lines:
+            continue
+
+        # Extract the answer (last line of the part)
+        answer = lines[-1] if re.match(r"^\d+$", lines[-1]) else ""
+        if answer.isdigit():
+            answer = ["A", "B", "C", "D"][int(answer) - 1]  # Convert numerical answer to A, B, C, D
+
+        # Extract Chinese question (first line after "Picture")
+        question_chinese = remove_prefix(lines[0]) if lines else ""
+        
+        # Extract English question (fifth line after Chinese options)
+        question_english_index = 5
+        question_english = remove_prefix(lines[question_english_index]) if len(lines) > question_english_index else ""
+
+        # Extract options
+        try:
+            options_chinese, options_english = extract_options(lines, 1)
+        except IndexError:
+            print(f"Warning: Skipping incomplete question at ID {question_id + 1}")
+            continue
+
+        question_id += 1
+
+        # Append to respective lists
+        chinese_questions.append({
+            "id": question_id,
+            "question": question_chinese,
+            "options": options_chinese,
+            "answer": answer
+        })
+        english_questions.append({
+            "id": question_id,
+            "question": question_english,
+            "options": options_english,
+            "answer": answer
+        })
+
+    # Combine into final JSON structure
+    output = {
+        "chinese": {"questions": chinese_questions},
+        "english": {"questions": english_questions}
+    }
+    
+    # Save JSON to file
+    with open(output_file, "w", encoding="utf-8") as file:
+        json.dump(output, file, ensure_ascii=False, indent=4)
+    
+    return output
+
+
+# Example input text
+input_text = """
+
+Picture
+第 1 题：当你到达十字路口而看到黄色的闪灯时，你一定要：  
+1. 停，如果你想转右  
+2. 保持同样的速度行驶  
+3. 停车，如果你想转左 
+4. 慢驶，然后小心前进 
+1. AT AN INTERSECTION WHERE IS FLASHING AMBER (YELLOW) TRAFFIC LIGHT, YOU MUST:
+1, STOP IF MAKING RIGHT TURN
+2, CONTINUE AT SAME SPEED
+3, STOP IF MAKING LEFT TURN
+4, SLOW DOWN AND PROCEED WITH CAUTION
+
+
+
+
+
+     
+4
+Picture
+第 2 题：当你在双线行车路上驾驶，听到紧急信号的车，法律上要求你怎样做？ 
+1. 加速，尽快离开  
+2. 打灯号，让驾驶者超越  
+3. 尽快驶向路的最右方停下   
+4. 保持同一速度行驶    
+2. WHEN ON STREETS DESIGNED FOR TWO-WAY TRAFFIC, YOU HEAR THE SIREN OF EMERGENCY VEHICLE, WHAT DOES THE LAW REQUIRE YOU TO DO?
+1, SPEED UP AND GET OUT OF THE WAY
+2, SIGNAL THE DRIVER TO PASS
+3, PULL TO THE RIGHT AS FAR AS POSSIBLE
+AND STOP
+4, CONTINUE AT SAME SPEED
+
+
+
+
+
+
+
+
+3
+Picture
+第 3 题：当需要车头灯时，在什么情况下开低灯？ 
+1. 与最接近你的车辆相距一公里（0.6哩）内 
+2. 与最接近你的车辆相距150公尺（500呎）内  
+3. 与最接近你的车辆相距300公尺（1000呎）内  
+4. 这是为安全而设，并不是法律规定     
+3. WHEN LIGHTS ARE REQUIRED, DRIVERS ARE REQUIRED TO USE LOW BEAM HEADLIGHTS?
+1, WITHIN 1 KM (0.6 MILE) OF THE APPROACH OF ANOTHER VEHICLE
+2, WITHIN 150 M (500 FT.) OF THE APPROACH OF ANOTHER VEHICLE
+3, WITHIN 300M (1000 FT.) OF THE APPROACH OF ANOTHER VEHICLE
+4, THIS IS A SAFETY PRACTICE, NOT A LAW
+
+
+
+
+
+
+
+   
+2
+Picture
+第 4 题：当你驶近“停牌”时，你应：  
+1. 慢驶，鸣笛然后前进  
+2. 慢驶，当安全才继续前进  
+3. 停车，鸣笛然后前进  
+4. 停车，当安全才前进 
+4. UPON APPROACHING A STOP SIGN, A DRIVER MUST:
+1, SLOW DOWN, SOUND HORN AND PROCEED
+2, SLOW DOWN, AND IF THE WAY IS CLEAR, PROCEED
+3, STOP, SOUND HORN, AND THEN PROCEED
+4, STOP, AND WHEN IT IS SAFE TO DO SO, PROCEED
+  
+
+
+
+
+
+4
+Picture
+第 5 题：除非有标志指明，不然在城市、市镇、乡村或发展区内最高的驾驶速度应是：  
+1. 每小时30公里（20哩）  
+2. 每小时50公里（30哩） 
+3. 每小时40公里（25哩）  
+4. 每小时60公里（35哩） 
+5. UNLESS OTHERWISE POSTED, THE MAXIMUM SPEED LIMIT ALLOWED IN CITIES, TOWN, VILLAGES AND BUILT-UP-AREA IS:
+1, 30 KM/H (20 M.P.H.)
+2, 50 KM/H (30 M.P.H.)
+3, 40 KM/H (25 M.P.H.)
+4, 60 KM/H (35 M.P.H.)
+
+
+
+
+
+    
+2
+Picture
+第 6 题：当亮红灯时，你想驶过十字路口，你一定要：  
+1. 停车，让行人有优先权，然后小心前进  
+2. 停车，当交通安全才前进  
+3. 慢驶，交通安全才前进  
+4. 停车，直至灯号转绿色，同时安全才前进   
+6. WHEN THE TRAFFIC SIGNAL LIGHT FACING YOU IS RED AND YOU INTEND TO GO STRAIGHT THROUGH THE INTERSECTION, WHAT MUST YOU DO?
+1, STOP, GIVE PEDESTRIANS THE RIGHT-OF-WAY, THEN PROCEED WITH CAUTION
+2, STOP; PROCEED WHEN THE WAY IS CLEAR
+3, SLOW DOWN; PROCEED WHEN THE WAY IS CLEAR
+4 STOP, PROCEED ONLY WHEN THE SIGNAL TURNS GREEN AND WHEN THE WAY IS CLEAR
+ 
+
+
+
+
+
+
+
+
+4
+Picture
+第 7 题：当驶入高速公路时，你应该：  
+1. 停在加速线，看准有安全的位置才尽快驶入高速公路  
+2. 加速达到高速公路的速度，然后驶入公路交通中  
+3. 慢车，然后用直角方向驶入高速公路  
+4. 慢驶，随时准备停下来应付公路的交通     
+7. WHEN ENTERING A FREEWAY YOU SHOULD:
+1, STOP ON ACCELERATION LANE, WAIT FOR AN OPENING, THEN ENTER THE FREEWAY RAPIDLY
+2, ACCELERATE QUICKLY TO FREEWAY SPEED AND MERGE WITH FREEWAY TRAFFIC
+3, SLOW DOWN, AND THEN ENTER FREEWAY AT A SHARP ANGLE
+4, DRIVE SLOWLY AND BE PREPARED TO STOP FOR FREEWAY TRAFFIC
+ 
+
+
+
+
+
+
+
+2
+Picture
+第 8 题：在公路，驾驶者不准在其汽车所拖的露营车或拖船上载有：  
+1. 枪械  
+2. 容易燃烧原料  
+3. 人（乘客）  
+4. 家畜   
+8. WHILE TRAVELLING ON A HIGHWAY, THE DRIVER OF A MOTOR VEHICLE IS NOT PERMITTED TO CARRY, IN A HOUSE OR BOAT TRAILER:
+1, FIREARMS
+2, FLAMMABLE MATERIAL
+3, PERSONS (PASSENGER)
+4, PETS
+   
+
+
+
+
+   
+3
+Picture
+第 9 题：在双程路上，你想转左之前，你应在什么位置？  
+1. 靠近路的右手边  
+2. 靠近路的左手边  
+3. 尽量在最接近中线的右边行车路上  
+4. 没有关系，只要打灯号便可       
+9. ON A ROADWAY WHERE TRAFFIC IS MOVING IN BOTH DIRECTIONS, IN WHAT POSITION MUST YOU BE BEFORE MAKING A LEFT TURN?
+1, CLOSE TO THE RIGHT-HAND SIDE OF THE ROADWAY
+2, CLOSE TO THE LEFT SIDE OF THE ROADWAY
+3, IMMEDIATELY TO THE RIGHT OF CENTER LINE OF THE ROADWAY
+4, DOES NOT MATTER PROVIDED YOU SIGNAL
+
+
+   
+
+
+     
+
+
+3
+Picture
+第 10 题：在十字路口亮绿灯时，以下谁最有优先权？  
+1. 行人不守灯号过马路  
+2. 行人遵守灯号过马路  
+3. 正在转右的车辆  
+4. 正在转左的车辆      
+10. WHICH OF THE FOLLOWING HAS THE RIGHT-OF-WAY OVER ALL OTHERS AT INTER SECTION WHEN THE SIGNAL LIGHT IS GREEN?
+1, PEDESTRIANS CROSSING AGAINST THE LIGHT
+2, PEDESTRIANS CROSSING WITH THE LIGHT
+3, VEHICLES TURNING RIGHT
+4, VEHICLES TURNING LEFT
+ 
+
+
+
+
+
+2
+Picture
+第 11 题：在单程路上你想转左之前，你应在路的什么位置？ 
+1. 靠近路的右手边  
+2. 靠近路的中线  
+3. 靠近路的左手边  
+4. 不成问题，只要你打讯号    
+11. IN WHAT POSITION ON ROADWAY MUST YOU BE BEFORE MAKING A LEFT TURN FROM A ONE-WAY TRAFFIC STREET?
+1, CLOSE TO THE RIGHT-HAND SIDE OF THE ROADWAY
+2, CLOSE TO THE CENTER LINE OF THE ROADWAY
+3, CLOSE TO THE LEFT SIDE OF THE ROADWAY
+4, DOES NOT MATTER PROVIDED YOU SIGNAL
+
+
+
+
+
+
+  
+3
+Picture
+第 12 题：当电车停下让乘客上落，当时没有安全岛，
+你想驶过电车时，法律上要你怎样做？  
+1. 停在电车后面，然后前进  
+2. 响号，同时小心驶过  
+3. 由左边驶过，当交通安全  
+4. 在电车后门2公尺（6呎）之后停车，让乘客上落，直至安全才驶过   
+12. WHEN A STREETCAR STOPS TO PICK UP OR DISCHARGE PASSENGERS, WHERE THERE IS NO SAFETY ZONE, WHAT DOES THE LAW REQUIRE YOU TO DO BEFORE PASSING THE STREETCAR?
+1, STOP BEHIND THE REAR OF THE STREETCAR AND THEN PROCEED
+2, SOUND HORN AND PASS WITH CAUTION
+3, PASS ON THE LEFT SIDE WHEN THE WAY IS CLEAR
+4, STOP 2 M (6 FT.) BEHIND REARMOST DOOR WHEEL PASSENGERS ARE GETTING ON OFF, AND PROCEED ONLY WHEN IT SAFE TO DO SO
+
+
+
+
+
+
+
+
+    
+
+    
+4
+Picture
+第 13 题：在十字路口闪着红灯，表示：  
+1. 慢驶，然后加倍小心驾驶  
+2. 慢驶，如有需要，让左右迎面的车辆有优先权  
+3. 灯号坏了，小心前进  
+4. 停车，直至安全才前进    
+13. A FLASHING RED SIGNAL LIGHT AT AN INTERSECTION MEANS?
+1, SLOW DOWN AND DRIVE WITH INCREASED CAUTION
+2, SLOW DOWN AND IF NECESSARY YIELD RIGHT-OF-WAY TO CARS APPROACHING FROM THE LEFT OR RIGHT
+3, SIGNAL LIGHT IS OUT OF ORDER, PROCEED WITH ACTION
+4, STOP PROCEED ONLY WHEN IT IS SAFE TO DO SO
+
+
+
+
+
+
+  
+
+     
+4
+Picture
+第 14 题：当红灯可以转右时，在未驶入十字路口前，法律上你应怎么做？ 
+1. 慢驶，小心前进 
+2. 停车，然后侧侧地进入交通中 
+3. 停车，打灯号，当不阻碍别地车辆及行人才转弯   
+4. 慢驶，打讯号及转弯 
+14. WHEN A RIGHT TURN AGAINST A RED SIGNAL LIGHT IS PERMITTED, WHAT DOES THE LAW REQUIRE YOU TO DO BEFORE ENTERING THE INTERSECTION AND MAKING THE TURN?
+1, SLOW DOWN, PROCEED WITH CAUTION
+2, STOP, AND THEN EDGE INTO TRAFFIC
+3, STOP, SIGNAL, MAKE THE TURN SO AS NOT TO INTERFERE WITH OTHER TRAFFIC, INCLUDING PEDESTRIANS
+4, SLOW DOWN, SIGNAL AND TURN
+
+    
+
+    
+    
+
+
+
+
+   
+3 
+
+
+
+  
+   
+Picture
+第 15 题：当你想转右时，你应驶在路的哪一条线？  
+1. 靠近路的左边  
+2. 靠近路的右边  
+3. 靠近路的中线  
+4. 不成问题，打灯便可     
+15. IN WHAT LANE OF TRAFFIC SHOULD YOU DRIVE WHEN YOU INTEND TO MAKE A RIGHT-HAND TURN?
+1, CLOSE TO THE LEFT SIDE OF THE ROADWAY
+2, CLOSE TO THE RIGHT-HAND SIDE OF THE ROADWAY
+3, CLOSE TO THE CENTER LINE OF THE ROADWAY
+4, DOES NOT MATTER PROVIDED YOU SIGNAL
+
+
+    
+
+    
+
+
+2
+Picture
+第 16 题：当到达十字路口，绿灯刚转黄灯，你应怎样做？  
+1. 停车，如果停车是危险的，前进要加倍小心  
+2. 加速，并尽快驶过十字路口  
+3. 继续驶过十字路口，不用慢驶或停下来  
+4. 响号，并警告行人和别的驾驶者，使他们知道你不会停车  
+16. IF THE SIGNAL LIGHT CHANGES FROM GREEN TO AMBER AS YOU APPROACH AN INTERSECTION WHAT SHOULD YOU DO?
+1, STOP IF STOP CANNOT BE MADE SAFELY PROCEED WITH CAUTION
+2, SPEED UP CLEAR THE INTERSECTION AS QUICKLY AS POSSIBLE
+3, CONTINUE THROUGH INTERSECTION WITHOUT SLOWING OR STOPPING
+4, SOUND HORN WARM PEDESTRIANS AND OTHER DRIVES THAT YOU DO NOT INTEND TO STOP
+
+
+
+
+
+
+
+    
+
+    
+1
+Picture
+第 17 题：某人的驾驶执照被吊销后. 他.....  
+1. 在非常紧急时，可以驾驶  
+2. 返工及放工时才准驾驶  
+3. 在有车牌的人陪同下才可驾驶  
+4. 在任何情况下都不准驾驶   
+17. A PERSON WHOSE DRIVER'S LICENSE IS UNDER SUSPENSION, MAY
+1, OPERATE A MOTOR VEHICLE IN A CASE OF EXTREME EMERGENCY
+2, OPERATE A MOTOR VEHICLE TO AND FROM WORK
+3, OPERATE A MOTOR VEHICLE WHEN ACCOMPANIED BY A LICENSED DRIVER
+4, NOT OPERATE A MOTOR VEHICLE UNDER ANY CONDITIONS
+
+
+
+
+
+
+
+   
+4
+Picture
+第 18 题：在安大略省，是有安全带法例
+1.对
+2.不对
+3.只是在公路上驾驶时
+4.只是在市区内驾驶时   
+18. IN ONTARIO, THERE IS A SEAT BELT LAW
+1, YES
+2, NO
+3, ONLY WHEN DRIVING ON OPEN HIGHWAY
+4, ONLY WHEN DRIVING WITHIN A MUNICIPALITY
+ 
+
+
+
+
+1    
+Picture
+第 19 题：当两架车在大约同一时间驶到没有标志的十字路口，哪一架车有优先权？  
+1. 从左方驶来的车辆  
+2. 从右方驶来的车辆  
+3. 两者都不是  
+4. 驶得较快的车辆  
+19. WHEN TWO CARS REACH AN UNCONTROLLED INTERSECTION AT APPROXIMATELY THE SAME TIME THE RIGHT-OF-WAY SHOULD BE GIVEN TO :
+1, THE ONE APPROACHING FROM THE LEFT
+2, THE ONE APPROACHING FROM THE RIGHT
+3, NEITHER ONE
+4, THE ONE MOVING FASTER
+
+
+
+
+
+    
+2
+Picture
+第 20 题：在安全的情况下，可从别的车辆右方超越：  
+1. 任何街道及公路都准许  
+2. 如果可能在路旁驶过是准许的  
+3. 无论在什么情况下都不准许  
+4. 是准许的，当街道及公路有两条或以上同一方向的行车线 
+20. WHEN IT IS SAFE TO DO SO, PASSING OTHER VEHICLES ON THE RIGHT SIDE
+1, IS PERMITTED ON ANY STREET OR HIGHWAY
+2, IS PERMITTED PROVIDING IT IS POSSIBLE TO DO SO BY DRIVING ON THE SHOULDER OF THE ROAD
+3, IS NOT PERMITTED UNDER ANY CIRCUMSTANCES
+4, IS PERMITTED WHEN THE STREET OR HIGHWAY HAS TWO OR MORE LANES FOR TRAFFIC IN THE DIRECTION YOU ARE TRAVELLING
+   
+
+
+
+
+
+
+
+4
+Picture
+第 21 题：法律上，在什么时候需要把车头灯开着？  
+1. 在日落和日出时  
+2. 在黄昏及黎明之间和在任何时间150公尺（500呎）内看不清时  
+3. 在日落前半小时，在日出后半小时及任何时间在150公尺（500呎）内看不清事物时  
+4. 没有特别时间规定    
+21. WHEN DOES THE LAW REQUIRE LIGHTS ON VEHICLES TO BE TURNED ON ?
+1, BETWEEN SUNSET AND SUNRISE
+2, BETWEEN DUSK AND DAWN AND AT ANY OTHER TIME YOU CANNOT SEE CLEARLY FOR A DISTANCE OF 150M (500 FT.)
+3, BETWEEN HALF AN HOUR BEFORE SUNSET TO HALF AN HOUR AFTER SUNRISE AND AT ANY OTHER TIME YOU CANNOT SEE CLEARLY FOR A DISTANCE OF 150 M (500 FT.)
+4, NO SPECIFIED TIME
+    
+
+
+
+
+
+
+
+
+3
+Picture
+第 22 题：驾驶者是否要负责车上乘客扣上安全带呢？ 
+1. 只是乘客在十六岁以上  
+2. 只是乘客在十六岁以下
+3. 只是乘客在前面的座位    
+4. 只是乘客在十八岁以上   
+22. ARE DRIVERS RESPONSIBLE FOR THEIR PASSENGERS BUCKLING UP?
+1, ONLY IF PASSENGERS ARE OVER SIXTEEN YEARS OF AGE
+2, ONLY IF PASSENGERS ARE UNDER THE AGE OF SIXTEEN
+3, ONLY IF THE PASSENGERS ARE IN THE FRONT SEAT
+4, ONLY IF PASSENGERS ARE OVER EIGHTEEN YEARS OF AGE
+
+
+
+
+
+    
+
+
+2
+Picture
+第 23 题：当需要开车头灯时，驾驶者必要用低灯，当跟在别的车后面  
+1. 30公尺（100呎）内  
+2. 60公尺（200呎）内  
+3. 120公尺（400呎）内  
+4. 只是当接近其他车辆时 
+23. WHEN LIGHTS ARE REQUIRED, DRIVERS MUST USE LOWER BEAM HEADLIGHTS WHEN FOLLOWING ANOTHER VEHICLE:
+1, WITHIN 30 M (100 FT.)
+2, WITHIN 60 M (200 FT.)
+3, WITHIN 120 M (400 FT.)
+4, THIS ONLY APPLIES WHEN APPROACHING ANOTHER VEHICLE
+
+
+   
+
+
+
+
+2
+Picture
+第 24 题：当驶近“让牌”时，在法例上你应怎样做？  
+1. 慢下，如有需要时停下及让路于有优先权者先行 
+2. 停，然后慢驶入交通中  
+3. 停，然后快速驶入交通中  
+4. 加速，并挤迫入交通中       
+24. UPON APPROACHING A YIELD-SIGN, WHAT DOES THE LAW REQUIRE YOU TO DO ?
+1, SLOW DOWN, STOP IF NECESSARY, AND YIELD RIGHT-OF-WAY
+2, STOP, THEN ENTER TRAFFIC SLOWLY
+3, STOP, THEN ENTER TRAFFIC QUICKLY
+4, SPEED UP AND FORCE YOUR WAY INTO TRAFFIC
+
+
+
+
+   
+  
+1
+Picture
+第 25 题：G牌人仕, 酒精在人体血液中最少佔什么份量，使你成为危险驾驶者及有罪, 立即停牌三天, 如果你是第一次 ​? 
+1. 0.03% 
+2. 0.05%  
+3. 0.08%  
+4. 1.0%   
+25. AT WHAT LEVEL OF ALCOHOL IN THE BLOOD CAN YOU BE CONVICTED OF BEING AN IMPAIRED DRIVER ?
+1, 0.03 %
+2, 0.05 %
+3, 0.08 %
+4, 1.0 %
+
+
+
+
+   
+    
+2
+Picture
+第 26题：在十字路口，亮红灯并有绿色箭头表示：  
+1. 停，先等候绿灯，然后向绿色箭头的方向转  
+2. 小心向着箭头的方向转，让路于有优先权的车辆及行人  
+3. 停车，然后前进  
+4. 绿色箭头只是给行人的讯号 
+26. WHEN A RED SIGNAL LIGHT WITH A GREEN ARROW IS SHOWN AT AN INTERSECTION IT MEANS
+1, STOP AND WAIT FOR THE GREEN LIGHT BEFORE MAKING A TURN IN THE DIRECTION OF THE ARROW
+2, PROCEED WITH CAUTION IN DIRECTION OF ARROW, YIELDING RIGHT-OF-WAY TO PEDESTRIANS AND OTHER TRAFFIC
+3, STOP AND THEN PROCEED
+4, THE GREEN ARROW IS SIGNAL FOR PEDESTRIANS ONLY
+
+
+
+
+
+
+
+
+ 
+
+
+2
+Picture
+第 27 题：一定要报警的交通意外是当有人受伤或损失超过  
+1. 一百元  
+2. 一百五十元  
+3.  一千五百元 元   
+4. 二千元  
+27. EVERY ACCIDENT MUST BE REPORTED TO THE POLICE WHERE THERE IS PERSONAL INJURY OR WHEN THE DAMAGE EXCEEDS:
+1, $100
+2, $150
+3, $1500
+4, $2000
+    
+
+
+
+
+    
+4
+Picture
+第 28 题：在十字路口，转左及转右都准许时，绿色闪灯表示：  
+1. 路上安全，你可转左  
+2. 路上安全，你可转右  
+3. 路上安全，你可直驶  
+4. 你可做任何以上的    
+28. A FLASHING GREEN LIGHT AT AN INTERSECTION, WHERE TURNS TO THE LEFT AND RIGHT ARE PERMITTED, MEANS:
+1, YOU MAY TURN TO THE LEFT IF THE WAY IS CLEAR
+2, YOU MAY TURN TO THE RIGHT THE WAY IS CLEAR
+3, YOU MAY PROCEED STRAIGHT THROUGH IF THE WAY IS CLEAR
+4, YOU MAY DO ANY OF THE ABOVE
+
+
+
+
+
+
+
+
+   
+4
+Picture
+第 29 题：如果交通灯转了，而行人仍然在过马路，以下谁有优先权 
+1. 驾驶者正在转弯  
+2. 行人  
+3. 驾驶者从右面驶来  
+4. 驾驶者从左面驶来  
+29. IF A TRAFFIC SIGNAL CHANGES WHILE A PEDESTRIAN IS STILL IN THE STREET, WHICH OF THE FOLLOWING HAS THE RIGHT-OF-WAY?
+1, MOTORISTS MAKING TURNS
+2, THE PEDESTRIAN
+3, MOTORISTS COMING FROM HIS RIGHT
+4, MOTORISTS COMING FROM HIS LEFT
+
+
+
+
+
+    
+2
+Picture
+第 30 题：如果你被控醉酒行车，第一次会被罚停牌多久？  
+1. 一个月  
+2. 三个月  
+3. 六个月  
+4. 一年  
+30. IF YOU ARE CONVICTED OF DRINKING AND DRIVING, YOU WILL LOSE YOUR DRIVER'S LICENCE ON THE FIRST OFFENCE FOR :
+1, I MONTH
+2, 3 MONTHS
+3, 6 MONTHS
+4, 1 YEAR
+
+
+
+
+
+  
+4 
+Picture
+第 31 题：在车上装有蓝色闪灯是表示：  
+1. 车内装有爆炸品 
+2. 铲雪的车辆  
+3. 救伤车  
+4. 有紧急事的警车       
+31. A FLASHING BLUE LIGHT MOUNTED ON MOTOR VEHICLE INDICATES :
+1, A MOTOR VEHICLE CARRYING EXPLOSIVES
+2, SNOW REMOVAL EQUIPMENT
+3, AN AMBULANCE
+4, A POLICE EMERGENCY VEHICLE
+
+   
+
+
+
+    
+2
+Picture
+第 32题：如果你置身于交通意外，而当时有人受伤，你一定要：  
+1. 立即报告意外于最近的省警察或当地警察  
+2. 在四十八小时内报告意外于最近的省警察或当地警察  
+3. 只是报告意外向你的保险公司  
+4. 只是报告意外事件给交通部      
+32. IF YOU ARE INVOLVED IN AN ACCIDENT IN WHICH SOMEONE IS INJURED YOU MUST:
+1, REPORT THE ACCIDENT AT ONCE TO THE NEAREST PROVINCIAL OR MUNICIPAL POLICE OFFICER
+2, REPORT THE ACCIDENT WITHIN 48 HOURS TO THE NEAREST PROVINCIAL OR MUNICIPAL POLICE OFFICER
+3, REPORT THE ACCIDENT TO YOUR INSURANCE ONLY
+4, REPORT THE ACCIDENT TO THE MINISTRY OF TRANSPORTATION AND COMMUNICATIONS ONLY
+
+
+
+
+
+
+
+
+
+
+1
+Picture
+第 33 题：在离开城市，镇或乡村的高速公路同一方向行驶，除超越外，
+跟在商业汽车后面应保持什么距离？  
+1. 30公尺（100呎）  
+2. 60公尺（200呎）  
+3. 120公尺（400呎）  
+4. 150公尺（500呎）  
+33. EXCEPT WHEN PASSING, WHAT DISTANCE MUST BE MAINTAINED BETWEEN COMMERCIAL VEHICLES TRAVELING IN THE SAME DIRECTION ON THE HIGHWAY OUTSIDE A CITY, TOWN OR VILLAGE?
+1, 30 M (100 FT.)
+2, 60 M (200 FT.)
+3, 120 M (400 FT.)
+4, 150 M (500 FT.)
+
+
+
+
+
+
+
+
+2
+Picture
+第 34 题：持有驾驶执照而需要转姓名或地址，他需要在什么时间内通知交通部？ 
+1. 六天之内  
+2. 十五天之内  
+3. 三十天之内  
+4. 在换新牌前任何时间都可  
+34. HOW SOON AFTER A LICENSED DRIVER CHANGES HIS/HER NAME OR ADDRESS, IS HE/SHE REQUIRED TO NOTIFY THE MINISTRY OF TRANSPORTATION AND COMMUNICATIONS?
+1, WITHIN 6 DAYS
+2, WITHIN 15 DAYS
+3, WITHIN 30 DAYS
+4, AT ANY TIME PRIOR TO RENEWAL OF LICENCE 
+   
+
+
+
+
+
+
+1
+Picture
+第 35 题：如果你置身在一件交通意外，而一定要报警，在什么时间内，你要报告给最近你的省警察或当地警察?  
+1. 立刻  
+2. 在二十四小时之内  
+3. 在四十八小时之内  
+4. 在七十二小时内  
+35. IF YOU ARE INVOLVED IN A REPORTABLE
+ACCIDENT HOW SOON MUST YOU MAKE A REPORT TO YOUR NEAREST PROVINCIAL OR MUNICIPAL POLICE OFFICER?
+1, AT ONCE
+2, WITHIN 24 HOURS
+3, WITHIN 48 HOURS
+4, WITHIN 72 HOURS
+   
+
+
+
+
+
+
+1
+Picture
+第 36 题：当货车在高速公路上不能开动时，照明器或反光器一定要放在货车的前面或后面多远呢？  
+1. 15公尺（50呎）  
+2. 30公尺（100呎）  
+3. 40公尺（200呎） 
+4. 90公尺（300呎）  
+36. WHEN A TRUCK BECOMES DISABLED ON THE HIGHWAY, WHERE THE SPEED LIMIT IS IN EXCESS OF 60 KM/H FLARES OR REFLECTORS MUST BE PLACED APPROXIMATELY WHAT DISTANCE AHEAD OF AND TO THE REAR OF THIS DISABLED VEHICLE?
+1, 15 M (50 FT.)
+2, 30 M 9100 FT.)
+3, 60 M (200 FT.)
+4, 90 M (300 FT.)
+
+
+
+
+
+
+
+   
+  
+2
+Picture
+第 37 题：以下什么情形下“u”转是危险和不合法的：  
+1. 在弯路或在斜坡，视力从两方向150公尺（500呎）内看不清楚时  
+2. 在火车路上或火车路30公尺（100呎）之内  
+3. 在桥、高架公路或隧道中150公尺（500呎）内，视力受阻碍时  
+4. 以上所有的情形都包括在内     
+37. UNDER WHICH OF THE FOLLOWING CONDITIONS IS IT DANGEROUS AND UNLAWFUL TO MAKE A "U" TURN?
+1, UPON A CURVE OR ON A HILL WHERE THERE IS A CLEAR VIEW OF LESS THAN 150 M (500 FT.) IN EITHER DIRECTION
+2, ON A RAILWAY CROSSING OR WITHIN 30 M (100 FT.) OF A RAILWAY CROSSING
+3, WITHIN 150 M (500 FT.) OF A BRIDGE, VIADUCT OR TUNNEL IF DRIVER'S VIEW IS OBSTRUCTED
+4, UNDER ALL OF ABOVE CONDITIONS
+
+
+
+
+
+
+
+
+   
+
+   
+4
+Picture
+第 38 题：驾驶者被停牌，而被控再次驾驶，他应受什么责罚？  
+1. 罚款一干至伍千元或入狱六个月或两样都罚  
+2. 将汽车扣留最少45天 
+3. 再加多六个月不准驾驶的权利  
+4. 以上任何一点或全部         
+38. TO WHAT PENALTIES IS A DRIVER LIABLE WHO IS CONVICTED OF DRIVING WHILE SUSPENDED:
+1, A FINE OF $1,000-$5000 OR IMPRISONMENT FOR SIX MONTHS OR BOTH
+2, IMPOUNDMENT OF THE MOTOR VEHICLE BEING OPERATED FOR A MINIMUM OF 45 DAYS
+3, AN ADDITIONAL 6-MONTH PERIOD OF SUSPENSION OF DRIVING PRIVILEGE
+4, ANY OR ALL OF THE ABOVE
+
+
+
+
+
+
+
+  
+
+4
+Picture
+第 39 题：当驶近火车路时，
+看到有电动式的机械讯号或有人拿着旗号警告有火车来时，你应：  
+1. 停车在距离路轨最少1.5公尺（5呎）  
+2. 加速尽快驶过火车路  
+3. 停车在距离路轨最少5公尺（15呎）  
+4. 慢驶，小心前进 
+39. WHEN APPROACHING A RAILWAY CROSSING AT WHICH AN ELECTRICAL OR MECHANICAL SIGNAL DEVICE IS WARNING OF THE APPROACH OF A TRAIN YOU MUST:
+1, STOP NOT LESS THAN 1.5 M (5 RT.) FROM THE NEAREST RAIL
+2, INCREASE SPEED AND CROSS TRACKS AS QUICKLY AS POSSIBLE
+3, STOP NOT LESS THAN 5 M (1.5 FT.) FROM THE NEAREST RAIL
+4, SLOW DOWN AND PROCEED WITH CAUTION
+
+
+
+
+
+
+
+
+
+
+3
+Picture
+第 40 题：如果车主没有买汽车保险，他有什么保障？ 
+1. 一万元保险赔偿  
+2. 二万元保险赔偿  
+3. 三万五千元保险赔偿  
+4. 全无保险赔偿  
+40. WHAT INSURANCE PROTECTION DOES THE OWNER GET WHO PAYS THE UNINSURED MOTOR VEHICLE FEE?
+1, $ 10.000 INSURANCE COVERAGE
+2, $ 20.000 INSURANCE COVERAGE
+3, $ 35.000 INSURANCE COVERAGE
+4, NO INSURANCE PROTECTION WHATEVER
+
+
+
+
+
+
+    
+4
+Picture
+第 41 题：在什么情形下，驾驶执照会被取消？  
+1. 没有去重考  
+2. 持有改过的执照  
+3. 重考而不合格  
+4. 以上任何情形或全部都是       
+41. UNDER WHAT CIRCUMSTANCES MAY A DRIVER'S LICENCE BC CANCELLED?
+1, FOR FAILURE TO ATTEND FOR RE-EXAMINATION
+2, FOR POSSESSION OF AN ALTERED DRIVER'S LICENCE
+3, FOR FAILURE TO SATISFACTORILY COMPLETE A DRIVER RE-EXAMINATION
+4, ANY OR ALL OF ABOVE
+
+
+
+
+
+
+
+  
+4
+Picture
+第 42 题：警察有权要求车主拿出什么文件：  
+1. 如汽车有买保险——保险纸  
+2. 汽车车主证  
+3. 如只是汽车驾驶者——有效驾驶执照  
+4. 以上任何一项都是   
+42. WHAT DOCUMENTS MAY A POLICE OFFICER REQUIRE A MOTOR VEHICLE OWNER TO PRODUCE?
+1, IF THE MOTOR VEHICLE IS INSURED-A LIABILITY INSURANCE CARD
+2, THE MOTOR VEHICLE OWNERSHIP
+3, IF HE/SHE IS OPERATING A MOTOR VEHICLE-A VALID DRIVER'S LICENCE
+4, ANY OF THE ABOVE
+
+
+
+
+
+
+
+
+4
+Picture
+第 43 题：在什么情形下可将驾驶执照借给他人？  
+1. 永远不可 
+2. 可以借给正在学车者  
+3. 只可作表明身份用  
+4. 在紧急时    
+43. WHEN MAY YOU LEND YOUR DRIVER'S LICENCE?
+1, NEVER
+2, TO ANOTHER PERSON WHO LEARNING TO DRIVE
+3, FOR IDENTIFICATION PURPOSES ONLY
+4, IN EMERGENCIES
+
+
+
+
+ 
+1
+Picture
+第 44 题：当你驶近十字路口，正亮着红色交通灯，而警察打手势指挥你通过，你应：  
+1. 等候绿灯  
+2. 服从警察的指挥，立即通过  
+3. 让警察知道当时亮着红灯  
+4. 停下来，确定他要你通过     
+44. WHEN APPROACHING AN INTERSECTION WHERE A TRAFFIC SIGNAL LIGHT IS RED AND A POLICEMAN MOTIONS YOU TO GO THROUGH, YOU SHOULD
+1, WAIT FOR THE LIGHT TO TURN
+2, OBEY THE POLICEMAN'S SIGNAL AND THROUGH AT ONCE
+3, CALL THE POLICEMAN'S ATTENTION TO THE RED LIGHT
+4, STOP TO MAKE SURE HE/SHE WANTS YOU TO GO THROUGH 
+
+
+
+
+
+
+
+
+
+    
+2
+Picture
+第 45 题：驾驶者犯上开快车，比限制时速超过五十公里（三十哩）或以上时，
+法庭会将怎样处罚呢？  
+1. 停牌六个月  
+2. 停牌三十天  
+3. 扣留汽车六个月  
+4. 驾驶者入狱六个月  
+45. WHICH OF THE FOLLOWING PENALTIES CAN THE COURT IMPOSE ON A PERSON CONVICTED OF DRIVING 50 KM/H (30 M.P.H.?) OR MORE OVER THE SPEED LIMIT /H
+1, SUSPENSION OF LICENCE FOR 6 MONTHS
+2, SUSPENSION OF LICENCE FOR 30 DAYS
+3, IMPOUNDMENT OF MOTOR VEHICLE FOR MONTHS
+4, IMPRISONMENT OF PERSON FOR 6 MONTHS
+
+
+
+
+
+
+
+
+2
+Picture
+第 46 题：当你接近十字路口时，发觉十字路口前面交通很挤迫，你应： 
+1. 贴着前面的车辆行驶  
+2. 慢慢驶入十字路口，直至前面交通畅通后才前进  
+3. 停在十字路口之前，等待前面交通畅通后才前进  
+4. 响号警告前面车辆前进   
+46. WHEN APPROACHING AN INTERSECTION AND YOU NOTICE THE ROADWAY BEYOND THE INTERSECTION IS BLOCKED WITH TRAFFIC, YOU SHOULD:
+1, KEEP AS CLOSE AS POSSIBLE TO THE CAR AHEAD
+2, PROCEED SLOWLY INTO THE INTERSECTION UNTIL THE TRAFFIC AHEAD MOVES ON
+3, STOP BEFORE ENTERING THE INTERSECTION AND WAIT UNTIL TRAFFIC AHEAD MOVES ON
+4, SOUND HORN TO WARN CARS AHEAD TO MOVE ON
+  
+
+
+
+
+
+
+
+
+
+3
+Picture
+第 47 题：一辆“校车”闪红灯停在中间没有栏杆或障碍物的高速公路中，
+无论你是迎面而来或从后面超越，法律要求你：  
+1. 没有关系，只要你响号  
+2. 停车，直至校车前进或红灯已不再闪  
+3. 等待接近的车辆驶过  
+4. 减低速度，同时小心驶过       
+47. A "SCHOOL BUS" , WITH RED SIGNAL LIGHTS FLASHING , STOPS ON A HIGHWAY THAT HAS NO MEDIAN STRIP. WHAT DOES THE LAW REQUIRE YOU TO DO WHEN MEETING OR OVERTAKING THE BUS ?
+1, DOES NOT MATTER PROVIDED YOU SOUND HORN
+2, STOP UNTIL THE BUS PROCEEDS OR THE SIGNAL LIGHTS ARE NO LONGER FLASHING
+3, WAIT FOR APPROACHING VEHICLES TO PASS
+4, REDUCE SPEED AND PASS WITH CARE
+ 
+
+
+
+
+
+
+
+
+  
+2
+Picture
+第 48 题：驾驶人可能需要被接见问话或重考驾驶技术：  
+1. 当驾驶过失而被记下的分数达到九点  
+2. 当驾驶过失而被记下的分数达到三点  
+3. 当驾驶过失而被记下的分数达到六点  
+4. 当驾驶过失而被记下的分数达到十五点     
+48. A DRIVER MAY BE REQUIRED TO ATTEND AN INTERVIEW AND RE-EXAMINATION OF HIS DRIVING ABILITY:
+1, WHEN 9 DEMERIT POINTS HAVE BEEN ACCUMULATED
+2, WHEN 3 DEMERIT POINTS HAVE BEEN ACCUMULATED
+3, WHEN 6 DEMERIT POINTS HAVE BEEN
+4, WHEN 15 DEMERIT POINTS HAVE BEEN
+
+
+
+
+
+
+
+
+1
+Picture
+第 49 题：当驾驶过失达到九点时，被接见问话后，交通部可能暂停驾驶人执照：  
+1. 当驾驶人不能提出充分的理由反对停用执照原因
+2. 当驾驶人没有五年的驾驶经验  
+3. 如驾驶人的执照不是作商业用途  
+4. 驾驶过失除非达到十五, 点交通部是不能暂停执照的    
+49. THE MINISTRY OF TRANSPORTATION AND COMMUNICATIONS MAY SUSPEND A LICENCE AFTER A 9 DEMERIT POINT INTERVIEW:
+1, IF A DRIVER FAILS TO GIVE SATISFACTORY REASONS WHY THEIR LICENCE SHOULD NOT BE SUSPENDED
+2, IF THE LICENCE IS NOT NEEDED FOR BUSINESS REASONS
+4, THE MINISTRY IS NOT PERMITTED TO SUSPEND A LICENCE BEFORE THE 15-POINT LEVEL IS REACHED
+
+
+
+
+
+
+
+
+
+1
+Picture
+第 50 题：当驾驶人的过失记录达到十五点或以上时，执照将受暂停：  
+1. 自动停牌，从退回执照起停牌三十天  
+2. 由交通部再审查  
+3. 如执照不是作商业用途  
+4. 三个月      
+50. WHEN 15 OR MORE DEMERIT POINTS HAVE ACCUMULATED ON A RECORD THE DRIVER'S LICENCE IS SUSPENDED:
+1, AUTOMATICALLY, AND FOR 30 DAYS FROM RECEIPT OF LICENCE
+2, AT THE DISCRETION OF THE MINISTRY
+3, ONLY IF THE LICENCE IS NOT USED FOR BUSINESS PURPOSES
+4, FOR 3 MONTHS
+
+
+
+
+
+
+
+  
+1
+Picture
+第 51 题：当过失点达到十五分时，牌照要吊销三十天恢复驾驶后的分数，将会  
+1. 减到七分  
+2. 减到0分  
+3. 减到五分  
+4. 以上全不是       
+51. AT 15 DEMERIT POINTS YOUR LICENCE IS SUSPENDED, AFTER 30 DAYS, THE NUMBER OF POINTS ON THE DRIVER'S RECORD IS:
+1, REDUCED TO 7 POINTS
+2, REDUCED TO 0 POINTS
+3, REDUCED TO 5 POINTS
+4, NONE OF THE ABOVE
+
+
+
+
+  
+
+1
+Picture
+第 52 题：卖汽车给别人，卖车者应该：  
+1. 在卖车后六日内通知交通部及改车主姓名  
+2. 和买车者到换牌处登记更换新车主姓名  
+3. 如汽车没有“安全合格证”应交还车牌及车证给换牌处，而用卖车者的名下取得“汽车未合格证”  
+4. 以上所有情形都是   
+52. WHEN SELLING A MOTOR VEHICLE TO ANOTHER PERSON, YOU, THE SELLER, SHOULD:
+1, NOTIFY THE MINISTRY OF THE CHANG OF OWNERSHIP WITHIN SIX DAYS DATE OF SALE
+2, GO WITH THE BUYER TO A VEHICLE LICENCE ISSUING OFFICE TO CARRY OUT THE CHANGE OF OWNERSHIP
+3, IF SELLING THE VEHICLE WITHOUT A SAFETY STANDARDS CERTIFICATE, YOU MUST RETURN THE VEHICLE LICENCE PLATES AND MOTOR VEHICLE PERMIT TO A VEHICLE LICENCE-ISSUING OFFICE AND OBTAIN AN UNFIT VEHICLE PERMIT IN THE BUYER'S NAME
+4, ALL OF THE ABOVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+Picture
+第 53 题：你应保持一种速度行车，无论在任何情况下，你也能：  
+1. 在90公尺（300呎）内停车  
+2. 在60公尺（200呎）内停车  
+3. 在一个安全距离内停车  
+4. 在150公尺（500呎）内停车    
+53. YOU SHOULD, UNDER ALL CONDITION, DRIVE AT A SPEED WHICH WILL ALLOW YOU TO:
+1, STOP WITHIN 90 METERS (300 FEET)
+2, STOP WITHIN 60 METERS (200 FEET)
+3, STOP WITHIN A SAFE DISTANCE
+4, STOP WITHIN 150 METERS (500 FEET)
+
+
+
+
+    
+3
+Picture
+第 54 题：不能随时换线除非先：  
+1. 发出正确灯号及肯定安全才能转线  
+2. 减慢速度及打出正确灯号  
+3. 只看倒后镜  
+4. 响喇叭及望后面  
+54. NEVER CHANGE LANES IN TRAFFIC WITHOUT:
+1, GIVING PROPER SIGNAL AND LOOKING TO MAKE SURE THE MOVE CAN BE MADE SAFELY
+2, DECREASING SPEED AND GIVING CORRECT SIGNAL
+3, LOOKING INTO THE REAR VIEW MIRROR ONLY
+4, BLOWING YOUR HORN AND LOOKING TO THE REAR
+
+
+
+
+
+  
+
+ 1
+Picture
+第 55 题：法律规定泊车距离救火喉多远才是合法的： 
+1. 3公尺（10呎） 
+2. 4.5公尺（15呎）  
+3. 1.5公尺（5呎）  
+4. 6公尺（20呎）       
+55. HOW CLOSE TO A FIRE HYDRANT MAY YOU LEGALLY PARK?
+1, 3 METERS (10 FT.)
+2, 4.5 METERS(15 FT.)
+3, 105 METERS (5 FT.)
+4, 6 METERS (20 FT.)
+ 
+
+
+
+  
+1
+Picture
+第 56 题：大多数汽车滑胎的原因是： 
+1. 车胎汽不够 
+2. 车胎太多汽  
+3. 路上有雪或冰  
+4. 驾驶速度太快    
+56. MOST AUTOMOBILE SKIDS ARE THE RESULT OF:
+1, UNDER-INFLATED TIRES
+2, OVER- INFLATED TIRES
+3, SNOW OR ICE ON THE ROAD
+4, DRIVING TOO FAST
+
+
+
+   
+4
+Picture
+第 57 题：在什么时候可用泊车灯？  
+1. 什么时候都可以用  
+2. 在泊车时用  
+3. 在大雾中驾驶时用  
+4. 在光线充足的街道上驾驶时用  
+57. PARKING LIGHTS MAY BE USED:
+1, AT ANY TIME
+2, FOR PARKING ONLY
+3, WHEN DRIVING IN HEAVY FOG
+4, WHEN DRIVING AN WELL LIGHTED STREET
+
+
+
+  
+ 2
+Picture
+第 58 题：在湿滑或结冰的路上快速停车的最好方法是：  
+1. 在脚制上一踏一放的方法，直至车辆完全停下来 
+2. 把脚离开脚制，使车自动停下  
+3. 大力踏在脚制上，预防车辆滑行  
+4. 像你平时一样方法踏脚制       
+58. THE BEST WAY TO STOP QUICKLY ON A WET OR ICY ROADWAY IS TO:
+1, PUMP THE BRAKE UNTIL YOU COME TO A STOP
+2, KEEP FOOT OFF BRAKE AND LET COMPRESSION STOP
+3, STEP ON BRAKES HARD AND TRY TO PREVENT VEHICLE FROM SKIDDING
+4, APPLY BRAKES THE SAME WAY YOU ALWAYS DO 
+
+
+
+
+
+
+   
+1
+Picture
+第 59 题：在大雾中行驶，你应用：  
+1. 泊车灯  
+2. 低灯  
+3. 泊车灯及高灯  
+4. 高灯      
+59. WHEN DRIVING IN HEAVY FOG, YOU SHOULD USE:
+1, PARKING LIGHTS
+2, LOW BEAM HEADLIGHTS
+3, PARKING LIGHTS AND HIGH BEAM HEADLIGHTS
+4, HIGH BEAM HEADLIGHTS 
+ 
+
+
+
+
+2
+Picture
+第 60 题：当你泊车在向下的斜坡在你离开车之前，你应：  
+1. 扭直前胎与路边平行  
+2. 扭前胎向左，并拉紧手掣  
+3. 只是拉紧手掣  
+4. 扭前胎向右，并拉紧手掣   
+60. BEFORE LEAVING YOUR CAR PARKED ON A DOWNGRADE, YOU SHOULD:
+1, LEAVE YOUR FRONT WHEELS PARALLEL TO THE CURB
+2, TURN YOUR FRONT WHEELS TO THE LEFT AND SET YOU’RE PARKING BRAKE
+3, SET YOUR PARKING BRAKE ONLY
+4, TUN YOUR FRONT WHEELS TO THE RIGHT AND SET YOUR PARKING BRAKE
+
+
+
+
+
+
+  
+
+4
+Picture
+第 61 题：当你知道另一辆车准备驶过或超越时，你应： 
+1. 驶向路的右边，让他超越  
+2. 加速使他不能超越  
+3. 打灯号暗示他不要超越  
+4. 驶向左边，阻止他超越      
+61. WHEN THE DRIVER OF ANOTHER VEHICLE IS ABOUT TO OVERTAKE AND PASS YOUR VEHICLE YOU MUST:
+1, MOVE TO THE RIGHT AND ALLOW SUCH VEHICLE TO PASS
+2, SPEED UP SO THAT PASSING IS NOT NECESSARY
+3, SIGNAL THE OTHER DRIVER NOT TO PASS
+4, MORE TO THE LEFT TO PREVENT PASSING
+  
+
+
+
+
+
+
+1
+Picture
+第 62 题：当你右边车胎驶入路边泥地，哪一个是最好的方法让车驶回路面： 
+1. 大力把方向盘扭去左边  
+2. 踏脚制并大力把方向盘扭去左边  
+3. 脚离开油门，让车辆慢下来时才驶回路面  
+4. 踏脚制以减慢速度   
+62. SHOULD YOUR RIGHT WHEELS DROP OFF THE ROADWAY, WHAT IS THE BEST WAY TO GET BACK ON THE ROADWAY?
+1, STEER HARD TO LEFT
+2, APPLY BRAKES AND STEER HARD TO THE LEFT
+3, TAKE FOOT OFF GAS PEDAL, TURN BACK WHEN VEHICLE HAS SLOWED
+4, APPLY BRAKES TO REDUCE SPEED
+
+
+
+
+
+
+    
+3
+Picture
+第 63 题：当你驾驶每小时50公里（30哩）应该和前面车辆最少保持多远才安全：  
+1. 七个车位的距离  
+2. 三个车位的距离  
+3. 一个车位的距离  
+4. 五个车位的距离 
+63. YOU ARE REQUIRED TO KEEP A SAFE DISTANCE BEHIND THE VEHICLE IN FRONT OF YOU AT 50 KILOMETERS (30 MILES) AN HOUR, YOU SHOULD KEEP AT LEAST:
+1, SEVEN CAR LENGTHS BEHIND THE OTHER VEHICLE
+2, THREE CAR LENGTHS BEHIND THE OTHER VEHICLE
+3, ONE CAR LENGTHS BEHIND THE OTHER VEHICLE
+4, FIVE CAR LENGTHS BEHIND THE OTHER VEHICLE
+
+
+
+
+
+
+
+2
+Picture
+第 64 题：除非有特别标志，在城镇、乡村或发展区以外的公路，最高的驾驶速度是：  
+1. 每小时100公里（60哩）  
+2. 每小时80公里（50哩）  
+3. 每小时60公里（40哩）  
+4. 每小时50公里（30哩） 
+64. UNLESS OTHERWISE POSTED, THE MAXIMUM SPEED LIMIT ON THE HIGHWAY OUTSIDE OF A CITY, TOWN, VILLAGE OR BUILT-UP AREA IS:
+1, 100 KILOMETERS (60 MILES) AN HOUR
+2, 80 KILOMETERS (50 MILES) AN HOUR
+3, 60 KILOMETERS (40 MILES) AN HOUR
+4, 50 KILOMETERS (30 MILES) AN HOUR
+
+
+
+
+
+
+   
+2
+Picture
+第 65 题：当你把车驶出路边停车位 前，你应：  
+1. 看交通情形，打灯号及立即驶离路边  
+2. 响号然后慢慢从路边驶出  
+3. 看清楚交通情形，打灯号，当安全的时候才从路边驶出  
+4. 打灯号，然后驶出路边   
+65. BEFORE MOVING YOUR CAR FORM A PARKED POSITION, YOU SHOULD:
+1, CHECK OTHER TRAFFIC, SIGNAL AND PULL FROM CURB QUICKLY
+2, HONK YOUR HORN AND PULL FROM CURB SLOWLY
+3, CHECK OTHER TRAFFIC, SIGNAL AND PULL FORM CURB WHEN IT IS SAFE TO DO SO
+4, SIGNAL AND PULL FROM CURD
+
+
+
+
+
+
+
+
+3
+Picture
+第 66 题：当汽车驶下斜坡时，最安全的方法是：  
+1. 用低波行驶及利用机器帮助煞掣  
+2. 扭熄汽车机器  
+3. 用中波行驶  
+4. 解脱汽车离合器，使车溜下       
+66. WHEN DESCENDING A STEEP HILL GOOD SAFE-DRIVING PRACTICE IS TO:
+1, GEAR DOWN AND USE MOTOR TO ASSIST IN BRAKING
+2, TURN OFF THE IGNITION
+3, PLACE THE GEAR SHIFT IN NEUTRAL
+4, DISENGAGE THE CLUTCH AND COAST
+
+
+
+
+
+ 
+1
+Picture
+第 67题：夜间在快速公路行驶时，你必须用低灯，当你：  
+1. 接近十字路口 
+2. 遇到迎面有车来或跟在别的车辆后时  
+3. 当其他车辆用低灯  
+4. 遇到迎面车辆的车头灯，使你看不清楚  
+67. WHEN DRIVING A MOTOR VEHICLE ON THE HIGHWAY AT NIGHT, YOU SHOULD USE LOW BEAM HEADLIGHTS (DIM LIGHTS) WHEN:
+1, APPROACHING AN INTERSECTION
+2, MEETING OR FOLLOWING ANOTHER VEHICLE
+3, ANOTHER DRIVER DIMS HIS LIGHTS
+4, BLINDED BY THE HEADLIGHTS OF AN APPROACHING VEHICLE
+
+
+
+
+
+
+   
+2
+Picture
+第 68 题：在夜间以最高限制速度行驶比日间更危险，因为：  
+1. 一些非法驾驶者只用泊车灯行驶  
+2. 在夜间，你不能看得前面很远  
+3. 在夜间，路面更容易湿滑  
+4. 你的反应在夜间会较慢       
+68. IT IS MORE DANGEROUS TO DRIVE AT THE MAXIMUM SPEED LIMIT ST NIGHT THAN DURING DAY-TIME BECAUSE:
+1, SOME DRIVERS UNLAWFULLY DRIVE WITH PARKING LIGHTS ONLY
+2, YOU CANNOT SEE AS FAR AHEAD AT NIGHT
+3, THE ROADWAY ARE MORE APT TO BE SLIPPERY AT NIGHT
+4, YOUR REACTION TIME IS SLOWER AT NIGHT 
+
+
+
+
+
+
+
+    
+2
+Picture
+第 69 题：以下哪一种手势讯号是表示慢驶或停车？ 
+1. 手臂伸出向上  
+2. 手臂伸直向窗外  
+3. 手臂伸出向下  
+4. 转圆圈的动作  
+69. WHICH OF THE FOLLOWING HAND-AND-ARM SIGNALS IS CORRECT FOR SLOWING OR STOPPING?
+1, ARM OUT AND UP
+2, ARM STRAIGHT OUT THE WINDOW
+3, ARM OUT AND DOWN
+4, CIRCLE MOTION
+
+3
+Picture
+第 70 题：在夜间行驶，当你遇到迎面车辆车灯很强烈耀眼，使你看不清楚，最安全的方法是：  
+1. 迅速的将眼睛一张一合  
+2. 看着迎面车辆的车头灯  
+3. 把车灯转用高灯  
+4. 把视线稍为望向路的右手边   
+70. AT NIGHT WHEN YOU MEET ANOTHER VEHICLE WITH BLINDING BRIGHT LIGHTS, THE SAFEST THING TO DO IS:
+1, OPEN AND SHUT YOUR EYES RAPIDLY
+2, LOOK AT THE HEADLIGHTS OF THE APPROACHING VEHICLE
+3, TURN YOUR HIGH BEAM LIGHTS ON
+4, LOOK SLIGHTLY TO THE RIGHT HAND SIDE
+
+
+
+
+
+
+    
+4
+Picture
+第 71 题：当车辆停下来让行人过斑马线时，你应：  
+1. 从左面超越停下的车  
+2. 响号指挥停车的驾驶者向前行驶  
+3. 从右面超越停下的车  
+4. 不能超越任何車輛, 停下来让行人过马路      
+71. WHEN A CAR STOPS TO ALLOW A PEDESTRIAN TO CROSS THE STREET AT MARKED CROSSWALK, YOU SHOULD:
+1, PASS THE STOPPED CAR ON THE LEFT
+2, SOUND HORN FOR THE DRIVER OF THE STOPPED CAR TO DRIVE ON
+3, PASS THE STOPPED CAR TO THE RIGHT
+4, NOT PASS ANY CAR STOPPED TO ALLOW A PEDESTRIAN TO CROSS
+
+
+
+
+
+
+
+ 
+4
+Picture
+第 72 题：路的中间有虛线是代表： 
+1. 不能超越 
+2. 可以超越，当交通安全时  
+3. 随时可以超越 
+4. 在日间才可以超越         
+72. THE BROKEN CENTER LINE ON A ROADWAY MEANS YOU MAY:
+1, NEVER PASS
+2, PASS IF THE WAY IS CLEAR
+3, PASS AT ANY TIME
+4, PASS ONLY DURING DAYLIGHT HOURS
+
+
+
+
+    
+2
+Picture
+第 73 题：除非你打算扒过及超越另一辆车，或想转左，否则你应： 
+1. 驾驶在路的中间  
+2. 时时靠路的右面行驶  
+3. 在公路的路肩上行驶  
+4. 时时靠路的左边行驶      
+73. EXCEPT WHEN YOU INTEND TO OVERTAKE AND PASS ANOTHER VEHICLE OR WHEN YOU INTEND TO MAKE A LEFT TURN, YOU SHOULD:
+1, DRIVE IN THE CENTER OF THE ROADWAY
+2, ALWAYS KEEP WELL TO THE RIGHT
+3, DRIVE ON THE SHOULDER OF THE HIGHWAY
+4, ALWAYS KEEP WELL TO THE LEFT
+
+
+
+
+
+   
+2
+Picture
+第 74 题：当你决定“U转”与否之前，你首先应查看：  
+1. 当 时有没有不准" U" 转的路牌
+2. 有没有树，救火喉，或路边灯柱  
+3. 你的汽车转弯的范围内  
+4. 路边的高度    
+74. WHEN YOU ARE DECIDING WHETHER OR NOT TO MAKE A U TURN, YOUR FIRST CONSIDERATION SHOULD BE TO CHECK:
+1, THERE IS NO SIGN SAYING NOT TO
+2, PRESENCE OF TREES, FIRE HYDRANTS OR POLES NEAR THE CURB
+3, TURNING RADIUS OF YOUR CAR
+4, HEIGHT OF CURB
+
+
+
+
+
+
+   
+1
+Picture
+第 75 题：路的中间，有一实线，有一虚线，而你靠近实线，实线的意思是：  
+1. 扒头或超越是不安全的  
+2. 没有车辆时才可以超越  
+3. 扒头及超越是安全的  
+4. 随时都可以超越  
+75. A SOLID CENTER LINE ON THE ROADWAY IS ON YOUR SIDE OF A BROKEN CENTER LINE, WHAT DOES THE SOLID CENTER LINE MEAN?
+1. IT IS UNSAFE TO OVERTAKE AND PASS
+2, PASS ONLY WHEN NO TRAFFIC IS IN SIGHT
+3, IT IS SAFE TO OVERTAKE AND PASS
+4, PASS AT ANY TINE
+
+
+
+
+   
+  
+1
+Picture
+第 76 题：由私家路驶入公路之前，驾驶者应：
+1.响号并小心前进
+2.尽快驶入或横过公路
+3.打手势及取优先权先行
+4.让所有驶近公路的车辆有优先权  
+76. WHAT MUST A DRIVER DO BEFORE ENTERING A HIGHWAY FROM A PRIVATE ROAD OR DRIVEWAY?
+1, SOUND HORN AND PROCEED WITH CAUTION
+2, ENTER OR CROSS THE HIGHWAY AS QUICKLY AS POSSIBLE
+3, GIVE HAND SIGNAL THEN TAKE RIGHT-OF-WAY
+4, YIELD RIGHT-OF-WAY TO ALL VEHICLES APPROACHING ON THE HIGHWAY
+
+
+
+
+
+
+ 
+4
+Picture
+第 77 题：当驾驶时你其中一个车胎突然爆胎,你应:
+1.集中注意在方向盘
+2.脚离开油门使车速减慢
+3.使汽车停下在路旁
+4.以上全部都是  
+77. IF YOU ARE DRIVING AND SUDDENLY ONE OF YOUR TIRES BLOWS OUT, YOU SHOULD:
+1, CONCENTRATE ON STEERING
+2, TAKE YOUR FOOT OFF THE GAS PEDAL TO DOWN
+3, BRING THE VEHICLE TO A STOP OFF THE ROAD
+4, ALL OF THE ABOVE
+
+
+
+
+    
+4
+Picture
+第 78 题：当电车停站让乘客上落,当时是一个安全岛, 在法律上你应怎样做：
+1.小心驶过
+2.停在安全岛后最小2公尺
+3.响号小心驶过
+4.在电车的左面驶过 
+78. WHEN A STREETCAR STOP TO PICK UP OR DISCHARGE PASSENGERS AND THERE IS A SAFETY ISLAND, WHAT DOES THE LAW REQUIRE YOU TO DO?
+1, PASS WITH CAUTION
+2, STOP AT LEAST 2 METERS BEHIND THE SAFETY ISLAND
+3, SOUND HORN AND PASS WITH CAUTION
+4, PASS ON THE LEFT SIDE OF THE STREETCAR
+
+
+
+
+
+
+  
+1
+Picture
+第 79 题：如果你驶近十字路口而交通灯坏了,你应：
+1.让右面交通先行
+2.停,直到无车时才驶过
+3.处理像四面停牌一样
+4.减慢小心驶过  
+79. IF YOU ARE APPROACHING AN INTERSECTION AND TRAFFIC LIGHTS ARE NOT WORKING, YOU SHOULD:
+1, YIELD TO THE TRAFFIC TO YOUR RIGHT
+2, STOP UNTIL NO CARS ARE PASSING AND THEN GO
+3, TREAT IT AS A FOUR WAY STOP SIGN
+4, SLOW DOWN AND PROCEED WITH CAUTION
+   
+
+
+
+    
+
+ 3
+Picture
+第 80 题：当校巴停下,上落乘客而你驶过会怎样：
+1.监禁一年
+2.扣六分及罚款高达一千元
+3.警告及罚款一百元
+4.重考路试       
+80. FAILING TO STOP FOR A SCHOOL BUS THAT IS UNLOADING PASSENGERS WILL:
+1, RESULT IN A ONE YEAR JAIL SENTENCE
+2, COST YOU 6 DEMERIT POINTS AND A FINE OF UP TO $1000
+3, GET YOU A WARNING AND A FINE OF $100
+4, RESULT IN RETAKING YOUR ROAD TEST
+  
+
+
+
+
+    
+ 2
+Picture
+第 81 题：由定罪那天起,过失点停留在你驾驶记录多久：
+1. 1年
+2. 2年
+3. 3年
+4. 5年 
+81. DEMERIT POINTS LOST WILL REMAIN ON YOUR DRIVER'S RECORD FOR A PERIOD OF? , FROM THE DATE OF OFFENCE:
+1, ONE YEAR
+2, TWO YEAR
+3, THREE YEAR
+4, FIVE YEAR
+
+
+
+
+   
+  
+2
+Picture
+第 82 题：当你的汽车滑胎时,首先怎样应付：(例如车尾滑向右边)
+1.把方向盘转向相反滑的方向
+2.把方向盘转直走
+3.大力刹停汽车
+4.把方向盘转向滑车的方向  
+82. TO GET YOUR VEHICLE OUT OF A SKID, YOU SHOULD FIRST: (E.G. IF YOU’RE REAR WHEELS SUDDENLY SLIP TO THE RIGHT)
+1, STEER IN THE OPPOSITE DIRECTION OF THE SKID
+2, STEER STRAIGHT AHEAD
+3, APPLY BRAKE HARD
+4, STEER IN THE DIRECTION OF THE SKID
+
+
+
+
+
+ 
+ 4
+Picture
+第 83 题：在驾驶时,如果你失控,车胎驶出路旁,你应：
+1.紧握方向盘
+2.脚离开油门使车速放慢,避免重踏脚制
+3.当车得到控制后驶回车路上
+4.以上全部都是     
+83. IF YOU LOSE CONTROL OF YOUR VEHICLE AND IT GOES OFF THE ROAD, YOU SHOULD:
+1, GRIP THE STEERING WHEEL FIRMLY
+2, TAKE YOUR FOOT OFF GAS PEDAL TO SLOW DOWN AND AVOID HEAVY BREAKING
+3, WHEN THE VEHICLE IS UNDER CONTROL STEER BACK TO THE ROAD
+4, ALL OF THE ABOVE
+ 
+
+
+
+
+
+   
+4
+Picture
+第 84 题：在初两年第一阶段(G1)及第二阶段(G2)驾驶者, 如你的过失点在九分或以上,你会停牌多久?
+1.60天
+2.30天
+3.一年
+4.15天 
+84. AS A LEVEL ONE OR LEVEL TWO DRIVER, IF YOU COLLECT NINE OR MORE POINTS DURING A TWO-YEAR PERIOD, YOUR LICENCE WILL BE SUSPENDED FOR?
+1, 60 DAYS
+2, 30DAYS
+3, 1YEAR
+4, 15 DAYS
+
+
+
+
+
+
+1
+Picture
+第 85 题：407高速公路是：
+1.安省最长公路
+2.是一条新公路
+3.是一条快速收费公路
+4.快速公路通去美国  
+85. HIGHWAY 407 IS:
+1. THE LONGEST HIGHWAY IN ONTARIO
+2. IS A NEW HIGHWAY
+3. IS AN EXPRESS TOLL ROUTE (PAID TOLL HIGHWAY?)
+4. AN EXPRESSWAY TO THE USA
+
+
+
+    
+    
+3
+Picture
+第 86 题：第一阶段(G1)及第二阶段(G2)驾驶者,在驾驶时体内酒精量是零,如果被捉,除刑事法外,还要停牌多久?：
+1. 30天
+2. 60天
+3. 90天
+4. 1年    
+86. LEVEL ONE AND LEVEL TWO DRIVERS MUST HAVE A BLOOD ALCOHOL LEVEL OF ZERO WHEN DRIVING. NEW DRIVERS CAUGHT DRINKING AND DRIVING WILL BE CHARGED UNDER THE CRIMINAL CODE AND WILL GET HOW MANY DAYS SUSPENSION?
+1. 30 DAYS
+2. 60 DAYS
+3. 90 DAYS
+4. 1 YEAR
+ 
+
+
+
+
+
+
+ 
+1
+Picture
+第 87 题：如果你在驾驶时手提电话响,你应怎样做：
+1.在驾驶中尽快简短地谈话
+2.用电话留言,当车停下时再查口信
+3.如果邻近没有警察就可以谈话
+4.驾驶时是不能用手提电话的 
+87. IF YOU ARE DRIVING AND YOU’RE CELLULAR PHONE RINGS, WHAT SHOULD YOU DO?
+1. PICK UP THE PHONE QUICKLY AND TALK BRIBERY WHILE DRIVING
+2. LET YOUR VOICE MAIL SERVICE TAKE THE CALL AND CHECK YOUR MESSAGES WHILE YOU ARE DRIVING
+3. ANSWER YOUR PHONE IF THERE ARE NO POLICE AROUND
+4. IN ONTARIO IT IS ILLEGAL TO TALK ON THE CELLULAR WHILE DRIVING
+ 
+
+
+
+
+
+
+
+  
+
+4
+Picture
+第 88 题：第一阶段(G1)驾驶者,你一定要有一个G牌或以上陪同驾驶,
+他的驾驶经验在几年以上：
+1. 3年
+2. 4年
+3. 8年
+4. 6年   
+88. AS A LEVEL ONE (G1) DRIVER, YOU MUST BE ACCOMPANIED BY A CLASS G OR HIGHER LICENSED DRIVER, WHO HAS THE FOLLOWING DRIVING EXPERIENCE MORE THAN:
+1. THREE YEARS
+2. FOUR YEARS
+3. EIGHT YEARS
+4. SIX YEARS
+ 
+
+
+
+
+
+    
+2
+Picture
+第 89 题：如果你驾驶时因使用手提电话发生意外：
+1.你的保险费增加
+2.你会被控诉,危险驾驶及扣六分
+3.你要停牌一年
+4.你要重考路试  
+89. IF YOU ARE INVOLVED IN AN ACCIDENT THAT WAS DUE TO YOUR USE OF A CELLULAR PHONE WHILE DRIVING:
+1. YOUR INSURANCE WILL INCREASE
+2. YOU WILL BE CHARGED WITH CARELESS DRIVING AND LOSE 6 DEMERIT POINTS
+3. YOUR LICENSE WILL BE SUSPENDED FOR ONE YEAR
+4. YOU WILL HAVE TO TAKE YOUR ROAD TEST AGAIN
+ 
+
+
+
+
+  
+
+2
+Picture
+第 90 题：如果你是第二阶段(G2)驾驶者,你要维持酒精含量在：
+1, 0.08%
+2, 0.05%
+3, 0.02%
+4, 0.00%
+
+90. AS A LEVEL TWO (G2) DRIVERS YOUR ALCOHOL LEVEL MUST NOT BE OVEN:
+1. 0.08%
+2. 0.05%
+3. 0.02%
+4. 0.00%
+ 
+
+
+
+
+ 
+ 4
+Picture
+第 91 题：雪胎什么时候用最好：
+1.在夏天驾驶
+2.在四季都可路
+3.在冬天使用
+4.在春天及秋天用 
+91, SNOW TIRES ARE GOOD FOR:
+1. SUMMER DRIVING
+2. ALL SEASON DRIVING
+3. WINTER DRIVING
+4. SPRING AND FALL ONLY
+    
+
+
+    
+3
+Picture
+第 92 题：在公路交通法规被停牌,而你是第一次被捉驾驶,刑罚是：
+1.罚款500元
+2.罚款1000到5000元
+3.坐监6个月
+4.以上全部都是  
+92, UNDER THE HIGHWAY Traffic ACT, IF YOU ARE CONVICTED OF DRIVING WHILE YOUR LICENSE IS SUSPENDED, ASSUMING IT IS YOUR crest OFFENCE, YOU WILL:
+1. RECEIVE A knee OF $500
+2. BE Ned BETWEEN $1000 TO $5000
+3. BE SENTENCED TO SIX MONTHS IN JAIL
+4. ALL OF THE ABOVE
+ 
+
+
+
+
+
+
+2
+Picture
+第 93 题：警察有权截查可疑醉酒驾驶者,如你拒绝用酒精测试器,
+你的车牌会立刻被吊销到：
+1. 30天
+2. 1年
+3. 60天
+4. 90天 
+93. THE POLICE HAVE THE RIGHT TO STOP ANY DRIVER THEY SUSPECT IS IMPAIRED. IF YOU REFUSE TO TAKE A BREATHALYZER TEST, YOUR LICENSE WILL BE SUSPENDED IMMEDIATELY FOR:
+1. 30 DAYS
+2. 1 YEAR 4
+3. 60 DAYS
+4. 90 DAYS
+ 
+
+
+
+
+
+  
+4
+Picture
+第 94 题：在两年内第一阶段(G1)及第二阶段(G2)的驾驶者, 过失分在9分或以上时,在停牌60天后过失点减到：
+1. 6分
+2. 4分
+3. 0分
+4. 2分    
+94. AS A LEVEL ONE OR LEVEL TWO DRIVERS YOU WILL HAVE YOUR LICENSE SUSPENDED IF YOU COLLECT 9 OR MORE DEMERIT POINTS DURING A TWO YEAR PERIOD. 60 DAYS AFTER SUSPENSION YOUR RECORD WILL BE REDUCED TO:
+1. 6 POINTS
+2. 4 POINTS
+3. ZERO
+4. 2 POINTS
+ 
+
+
+
+
+
+
+
+2
+Picture
+第 95 题：如果你的脚制失控：
+1.在脚制上用一踏一放方法
+2.逐渐地拉实手制
+3.手按着手制的按钮上
+4.以上全部都是 
+95. IF YOUR BRAKES FAIL:
+1. PUMP THE BRAKE PEDAL
+2. APPLY THE PARKING BRAKE GENTLY BUT GRIMLY 
+3. KEEP YOUR HAND ON THE RELEASE BUTTON (OF THE PARKING BRAKE)
+4. ALL OF THE ABOVE
+
+
+
+
+
+
+
+4
+Picture
+第 96 题：第一阶段(G1)的驾驶者,你一定不能喝酒驾驶, 而陪同的G牌陪同者酒精要少过：
+1.零度酒精
+2.百分之0.05
+3.百分之0.08
+4.百分之0.03  
+96. LEVEL ONE DRIVERS (G1) MUST KEEP THEIR BLOOD ALCOHOL LEVEL AT ZERO PERCENT AND BE ACCOMPANIED BY A CLASS G DRIVER WITH A BLOOD ALCOHOL LEVEL OF LESS THAN:
+1. 0.00%
+2. 0.05%
+3. 0.08%
+4. 0.03%
+
+
+
+
+
+
+
+2
+Picture
+第 97 题：如果你是"犯刑事法"停牌,而被捉驾驶, 你的汽车会被扣压多久?
+1. 1年
+2. 6个月
+3. 45天
+4. 30天    
+97. UNDER THE CRIMINAL CODE, IF YOU ARE CAUGHT DRIVING  WHILE YOUR LICENCE IS SUSPENDED, YOUR VEHICLE WILL BE IMPOUNDED FOR? 
+1. 1 YEAR
+2. 6 MONTHS
+3. 45 DAYS
+4. 30 DAYS
+
+
+
+
+
+
+3
+Picture
+第 98 题：如果有一辆车紧跟随你后面,你应怎样呢?：
+1.如果安全时,转去其他行车线
+2.轻微地减慢与前面车辆增远距离
+3.驶近路旁让紧跟随车超越
+4.以上全部都是   
+98. IF SOMEONE IS TAILGATING YOU WHAT SHOULD YOU DO?
+1. MOVE INTO ANOTHER LANE WHEN IT IS SAFE TO DO SO
+2. SLOW DOWN SLIGHTLY TO INCREASE THE SPACE IN FRONT OF YOUR CAR
+3. PULL OVER TO LET THE TAILGATER PASS
+4. ALL OFTHE ABOVE
+
+ 
+
+
+
+
+
+ 
+4
+Picture
+第 99 题： 如果你想超越一部摩托车,你应：
+1.在超越前响号
+2.在超越前将你的高灯开亮
+3.方法像超越其他车辆
+4.用摩托车的一半行车线    
+99. IF YOU WANT TO PASS A MOTORCYCLE, YOU SHOULD:
+1. HONK YOUR HORN BEFORE YOU PASS
+2. TURN ON YOUR HIGH-BEAM LIGHTS BEFORE YOU PASS
+3. PASS JUST AS YOU WOULD WITH ANOTHER CAR
+4. USE HALF OF THEIR LANE TO PASS
+ 
+
+
+
+
+
+3
+Picture
+第 100 题：为什么在换线时要查看盲点?
+1.这个运动是对你的颈部好
+2.无论怎样调校,你的镜子总有些盲点
+3.要看看谁是驾驶者
+4.以上全部都是     
+100. WHY IS IT NECESSARY TO CHECK OVER YOUR SHOULDER WHEN CHANGING LANES?
+1. IT IS A GOOD EXERCISE FOR YOUR NECK
+2. THERE WILL ALWAYS BE A BLIND SPOT IN YOUR MIRRORS, NO MATTER HOW YOU ADJUST THEM
+3. TO SEE WHO IS DRIVING
+4. ALL OF THE ABOVE
+
+
+
+
+
+
+ 
+2
+Picture
+第 101 题：你如果发生交通意外,在什么情况下一定要报警?
+1.损失小过六百元
+2.损失超过二​千元
+3.如有人受伤或死亡
+4.以上2及3都是对的  
+101. YOU MUST REPORT AN ACCIDENT TO THE POLICE UNDER ?
+1. THERE IS LESS THAN $600 DAMAGE
+2. THE DAMAGE IS OVER $2000
+3. IF SOMEONE HAS BEEN HURT OR KILLED
+4. 2 AND 3 ARE CORRECT
+
+
+
+
+ 
+4
+Picture
+第 102 题：果你是19歲或以下青年驾驶者,刚在6个月内考取G2牌照
+在深夜12时到早上5时,你可乘载多少乘客： 
+1. 3个在19岁或以下的乘客
+2. 不能有乘客在19岁或以下
+3. 1个在19岁或以下的乘客
+4. 2个在19岁或以下的乘客  
+102. IF YOU ARE A TEENAGE DRIVER AGED 19 OR UNDER IN THE FIRST SIX MONTHS AFTER RECEIVING YOUR G2 LICENCE, HOW MANY
+TEENAGE PASSENGERS ARE YOU ALLOWED TO CARRY BETWEEN MIDNIGHT TO 5 A.M.?
+1. 3 PASSENGERS AGED 19 OR UNDER
+2. NO PASSENGERS AGED 19 OR UNDER
+3. 1 PASSENGER AGED 19 OR UNDER
+4. 2 PASSENGERS AGED 19 OR UNDER
+ 
+
+
+
+
+
+
+
+3
+Picture
+第 103 题： 如果你是青年驾驶者,考取G2牌照超过6个月后,在没有考得G牌或未满20岁时,你可乘载多少乘客在深夜12时到早上5时：
+1. 3个在19岁或以下的乘客
+2. 不能有乘客在19岁或以下
+3. 1个在19岁或以下的乘客
+4. 2个在19岁或以下的乘客 
+103. IF YOU ARE A TEENAGE DRIVER, AFTER SIX MONTHS WITH YOUR G2 LICENCE AND UNTIL YOU OBTAIN YOUR FULL G LICENCE OR TURN 20, HOW MANY TEENAGE PASSENGERS ARE YOU ALLOWED TO CARRY BETWEEN MIDNIGHT TO 5 A.M.?
+1. 3 PASSENGERS AGED 19 OR UNDER
+2. NO PASSENGERS AGED 19 OR UNDER
+3. 1 PASSENGER AGED 19 OR UNDER
+4. 2 PASSENGERS AGED 19 OR UNDER
+ 
+
+
+
+
+
+
+
+1
+Picture
+第 104 题：青年驾驶者有些例外,
+如果有一个__ 年G牌驾驶者坐在前排或其他青年乘客都是他直属人：
+1. 2年
+2. 3年
+3. 4年
+4. 5年 
+104. THERE ARE SOME EXEMPTIONS FOR A TEENAGE G2 DRIVER, IF YOU ARE ACCOMPANIED BY A FULLY LICENSED DRIVER WITH AT LEAST-----YEARS OF DRIVING EXPERIENCE IN THE FRONT SEAT OR IF YOU’RE YOUNG PASSENGERS ARE MEMBERS OF YOUR IMMEDIATE FAMILY?
+1- 2 YEA"                 (MIDNIGHT TO 5 A.M.)
+2. 3 YEARS
+3. 4YEARS
+4. 5 YEARS
+ 
+
+
+
+
+
+
+
+ 
+3
+Picture
+第 105 题：在晚间驾驶,如车速快过你的车头灯所照到的是危险,因为： 
+1.你驶车太快
+2.你的车头灯太亮
+3.你看到时,想停也停不下来
+4.这对汽车电池是不好的 
+105. OVERDRIVING YOU’RE HEADLIGHTS AT NIGHT IS DANGEROUS BECAUSE:
+ 1. YOU ARE DRIVING TOO FAST
+2. YOUR HEADLIGHTS ARE TOO BRIGHT
+3. YOU CANNOT STOP WITHIN THE DISTANCE THAT YOU CAN SEE
+4. IT IS NOT GOOD FOR THE CAR BATTERY
+
+
+
+
+
+
+3
+"""
+
+# Parse the input and save to file
+output_file = "questions_with_answer_output.json"
+output_json = parse_input_to_json(input_text, output_file)
+
+# Notify user and print output path
+print(f"Output saved to {output_file}")

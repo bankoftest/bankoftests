@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/46.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q46" class="quiz">
+       <div class="option" id="q46-A" onclick="selectOption('q46', 'A', false)">
+           A. Policeman at intersection
+       </div>
+       <div class="option" id="q46-B" onclick="selectOption('q46', 'B', false)">
+           B. You will get a ticket if you do not obey the traffic signal
+       </div>
+       <div class="option" id="q46-C" onclick="selectOption('q46', 'C', false)">
+           C. Stop for a red light at the intersection
+       </div>
+       <div class="option" id="q46-D" onclick="selectOption('q46', 'D', true)">
+           D. Red light camera at the intersection
+       </div>
+       <p id="q46-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q45.html" class="button">|prev_question|</a>
+       <span class="page-indicator">46 / 53</span>
+       <a href="q47.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

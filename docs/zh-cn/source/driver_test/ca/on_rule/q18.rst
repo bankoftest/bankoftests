@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在安大略省，是有安全带法例：
+   :keywords: 安大略省驾驶知识, 安全带法例, 法律规定, 交通安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在安大略省，是有安全带法例：
+============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q18" class="quiz">
+       <div class="option" id="q18-A" onclick="selectOption('q18', 'A', true)">
+           A. 对
+       </div>
+       <div class="option" id="q18-B" onclick="selectOption('q18', 'B', false)">
+           B. 不对
+       </div>
+       <div class="option" id="q18-C" onclick="selectOption('q18', 'C', false)">
+           C. 只是在公路上驾驶时
+       </div>
+       <div class="option" id="q18-D" onclick="selectOption('q18', 'D', false)">
+           D. 只是在市区内驾驶时
+       </div>
+       <p id="q18-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   安大略省的法律要求所有乘客和驾驶员必须佩戴安全带。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q17.html" class="button">|prev_question|</a>
+       <span class="page-indicator">18 / 105</span>
+       <a href="q19.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

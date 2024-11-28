@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Upon approaching a stop sign, a driver must:
+   :keywords: stop sign rules, full stop, traffic safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Upon approaching a stop sign, a driver must:
+========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q4" class="quiz">
+       <div class="option" id="q4-A" onclick="selectOption('q4', 'A', false)">
+           A. Slow down, sound horn and proceed
+       </div>
+       <div class="option" id="q4-B" onclick="selectOption('q4', 'B', false)">
+           B. Slow down, and if the way is clear, proceed
+       </div>
+       <div class="option" id="q4-C" onclick="selectOption('q4', 'C', false)">
+           C. Stop, sound horn, and then proceed
+       </div>
+       <div class="option" id="q4-D" onclick="selectOption('q4', 'D', true)">
+           D. Stop, and when it is safe to do so, proceed
+       </div>
+       <p id="q4-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A stop sign mandates a full stop. Proceeding only when safe ensures compliance with traffic laws.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q3.html" class="button">|prev_question|</a>
+       <span class="page-indicator">4 / 106</span>
+       <a href="q5.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

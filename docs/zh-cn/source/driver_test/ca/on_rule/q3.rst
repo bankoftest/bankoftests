@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当需要车头灯时，在什么情况下开低灯？
+   :keywords: 安大略省驾驶知识, 车头灯, 低灯, 夜间驾驶, 安全规定
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当需要车头灯时，在什么情况下开低灯？
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q3" class="quiz">
+       <div class="option" id="q3-A" onclick="selectOption('q3', 'A', false)">
+           A. 与最接近你的车辆相距一公里（0.6哩）内
+       </div>
+       <div class="option" id="q3-B" onclick="selectOption('q3', 'B', true)">
+           B. 与最接近你的车辆相距150公尺（500呎）内
+       </div>
+       <div class="option" id="q3-C" onclick="selectOption('q3', 'C', false)">
+           C. 与最接近你的车辆相距300公尺（1000呎）内
+       </div>
+       <div class="option" id="q3-D" onclick="selectOption('q3', 'D', false)">
+           D. 这是为安全而设，并不是法律规定
+       </div>
+       <p id="q3-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在150公尺（500呎）内使用低灯可避免对迎面车辆的炫目，是安全驾驶的必要措施。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q2.html" class="button">|prev_question|</a>
+       <span class="page-indicator">3 / 105</span>
+       <a href="q4.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

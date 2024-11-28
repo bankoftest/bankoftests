@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Before leaving your car parked on a downgrade, you should:
+   :keywords: parking on slope, parking brake, Ontario driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Before leaving your car parked on a downgrade, you should:
+====================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q60" class="quiz">
+       <div class="option" id="q60-A" onclick="selectOption('q60', 'A', false)">
+           A. Leave your front wheels parallel to the curb
+       </div>
+       <div class="option" id="q60-B" onclick="selectOption('q60', 'B', false)">
+           B. Turn your front wheels to the left and set your parking brake
+       </div>
+       <div class="option" id="q60-C" onclick="selectOption('q60', 'C', false)">
+           C. Set your parking brake only
+       </div>
+       <div class="option" id="q60-D" onclick="selectOption('q60', 'D', true)">
+           D. Turn your front wheels to the right and set your parking brake
+       </div>
+       <p id="q60-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Turning wheels to the curb prevents the car from rolling into traffic if the parking brake fails.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q59.html" class="button">|prev_question|</a>
+       <span class="page-indicator">60 / 106</span>
+       <a href="q61.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: The red circle means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The red circle means:
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/29.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q29" class="quiz">
+       <div class="option" id="q29-A" onclick="selectOption('q29', 'A', false)">
+           A. Do not enter roadway
+       </div>
+       <div class="option" id="q29-B" onclick="selectOption('q29', 'B', false)">
+           B. Do not enter unless local traffic
+       </div>
+       <div class="option" id="q29-C" onclick="selectOption('q29', 'C', false)">
+           C. Means a traffic circle ahead
+       </div>
+       <div class="option" id="q29-D" onclick="selectOption('q29', 'D', true)">
+           D. Prohibited sign
+       </div>
+       <p id="q29-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q28.html" class="button">|prev_question|</a>
+       <span class="page-indicator">29 / 53</span>
+       <a href="q30.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you want to pass a motorcycle, you should:
+   :keywords: motorcycle passing, road safety, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you want to pass a motorcycle, you should:
+==========================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q99" class="quiz">
+       <div class="option" id="q99-A" onclick="selectOption('q99', 'A', false)">
+           A. Honk your horn before you pass
+       </div>
+       <div class="option" id="q99-B" onclick="selectOption('q99', 'B', false)">
+           B. Turn on your high-beam lights before you pass
+       </div>
+       <div class="option" id="q99-C" onclick="selectOption('q99', 'C', true)">
+           C. Pass just as you would with another car
+       </div>
+       <div class="option" id="q99-D" onclick="selectOption('q99', 'D', false)">
+           D. Use half of their lane to pass
+       </div>
+       <p id="q99-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Treat motorcycles as full vehicles and pass with care to ensure safety for all.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q98.html" class="button">|prev_question|</a>
+       <span class="page-indicator">99 / 106</span>
+       <a href="q100.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

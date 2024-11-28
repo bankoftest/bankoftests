@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当驾驶过失达到九点时，被接见问话后，交通部可能暂停驾驶人执照：
+   :keywords: 驾驶过失, 停用执照, 交通法规, 安大略省法律
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当驾驶过失达到九点时，被接见问话后，交通部可能暂停驾驶人执照：
+==============================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q49" class="quiz">
+       <div class="option" id="q49-A" onclick="selectOption('q49', 'A', true)">
+           A. 当驾驶人不能提出充分的理由反对停用执照原因
+       </div>
+       <div class="option" id="q49-B" onclick="selectOption('q49', 'B', false)">
+           B. 当驾驶人没有五年的驾驶经验
+       </div>
+       <div class="option" id="q49-C" onclick="selectOption('q49', 'C', false)">
+           C. 如驾驶人的执照不是作商业用途
+       </div>
+       <div class="option" id="q49-D" onclick="selectOption('q49', 'D', false)">
+           D. 驾驶过失除非达到十五, 点交通部是不能暂停执照的
+       </div>
+       <p id="q49-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   驾驶人需要提供合理理由说明为何不应暂停驾驶执照。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q48.html" class="button">|prev_question|</a>
+       <span class="page-indicator">49 / 105</span>
+       <a href="q50.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

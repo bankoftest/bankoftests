@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When a red signal light with a green arrow is shown at an intersection it means:
+   :keywords: red light with green arrow, intersection rules, traffic signals
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a red signal light with a green arrow is shown at an intersection it means:
+================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q26" class="quiz">
+       <div class="option" id="q26-A" onclick="selectOption('q26', 'A', false)">
+           A. Stop and wait for the green light before making a turn in the direction of the arrow
+       </div>
+       <div class="option" id="q26-B" onclick="selectOption('q26', 'B', true)">
+           B. Proceed with caution in direction of arrow, yielding right-of-way to pedestrians and other traffic
+       </div>
+       <div class="option" id="q26-C" onclick="selectOption('q26', 'C', false)">
+           C. Stop and then proceed
+       </div>
+       <div class="option" id="q26-D" onclick="selectOption('q26', 'D', false)">
+           D. The green arrow is a signal for pedestrians only
+       </div>
+       <p id="q26-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   The green arrow allows turning in the indicated direction, provided it's safe and the right-of-way is given.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q25.html" class="button">|prev_question|</a>
+       <span class="page-indicator">26 / 106</span>
+       <a href="q27.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

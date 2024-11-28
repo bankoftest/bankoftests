@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你驶近“停牌”时，你应：
+   :keywords: 安大略省驾驶知识, 停牌, 安全驾驶, 十字路口
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你驶近“停牌”时，你应：
+==========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q4" class="quiz">
+       <div class="option" id="q4-A" onclick="selectOption('q4', 'A', false)">
+           A. 慢驶，鸣笛然后前进
+       </div>
+       <div class="option" id="q4-B" onclick="selectOption('q4', 'B', false)">
+           B. 慢驶，当安全才继续前进
+       </div>
+       <div class="option" id="q4-C" onclick="selectOption('q4', 'C', false)">
+           C. 停车，鸣笛然后前进
+       </div>
+       <div class="option" id="q4-D" onclick="selectOption('q4', 'D', true)">
+           D. 停车，当安全才前进
+       </div>
+       <p id="q4-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   停牌表示驾驶者必须完全停车并观察周围情况后再继续行驶。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q3.html" class="button">|prev_question|</a>
+       <span class="page-indicator">4 / 105</span>
+       <a href="q5.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

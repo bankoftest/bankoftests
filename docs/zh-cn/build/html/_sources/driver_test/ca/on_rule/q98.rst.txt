@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果有一辆车紧跟随你后面, 你应怎样做？
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果有一辆车紧跟随你后面, 你应怎样做？
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q98" class="quiz">
+       <div class="option" id="q98-A" onclick="selectOption('q98', 'A', false)">
+           A. 如果安全时, 转去其他车道
+       </div>
+       <div class="option" id="q98-B" onclick="selectOption('q98', 'B', false)">
+           B. 轻微减慢与前方车辆拉开距离
+       </div>
+       <div class="option" id="q98-C" onclick="selectOption('q98', 'C', false)">
+           C. 驶向路旁让紧跟随车辆超越
+       </div>
+       <div class="option" id="q98-D" onclick="selectOption('q98', 'D', true)">
+           D. 以上全部都是
+       </div>
+       <p id="q98-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q97.html" class="button">|prev_question|</a>
+       <span class="page-indicator">98 / 105</span>
+       <a href="q99.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

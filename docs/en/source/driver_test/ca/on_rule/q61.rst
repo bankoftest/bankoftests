@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When the driver of another vehicle is about to overtake and pass your vehicle you must:
+   :keywords: overtaking, Ontario driving rules, road etiquette
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When the driver of another vehicle is about to overtake and pass your vehicle you must:
+==============================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q61" class="quiz">
+       <div class="option" id="q61-A" onclick="selectOption('q61', 'A', true)">
+           A. Move to the right and allow such vehicle to pass
+       </div>
+       <div class="option" id="q61-B" onclick="selectOption('q61', 'B', false)">
+           B. Speed up so that passing is not necessary
+       </div>
+       <div class="option" id="q61-C" onclick="selectOption('q61', 'C', false)">
+           C. Signal the other driver not to pass
+       </div>
+       <div class="option" id="q61-D" onclick="selectOption('q61', 'D', false)">
+           D. Move to the left to prevent passing
+       </div>
+       <p id="q61-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Moving to the right ensures safe overtaking and minimizes potential collisions.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q60.html" class="button">|prev_question|</a>
+       <span class="page-indicator">61 / 106</span>
+       <a href="q62.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

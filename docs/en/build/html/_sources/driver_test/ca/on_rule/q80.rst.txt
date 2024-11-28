@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Failing to stop for a school bus that is unloading passengers will:
+   :keywords: school bus, stopping rules, Ontario penalties
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Failing to stop for a school bus that is unloading passengers will:
+======================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q80" class="quiz">
+       <div class="option" id="q80-A" onclick="selectOption('q80', 'A', false)">
+           A. Result in a one-year jail sentence
+       </div>
+       <div class="option" id="q80-B" onclick="selectOption('q80', 'B', true)">
+           B. Cost you 6 demerit points and a fine of up to $1000
+       </div>
+       <div class="option" id="q80-C" onclick="selectOption('q80', 'C', false)">
+           C. Get you a warning and a fine of $100
+       </div>
+       <div class="option" id="q80-D" onclick="selectOption('q80', 'D', false)">
+           D. Result in retaking your road test
+       </div>
+       <p id="q80-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Failing to stop for a school bus is a serious offense with significant penalties to protect children’s safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q79.html" class="button">|prev_question|</a>
+       <span class="page-indicator">80 / 106</span>
+       <a href="q81.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

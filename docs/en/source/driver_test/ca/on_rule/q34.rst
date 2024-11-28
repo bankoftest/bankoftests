@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: How soon after a licensed driver changes their name or address must they notify the Ministry of Transportation and Communications?
+   :keywords: license update, name change, address change, Ontario rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+How soon after a licensed driver changes their name or address must they notify the Ministry of Transportation and Communications?
+====================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q34" class="quiz">
+       <div class="option" id="q34-A" onclick="selectOption('q34', 'A', true)">
+           A. Within 6 days
+       </div>
+       <div class="option" id="q34-B" onclick="selectOption('q34', 'B', false)">
+           B. Within 15 days
+       </div>
+       <div class="option" id="q34-C" onclick="selectOption('q34', 'C', false)">
+           C. Within 30 days
+       </div>
+       <div class="option" id="q34-D" onclick="selectOption('q34', 'D', false)">
+           D. At any time prior to renewal of license
+       </div>
+       <p id="q34-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Timely updates ensure accurate records and prevent legal complications.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q33.html" class="button">|prev_question|</a>
+       <span class="page-indicator">34 / 106</span>
+       <a href="q35.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -23,6 +23,27 @@ paths_dataset = {
         "rst_dir": "docs/en/source/driver_test/ca/bc",
         "image_dir": "../../../images/driver_test/ca/bc"
     },
+    "driver_test_ca_on_sign_zh": {
+        "testbank_file": "testbanks/driver_test_ca_on_sign_zh.json",
+        "rst_dir": "docs/zh-cn/source/driver_test/ca/on_sign",
+        "image_dir": "../../../images/driver_test/ca/on/sign"
+    },
+    "driver_test_ca_on_sign_en": {
+        "testbank_file": "testbanks/driver_test_ca_on_sign_en.json",
+        "rst_dir": "docs/en/source/driver_test/ca/on_sign",
+        "image_dir": "../../../images/driver_test/ca/on/sign"
+    },
+    "driver_test_ca_on_rule_zh": {
+        "testbank_file": "testbanks/driver_test_ca_on_rule_zh.json",
+        "rst_dir": "docs/zh-cn/source/driver_test/ca/on_rule",
+        "image_dir": "../../../images/driver_test/ca/on/rule"
+    },
+    "driver_test_ca_on_rule_en": {
+        "testbank_file": "testbanks/driver_test_ca_on_rule_en.json",
+        "rst_dir": "docs/en/source/driver_test/ca/on_rule",
+        "image_dir": "../../../images/driver_test/ca/on/rule"
+    },
+
 }
 
 
@@ -75,7 +96,8 @@ def write_question_rst(question, rst_dir, total_questions, title, image_dir):
         f.write("   <hr>\n") 
         # Write explanation (hidden by default)
         f.write("\n.. dropdown:: ►|explanation|\n\n")
-        f.write(f"   {question['explanation']}\n")
+        if question.get("explanation"):
+            f.write(f"   {question['explanation']}\n")
 
         # Add navigation buttons
         f.write("\n.. raw:: html\n\n")
@@ -190,8 +212,13 @@ def main(test_id):
 
 
 if __name__ == "__main__":
+    test_id = None
+
     #test_id = "driver_test_ca_bc_en"  
     #test_id = "driver_test_ca_bc_zh"
-    test_id = None
+    #test_id = "driver_test_ca_on_sign_en"
+    #test_id = "driver_test_ca_on_sign_zh"
+    test_id = "driver_test_ca_on_rule_en"
+    #test_id = "driver_test_ca_on_rule_zh"
 
     main(test_id)

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When the traffic signal light facing you is red and you intend to go straight through the intersection, what must you do?
+   :keywords: red traffic light, intersection rules, stop signal
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When the traffic signal light facing you is red and you intend to go straight through the intersection, what must you do?
+==================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q6" class="quiz">
+       <div class="option" id="q6-A" onclick="selectOption('q6', 'A', false)">
+           A. Stop, give pedestrians the right-of-way, then proceed with caution
+       </div>
+       <div class="option" id="q6-B" onclick="selectOption('q6', 'B', false)">
+           B. Stop; proceed when the way is clear
+       </div>
+       <div class="option" id="q6-C" onclick="selectOption('q6', 'C', false)">
+           C. Slow down; proceed when the way is clear
+       </div>
+       <div class="option" id="q6-D" onclick="selectOption('q6', 'D', true)">
+           D. Stop, proceed only when the signal turns green and when the way is clear
+       </div>
+       <p id="q6-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A red light indicates a mandatory stop. Waiting for green ensures orderly traffic flow and safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q5.html" class="button">|prev_question|</a>
+       <span class="page-indicator">6 / 106</span>
+       <a href="q7.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

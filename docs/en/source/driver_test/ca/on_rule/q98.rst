@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If someone is tailgating you what should you do?
+   :keywords: tailgating, defensive driving, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If someone is tailgating you what should you do?
+================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q98" class="quiz">
+       <div class="option" id="q98-A" onclick="selectOption('q98', 'A', false)">
+           A. Move into another lane when it is safe to do so
+       </div>
+       <div class="option" id="q98-B" onclick="selectOption('q98', 'B', false)">
+           B. Slow down slightly to increase the space in front of your car
+       </div>
+       <div class="option" id="q98-C" onclick="selectOption('q98', 'C', false)">
+           C. Pull over to let the tailgater pass
+       </div>
+       <div class="option" id="q98-D" onclick="selectOption('q98', 'D', true)">
+           D. All of the above
+       </div>
+       <p id="q98-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   These actions help de-escalate a potentially dangerous situation caused by tailgating.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q97.html" class="button">|prev_question|</a>
+       <span class="page-indicator">98 / 106</span>
+       <a href="q99.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

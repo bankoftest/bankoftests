@@ -1,0 +1,63 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通标志篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 红色圈的意思是:
+   :keywords: 加拿大安省驾照笔试, 加拿大安省驾照考试, 加拿大安省驾照理论考试,  G1驾照笔试, 交通标志, 交通标志考试, 交通标志理论考试，多伦多驾照笔试，多伦多驾照考试，多伦多驾照理论考试，多伦多G1驾照笔试
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+红色圈的意思是:
+================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/29.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q29" class="quiz">
+       <div class="option" id="q29-A" onclick="selectOption('q29', 'A', false)">
+           A. 不准驶入此路
+       </div>
+       <div class="option" id="q29-B" onclick="selectOption('q29', 'B', false)">
+           B. 不准驶入除非区内居民
+       </div>
+       <div class="option" id="q29-C" onclick="selectOption('q29', 'C', false)">
+           C. 代表前面有一交通圈
+       </div>
+       <div class="option" id="q29-D" onclick="selectOption('q29', 'D', true)">
+           D. 禁止路牌
+       </div>
+       <p id="q29-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   死记硬背即可。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q28.html" class="button">|prev_question|</a>
+       <span class="page-indicator">29 / 53</span>
+       <a href="q30.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

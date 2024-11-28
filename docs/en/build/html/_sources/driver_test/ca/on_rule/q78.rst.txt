@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When a streetcar stops to pick up or discharge passengers and there is a safety island, what does the law require you to do?
+   :keywords: streetcar safety island, passing rules, Ontario traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a streetcar stops to pick up or discharge passengers and there is a safety island, what does the law require you to do?
+========================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q78" class="quiz">
+       <div class="option" id="q78-A" onclick="selectOption('q78', 'A', true)">
+           A. Pass with caution
+       </div>
+       <div class="option" id="q78-B" onclick="selectOption('q78', 'B', false)">
+           B. Stop at least 2 meters behind the safety island
+       </div>
+       <div class="option" id="q78-C" onclick="selectOption('q78', 'C', false)">
+           C. Sound horn and pass with caution
+       </div>
+       <div class="option" id="q78-D" onclick="selectOption('q78', 'D', false)">
+           D. Pass on the left side of the streetcar
+       </div>
+       <p id="q78-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   If there is a safety island, drivers are allowed to pass cautiously without stopping.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q77.html" class="button">|prev_question|</a>
+       <span class="page-indicator">78 / 106</span>
+       <a href="q79.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

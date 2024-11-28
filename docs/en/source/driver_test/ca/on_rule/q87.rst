@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are driving and your cellular phone rings, what should you do?
+   :keywords: cellular phone, distracted driving, Ontario driving laws, safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are driving and your cellular phone rings, what should you do?
+==========================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q87" class="quiz">
+       <div class="option" id="q87-A" onclick="selectOption('q87', 'A', false)">
+           A. Pick up the phone quickly and talk briefly while driving
+       </div>
+       <div class="option" id="q87-B" onclick="selectOption('q87', 'B', false)">
+           B. Let your voicemail service take the call and check your messages while you are driving
+       </div>
+       <div class="option" id="q87-C" onclick="selectOption('q87', 'C', false)">
+           C. Answer your phone if there are no police around
+       </div>
+       <div class="option" id="q87-D" onclick="selectOption('q87', 'D', true)">
+           D. In Ontario, it is illegal to talk on the cellular while driving
+       </div>
+       <p id="q87-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Using a cellular phone while driving is illegal in Ontario to prevent distracted driving and reduce accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q86.html" class="button">|prev_question|</a>
+       <span class="page-indicator">87 / 106</span>
+       <a href="q88.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

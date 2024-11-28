@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: To get your vehicle out of a skid, you should first: (e.g., if your rear wheels suddenly slip to the right)
+   :keywords: skid recovery, vehicle control, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+To get your vehicle out of a skid, you should first: (e.g., if your rear wheels suddenly slip to the right)
+======================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q82" class="quiz">
+       <div class="option" id="q82-A" onclick="selectOption('q82', 'A', false)">
+           A. Steer in the opposite direction of the skid
+       </div>
+       <div class="option" id="q82-B" onclick="selectOption('q82', 'B', false)">
+           B. Steer straight ahead
+       </div>
+       <div class="option" id="q82-C" onclick="selectOption('q82', 'C', false)">
+           C. Apply brake hard
+       </div>
+       <div class="option" id="q82-D" onclick="selectOption('q82', 'D', true)">
+           D. Steer in the direction of the skid
+       </div>
+       <p id="q82-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Steering in the direction of the skid helps regain control of the vehicle without overcorrecting.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q81.html" class="button">|prev_question|</a>
+       <span class="page-indicator">82 / 106</span>
+       <a href="q83.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

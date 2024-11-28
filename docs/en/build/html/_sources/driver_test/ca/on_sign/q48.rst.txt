@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/48.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q48" class="quiz">
+       <div class="option" id="q48-A" onclick="selectOption('q48', 'A', true)">
+           A. When a school bus arm swings out with red lights flashing, you must stop and you are prohibited from passing
+       </div>
+       <div class="option" id="q48-B" onclick="selectOption('q48', 'B', false)">
+           B. Construction sign
+       </div>
+       <div class="option" id="q48-C" onclick="selectOption('q48', 'C', false)">
+           C. School zone
+       </div>
+       <div class="option" id="q48-D" onclick="selectOption('q48', 'D', false)">
+           D. Stop sign ahead
+       </div>
+       <p id="q48-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q47.html" class="button">|prev_question|</a>
+       <span class="page-indicator">48 / 53</span>
+       <a href="q49.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

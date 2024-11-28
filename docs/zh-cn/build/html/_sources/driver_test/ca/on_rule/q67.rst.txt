@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 夜间在快速公路行驶时，你必须用低灯，当你：
+   :keywords: 夜间驾驶, 低灯使用, 公路行驶, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+夜间在快速公路行驶时，你必须用低灯，当你：
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q67" class="quiz">
+       <div class="option" id="q67-A" onclick="selectOption('q67', 'A', false)">
+           A. 接近十字路口
+       </div>
+       <div class="option" id="q67-B" onclick="selectOption('q67', 'B', true)">
+           B. 遇到迎面有车来或跟在别的车辆后时
+       </div>
+       <div class="option" id="q67-C" onclick="selectOption('q67', 'C', false)">
+           C. 当其他车辆用低灯
+       </div>
+       <div class="option" id="q67-D" onclick="selectOption('q67', 'D', false)">
+           D. 遇到迎面车辆的车头灯，使你看不清楚
+       </div>
+       <p id="q67-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在夜间行驶时，为避免干扰其他驾驶员，遇到迎面车辆或跟车时应使用低灯。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q66.html" class="button">|prev_question|</a>
+       <span class="page-indicator">67 / 105</span>
+       <a href="q68.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 一定要报警的交通意外是当有人受伤或损失超过
+   :keywords: 安大略省驾驶知识, 交通事故, 报警要求, 财产损失
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+一定要报警的交通意外是当有人受伤或损失超过
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q27" class="quiz">
+       <div class="option" id="q27-A" onclick="selectOption('q27', 'A', false)">
+           A. 一百元
+       </div>
+       <div class="option" id="q27-B" onclick="selectOption('q27', 'B', false)">
+           B. 一百五十元
+       </div>
+       <div class="option" id="q27-C" onclick="selectOption('q27', 'C', false)">
+           C. 一千五百元
+       </div>
+       <div class="option" id="q27-D" onclick="selectOption('q27', 'D', true)">
+           D. 二千元
+       </div>
+       <p id="q27-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   根据法律，当交通事故涉及人员受伤或财产损失超过2000元时，必须报警。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q26.html" class="button">|prev_question|</a>
+       <span class="page-indicator">27 / 105</span>
+       <a href="q28.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

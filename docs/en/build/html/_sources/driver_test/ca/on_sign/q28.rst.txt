@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/28.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q28" class="quiz">
+       <div class="option" id="q28-A" onclick="selectOption('q28', 'A', false)">
+           A. X-intersection for school vehicles
+       </div>
+       <div class="option" id="q28-B" onclick="selectOption('q28', 'B', false)">
+           B. School crosswalk sign
+       </div>
+       <div class="option" id="q28-C" onclick="selectOption('q28', 'C', false)">
+           C. Caution - school bus crossing
+       </div>
+       <div class="option" id="q28-D" onclick="selectOption('q28', 'D', true)">
+           D. Regulatory sign
+       </div>
+       <p id="q28-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q27.html" class="button">|prev_question|</a>
+       <span class="page-indicator">28 / 53</span>
+       <a href="q29.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

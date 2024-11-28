@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: You are required to keep a safe distance behind the vehicle in front of you. At 50 kilometers (30 miles) an hour, you should keep at least:
+   :keywords: safe following distance, road safety, Ontario driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+You are required to keep a safe distance behind the vehicle in front of you. At 50 kilometers (30 miles) an hour, you should keep at least:
+======================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q63" class="quiz">
+       <div class="option" id="q63-A" onclick="selectOption('q63', 'A', false)">
+           A. Seven car lengths behind the other vehicle
+       </div>
+       <div class="option" id="q63-B" onclick="selectOption('q63', 'B', true)">
+           B. Three car lengths behind the other vehicle
+       </div>
+       <div class="option" id="q63-C" onclick="selectOption('q63', 'C', false)">
+           C. One car length behind the other vehicle
+       </div>
+       <div class="option" id="q63-D" onclick="selectOption('q63', 'D', false)">
+           D. Five car lengths behind the other vehicle
+       </div>
+       <p id="q63-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Maintaining three car lengths at 50 km/h allows time to react and stop safely.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q62.html" class="button">|prev_question|</a>
+       <span class="page-indicator">63 / 106</span>
+       <a href="q64.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

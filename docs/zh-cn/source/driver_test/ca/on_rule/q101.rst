@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 你如果发生交通意外,在什么情况下一定要报警?
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+你如果发生交通意外,在什么情况下一定要报警?
+============================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q101" class="quiz">
+       <div class="option" id="q101-A" onclick="selectOption('q101', 'A', false)">
+           A. 损失小过六百元
+       </div>
+       <div class="option" id="q101-B" onclick="selectOption('q101', 'B', false)">
+           B. 损失超过二​千元
+       </div>
+       <div class="option" id="q101-C" onclick="selectOption('q101', 'C', false)">
+           C. 如有人受伤或死亡
+       </div>
+       <div class="option" id="q101-D" onclick="selectOption('q101', 'D', true)">
+           D. 以上2及3都是对的
+       </div>
+       <p id="q101-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q100.html" class="button">|prev_question|</a>
+       <span class="page-indicator">101 / 105</span>
+       <a href="q102.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

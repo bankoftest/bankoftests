@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When descending a steep hill, good safe-driving practice is to:
+   :keywords: steep hill, safe driving, engine braking
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When descending a steep hill, good safe-driving practice is to:
+==============================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q66" class="quiz">
+       <div class="option" id="q66-A" onclick="selectOption('q66', 'A', true)">
+           A. Gear down and use motor to assist in braking
+       </div>
+       <div class="option" id="q66-B" onclick="selectOption('q66', 'B', false)">
+           B. Turn off the ignition
+       </div>
+       <div class="option" id="q66-C" onclick="selectOption('q66', 'C', false)">
+           C. Place the gear shift in neutral
+       </div>
+       <div class="option" id="q66-D" onclick="selectOption('q66', 'D', false)">
+           D. Disengage the clutch and coast
+       </div>
+       <p id="q66-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Using a lower gear helps maintain control and reduces brake wear on steep descents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q65.html" class="button">|prev_question|</a>
+       <span class="page-indicator">66 / 106</span>
+       <a href="q67.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

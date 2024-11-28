@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 第一阶段(G1)驾驶者, 必须有一位G牌或以上的陪同驾驶者, 而该陪同者需要有至少驾驶经验：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+第一阶段(G1)驾驶者, 必须有一位G牌或以上的陪同驾驶者, 而该陪同者需要有至少驾驶经验：
+============================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q88" class="quiz">
+       <div class="option" id="q88-A" onclick="selectOption('q88', 'A', false)">
+           A. 2年
+       </div>
+       <div class="option" id="q88-B" onclick="selectOption('q88', 'B', true)">
+           B. 3年
+       </div>
+       <div class="option" id="q88-C" onclick="selectOption('q88', 'C', false)">
+           C. 4年
+       </div>
+       <div class="option" id="q88-D" onclick="selectOption('q88', 'D', false)">
+           D. 8年
+       </div>
+       <p id="q88-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q87.html" class="button">|prev_question|</a>
+       <span class="page-indicator">88 / 105</span>
+       <a href="q89.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

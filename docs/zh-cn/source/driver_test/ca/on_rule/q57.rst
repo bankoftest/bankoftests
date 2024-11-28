@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在什么时候可用泊车灯？
+   :keywords: 泊车灯, 车辆灯光, 驾驶法规, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在什么时候可用泊车灯？
+======================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q57" class="quiz">
+       <div class="option" id="q57-A" onclick="selectOption('q57', 'A', false)">
+           A. 什么时候都可以用
+       </div>
+       <div class="option" id="q57-B" onclick="selectOption('q57', 'B', true)">
+           B. 在泊车时用
+       </div>
+       <div class="option" id="q57-C" onclick="selectOption('q57', 'C', false)">
+           C. 在大雾中驾驶时用
+       </div>
+       <div class="option" id="q57-D" onclick="selectOption('q57', 'D', false)">
+           D. 在光线充足的街道上驾驶时用
+       </div>
+       <p id="q57-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   泊车灯应仅在车辆停靠时使用，以避免误导其他驾驶者。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q56.html" class="button">|prev_question|</a>
+       <span class="page-indicator">57 / 105</span>
+       <a href="q58.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way should be given to:
+   :keywords: right-of-way, uncontrolled intersection, traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way should be given to:
+==========================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q19" class="quiz">
+       <div class="option" id="q19-A" onclick="selectOption('q19', 'A', false)">
+           A. The one approaching from the left
+       </div>
+       <div class="option" id="q19-B" onclick="selectOption('q19', 'B', true)">
+           B. The one approaching from the right
+       </div>
+       <div class="option" id="q19-C" onclick="selectOption('q19', 'C', false)">
+           C. Neither one
+       </div>
+       <div class="option" id="q19-D" onclick="selectOption('q19', 'D', false)">
+           D. The one moving faster
+       </div>
+       <p id="q19-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   At uncontrolled intersections, giving way to the car on the right prevents accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q18.html" class="button">|prev_question|</a>
+       <span class="page-indicator">19 / 106</span>
+       <a href="q20.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

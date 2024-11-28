@@ -1,0 +1,1382 @@
+{
+    "title": "Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024",
+    "questions": [
+        {
+            "id": 1,
+            "question": "At an intersection where is flashing amber (yellow) traffic light, you must:",
+            "options": {
+                "A": "Stop if making right turn",
+                "B": "Continue at same speed",
+                "C": "Stop if making left turn",
+                "D": "Slow down and proceed with caution"
+            },
+            "answer": "D",
+            "explanation": "Flashing amber lights indicate caution. Slowing down and proceeding carefully ensures safety for all road users.",
+            "meta_keywords": "flashing amber light, intersection rules, slow down, caution"
+        },
+        {
+            "id": 2,
+            "question": "When on streets designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?",
+            "options": {
+                "A": "Speed up and get out of the way",
+                "B": "Signal the driver to pass",
+                "C": "Pull to the right as far as possible"
+            },
+            "answer": "C",
+            "explanation": "Emergency vehicles must be given the right-of-way. Pulling to the right ensures a clear path for their progress.",
+            "meta_keywords": "emergency vehicle siren, pull to right, two-way traffic"
+        },
+        {
+            "id": 3,
+            "question": "When lights are required, drivers are required to use low beam headlights:",
+            "options": {
+                "A": "Within 1 km (0.6 mile) of the approach of another vehicle",
+                "B": "Within 150 m (500 ft.) of the approach of another vehicle",
+                "C": "Within 300m (1000 ft.) of the approach of another vehicle",
+                "D": "This is a safety practice, not a law"
+            },
+            "answer": "B",
+            "explanation": "Low beams prevent glare for oncoming traffic, ensuring safe driving conditions for everyone.",
+            "meta_keywords": "low beam headlights, required lights, approach distance"
+        },
+        {
+            "id": 4,
+            "question": "Upon approaching a stop sign, a driver must:",
+            "options": {
+                "A": "Slow down, sound horn and proceed",
+                "B": "Slow down, and if the way is clear, proceed",
+                "C": "Stop, sound horn, and then proceed",
+                "D": "Stop, and when it is safe to do so, proceed"
+            },
+            "answer": "D",
+            "explanation": "A stop sign mandates a full stop. Proceeding only when safe ensures compliance with traffic laws.",
+            "meta_keywords": "stop sign rules, full stop, traffic safety"
+        },
+        {
+            "id": 5,
+            "question": "Unless otherwise posted, the maximum speed limit allowed in cities, towns, villages and built-up areas is:",
+            "options": {
+                "A": "30 km/h (20 m.p.h.)",
+                "B": "50 km/h (30 m.p.h.)",
+                "C": "40 km/h (25 m.p.h.)",
+                "D": "60 km/h (35 m.p.h.)"
+            },
+            "answer": "B",
+            "explanation": "The default speed limit in built-up areas is designed for safety where pedestrian traffic is common.",
+            "meta_keywords": "maximum speed limit, built-up areas, traffic safety"
+        },
+        {
+            "id": 6,
+            "question": "When the traffic signal light facing you is red and you intend to go straight through the intersection, what must you do?",
+            "options": {
+                "A": "Stop, give pedestrians the right-of-way, then proceed with caution",
+                "B": "Stop; proceed when the way is clear",
+                "C": "Slow down; proceed when the way is clear",
+                "D": "Stop, proceed only when the signal turns green and when the way is clear"
+            },
+            "answer": "D",
+            "explanation": "A red light indicates a mandatory stop. Waiting for green ensures orderly traffic flow and safety.",
+            "meta_keywords": "red traffic light, intersection rules, stop signal"
+        },
+        {
+            "id": 7,
+            "question": "When entering a freeway you should:",
+            "options": {
+                "A": "Stop on acceleration lane, wait for an opening, then enter the freeway rapidly",
+                "B": "Accelerate quickly to freeway speed and merge with freeway traffic",
+                "C": "Slow down, and then enter freeway at a sharp angle",
+                "D": "Drive slowly and be prepared to stop for freeway traffic"
+            },
+            "answer": "B",
+            "explanation": "Accelerating to match freeway speed ensures smooth merging without disrupting traffic.",
+            "meta_keywords": "freeway entry, acceleration lane, merging traffic"
+        },
+        {
+            "id": 8,
+            "question": "While travelling on a highway, the driver of a motor vehicle is not permitted to carry, in a house or boat trailer:",
+            "options": {
+                "A": "Firearms",
+                "B": "Flammable material",
+                "C": "Persons (passenger)",
+                "D": "Pets"
+            },
+            "answer": "C",
+            "explanation": "Safety regulations prohibit carrying passengers in trailers to avoid injuries during sudden stops or accidents.",
+            "meta_keywords": "trailer safety, highway rules, carrying passengers"
+        },
+        {
+            "id": 9,
+            "question": "On a roadway where traffic is moving in both directions, in what position must you be before making a left turn?",
+            "options": {
+                "A": "Close to the right-hand side of the roadway",
+                "B": "Close to the left side of the roadway",
+                "C": "Immediately to the right of center line of the roadway",
+                "D": "Does not matter provided you signal"
+            },
+            "answer": "C",
+            "explanation": "Positioning near the center line ensures clear visibility and safe left turns.",
+            "meta_keywords": "left turn positioning, traffic rules, center line"
+        },
+        {
+            "id": 10,
+            "question": "Which of the following has the right-of-way over all others at an intersection when the signal light is green?",
+            "options": {
+                "A": "Pedestrians crossing against the light",
+                "B": "Pedestrians crossing with the light",
+                "C": "Vehicles turning right",
+                "D": "Vehicles turning left"
+            },
+            "answer": "B",
+            "explanation": "Pedestrians crossing with the light are prioritized to ensure their safety at intersections.",
+            "meta_keywords": "right-of-way, green light, pedestrian safety"
+        },
+        {
+            "id": 11,
+            "question": "In what position on roadway must you be before making a left turn from a one-way traffic street?",
+            "options": {
+                "A": "Close to the right-hand side of the roadway",
+                "B": "Close to the center line of the roadway",
+                "C": "Close to the left side of the roadway",
+                "D": "Does not matter provided you signal"
+            },
+            "answer": "C",
+            "explanation": "When turning left on a one-way street, staying near the left side ensures a smooth and safe turn.",
+            "meta_keywords": "left turn, one-way street, road positioning"
+        },
+        {
+            "id": 12,
+            "question": "When a streetcar stops to pick up or discharge passengers, where there is no safety zone, what does the law require you to do before passing the streetcar?",
+            "options": {
+                "A": "Stop behind the rear of the streetcar and then proceed",
+                "B": "Sound horn and pass with caution",
+                "C": "Pass on the left side when the way is clear",
+                "D": "Stop 2 m (6 ft.) behind the streetcar and proceed only when it is safe to do so"
+            },
+            "answer": "D",
+            "explanation": "Stopping behind the streetcar ensures the safety of passengers getting on or off.",
+            "meta_keywords": "streetcar rules, passenger safety, stopping distance"
+        },
+        {
+            "id": 13,
+            "question": "A flashing red signal light at an intersection means:",
+            "options": {
+                "A": "Slow down and drive with increased caution",
+                "B": "Slow down and if necessary yield right-of-way to cars approaching from the left or right",
+                "C": "Signal light is out of order, proceed with caution",
+                "D": "Stop, proceed only when it is safe to do so"
+            },
+            "answer": "D",
+            "explanation": "A flashing red light acts as a stop sign, requiring a complete stop before proceeding safely.",
+            "meta_keywords": "flashing red light, intersection rules, stop sign"
+        },
+        {
+            "id": 14,
+            "question": "When a right turn against a red signal light is permitted, what does the law require you to do before entering the intersection and making the turn?",
+            "options": {
+                "A": "Slow down, proceed with caution",
+                "B": "Stop, and then edge into traffic",
+                "C": "Stop, signal, make the turn so as not to interfere with other traffic, including pedestrians",
+                "D": "Slow down, signal and turn"
+            },
+            "answer": "C",
+            "explanation": "Stopping and signaling ensures that the turn does not interfere with other vehicles or pedestrians.",
+            "meta_keywords": "right turn on red, stop and signal, intersection rules"
+        },
+        {
+            "id": 15,
+            "question": "In what lane of traffic should you drive when you intend to make a right-hand turn?",
+            "options": {
+                "A": "Close to the left side of the roadway",
+                "B": "Close to the right-hand side of the roadway",
+                "C": "Close to the center line of the roadway",
+                "D": "Does not matter provided you signal"
+            },
+            "answer": "B",
+            "explanation": "Driving close to the right side allows a safer and smoother right-hand turn.",
+            "meta_keywords": "right-hand turn, lane selection, driving rules"
+        },
+        {
+            "id": 16,
+            "question": "If the signal light changes from green to amber as you approach an intersection, what should you do?",
+            "options": {
+                "A": "Stop if stop cannot be made safely, proceed with caution",
+                "B": "Speed up and clear the intersection as quickly as possible",
+                "C": "Continue through the intersection without slowing or stopping",
+                "D": "Sound horn to warn pedestrians and other drivers that you do not intend to stop"
+            },
+            "answer": "A",
+            "explanation": "Amber lights signal a change. Stopping safely or proceeding cautiously avoids potential collisions.",
+            "meta_keywords": "amber light, intersection safety, traffic signals"
+        },
+        {
+            "id": 17,
+            "question": "A person whose driver's license is under suspension, may:",
+            "options": {
+                "A": "Operate a motor vehicle in a case of extreme emergency",
+                "B": "Operate a motor vehicle to and from work",
+                "C": "Operate a motor vehicle when accompanied by a licensed driver",
+                "D": "Not operate a motor vehicle under any conditions"
+            },
+            "answer": "D",
+            "explanation": "Driving under a suspended license is illegal under all circumstances to ensure road safety.",
+            "meta_keywords": "suspended license, driving rules, legal restrictions"
+        },
+        {
+            "id": 18,
+            "question": "In Ontario, there is a seat belt law:",
+            "options": {
+                "A": "Yes",
+                "B": "No",
+                "C": "Only when driving on open highway",
+                "D": "Only when driving within a municipality"
+            },
+            "answer": "A",
+            "explanation": "Seat belts are mandatory for all passengers to reduce the risk of injury during accidents.",
+            "meta_keywords": "seat belt law, Ontario rules, road safety"
+        },
+        {
+            "id": 19,
+            "question": "When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way should be given to:",
+            "options": {
+                "A": "The one approaching from the left",
+                "B": "The one approaching from the right",
+                "C": "Neither one",
+                "D": "The one moving faster"
+            },
+            "answer": "B",
+            "explanation": "At uncontrolled intersections, giving way to the car on the right prevents accidents.",
+            "meta_keywords": "right-of-way, uncontrolled intersection, traffic rules"
+        },
+        {
+            "id": 20,
+            "question": "When it is safe to do so, passing other vehicles on the right side:",
+            "options": {
+                "A": "Is permitted on any street or highway",
+                "B": "Is permitted providing it is possible to do so by driving on the shoulder of the road",
+                "C": "Is not permitted under any circumstances",
+                "D": "Is permitted when the street or highway has two or more lanes for traffic in the direction you are travelling"
+            },
+            "answer": "D",
+            "explanation": "Passing on the right is only permitted on multi-lane roads where it can be done safely.",
+            "meta_keywords": "passing on the right, multi-lane roads, highway rules"
+        },
+        {
+            "id": 21,
+            "question": "When does the law require lights on vehicles to be turned on?",
+            "options": {
+                "A": "Between sunset and sunrise",
+                "B": "Between dusk and dawn and at any other time you cannot see clearly for a distance of 150m (500 ft.)",
+                "C": "Between half an hour before sunset to half an hour after sunrise and at any other time you cannot see clearly for a distance of 150 m (500 ft.)",
+                "D": "No specified time"
+            },
+            "answer": "C",
+            "explanation": "Turning on lights at dusk, dawn, or when visibility is poor helps other drivers and pedestrians see you, reducing accidents.",
+            "meta_keywords": "vehicle lights, law, visibility, Ontario rules"
+        },
+        {
+            "id": 22,
+            "question": "Are drivers responsible for their passengers buckling up?",
+            "options": {
+                "A": "Only if passengers are over sixteen years of age",
+                "B": "Only if passengers are under the age of sixteen",
+                "C": "Only if the passengers are in the front seat",
+                "D": "Only if passengers are over eighteen years of age"
+            },
+            "answer": "B",
+            "explanation": "Drivers are responsible for ensuring that passengers under 16 are buckled up as part of their duty to ensure vehicle safety.",
+            "meta_keywords": "seatbelt responsibility, passengers, Ontario laws"
+        },
+        {
+            "id": 23,
+            "question": "When lights are required, drivers must use lower beam headlights when following another vehicle:",
+            "options": {
+                "A": "Within 30 m (100 ft.)",
+                "B": "Within 60 m (200 ft.)",
+                "C": "Within 120 m (400 ft.)",
+                "D": "This only applies when approaching another vehicle"
+            },
+            "answer": "B",
+            "explanation": "Using low beams when following another vehicle prevents glare and improves safety for all road users.",
+            "meta_keywords": "low beam headlights, following distance, safe driving"
+        },
+        {
+            "id": 24,
+            "question": "Upon approaching a yield sign, what does the law require you to do?",
+            "options": {
+                "A": "Slow down, stop if necessary, and yield right-of-way",
+                "B": "Stop, then enter traffic slowly",
+                "C": "Stop, then enter traffic quickly",
+                "D": "Speed up and force your way into traffic"
+            },
+            "answer": "A",
+            "explanation": "Yielding ensures the safety of all road users by preventing sudden and dangerous entries into traffic.",
+            "meta_keywords": "yield sign, right-of-way, traffic rules"
+        },
+        {
+            "id": 25,
+            "question": "At what level of alcohol in the blood can you be convicted of being an impaired driver?",
+            "options": {
+                "A": "0.03 %",
+                "B": "0.05 %",
+                "C": "0.08 %",
+                "D": "1.0 %"
+            },
+            "answer": "B",
+            "explanation": "A blood alcohol level of 0.05% or higher impairs judgment and reaction times, making it illegal to drive.",
+            "meta_keywords": "impaired driving, blood alcohol level, Ontario laws"
+        },
+        {
+            "id": 26,
+            "question": "When a red signal light with a green arrow is shown at an intersection it means:",
+            "options": {
+                "A": "Stop and wait for the green light before making a turn in the direction of the arrow",
+                "B": "Proceed with caution in direction of arrow, yielding right-of-way to pedestrians and other traffic",
+                "C": "Stop and then proceed",
+                "D": "The green arrow is a signal for pedestrians only"
+            },
+            "answer": "B",
+            "explanation": "The green arrow allows turning in the indicated direction, provided it's safe and the right-of-way is given.",
+            "meta_keywords": "red light with green arrow, intersection rules, traffic signals"
+        },
+        {
+            "id": 27,
+            "question": "Every accident must be reported to the police where there is personal injury or when the damage exceeds:",
+            "options": {
+                "A": "$100",
+                "B": "$150",
+                "C": "$1500",
+                "D": "$2000"
+            },
+            "answer": "D",
+            "explanation": "Reporting accidents ensures that injuries and significant damages are properly documented and addressed.",
+            "meta_keywords": "accident reporting, damage threshold, Ontario traffic laws"
+        },
+        {
+            "id": 28,
+            "question": "A flashing green light at an intersection, where turns to the left and right are permitted, means:",
+            "options": {
+                "A": "You may turn to the left if the way is clear",
+                "B": "You may turn to the right if the way is clear",
+                "C": "You may proceed straight through if the way is clear",
+                "D": "You may do any of the above"
+            },
+            "answer": "D",
+            "explanation": "A flashing green light allows any movement (left, right, or straight) provided it is safe.",
+            "meta_keywords": "flashing green light, intersection rules, traffic movement"
+        },
+        {
+            "id": 29,
+            "question": "If a traffic signal changes while a pedestrian is still in the street, which of the following has the right-of-way?",
+            "options": {
+                "A": "Motorists making turns",
+                "B": "The pedestrian",
+                "C": "Motorists coming from his right",
+                "D": "Motorists coming from his left"
+            },
+            "answer": "B",
+            "explanation": "Pedestrians always have the right-of-way when crossing legally, even if the traffic signal changes.",
+            "meta_keywords": "pedestrian right-of-way, traffic signals, crossing rules"
+        },
+        {
+            "id": 30,
+            "question": "If you are convicted of drinking and driving, you will lose your driver's license on the first offence for:",
+            "options": {
+                "A": "1 month",
+                "B": "3 months",
+                "C": "6 months",
+                "D": "1 year"
+            },
+            "answer": "D",
+            "explanation": "Convictions for drinking and driving carry significant penalties, including license suspension.",
+            "meta_keywords": "drinking and driving, license suspension, Ontario penalties"
+        },
+        {
+            "id": 31,
+            "question": "A flashing blue light mounted on a motor vehicle indicates:",
+            "options": {
+                "A": "A motor vehicle carrying explosives",
+                "B": "Snow removal equipment",
+                "C": "An ambulance",
+                "D": "A police emergency vehicle"
+            },
+            "answer": "B",
+            "explanation": "Flashing blue lights are used to identify snow removal vehicles, alerting drivers to their presence during hazardous conditions.",
+            "meta_keywords": "flashing blue light, snow removal, vehicle identification"
+        },
+        {
+            "id": 32,
+            "question": "If you are involved in an accident in which someone is injured, you must:",
+            "options": {
+                "A": "Report the accident at once to the nearest provincial or municipal police officer",
+                "B": "Report the accident within 48 hours to the nearest provincial or municipal police officer",
+                "C": "Report the accident to your insurance only",
+                "D": "Report the accident to the Ministry of Transportation and Communications only"
+            },
+            "answer": "A",
+            "explanation": "Immediate reporting ensures timely medical assistance and legal documentation for injured parties.",
+            "meta_keywords": "accident reporting, injury, Ontario traffic rules"
+        },
+        {
+            "id": 33,
+            "question": "When driving on a divided highway and encountering a disabled vehicle, what must you do?",
+            "options": {
+                "A": "Slow down and sound your horn",
+                "B": "Move to the farthest lane from the disabled vehicle, if safe",
+                "C": "Continue driving at the posted speed",
+                "D": "Stop and offer assistance"
+            },
+            "answer": "B",
+            "explanation": "Moving away from a disabled vehicle ensures safety for both the driver and the disabled vehicle's occupants.",
+            "meta_keywords": "divided highway, disabled vehicle, traffic safety"
+        },
+        {
+            "id": 34,
+            "question": "How soon after a licensed driver changes their name or address must they notify the Ministry of Transportation and Communications?",
+            "options": {
+                "A": "Within 6 days",
+                "B": "Within 15 days",
+                "C": "Within 30 days",
+                "D": "At any time prior to renewal of license"
+            },
+            "answer": "A",
+            "explanation": "Timely updates ensure accurate records and prevent legal complications.",
+            "meta_keywords": "license update, name change, address change, Ontario rules"
+        },
+        {
+            "id": 35,
+            "question": "If you are involved in a reportable accident, when must you report it to the police?",
+            "options": {
+                "A": "At once",
+                "B": "Within 24 hours",
+                "C": "Within 48 hours",
+                "D": "Within 7 days"
+            },
+            "answer": "A",
+            "explanation": "Immediate reporting is required to document the incident and address legal or insurance needs.",
+            "meta_keywords": "accident reporting, legal requirements, Ontario traffic laws"
+        },
+        {
+            "id": 36,
+            "question": "When a truck becomes disabled on a highway with a speed limit exceeding 60 km/h, flares or reflectors must be placed approximately what distance ahead and behind the vehicle?",
+            "options": {
+                "A": "15 m (50 ft.)",
+                "B": "30 m (100 ft.)",
+                "C": "60 m (200 ft.)",
+                "D": "90 m (300 ft.)"
+            },
+            "answer": "B",
+            "explanation": "Placing flares or reflectors at a safe distance ensures that other drivers are alerted to the disabled vehicle.",
+            "meta_keywords": "disabled truck, flares, reflectors, highway safety"
+        },
+        {
+            "id": 37,
+            "question": "Under which of the following conditions is it dangerous and unlawful to make a 'U' turn?",
+            "options": {
+                "A": "Upon a curve or on a hill where there is a clear view of less than 150 m (500 ft.) in either direction",
+                "B": "On a railway crossing or within 30 m (100 ft.) of a railway crossing",
+                "C": "Within 150 m (500 ft.) of a bridge, viaduct, or tunnel if the driver's view is obstructed",
+                "D": "Under all of the above conditions"
+            },
+            "answer": "D",
+            "explanation": "These conditions create significant safety risks, making 'U' turns both dangerous and illegal.",
+            "meta_keywords": "U-turn restrictions, traffic safety, Ontario rules"
+        },
+        {
+            "id": 38,
+            "question": "What penalties can a driver face for driving while their license is suspended?",
+            "options": {
+                "A": "A fine of $1,000-$5,000 or imprisonment for six months or both",
+                "B": "Impoundment of the motor vehicle for a minimum of 45 days",
+                "C": "An additional 6-month suspension of driving privileges",
+                "D": "Any or all of the above"
+            },
+            "answer": "D",
+            "explanation": "Driving with a suspended license is a serious offense with multiple penalties, including fines, imprisonment, and vehicle impoundment.",
+            "meta_keywords": "license suspension, penalties, driving offenses"
+        },
+        {
+            "id": 39,
+            "question": "When approaching a railway crossing with no lights or gates, what should you do?",
+            "options": {
+                "A": "Slow down and look for approaching trains",
+                "B": "Stop no less than 1.5 m (5 ft.) from the nearest rail",
+                "C": "Increase speed and cross tracks as quickly as possible",
+                "D": "Stop no less than 5 m (15 ft.) from the nearest rail"
+            },
+            "answer": "B",
+            "explanation": "Stopping at a safe distance ensures safety for drivers and passengers when crossing railway tracks.",
+            "meta_keywords": "railway crossing, stopping distance, safety rules"
+        },
+        {
+            "id": 40,
+            "question": "What insurance protection does the owner get who pays the uninsured motor vehicle fee?",
+            "options": {
+                "A": "$10,000 insurance coverage",
+                "B": "$20,000 insurance coverage",
+                "C": "$35,000 insurance coverage",
+                "D": "No insurance protection whatsoever"
+            },
+            "answer": "D",
+            "explanation": "Paying the uninsured motor vehicle fee does not provide any insurance coverage, leaving drivers financially vulnerable.",
+            "meta_keywords": "uninsured motor vehicle, insurance protection, Ontario laws"
+        },
+        {
+            "id": 41,
+            "question": "Under what circumstances may a driver's license be canceled?",
+            "options": {
+                "A": "For failure to attend for re-examination",
+                "B": "For possession of an altered driver's license",
+                "C": "For failure to satisfactorily complete a driver re-examination",
+                "D": "Any or all of the above"
+            },
+            "answer": "D",
+            "explanation": "Driver's licenses can be canceled under these conditions to maintain safety and legality on the road.",
+            "meta_keywords": "driver's license cancellation, re-examination, Ontario laws"
+        },
+        {
+            "id": 42,
+            "question": "What documents may a police officer require a motor vehicle owner to produce?",
+            "options": {
+                "A": "If the motor vehicle is insured—a liability insurance card",
+                "B": "The motor vehicle ownership",
+                "C": "If they are operating a motor vehicle—a valid driver's license",
+                "D": "Any of the above"
+            },
+            "answer": "D",
+            "explanation": "Producing these documents is required to verify legal ownership, insurance, and driving privileges.",
+            "meta_keywords": "police requirements, vehicle ownership, insurance documents"
+        },
+        {
+            "id": 43,
+            "question": "When may you lend your driver's license?",
+            "options": {
+                "A": "Never",
+                "B": "To another person who is learning to drive",
+                "C": "For identification purposes only",
+                "D": "In emergencies"
+            },
+            "answer": "A",
+            "explanation": "Lending your driver's license is illegal and can result in penalties.",
+            "meta_keywords": "driver's license, lending rules, Ontario laws"
+        },
+        {
+            "id": 44,
+            "question": "When approaching an intersection where a traffic signal light is red and a policeman motions you to go through, you should:",
+            "options": {
+                "A": "Wait for the light to turn",
+                "B": "Obey the policeman's signal and go through at once",
+                "C": "Call the policeman's attention to the red light",
+                "D": "Stop to make sure they want you to go through"
+            },
+            "answer": "B",
+            "explanation": "Policeman's instructions override traffic signals for immediate traffic control.",
+            "meta_keywords": "traffic light, police instructions, intersection safety"
+        },
+        {
+            "id": 45,
+            "question": "What is the penalty for driving over the speed limit by 50 km/h (30 mph) or more?",
+            "options": {
+                "A": "Suspension of license for 6 months",
+                "B": "Suspension of license for 30 days",
+                "C": "Impoundment of motor vehicle for 6 months",
+                "D": "A fine and mandatory driver education"
+            },
+            "answer": "A",
+            "explanation": "Driving at excessive speeds is considered a serious offense with strict penalties.",
+            "meta_keywords": "speeding, license suspension, traffic laws"
+        },
+        {
+            "id": 46,
+            "question": "When approaching an intersection and you notice the roadway beyond the intersection is blocked with traffic, you should:",
+            "options": {
+                "A": "Keep as close as possible to the car ahead",
+                "B": "Proceed slowly into the intersection until the traffic ahead moves on",
+                "C": "Stop before entering the intersection and wait until traffic ahead moves on",
+                "D": "Sound your horn to warn cars ahead to move on"
+            },
+            "answer": "C",
+            "explanation": "Blocking intersections can disrupt traffic flow and lead to penalties.",
+            "meta_keywords": "intersection safety, traffic block, stopping rules"
+        },
+        {
+            "id": 47,
+            "question": "What should you do when approaching a school bus that is stopped with its lights flashing?",
+            "options": {
+                "A": "Slow down and proceed with caution",
+                "B": "Stop until the bus moves or the lights stop flashing",
+                "C": "Wait for approaching vehicles to pass",
+                "D": "Sound your horn and pass cautiously"
+            },
+            "answer": "B",
+            "explanation": "Stopping for school buses ensures the safety of children boarding or alighting.",
+            "meta_keywords": "school bus, flashing lights, safety rules"
+        },
+        {
+            "id": 48,
+            "question": "A driver may be required to attend an interview and re-examination of their driving ability:",
+            "options": {
+                "A": "When 9 demerit points have been accumulated",
+                "B": "When 3 demerit points have been accumulated",
+                "C": "When 6 demerit points have been accumulated",
+                "D": "When 15 demerit points have been accumulated"
+            },
+            "answer": "A",
+            "explanation": "Drivers with 9 demerit points must demonstrate improved driving skills or face penalties.",
+            "meta_keywords": "driver re-examination, demerit points, driving skills"
+        },
+        {
+            "id": 49,
+            "question": "The Ministry of Transportation may suspend a license after a 9 demerit point interview:",
+            "options": {
+                "A": "If a driver fails to give satisfactory reasons why their license should not be suspended",
+                "B": "If the license is not needed for business reasons",
+                "C": "The Ministry is not permitted to suspend a license before the 15-point level is reached",
+                "D": "Only for specific violations"
+            },
+            "answer": "A",
+            "explanation": "Failing to provide valid reasons during the interview can result in suspension.",
+            "meta_keywords": "license suspension, demerit points, traffic violations"
+        },
+        {
+            "id": 50,
+            "question": "When 15 or more demerit points have accumulated on a record, the driver's license is suspended:",
+            "options": {
+                "A": "Automatically, and for 30 days from receipt of license",
+                "B": "At the discretion of the Ministry",
+                "C": "Only if the license is not used for business purposes",
+                "D": "For 3 months"
+            },
+            "answer": "A",
+            "explanation": "Accumulating 15 or more demerit points results in an automatic 30-day suspension.",
+            "meta_keywords": "demerit points, license suspension, driving rules"
+        },
+        {
+            "id": 50,
+            "question": "When 15 or more demerit points have accumulated on a record the driver's license is suspended:",
+            "options": {
+                "A": "Automatically, and for 30 days from receipt of license",
+                "B": "At the discretion of the ministry",
+                "C": "Only if the license is not used for business purposes",
+                "D": "For 3 months"
+            },
+            "answer": "A",
+            "explanation": "Accumulating 15 or more demerit points leads to an automatic 30-day suspension to encourage safer driving.",
+            "meta_keywords": "demerit points, license suspension, Ontario driving rules"
+        },
+        {
+            "id": 51,
+            "question": "At 15 demerit points your license is suspended. After 30 days, the number of points on the driver's record is:",
+            "options": {
+                "A": "Reduced to 7 points",
+                "B": "Reduced to 0 points",
+                "C": "Reduced to 5 points",
+                "D": "None of the above"
+            },
+            "answer": "A",
+            "explanation": "After suspension, points are reduced to encourage better driving while retaining a record of infractions.",
+            "meta_keywords": "demerit points, driving record, Ontario traffic penalties"
+        },
+        {
+            "id": 52,
+            "question": "When selling a motor vehicle to another person, you, the seller, should:",
+            "options": {
+                "A": "Notify the ministry of the change of ownership within six days from the date of sale",
+                "B": "Go with the buyer to a vehicle license issuing office to carry out the change of ownership",
+                "C": "If selling the vehicle without a safety standards certificate, return the vehicle plates and permit, and obtain an unfit vehicle permit in the buyer's name",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "Proper vehicle sale procedures protect both the buyer and the seller and ensure legal compliance.",
+            "meta_keywords": "selling vehicle, Ontario vehicle laws, ownership transfer"
+        },
+        {
+            "id": 53,
+            "question": "You should, under all conditions, drive at a speed which will allow you to:",
+            "options": {
+                "A": "Stop within 90 meters (300 feet)",
+                "B": "Stop within 60 meters (200 feet)",
+                "C": "Stop within a safe distance",
+                "D": "Stop within 150 meters (500 feet)"
+            },
+            "answer": "C",
+            "explanation": "Maintaining a safe stopping distance ensures you can react to unexpected hazards on the road.",
+            "meta_keywords": "safe distance, stopping rules, Ontario driving safety"
+        },
+        {
+            "id": 54,
+            "question": "Never change lanes in traffic without:",
+            "options": {
+                "A": "Giving proper signal and looking to make sure the move can be made safely",
+                "B": "Decreasing speed and giving the correct signal",
+                "C": "Looking into the rearview mirror only",
+                "D": "Blowing your horn and looking to the rear"
+            },
+            "answer": "A",
+            "explanation": "Signaling and ensuring the lane is clear reduces accidents and promotes road safety.",
+            "meta_keywords": "changing lanes, signaling, Ontario driving laws"
+        },
+        {
+            "id": 55,
+            "question": "How close to a fire hydrant may you legally park?",
+            "options": {
+                "A": "3 meters (10 ft.)",
+                "B": "4.5 meters (15 ft.)",
+                "C": "1.5 meters (5 ft.)",
+                "D": "6 meters (20 ft.)"
+            },
+            "answer": "A",
+            "explanation": "Parking near a fire hydrant obstructs emergency services, so a minimum distance is required.",
+            "meta_keywords": "fire hydrant parking rules, Ontario traffic laws, emergency access"
+        },
+        {
+            "id": 56,
+            "question": "Most automobile skids are the result of:",
+            "options": {
+                "A": "Under-inflated tires",
+                "B": "Over-inflated tires",
+                "C": "Snow or ice on the road",
+                "D": "Driving too fast"
+            },
+            "answer": "D",
+            "explanation": "Excessive speed reduces traction, increasing the likelihood of skidding, especially on wet or icy roads.",
+            "meta_keywords": "skidding, speeding, Ontario road safety"
+        },
+        {
+            "id": 57,
+            "question": "Parking lights may be used:",
+            "options": {
+                "A": "At any time",
+                "B": "For parking only",
+                "C": "When driving in heavy fog",
+                "D": "When driving on a well-lit street"
+            },
+            "answer": "B",
+            "explanation": "Parking lights are meant only for stationary vehicles to signal their presence to other drivers.",
+            "meta_keywords": "parking lights, vehicle safety, Ontario driving rules"
+        },
+        {
+            "id": 58,
+            "question": "The best way to stop quickly on a wet or icy roadway is to:",
+            "options": {
+                "A": "Pump the brake until you come to a stop",
+                "B": "Keep foot off the brake and let compression stop",
+                "C": "Step on brakes hard and try to prevent vehicle from skidding",
+                "D": "Apply brakes the same way you always do"
+            },
+            "answer": "A",
+            "explanation": "Pumping the brakes prevents the wheels from locking, allowing better control on slippery surfaces.",
+            "meta_keywords": "wet roads, stopping techniques, Ontario road safety"
+        },
+        {
+            "id": 59,
+            "question": "When driving in heavy fog, you should use:",
+            "options": {
+                "A": "Parking lights",
+                "B": "Low beam headlights",
+                "C": "Parking lights and high beam headlights",
+                "D": "High beam headlights"
+            },
+            "answer": "B",
+            "explanation": "Low beam headlights improve visibility in fog without reflecting light back into the driver's eyes.",
+            "meta_keywords": "fog driving, headlights, Ontario driving laws"
+        },
+        {
+            "id": 60,
+            "question": "Before leaving your car parked on a downgrade, you should:",
+            "options": {
+                "A": "Leave your front wheels parallel to the curb",
+                "B": "Turn your front wheels to the left and set your parking brake",
+                "C": "Set your parking brake only",
+                "D": "Turn your front wheels to the right and set your parking brake"
+            },
+            "answer": "D",
+            "explanation": "Turning wheels to the curb prevents the car from rolling into traffic if the parking brake fails.",
+            "meta_keywords": "parking on slope, parking brake, Ontario driving safety"
+        },
+        {
+            "id": 61,
+            "question": "When the driver of another vehicle is about to overtake and pass your vehicle you must:",
+            "options": {
+                "A": "Move to the right and allow such vehicle to pass",
+                "B": "Speed up so that passing is not necessary",
+                "C": "Signal the other driver not to pass",
+                "D": "Move to the left to prevent passing"
+            },
+            "answer": "A",
+            "explanation": "Moving to the right ensures safe overtaking and minimizes potential collisions.",
+            "meta_keywords": "overtaking, Ontario driving rules, road etiquette"
+        },
+        {
+            "id": 62,
+            "question": "Should your right wheels drop off the roadway, what is the best way to get back on the roadway?",
+            "options": {
+                "A": "Steer hard to left",
+                "B": "Apply brakes and steer hard to the left",
+                "C": "Take foot off gas pedal, turn back when vehicle has slowed",
+                "D": "Apply brakes to reduce speed"
+            },
+            "answer": "C",
+            "explanation": "Gradual re-entry to the road prevents sudden movements that could cause a loss of control.",
+            "meta_keywords": "road re-entry, driving techniques, Ontario driving safety"
+        },
+        {
+            "id": 63,
+            "question": "You are required to keep a safe distance behind the vehicle in front of you. At 50 kilometers (30 miles) an hour, you should keep at least:",
+            "options": {
+                "A": "Seven car lengths behind the other vehicle",
+                "B": "Three car lengths behind the other vehicle",
+                "C": "One car length behind the other vehicle",
+                "D": "Five car lengths behind the other vehicle"
+            },
+            "answer": "B",
+            "explanation": "Maintaining three car lengths at 50 km/h allows time to react and stop safely.",
+            "meta_keywords": "safe following distance, road safety, Ontario driving rules"
+        },
+        {
+            "id": 64,
+            "question": "Unless otherwise posted, the maximum speed limit on the highway outside of a city, town, village, or built-up area is:",
+            "options": {
+                "A": "100 kilometers (60 miles) an hour",
+                "B": "80 kilometers (50 miles) an hour",
+                "C": "60 kilometers (40 miles) an hour",
+                "D": "50 kilometers (30 miles) an hour"
+            },
+            "answer": "B",
+            "explanation": "The maximum speed limit outside built-up areas in Ontario is generally 80 km/h unless otherwise posted.",
+            "meta_keywords": "speed limit, highway driving, Ontario traffic rules"
+        },
+        {
+            "id": 65,
+            "question": "Before moving your car from a parked position, you should:",
+            "options": {
+                "A": "Check other traffic, signal, and pull from curb quickly",
+                "B": "Honk your horn and pull from curb slowly",
+                "C": "Check other traffic, signal, and pull from curb when it is safe to do so",
+                "D": "Signal and pull from curb"
+            },
+            "answer": "C",
+            "explanation": "Ensuring it is safe before moving from a parked position helps avoid accidents and traffic violations.",
+            "meta_keywords": "parking, moving from curb, Ontario traffic laws"
+        },
+        {
+            "id": 66,
+            "question": "When descending a steep hill, good safe-driving practice is to:",
+            "options": {
+                "A": "Gear down and use motor to assist in braking",
+                "B": "Turn off the ignition",
+                "C": "Place the gear shift in neutral",
+                "D": "Disengage the clutch and coast"
+            },
+            "answer": "A",
+            "explanation": "Using a lower gear helps maintain control and reduces brake wear on steep descents.",
+            "meta_keywords": "steep hill, safe driving, engine braking"
+        },
+        {
+            "id": 67,
+            "question": "When driving a motor vehicle on the highway at night, you should use low beam headlights (dim lights) when:",
+            "options": {
+                "A": "Approaching an intersection",
+                "B": "Meeting or following another vehicle",
+                "C": "Another driver dims their lights",
+                "D": "Blinded by the headlights of an approaching vehicle"
+            },
+            "answer": "B",
+            "explanation": "Low beam headlights reduce glare for oncoming traffic and improve safety at night.",
+            "meta_keywords": "low beam headlights, night driving, Ontario traffic rules"
+        },
+        {
+            "id": 68,
+            "question": "It is more dangerous to drive at the maximum speed limit at night than during daytime because:",
+            "options": {
+                "A": "Some drivers unlawfully drive with parking lights only",
+                "B": "You cannot see as far ahead at night",
+                "C": "The roadways are more apt to be slippery at night",
+                "D": "Your reaction time is slower at night"
+            },
+            "answer": "B",
+            "explanation": "Reduced visibility at night makes it harder to anticipate and react to hazards.",
+            "meta_keywords": "night driving, visibility, road safety"
+        },
+        {
+            "id": 69,
+            "question": "Which of the following hand-and-arm signals is correct for slowing or stopping?",
+            "options": {
+                "A": "Arm out and up",
+                "B": "Arm straight out the window",
+                "C": "Arm out and down",
+                "D": "Circle motion"
+            },
+            "answer": "C",
+            "explanation": "An arm extended downward is a universal signal for slowing or stopping.",
+            "meta_keywords": "hand signals, stopping, Ontario driving rules"
+        },
+        {
+            "id": 70,
+            "question": "At night when you meet another vehicle with blinding bright lights, the safest thing to do is:",
+            "options": {
+                "A": "Open and shut your eyes rapidly",
+                "B": "Look at the headlights of the approaching vehicle",
+                "C": "Turn your high beam lights on",
+                "D": "Look slightly to the right-hand side"
+            },
+            "answer": "D",
+            "explanation": "Looking slightly to the right avoids glare and helps maintain visibility of the road.",
+            "meta_keywords": "night driving, bright lights, Ontario road safety"
+        },
+        {
+            "id": 71,
+            "question": "When a car stops to allow a pedestrian to cross the street at a marked crosswalk, you should:",
+            "options": {
+                "A": "Pass the stopped car on the left",
+                "B": "Sound horn for the driver of the stopped car to drive on",
+                "C": "Pass the stopped car to the right",
+                "D": "Not pass any car stopped to allow a pedestrian to cross"
+            },
+            "answer": "D",
+            "explanation": "Passing a stopped vehicle at a crosswalk endangers pedestrians and is illegal.",
+            "meta_keywords": "pedestrian safety, crosswalk rules, Ontario traffic laws"
+        },
+        {
+            "id": 72,
+            "question": "The broken center line on a roadway means you may:",
+            "options": {
+                "A": "Never pass",
+                "B": "Pass if the way is clear",
+                "C": "Pass at any time",
+                "D": "Pass only during daylight hours"
+            },
+            "answer": "B",
+            "explanation": "A broken center line indicates that passing is permitted when it is safe to do so.",
+            "meta_keywords": "broken center line, passing rules, Ontario driving"
+        },
+        {
+            "id": 73,
+            "question": "Except when you intend to overtake and pass another vehicle or when you intend to make a left turn, you should:",
+            "options": {
+                "A": "Drive in the center of the roadway",
+                "B": "Always keep well to the right",
+                "C": "Drive on the shoulder of the highway",
+                "D": "Always keep well to the left"
+            },
+            "answer": "B",
+            "explanation": "Staying in the right lane except for passing or turning reduces traffic congestion and improves safety.",
+            "meta_keywords": "lane rules, passing, Ontario driving safety"
+        },
+        {
+            "id": 74,
+            "question": "When you are deciding whether or not to make a U-turn, your first consideration should be to check:",
+            "options": {
+                "A": "There is no sign saying not to",
+                "B": "Presence of trees, fire hydrants, or poles near the curb",
+                "C": "Turning radius of your car",
+                "D": "Height of curb"
+            },
+            "answer": "A",
+            "explanation": "Checking for signs prohibiting U-turns ensures you comply with traffic laws.",
+            "meta_keywords": "U-turn rules, Ontario traffic signs, driving safety"
+        },
+        {
+            "id": 75,
+            "question": "A solid center line on the roadway is on your side of a broken center line. What does the solid center line mean?",
+            "options": {
+                "A": "Passing is unsafe",
+                "B": "Pass only when no traffic is in sight",
+                "C": "It is safe to overtake and pass",
+                "D": "Pass at any time"
+            },
+            "answer": "A",
+            "explanation": "A solid line indicates that passing is unsafe and should not be attempted.",
+            "meta_keywords": "solid line rules, passing restrictions, Ontario traffic laws"
+        },
+        {
+            "id": 76,
+            "question": "What must a driver do before entering a highway from a private road or driveway?",
+            "options": {
+                "A": "Sound horn and proceed with caution",
+                "B": "Enter or cross the highway as quickly as possible",
+                "C": "Give hand signal then take right-of-way",
+                "D": "Yield right-of-way to all vehicles approaching on the highway"
+            },
+            "answer": "D",
+            "explanation": "Yielding to traffic ensures safe merging and prevents accidents.",
+            "meta_keywords": "yielding rules, merging, Ontario traffic safety"
+        },
+        {
+            "id": 77,
+            "question": "If you are driving and suddenly one of your tires blows out, you should:",
+            "options": {
+                "A": "Concentrate on steering",
+                "B": "Take your foot off the gas pedal to slow down",
+                "C": "Bring the vehicle to a stop off the road",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "Remaining calm and taking these steps ensures safe handling of the vehicle during a blowout.",
+            "meta_keywords": "tire blowout, emergency driving, Ontario driving safety"
+        },
+        {
+            "id": 78,
+            "question": "When a streetcar stops to pick up or discharge passengers and there is a safety island, what does the law require you to do?",
+            "options": {
+                "A": "Pass with caution",
+                "B": "Stop at least 2 meters behind the safety island",
+                "C": "Sound horn and pass with caution",
+                "D": "Pass on the left side of the streetcar"
+            },
+            "answer": "A",
+            "explanation": "If there is a safety island, drivers are allowed to pass cautiously without stopping.",
+            "meta_keywords": "streetcar safety island, passing rules, Ontario traffic laws"
+        },
+        {
+            "id": 79,
+            "question": "If you are approaching an intersection and traffic lights are not working, you should:",
+            "options": {
+                "A": "Yield to the traffic to your right",
+                "B": "Stop until no cars are passing and then go",
+                "C": "Treat it as a four-way stop sign",
+                "D": "Slow down and proceed with caution"
+            },
+            "answer": "C",
+            "explanation": "When traffic lights are out of order, intersections should be treated as four-way stops to ensure safety.",
+            "meta_keywords": "intersection safety, traffic lights out, Ontario driving"
+        },
+        {
+            "id": 80,
+            "question": "Failing to stop for a school bus that is unloading passengers will:",
+            "options": {
+                "A": "Result in a one-year jail sentence",
+                "B": "Cost you 6 demerit points and a fine of up to $1000",
+                "C": "Get you a warning and a fine of $100",
+                "D": "Result in retaking your road test"
+            },
+            "answer": "B",
+            "explanation": "Failing to stop for a school bus is a serious offense with significant penalties to protect children’s safety.",
+            "meta_keywords": "school bus, stopping rules, Ontario penalties"
+        },
+        {
+            "id": 81,
+            "question": "Demerit points lost will remain on your driver's record for a period of:",
+            "options": {
+                "A": "One year",
+                "B": "Two years",
+                "C": "Three years",
+                "D": "Five years"
+            },
+            "answer": "B",
+            "explanation": "Demerit points stay on your record for two years from the date of the offense, impacting your driving record and insurance.",
+            "meta_keywords": "demerit points, driving record, Ontario rules"
+        },
+        {
+            "id": 82,
+            "question": "To get your vehicle out of a skid, you should first: (e.g., if your rear wheels suddenly slip to the right)",
+            "options": {
+                "A": "Steer in the opposite direction of the skid",
+                "B": "Steer straight ahead",
+                "C": "Apply brake hard",
+                "D": "Steer in the direction of the skid"
+            },
+            "answer": "D",
+            "explanation": "Steering in the direction of the skid helps regain control of the vehicle without overcorrecting.",
+            "meta_keywords": "skid recovery, vehicle control, driving safety"
+        },
+        {
+            "id": 83,
+            "question": "If you lose control of your vehicle and it goes off the road, you should:",
+            "options": {
+                "A": "Grip the steering wheel firmly",
+                "B": "Take your foot off the gas pedal to slow down and avoid heavy braking",
+                "C": "When the vehicle is under control, steer back to the road",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "Staying calm and following these steps ensures you safely return to the road.",
+            "meta_keywords": "vehicle control, off-road recovery, Ontario driving"
+        },
+        {
+            "id": 84,
+            "question": "As a level one or level two driver, if you collect nine or more points during a two-year period, your licence will be suspended for:",
+            "options": {
+                "A": "60 days",
+                "B": "30 days",
+                "C": "1 year",
+                "D": "15 days"
+            },
+            "answer": "A",
+            "explanation": "New drivers must follow strict rules, and accumulating 9 or more demerit points results in a 60-day suspension to encourage safe driving.",
+            "meta_keywords": "new driver, demerit points, licence suspension"
+        },
+        {
+            "id": 85,
+            "question": "Highway 407 is:",
+            "options": {
+                "A": "The longest highway in Ontario",
+                "B": "A new highway",
+                "C": "An express toll route (paid toll highway)",
+                "D": "An expressway to the USA"
+            },
+            "answer": "C",
+            "explanation": "Highway 407 is a toll road that provides a faster route for drivers willing to pay for reduced travel time.",
+            "meta_keywords": "Highway 407, toll road, Ontario highways, express route"
+        },
+        {
+            "id": 86,
+            "question": "Level one and level two drivers must have a blood alcohol level of zero when driving. New drivers caught drinking and driving will be charged under the Criminal Code and will get how many days suspension?",
+            "options": {
+                "A": "30 days",
+                "B": "60 days",
+                "C": "90 days",
+                "D": "1 year"
+            },
+            "answer": "A",
+            "explanation": "Ontario enforces a strict zero-alcohol policy for new drivers to ensure safety and compliance with the law.",
+            "meta_keywords": "G1 drivers, G2 drivers, drinking and driving, zero alcohol, license suspension"
+        },
+        {
+            "id": 87,
+            "question": "If you are driving and your cellular phone rings, what should you do?",
+            "options": {
+                "A": "Pick up the phone quickly and talk briefly while driving",
+                "B": "Let your voicemail service take the call and check your messages while you are driving",
+                "C": "Answer your phone if there are no police around",
+                "D": "In Ontario, it is illegal to talk on the cellular while driving"
+            },
+            "answer": "D",
+            "explanation": "Using a cellular phone while driving is illegal in Ontario to prevent distracted driving and reduce accidents.",
+            "meta_keywords": "cellular phone, distracted driving, Ontario driving laws, safety"
+        },
+        {
+            "id": 88,
+            "question": "As a Level One (G1) driver, you must be accompanied by a Class G or higher licensed driver, who has the following driving experience more than:",
+            "options": {
+                "A": "Three years",
+                "B": "Four years",
+                "C": "Eight years",
+                "D": "Six years"
+            },
+            "answer": "A",
+            "explanation": "G1 drivers must have a licensed driver with at least three years of driving experience to ensure safety and guidance.",
+            "meta_keywords": "G1 driver, driving experience, Class G license, safety requirements"
+        },
+        {
+            "id": 89,
+            "question": "If you are involved in an accident that was due to your use of a cellular phone while driving:",
+            "options": {
+                "A": "Your insurance will increase",
+                "B": "You will be charged with careless driving and lose 6 demerit points",
+                "C": "Your license will be suspended for one year",
+                "D": "You will have to take your road test again"
+            },
+            "answer": "B",
+            "explanation": "Using a cell phone while driving can lead to a charge of careless driving, a major violation resulting in loss of demerit points.",
+            "meta_keywords": "cell phone driving accident, careless driving, demerit points, driving laws"
+        },
+        {
+            "id": 90,
+            "question": "As a Level Two (G2) driver your alcohol level must not exceed:",
+            "options": {
+                "A": "0.08%",
+                "B": "0.05%",
+                "C": "0.02%",
+                "D": "0.00%"
+            },
+            "answer": "D",
+            "explanation": "G2 drivers must maintain a zero blood alcohol level to comply with strict regulations for novice drivers.",
+            "meta_keywords": "G2 driver, blood alcohol level, driving laws, novice drivers"
+        },
+        {
+            "id": 91,
+            "question": "Snow tires are good for:",
+            "options": {
+                "A": "Summer driving",
+                "B": "All season driving",
+                "C": "Winter driving",
+                "D": "Spring and fall only"
+            },
+            "answer": "C",
+            "explanation": "Snow tires are specifically designed for better traction and safety in winter driving conditions.",
+            "meta_keywords": "snow tires, winter driving, vehicle safety, tire types"
+        },
+        {
+            "id": 92,
+            "question": "Under the Highway Traffic Act, if you are convicted of driving while your license is suspended, assuming it is your first offence, you will:",
+            "options": {
+                "A": "Receive a fine of $500",
+                "B": "Be fined between $1000 to $5000",
+                "C": "Be sentenced to six months in jail",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "Driving with a suspended license results in severe penalties, including fines and potential imprisonment.",
+            "meta_keywords": "driving suspension, highway traffic act, penalties, fines"
+        },
+        {
+            "id": 93,
+            "question": "The police have the right to stop any driver they suspect is impaired. If you refuse to take a breathalyzer test, your license will be suspended immediately for:",
+            "options": {
+                "A": "30 days",
+                "B": "1 year",
+                "C": "60 days",
+                "D": "90 days"
+            },
+            "answer": "D",
+            "explanation": "Refusing a breathalyzer test leads to an immediate license suspension, as per impaired driving laws.",
+            "meta_keywords": "breathalyzer refusal, impaired driving, license suspension"
+        },
+        {
+            "id": 94,
+            "question": "As a Level One or Level Two driver you will have your license suspended if you collect 9 or more demerit points during a two-year period. 60 days after suspension your record will be reduced to:",
+            "options": {
+                "A": "6 points",
+                "B": "4 points",
+                "C": "Zero",
+                "D": "2 points"
+            },
+            "answer": "A",
+            "explanation": "After a suspension for demerit points, drivers’ records are partially restored to encourage better driving habits.",
+            "meta_keywords": "demerit points, license suspension, driving record"
+        },
+        {
+            "id": 95,
+            "question": "If your brakes fail:",
+            "options": {
+                "A": "Pump the brake pedal",
+                "B": "Apply the parking brake gently but firmly",
+                "C": "Keep your hand on the release button (of the parking brake)",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "These steps help regain control and safely stop the vehicle during brake failure.",
+            "meta_keywords": "brake failure, vehicle safety, emergency stopping"
+        },
+        {
+            "id": 96,
+            "question": "Level One drivers (G1) must keep their blood alcohol level at zero percent and be accompanied by a Class G driver with a blood alcohol level of less than:",
+            "options": {
+                "A": "0.00%",
+                "B": "0.05%",
+                "C": "0.08%",
+                "D": "0.03%"
+            },
+            "answer": "B",
+            "explanation": "Accompanying drivers must also adhere to strict alcohol limits to ensure safety and compliance.",
+            "meta_keywords": "G1 driver, alcohol level, driving laws, accompanying driver"
+        },
+        {
+            "id": 97,
+            "question": "Under the Criminal Code, if you are caught driving while your licence is suspended, your vehicle will be impounded for:",
+            "options": {
+                "A": "1 year",
+                "B": "6 months",
+                "C": "45 days",
+                "D": "30 days"
+            },
+            "answer": "C",
+            "explanation": "Vehicle impoundment is a consequence of driving under suspension to deter repeat offenses.",
+            "meta_keywords": "license suspension, vehicle impoundment, driving laws"
+        },
+        {
+            "id": 98,
+            "question": "If someone is tailgating you what should you do?",
+            "options": {
+                "A": "Move into another lane when it is safe to do so",
+                "B": "Slow down slightly to increase the space in front of your car",
+                "C": "Pull over to let the tailgater pass",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": "These actions help de-escalate a potentially dangerous situation caused by tailgating.",
+            "meta_keywords": "tailgating, defensive driving, road safety"
+        },
+        {
+            "id": 99,
+            "question": "If you want to pass a motorcycle, you should:",
+            "options": {
+                "A": "Honk your horn before you pass",
+                "B": "Turn on your high-beam lights before you pass",
+                "C": "Pass just as you would with another car",
+                "D": "Use half of their lane to pass"
+            },
+            "answer": "C",
+            "explanation": "Treat motorcycles as full vehicles and pass with care to ensure safety for all.",
+            "meta_keywords": "motorcycle passing, road safety, driving rules"
+        },
+        {
+            "id": 100,
+            "question": "Why is it necessary to check over your shoulder when changing lanes?",
+            "options": {
+                "A": "It is a good exercise for your neck",
+                "B": "There will always be a blind spot in your mirrors, no matter how you adjust them",
+                "C": "To see who is driving",
+                "D": "All of the above"
+            },
+            "answer": "B",
+            "explanation": "Blind spots cannot be eliminated by mirrors, so checking over your shoulder ensures no hidden hazards.",
+            "meta_keywords": "lane changing, blind spots, driving safety"
+        },
+        {
+            "id": 101,
+            "question": "You must report an accident to the police under:",
+            "options": {
+                "A": "There is less than $600 damage",
+                "B": "The damage is over $2000",
+                "C": "If someone has been hurt or killed",
+                "D": "B and C are correct"
+            },
+            "answer": "D",
+            "explanation": "Reporting accidents involving significant property damage or injuries is mandatory to comply with legal and safety requirements.",
+            "meta_keywords": "accident reporting, police, property damage, injuries"
+        },
+        {
+            "id": 102,
+            "question": "If you are a teenage driver aged 19 or under in the first six months after receiving your G2 licence, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?",
+            "options": {
+                "A": "Three passengers aged 19 or under",
+                "B": "No passengers aged 19 or under",
+                "C": "One passenger aged 19 or under",
+                "D": "Two passengers aged 19 or under"
+            },
+            "answer": "C",
+            "explanation": "Restrictions on the number of young passengers help reduce distractions and accidents during nighttime driving for new drivers.",
+            "meta_keywords": "G2 licence, teenage driver, passenger restrictions, nighttime driving"
+        },
+        {
+            "id": 103,
+            "question": "If you are a teenage driver, after six months with your G2 licence and until you obtain your full G licence or turn 20, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?",
+            "options": {
+                "A": "Three passengers aged 19 or under",
+                "B": "No passengers aged 19 or under",
+                "C": "One passenger aged 19 or under",
+                "D": "Two passengers aged 19 or under"
+            },
+            "answer": "A",
+            "explanation": "Teenage drivers are allowed more passengers after six months to encourage skill development and responsible driving habits.",
+            "meta_keywords": "G2 licence, teenage driver, passenger rules, driving restrictions"
+        },
+        {
+            "id": 104,
+            "question": "There are some exemptions for a teenage G2 driver, if you are accompanied by a fully licensed driver with at least how many years of driving experience in the front seat, or if your young passengers are members of your immediate family?",
+            "options": {
+                "A": "Two years",
+                "B": "Three years",
+                "C": "Four years",
+                "D": "Five years"
+            },
+            "answer": "C",
+            "explanation": "Exemptions for G2 drivers include having an experienced driver in the car or passengers being immediate family members, which ensures safety and compliance.",
+            "meta_keywords": "G2 exemptions, experienced driver, driving rules, immediate family"
+        },
+        {
+            "id": 105,
+            "question": "Overdriving your headlights at night is dangerous because:",
+            "options": {
+                "A": "You are driving too fast",
+                "B": "Your headlights are too bright",
+                "C": "You cannot stop within the distance that you can see",
+                "D": "It is not good for the car battery"
+            },
+            "answer": "C",
+            "explanation": "Overdriving headlights means you’re unable to stop within your visible range, increasing the risk of accidents.",
+            "meta_keywords": "overdriving headlights, nighttime driving, vehicle safety, stopping distance"
+        }
+    ]
+}

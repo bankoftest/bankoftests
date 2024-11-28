@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在两年内第一阶段(G1)及第二阶段(G2)的驾驶者, 过失点达到9分或以上时, 停牌60天后过失点减到：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在两年内第一阶段(G1)及第二阶段(G2)的驾驶者, 过失点达到9分或以上时, 停牌60天后过失点减到：
+========================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q94" class="quiz">
+       <div class="option" id="q94-A" onclick="selectOption('q94', 'A', false)">
+           A. 6分
+       </div>
+       <div class="option" id="q94-B" onclick="selectOption('q94', 'B', true)">
+           B. 4分
+       </div>
+       <div class="option" id="q94-C" onclick="selectOption('q94', 'C', false)">
+           C. 0分
+       </div>
+       <div class="option" id="q94-D" onclick="selectOption('q94', 'D', false)">
+           D. 2分
+       </div>
+       <p id="q94-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q93.html" class="button">|prev_question|</a>
+       <span class="page-indicator">94 / 105</span>
+       <a href="q95.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

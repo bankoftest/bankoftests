@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: As a Level One or Level Two driver you will have your license suspended if you collect 9 or more demerit points during a two-year period. 60 days after suspension your record will be reduced to:
+   :keywords: demerit points, license suspension, driving record
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+As a Level One or Level Two driver you will have your license suspended if you collect 9 or more demerit points during a two-year period. 60 days after suspension your record will be reduced to:
+====================================================================================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q94" class="quiz">
+       <div class="option" id="q94-A" onclick="selectOption('q94', 'A', true)">
+           A. 6 points
+       </div>
+       <div class="option" id="q94-B" onclick="selectOption('q94', 'B', false)">
+           B. 4 points
+       </div>
+       <div class="option" id="q94-C" onclick="selectOption('q94', 'C', false)">
+           C. Zero
+       </div>
+       <div class="option" id="q94-D" onclick="selectOption('q94', 'D', false)">
+           D. 2 points
+       </div>
+       <p id="q94-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   After a suspension for demerit points, drivers’ records are partially restored to encourage better driving habits.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q93.html" class="button">|prev_question|</a>
+       <span class="page-indicator">94 / 106</span>
+       <a href="q95.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

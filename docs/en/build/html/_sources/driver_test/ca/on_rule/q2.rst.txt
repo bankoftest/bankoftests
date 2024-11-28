@@ -1,0 +1,52 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When on streets designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?
+   :keywords: emergency vehicle siren, pull to right, two-way traffic
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When on streets designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?
+============================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q2" class="quiz">
+       <div class="option" id="q2-A" onclick="selectOption('q2', 'A', false)">
+           A. Speed up and get out of the way
+       </div>
+       <div class="option" id="q2-B" onclick="selectOption('q2', 'B', false)">
+           B. Signal the driver to pass
+       </div>
+       <div class="option" id="q2-C" onclick="selectOption('q2', 'C', true)">
+           C. Pull to the right as far as possible
+       </div>
+       <p id="q2-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Emergency vehicles must be given the right-of-way. Pulling to the right ensures a clear path for their progress.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q1.html" class="button">|prev_question|</a>
+       <span class="page-indicator">2 / 106</span>
+       <a href="q3.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

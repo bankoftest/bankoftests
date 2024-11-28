@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当驶近“让牌”时，在法例上你应怎样做？
+   :keywords: 安大略省驾驶知识, 让牌, 优先权, 交通规则
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当驶近“让牌”时，在法例上你应怎样做？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q24" class="quiz">
+       <div class="option" id="q24-A" onclick="selectOption('q24', 'A', true)">
+           A. 慢下，如有需要时停下及让路于有优先权者先行
+       </div>
+       <div class="option" id="q24-B" onclick="selectOption('q24', 'B', false)">
+           B. 停，然后慢驶入交通中
+       </div>
+       <div class="option" id="q24-C" onclick="selectOption('q24', 'C', false)">
+           C. 停，然后快速驶入交通中
+       </div>
+       <div class="option" id="q24-D" onclick="selectOption('q24', 'D', false)">
+           D. 加速，并挤迫入交通中
+       </div>
+       <p id="q24-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   让牌要求驾驶者减速并在必要时停车，让优先权的车辆或行人先行。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q23.html" class="button">|prev_question|</a>
+       <span class="page-indicator">24 / 105</span>
+       <a href="q25.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在双程路上，你想转左之前，你应在什么位置？
+   :keywords: 安大略省驾驶知识, 转左, 中线, 交通规则, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在双程路上，你想转左之前，你应在什么位置？
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q9" class="quiz">
+       <div class="option" id="q9-A" onclick="selectOption('q9', 'A', false)">
+           A. 靠近路的右手边
+       </div>
+       <div class="option" id="q9-B" onclick="selectOption('q9', 'B', false)">
+           B. 靠近路的左手边
+       </div>
+       <div class="option" id="q9-C" onclick="selectOption('q9', 'C', true)">
+           C. 尽量在最接近中线的右边行车路上
+       </div>
+       <div class="option" id="q9-D" onclick="selectOption('q9', 'D', false)">
+           D. 没有关系，只要打灯号便可
+       </div>
+       <p id="q9-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   转左前应尽量靠近中线右边的车道，以确保安全。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q8.html" class="button">|prev_question|</a>
+       <span class="page-indicator">9 / 105</span>
+       <a href="q10.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

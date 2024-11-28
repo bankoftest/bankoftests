@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当车辆停下来让行人过斑马线时，你应：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当车辆停下来让行人过斑马线时，你应：
+====================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q71" class="quiz">
+       <div class="option" id="q71-A" onclick="selectOption('q71', 'A', false)">
+           A. 从左面超越停下的车
+       </div>
+       <div class="option" id="q71-B" onclick="selectOption('q71', 'B', false)">
+           B. 响号指挥停车的驾驶者向前行驶
+       </div>
+       <div class="option" id="q71-C" onclick="selectOption('q71', 'C', false)">
+           C. 从右面超越停下的车
+       </div>
+       <div class="option" id="q71-D" onclick="selectOption('q71', 'D', true)">
+           D. 不能超越任何车辆, 停下来让行人过马路
+       </div>
+       <p id="q71-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q70.html" class="button">|prev_question|</a>
+       <span class="page-indicator">71 / 105</span>
+       <a href="q72.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

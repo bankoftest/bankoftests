@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Never change lanes in traffic without:
+   :keywords: changing lanes, signaling, Ontario driving laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Never change lanes in traffic without:
+============================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q54" class="quiz">
+       <div class="option" id="q54-A" onclick="selectOption('q54', 'A', true)">
+           A. Giving proper signal and looking to make sure the move can be made safely
+       </div>
+       <div class="option" id="q54-B" onclick="selectOption('q54', 'B', false)">
+           B. Decreasing speed and giving the correct signal
+       </div>
+       <div class="option" id="q54-C" onclick="selectOption('q54', 'C', false)">
+           C. Looking into the rearview mirror only
+       </div>
+       <div class="option" id="q54-D" onclick="selectOption('q54', 'D', false)">
+           D. Blowing your horn and looking to the rear
+       </div>
+       <p id="q54-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Signaling and ensuring the lane is clear reduces accidents and promotes road safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q53.html" class="button">|prev_question|</a>
+       <span class="page-indicator">54 / 106</span>
+       <a href="q55.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

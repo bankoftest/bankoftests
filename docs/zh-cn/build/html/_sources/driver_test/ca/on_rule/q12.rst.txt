@@ -1,0 +1,52 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当电车停下让乘客上落，当时没有安全岛，
+   :keywords: 安大略省驾驶知识, 电车, 交通规则, 停车
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当电车停下让乘客上落，当时没有安全岛，
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q12" class="quiz">
+       <div class="option" id="q12-A" onclick="selectOption('q12', 'A', true)">
+           A. 停在电车后面，然后前进
+       </div>
+       <div class="option" id="q12-B" onclick="selectOption('q12', 'B', false)">
+           B. 响号，同时小心驶过
+       </div>
+       <div class="option" id="q12-C" onclick="selectOption('q12', 'C', false)">
+           C. 由左边驶过，当交通安全
+       </div>
+       <p id="q12-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在没有安全岛时，必须停下直到电车移动或道路清空。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q11.html" class="button">|prev_question|</a>
+       <span class="page-indicator">12 / 105</span>
+       <a href="q13.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

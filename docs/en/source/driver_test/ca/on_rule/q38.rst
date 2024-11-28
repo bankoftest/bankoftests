@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What penalties can a driver face for driving while their license is suspended?
+   :keywords: license suspension, penalties, driving offenses
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What penalties can a driver face for driving while their license is suspended?
+============================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q38" class="quiz">
+       <div class="option" id="q38-A" onclick="selectOption('q38', 'A', false)">
+           A. A fine of $1,000-$5,000 or imprisonment for six months or both
+       </div>
+       <div class="option" id="q38-B" onclick="selectOption('q38', 'B', false)">
+           B. Impoundment of the motor vehicle for a minimum of 45 days
+       </div>
+       <div class="option" id="q38-C" onclick="selectOption('q38', 'C', false)">
+           C. An additional 6-month suspension of driving privileges
+       </div>
+       <div class="option" id="q38-D" onclick="selectOption('q38', 'D', true)">
+           D. Any or all of the above
+       </div>
+       <p id="q38-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving with a suspended license is a serious offense with multiple penalties, including fines, imprisonment, and vehicle impoundment.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q37.html" class="button">|prev_question|</a>
+       <span class="page-indicator">38 / 106</span>
+       <a href="q39.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

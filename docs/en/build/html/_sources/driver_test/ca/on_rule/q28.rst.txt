@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: A flashing green light at an intersection, where turns to the left and right are permitted, means:
+   :keywords: flashing green light, intersection rules, traffic movement
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+A flashing green light at an intersection, where turns to the left and right are permitted, means:
+====================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q28" class="quiz">
+       <div class="option" id="q28-A" onclick="selectOption('q28', 'A', false)">
+           A. You may turn to the left if the way is clear
+       </div>
+       <div class="option" id="q28-B" onclick="selectOption('q28', 'B', false)">
+           B. You may turn to the right if the way is clear
+       </div>
+       <div class="option" id="q28-C" onclick="selectOption('q28', 'C', false)">
+           C. You may proceed straight through if the way is clear
+       </div>
+       <div class="option" id="q28-D" onclick="selectOption('q28', 'D', true)">
+           D. You may do any of the above
+       </div>
+       <p id="q28-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   A flashing green light allows any movement (left, right, or straight) provided it is safe.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q27.html" class="button">|prev_question|</a>
+       <span class="page-indicator">28 / 106</span>
+       <a href="q29.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

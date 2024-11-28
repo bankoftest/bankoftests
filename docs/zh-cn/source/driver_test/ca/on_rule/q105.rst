@@ -1,0 +1,53 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在晚间驾驶,如车速快过你的车头灯所照到的是危险,因为：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在晚间驾驶,如车速快过你的车头灯所照到的是危险,因为：
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q105" class="quiz">
+       <div class="option" id="q105-A" onclick="selectOption('q105', 'A', false)">
+           A. 你驶车太快
+       </div>
+       <div class="option" id="q105-B" onclick="selectOption('q105', 'B', false)">
+           B. 你的车头灯太亮
+       </div>
+       <div class="option" id="q105-C" onclick="selectOption('q105', 'C', true)">
+           C. 你看到时,想停也停不下来
+       </div>
+       <div class="option" id="q105-D" onclick="selectOption('q105', 'D', false)">
+           D. 这对汽车电池是不好的
+       </div>
+       <p id="q105-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q104.html" class="button">|prev_question|</a>
+       <span class="page-indicator">105 / 105</span>
+   </div>
+   </div>
+
+   </div>

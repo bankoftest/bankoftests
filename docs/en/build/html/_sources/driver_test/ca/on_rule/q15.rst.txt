@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: In what lane of traffic should you drive when you intend to make a right-hand turn?
+   :keywords: right-hand turn, lane selection, driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In what lane of traffic should you drive when you intend to make a right-hand turn?
+======================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q15" class="quiz">
+       <div class="option" id="q15-A" onclick="selectOption('q15', 'A', false)">
+           A. Close to the left side of the roadway
+       </div>
+       <div class="option" id="q15-B" onclick="selectOption('q15', 'B', true)">
+           B. Close to the right-hand side of the roadway
+       </div>
+       <div class="option" id="q15-C" onclick="selectOption('q15', 'C', false)">
+           C. Close to the center line of the roadway
+       </div>
+       <div class="option" id="q15-D" onclick="selectOption('q15', 'D', false)">
+           D. Does not matter provided you signal
+       </div>
+       <p id="q15-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving close to the right side allows a safer and smoother right-hand turn.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q14.html" class="button">|prev_question|</a>
+       <span class="page-indicator">15 / 106</span>
+       <a href="q16.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在十字路口亮绿灯时，以下谁最有优先权？
+   :keywords: 安大略省驾驶知识, 十字路口, 行人优先权, 绿灯
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在十字路口亮绿灯时，以下谁最有优先权？
+======================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q10" class="quiz">
+       <div class="option" id="q10-A" onclick="selectOption('q10', 'A', false)">
+           A. 行人不守灯号过马路
+       </div>
+       <div class="option" id="q10-B" onclick="selectOption('q10', 'B', true)">
+           B. 行人遵守灯号过马路
+       </div>
+       <div class="option" id="q10-C" onclick="selectOption('q10', 'C', false)">
+           C. 正在转右的车辆
+       </div>
+       <div class="option" id="q10-D" onclick="selectOption('q10', 'D', false)">
+           D. 正在转左的车辆
+       </div>
+       <p id="q10-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   绿灯时，遵守灯号的行人拥有优先权。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q9.html" class="button">|prev_question|</a>
+       <span class="page-indicator">10 / 105</span>
+       <a href="q11.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

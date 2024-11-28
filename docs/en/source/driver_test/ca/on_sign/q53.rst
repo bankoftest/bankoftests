@@ -1,0 +1,61 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/53.jpg
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q53" class="quiz">
+       <div class="option" id="q53-A" onclick="selectOption('q53', 'A', true)">
+           A. Do not pass any vehicles within 30 meters of a pedestrian crossing
+       </div>
+       <div class="option" id="q53-B" onclick="selectOption('q53', 'B', false)">
+           B. School zone
+       </div>
+       <div class="option" id="q53-C" onclick="selectOption('q53', 'C', false)">
+           C. Uneven pavement ahead
+       </div>
+       <div class="option" id="q53-D" onclick="selectOption('q53', 'D', false)">
+           D. Construction zone
+       </div>
+       <p id="q53-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q52.html" class="button">|prev_question|</a>
+       <span class="page-indicator">53 / 53</span>
+   </div>
+   </div>
+
+   </div>

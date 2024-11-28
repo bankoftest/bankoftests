@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When a streetcar stops to pick up or discharge passengers, where there is no safety zone, what does the law require you to do before passing the streetcar?
+   :keywords: streetcar rules, passenger safety, stopping distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a streetcar stops to pick up or discharge passengers, where there is no safety zone, what does the law require you to do before passing the streetcar?
+======================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q12" class="quiz">
+       <div class="option" id="q12-A" onclick="selectOption('q12', 'A', false)">
+           A. Stop behind the rear of the streetcar and then proceed
+       </div>
+       <div class="option" id="q12-B" onclick="selectOption('q12', 'B', false)">
+           B. Sound horn and pass with caution
+       </div>
+       <div class="option" id="q12-C" onclick="selectOption('q12', 'C', false)">
+           C. Pass on the left side when the way is clear
+       </div>
+       <div class="option" id="q12-D" onclick="selectOption('q12', 'D', true)">
+           D. Stop 2 m (6 ft.) behind the streetcar and proceed only when it is safe to do so
+       </div>
+       <p id="q12-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Stopping behind the streetcar ensures the safety of passengers getting on or off.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q11.html" class="button">|prev_question|</a>
+       <span class="page-indicator">12 / 106</span>
+       <a href="q13.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

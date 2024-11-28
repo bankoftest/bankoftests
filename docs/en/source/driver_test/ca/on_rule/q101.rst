@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: You must report an accident to the police under:
+   :keywords: accident reporting, police, property damage, injuries
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+You must report an accident to the police under:
+================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q101" class="quiz">
+       <div class="option" id="q101-A" onclick="selectOption('q101', 'A', false)">
+           A. There is less than $600 damage
+       </div>
+       <div class="option" id="q101-B" onclick="selectOption('q101', 'B', false)">
+           B. The damage is over $2000
+       </div>
+       <div class="option" id="q101-C" onclick="selectOption('q101', 'C', false)">
+           C. If someone has been hurt or killed
+       </div>
+       <div class="option" id="q101-D" onclick="selectOption('q101', 'D', true)">
+           D. B and C are correct
+       </div>
+       <p id="q101-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Reporting accidents involving significant property damage or injuries is mandatory to comply with legal and safety requirements.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q100.html" class="button">|prev_question|</a>
+       <span class="page-indicator">101 / 106</span>
+       <a href="q102.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

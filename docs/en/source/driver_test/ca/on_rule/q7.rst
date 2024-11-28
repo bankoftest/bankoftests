@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When entering a freeway you should:
+   :keywords: freeway entry, acceleration lane, merging traffic
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When entering a freeway you should:
+======================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q7" class="quiz">
+       <div class="option" id="q7-A" onclick="selectOption('q7', 'A', false)">
+           A. Stop on acceleration lane, wait for an opening, then enter the freeway rapidly
+       </div>
+       <div class="option" id="q7-B" onclick="selectOption('q7', 'B', true)">
+           B. Accelerate quickly to freeway speed and merge with freeway traffic
+       </div>
+       <div class="option" id="q7-C" onclick="selectOption('q7', 'C', false)">
+           C. Slow down, and then enter freeway at a sharp angle
+       </div>
+       <div class="option" id="q7-D" onclick="selectOption('q7', 'D', false)">
+           D. Drive slowly and be prepared to stop for freeway traffic
+       </div>
+       <p id="q7-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Accelerating to match freeway speed ensures smooth merging without disrupting traffic.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q6.html" class="button">|prev_question|</a>
+       <span class="page-indicator">7 / 106</span>
+       <a href="q8.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

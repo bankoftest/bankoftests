@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你决定“U转”与否之前，你首先应查看：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你决定“U转”与否之前，你首先应查看：
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q74" class="quiz">
+       <div class="option" id="q74-A" onclick="selectOption('q74', 'A', true)">
+           A. 当时有没有不准"U"转的路牌
+       </div>
+       <div class="option" id="q74-B" onclick="selectOption('q74', 'B', false)">
+           B. 有没有树，救火喉，或路边灯柱
+       </div>
+       <div class="option" id="q74-C" onclick="selectOption('q74', 'C', false)">
+           C. 你的汽车转弯的范围内
+       </div>
+       <div class="option" id="q74-D" onclick="selectOption('q74', 'D', false)">
+           D. 路边的高度
+       </div>
+       <p id="q74-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q73.html" class="button">|prev_question|</a>
+       <span class="page-indicator">74 / 105</span>
+       <a href="q75.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

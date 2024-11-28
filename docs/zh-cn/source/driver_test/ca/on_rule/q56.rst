@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 大多数汽车滑胎的原因是：
+   :keywords: 滑胎原因, 车辆控制, 速度管理, 驾驶安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+大多数汽车滑胎的原因是：
+========================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q56" class="quiz">
+       <div class="option" id="q56-A" onclick="selectOption('q56', 'A', false)">
+           A. 车胎汽不够
+       </div>
+       <div class="option" id="q56-B" onclick="selectOption('q56', 'B', false)">
+           B. 车胎太多汽
+       </div>
+       <div class="option" id="q56-C" onclick="selectOption('q56', 'C', false)">
+           C. 路上有雪或冰
+       </div>
+       <div class="option" id="q56-D" onclick="selectOption('q56', 'D', true)">
+           D. 驾驶速度太快
+       </div>
+       <p id="q56-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   汽车滑胎的主要原因是驾驶速度过快，尤其在湿滑路面上。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q55.html" class="button">|prev_question|</a>
+       <span class="page-indicator">56 / 105</span>
+       <a href="q57.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你泊车在向下的斜坡在你离开车之前，你应：
+   :keywords: 下坡停车, 手刹, 驾驶技巧, 停车安全
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你泊车在向下的斜坡在你离开车之前，你应：
+==========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q60" class="quiz">
+       <div class="option" id="q60-A" onclick="selectOption('q60', 'A', false)">
+           A. 扭直前胎与路边平行
+       </div>
+       <div class="option" id="q60-B" onclick="selectOption('q60', 'B', false)">
+           B. 扭前胎向左，并拉紧手掣
+       </div>
+       <div class="option" id="q60-C" onclick="selectOption('q60', 'C', false)">
+           C. 只是拉紧手掣
+       </div>
+       <div class="option" id="q60-D" onclick="selectOption('q60', 'D', true)">
+           D. 扭前胎向右，并拉紧手掣
+       </div>
+       <p id="q60-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   泊车在下坡时，将前轮转向路边并拉紧手刹能防止车辆滑动。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q59.html" class="button">|prev_question|</a>
+       <span class="page-indicator">60 / 105</span>
+       <a href="q61.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

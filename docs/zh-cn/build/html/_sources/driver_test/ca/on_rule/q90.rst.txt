@@ -1,0 +1,54 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 如果你是第二阶段(G2)驾驶者, 你要维持酒精含量为：
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+如果你是第二阶段(G2)驾驶者, 你要维持酒精含量为：
+======================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q90" class="quiz">
+       <div class="option" id="q90-A" onclick="selectOption('q90', 'A', false)">
+           A. 0.08%
+       </div>
+       <div class="option" id="q90-B" onclick="selectOption('q90', 'B', false)">
+           B. 0.05%
+       </div>
+       <div class="option" id="q90-C" onclick="selectOption('q90', 'C', false)">
+           C. 0.02%
+       </div>
+       <div class="option" id="q90-D" onclick="selectOption('q90', 'D', true)">
+           D. 0.00%
+       </div>
+       <p id="q90-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q89.html" class="button">|prev_question|</a>
+       <span class="page-indicator">90 / 105</span>
+       <a href="q91.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

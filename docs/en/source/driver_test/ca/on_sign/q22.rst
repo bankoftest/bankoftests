@@ -1,0 +1,62 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024</div>
+
+.. meta::
+   :description: This sign means:
+   :keywords: 
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+This sign means:
+================================
+
+.. raw:: html
+
+   <hr>
+
+.. image:: /../../../images/driver_test/ca/on/sign/22.gif
+   :width: 70%
+   :alt: Image for the question
+   :class: question-image
+   :align: center
+
+
+
+.. raw:: html
+
+   <div id="q22" class="quiz">
+       <div class="option" id="q22-A" onclick="selectOption('q22', 'A', false)">
+           A. No entry into intersection
+       </div>
+       <div class="option" id="q22-B" onclick="selectOption('q22', 'B', true)">
+           B. This sign means no stopping
+       </div>
+       <div class="option" id="q22-C" onclick="selectOption('q22', 'C', false)">
+           C. Vehicles approaching from the arrow shown, must stop
+       </div>
+       <div class="option" id="q22-D" onclick="selectOption('q22', 'D', false)">
+           D. Need not stop for stop signs in direction of arrows
+       </div>
+       <p id="q22-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q21.html" class="button">|prev_question|</a>
+       <span class="page-indicator">22 / 53</span>
+       <a href="q23.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

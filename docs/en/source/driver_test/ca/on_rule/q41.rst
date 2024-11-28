@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Under what circumstances may a driver's license be canceled?
+   :keywords: driver's license cancellation, re-examination, Ontario laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Under what circumstances may a driver's license be canceled?
+========================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q41" class="quiz">
+       <div class="option" id="q41-A" onclick="selectOption('q41', 'A', false)">
+           A. For failure to attend for re-examination
+       </div>
+       <div class="option" id="q41-B" onclick="selectOption('q41', 'B', false)">
+           B. For possession of an altered driver's license
+       </div>
+       <div class="option" id="q41-C" onclick="selectOption('q41', 'C', false)">
+           C. For failure to satisfactorily complete a driver re-examination
+       </div>
+       <div class="option" id="q41-D" onclick="selectOption('q41', 'D', true)">
+           D. Any or all of the above
+       </div>
+       <p id="q41-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driver's licenses can be canceled under these conditions to maintain safety and legality on the road.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q40.html" class="button">|prev_question|</a>
+       <span class="page-indicator">41 / 106</span>
+       <a href="q42.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

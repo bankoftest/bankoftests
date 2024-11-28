@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When it is safe to do so, passing other vehicles on the right side:
+   :keywords: passing on the right, multi-lane roads, highway rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When it is safe to do so, passing other vehicles on the right side:
+======================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q20" class="quiz">
+       <div class="option" id="q20-A" onclick="selectOption('q20', 'A', false)">
+           A. Is permitted on any street or highway
+       </div>
+       <div class="option" id="q20-B" onclick="selectOption('q20', 'B', false)">
+           B. Is permitted providing it is possible to do so by driving on the shoulder of the road
+       </div>
+       <div class="option" id="q20-C" onclick="selectOption('q20', 'C', false)">
+           C. Is not permitted under any circumstances
+       </div>
+       <div class="option" id="q20-D" onclick="selectOption('q20', 'D', true)">
+           D. Is permitted when the street or highway has two or more lanes for traffic in the direction you are travelling
+       </div>
+       <p id="q20-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Passing on the right is only permitted on multi-lane roads where it can be done safely.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q19.html" class="button">|prev_question|</a>
+       <span class="page-indicator">20 / 106</span>
+       <a href="q21.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

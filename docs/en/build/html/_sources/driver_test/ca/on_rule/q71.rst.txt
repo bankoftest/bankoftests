@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When a car stops to allow a pedestrian to cross the street at a marked crosswalk, you should:
+   :keywords: pedestrian safety, crosswalk rules, Ontario traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When a car stops to allow a pedestrian to cross the street at a marked crosswalk, you should:
+==========================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q71" class="quiz">
+       <div class="option" id="q71-A" onclick="selectOption('q71', 'A', false)">
+           A. Pass the stopped car on the left
+       </div>
+       <div class="option" id="q71-B" onclick="selectOption('q71', 'B', false)">
+           B. Sound horn for the driver of the stopped car to drive on
+       </div>
+       <div class="option" id="q71-C" onclick="selectOption('q71', 'C', false)">
+           C. Pass the stopped car to the right
+       </div>
+       <div class="option" id="q71-D" onclick="selectOption('q71', 'D', true)">
+           D. Not pass any car stopped to allow a pedestrian to cross
+       </div>
+       <p id="q71-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Passing a stopped vehicle at a crosswalk endangers pedestrians and is illegal.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q70.html" class="button">|prev_question|</a>
+       <span class="page-indicator">71 / 106</span>
+       <a href="q72.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

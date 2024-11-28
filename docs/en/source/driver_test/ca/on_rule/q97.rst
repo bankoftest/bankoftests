@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Under the Criminal Code, if you are caught driving while your licence is suspended, your vehicle will be impounded for:
+   :keywords: license suspension, vehicle impoundment, driving laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Under the Criminal Code, if you are caught driving while your licence is suspended, your vehicle will be impounded for:
+==============================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q97" class="quiz">
+       <div class="option" id="q97-A" onclick="selectOption('q97', 'A', false)">
+           A. 1 year
+       </div>
+       <div class="option" id="q97-B" onclick="selectOption('q97', 'B', false)">
+           B. 6 months
+       </div>
+       <div class="option" id="q97-C" onclick="selectOption('q97', 'C', true)">
+           C. 45 days
+       </div>
+       <div class="option" id="q97-D" onclick="selectOption('q97', 'D', false)">
+           D. 30 days
+       </div>
+       <p id="q97-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Vehicle impoundment is a consequence of driving under suspension to deter repeat offenses.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q96.html" class="button">|prev_question|</a>
+       <span class="page-indicator">97 / 106</span>
+       <a href="q98.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

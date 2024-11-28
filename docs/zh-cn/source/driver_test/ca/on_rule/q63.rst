@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当你驾驶每小时50公里（30哩）应该和前面车辆最少保持多远才安全：
+   :keywords: 安全距离, 跟车距离, 驾驶技巧, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当你驾驶每小时50公里（30哩）应该和前面车辆最少保持多远才安全：
+==================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q63" class="quiz">
+       <div class="option" id="q63-A" onclick="selectOption('q63', 'A', false)">
+           A. 七个车位的距离
+       </div>
+       <div class="option" id="q63-B" onclick="selectOption('q63', 'B', true)">
+           B. 三个车位的距离
+       </div>
+       <div class="option" id="q63-C" onclick="selectOption('q63', 'C', false)">
+           C. 一个车位的距离
+       </div>
+       <div class="option" id="q63-D" onclick="selectOption('q63', 'D', false)">
+           D. 五个车位的距离
+       </div>
+       <p id="q63-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在此速度下，保持三个车位的距离可以为紧急刹车提供足够反应时间。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q62.html" class="button">|prev_question|</a>
+       <span class="page-indicator">63 / 105</span>
+       <a href="q64.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 当红灯可以转右时，在未驶入十字路口前，法律上你应怎么做？
+   :keywords: 安大略省驾驶知识, 红灯右转, 停车, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+当红灯可以转右时，在未驶入十字路口前，法律上你应怎么做？
+========================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q14" class="quiz">
+       <div class="option" id="q14-A" onclick="selectOption('q14', 'A', false)">
+           A. 慢驶，小心前进
+       </div>
+       <div class="option" id="q14-B" onclick="selectOption('q14', 'B', false)">
+           B. 停车，然后侧侧地进入交通中
+       </div>
+       <div class="option" id="q14-C" onclick="selectOption('q14', 'C', true)">
+           C. 停车，打灯号，当不阻碍别地车辆及行人才转弯
+       </div>
+       <div class="option" id="q14-D" onclick="selectOption('q14', 'D', false)">
+           D. 慢驶，打讯号及转弯
+       </div>
+       <p id="q14-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   转右前需完全停车，观察路况并确保不妨碍其他车辆或行人。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q13.html" class="button">|prev_question|</a>
+       <span class="page-indicator">14 / 105</span>
+       <a href="q15.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Overdriving your headlights at night is dangerous because:
+   :keywords: overdriving headlights, nighttime driving, vehicle safety, stopping distance
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Overdriving your headlights at night is dangerous because:
+====================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q105" class="quiz">
+       <div class="option" id="q105-A" onclick="selectOption('q105', 'A', false)">
+           A. You are driving too fast
+       </div>
+       <div class="option" id="q105-B" onclick="selectOption('q105', 'B', false)">
+           B. Your headlights are too bright
+       </div>
+       <div class="option" id="q105-C" onclick="selectOption('q105', 'C', true)">
+           C. You cannot stop within the distance that you can see
+       </div>
+       <div class="option" id="q105-D" onclick="selectOption('q105', 'D', false)">
+           D. It is not good for the car battery
+       </div>
+       <p id="q105-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Overdriving headlights means you’re unable to stop within your visible range, increasing the risk of accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q104.html" class="button">|prev_question|</a>
+       <span class="page-indicator">105 / 106</span>
+       <a href="q106.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

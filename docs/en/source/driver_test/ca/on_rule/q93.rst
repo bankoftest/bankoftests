@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: The police have the right to stop any driver they suspect is impaired. If you refuse to take a breathalyzer test, your license will be suspended immediately for:
+   :keywords: breathalyzer refusal, impaired driving, license suspension
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+The police have the right to stop any driver they suspect is impaired. If you refuse to take a breathalyzer test, your license will be suspended immediately for:
+==================================================================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q93" class="quiz">
+       <div class="option" id="q93-A" onclick="selectOption('q93', 'A', false)">
+           A. 30 days
+       </div>
+       <div class="option" id="q93-B" onclick="selectOption('q93', 'B', false)">
+           B. 1 year
+       </div>
+       <div class="option" id="q93-C" onclick="selectOption('q93', 'C', false)">
+           C. 60 days
+       </div>
+       <div class="option" id="q93-D" onclick="selectOption('q93', 'D', true)">
+           D. 90 days
+       </div>
+       <p id="q93-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Refusing a breathalyzer test leads to an immediate license suspension, as per impaired driving laws.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q92.html" class="button">|prev_question|</a>
+       <span class="page-indicator">93 / 106</span>
+       <a href="q94.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 警察有权要求车主拿出什么文件：
+   :keywords: 警察权利, 汽车文件, 安大略省驾驶法规, 保险证明
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+警察有权要求车主拿出什么文件：
+==============================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q42" class="quiz">
+       <div class="option" id="q42-A" onclick="selectOption('q42', 'A', false)">
+           A. 如汽车有买保险——保险纸
+       </div>
+       <div class="option" id="q42-B" onclick="selectOption('q42', 'B', false)">
+           B. 汽车车主证
+       </div>
+       <div class="option" id="q42-C" onclick="selectOption('q42', 'C', false)">
+           C. 如只是汽车驾驶者——有效驾驶执照
+       </div>
+       <div class="option" id="q42-D" onclick="selectOption('q42', 'D', true)">
+           D. 以上任何一项都是
+       </div>
+       <p id="q42-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   警察有权要求查看保险证明、车主证或有效驾驶执照。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q41.html" class="button">|prev_question|</a>
+       <span class="page-indicator">42 / 105</span>
+       <a href="q43.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Under the Highway Traffic Act, if you are convicted of driving while your license is suspended, assuming it is your first offence, you will:
+   :keywords: driving suspension, highway traffic act, penalties, fines
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Under the Highway Traffic Act, if you are convicted of driving while your license is suspended, assuming it is your first offence, you will:
+========================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q92" class="quiz">
+       <div class="option" id="q92-A" onclick="selectOption('q92', 'A', false)">
+           A. Receive a fine of $500
+       </div>
+       <div class="option" id="q92-B" onclick="selectOption('q92', 'B', false)">
+           B. Be fined between $1000 to $5000
+       </div>
+       <div class="option" id="q92-C" onclick="selectOption('q92', 'C', false)">
+           C. Be sentenced to six months in jail
+       </div>
+       <div class="option" id="q92-D" onclick="selectOption('q92', 'D', true)">
+           D. All of the above
+       </div>
+       <p id="q92-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving with a suspended license results in severe penalties, including fines and potential imprisonment.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q91.html" class="button">|prev_question|</a>
+       <span class="page-indicator">92 / 106</span>
+       <a href="q93.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

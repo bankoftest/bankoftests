@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When approaching an intersection and you notice the roadway beyond the intersection is blocked with traffic, you should:
+   :keywords: intersection safety, traffic block, stopping rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When approaching an intersection and you notice the roadway beyond the intersection is blocked with traffic, you should:
+================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q46" class="quiz">
+       <div class="option" id="q46-A" onclick="selectOption('q46', 'A', false)">
+           A. Keep as close as possible to the car ahead
+       </div>
+       <div class="option" id="q46-B" onclick="selectOption('q46', 'B', false)">
+           B. Proceed slowly into the intersection until the traffic ahead moves on
+       </div>
+       <div class="option" id="q46-C" onclick="selectOption('q46', 'C', true)">
+           C. Stop before entering the intersection and wait until traffic ahead moves on
+       </div>
+       <div class="option" id="q46-D" onclick="selectOption('q46', 'D', false)">
+           D. Sound your horn to warn cars ahead to move on
+       </div>
+       <p id="q46-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Blocking intersections can disrupt traffic flow and lead to penalties.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q45.html" class="button">|prev_question|</a>
+       <span class="page-indicator">46 / 106</span>
+       <a href="q47.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在夜间行驶，当你遇到迎面车辆车灯很强烈耀眼，使你看不清楚，最安全的方法是：
+   :keywords: 夜间驾驶, 眩光处理, 驾驶安全, 安大略省法规
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在夜间行驶，当你遇到迎面车辆车灯很强烈耀眼，使你看不清楚，最安全的方法是：
+==========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q70" class="quiz">
+       <div class="option" id="q70-A" onclick="selectOption('q70', 'A', false)">
+           A. 迅速的将眼睛一张一合
+       </div>
+       <div class="option" id="q70-B" onclick="selectOption('q70', 'B', false)">
+           B. 看着迎面车辆的车头灯
+       </div>
+       <div class="option" id="q70-C" onclick="selectOption('q70', 'C', false)">
+           C. 把车灯转用高灯
+       </div>
+       <div class="option" id="q70-D" onclick="selectOption('q70', 'D', true)">
+           D. 把视线稍为望向路的右手边
+       </div>
+       <p id="q70-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在这种情况下，保持视线向道路右侧有助于减轻车灯眩光的影响。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q69.html" class="button">|prev_question|</a>
+       <span class="page-indicator">70 / 105</span>
+       <a href="q71.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

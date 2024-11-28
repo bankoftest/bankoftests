@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What is the penalty for driving over the speed limit by 50 km/h (30 mph) or more?
+   :keywords: speeding, license suspension, traffic laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What is the penalty for driving over the speed limit by 50 km/h (30 mph) or more?
+==================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q45" class="quiz">
+       <div class="option" id="q45-A" onclick="selectOption('q45', 'A', true)">
+           A. Suspension of license for 6 months
+       </div>
+       <div class="option" id="q45-B" onclick="selectOption('q45', 'B', false)">
+           B. Suspension of license for 30 days
+       </div>
+       <div class="option" id="q45-C" onclick="selectOption('q45', 'C', false)">
+           C. Impoundment of motor vehicle for 6 months
+       </div>
+       <div class="option" id="q45-D" onclick="selectOption('q45', 'D', false)">
+           D. A fine and mandatory driver education
+       </div>
+       <p id="q45-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Driving at excessive speeds is considered a serious offense with strict penalties.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q44.html" class="button">|prev_question|</a>
+       <span class="page-indicator">45 / 106</span>
+       <a href="q46.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

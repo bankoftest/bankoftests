@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are approaching an intersection and traffic lights are not working, you should:
+   :keywords: intersection safety, traffic lights out, Ontario driving
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are approaching an intersection and traffic lights are not working, you should:
+============================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q79" class="quiz">
+       <div class="option" id="q79-A" onclick="selectOption('q79', 'A', false)">
+           A. Yield to the traffic to your right
+       </div>
+       <div class="option" id="q79-B" onclick="selectOption('q79', 'B', false)">
+           B. Stop until no cars are passing and then go
+       </div>
+       <div class="option" id="q79-C" onclick="selectOption('q79', 'C', true)">
+           C. Treat it as a four-way stop sign
+       </div>
+       <div class="option" id="q79-D" onclick="selectOption('q79', 'D', false)">
+           D. Slow down and proceed with caution
+       </div>
+       <p id="q79-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   When traffic lights are out of order, intersections should be treated as four-way stops to ensure safety.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q78.html" class="button">|prev_question|</a>
+       <span class="page-indicator">79 / 106</span>
+       <a href="q80.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

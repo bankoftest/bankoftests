@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Why is it necessary to check over your shoulder when changing lanes?
+   :keywords: lane changing, blind spots, driving safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Why is it necessary to check over your shoulder when changing lanes?
+========================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q100" class="quiz">
+       <div class="option" id="q100-A" onclick="selectOption('q100', 'A', false)">
+           A. It is a good exercise for your neck
+       </div>
+       <div class="option" id="q100-B" onclick="selectOption('q100', 'B', true)">
+           B. There will always be a blind spot in your mirrors, no matter how you adjust them
+       </div>
+       <div class="option" id="q100-C" onclick="selectOption('q100', 'C', false)">
+           C. To see who is driving
+       </div>
+       <div class="option" id="q100-D" onclick="selectOption('q100', 'D', false)">
+           D. All of the above
+       </div>
+       <p id="q100-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Blind spots cannot be eliminated by mirrors, so checking over your shoulder ensures no hidden hazards.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q99.html" class="button">|prev_question|</a>
+       <span class="page-indicator">100 / 106</span>
+       <a href="q101.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

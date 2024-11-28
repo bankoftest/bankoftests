@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are involved in an accident in which someone is injured, you must:
+   :keywords: accident reporting, injury, Ontario traffic rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are involved in an accident in which someone is injured, you must:
+==================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q32" class="quiz">
+       <div class="option" id="q32-A" onclick="selectOption('q32', 'A', true)">
+           A. Report the accident at once to the nearest provincial or municipal police officer
+       </div>
+       <div class="option" id="q32-B" onclick="selectOption('q32', 'B', false)">
+           B. Report the accident within 48 hours to the nearest provincial or municipal police officer
+       </div>
+       <div class="option" id="q32-C" onclick="selectOption('q32', 'C', false)">
+           C. Report the accident to your insurance only
+       </div>
+       <div class="option" id="q32-D" onclick="selectOption('q32', 'D', false)">
+           D. Report the accident to the Ministry of Transportation and Communications only
+       </div>
+       <p id="q32-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Immediate reporting ensures timely medical assistance and legal documentation for injured parties.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q31.html" class="button">|prev_question|</a>
+       <span class="page-indicator">32 / 106</span>
+       <a href="q33.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 以下什么情形下“u”转是危险和不合法的：
+   :keywords: 安大略省驾驶知识, U形转弯, 禁止区域, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+以下什么情形下“u”转是危险和不合法的：
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q37" class="quiz">
+       <div class="option" id="q37-A" onclick="selectOption('q37', 'A', false)">
+           A. 在弯路或在斜坡，视力从两方向150公尺（500呎）内看不清楚时
+       </div>
+       <div class="option" id="q37-B" onclick="selectOption('q37', 'B', false)">
+           B. 在火车路上或火车路30公尺（100呎）之内
+       </div>
+       <div class="option" id="q37-C" onclick="selectOption('q37', 'C', false)">
+           C. 在桥、高架公路或隧道中150公尺（500呎）内，视力受阻碍时
+       </div>
+       <div class="option" id="q37-D" onclick="selectOption('q37', 'D', true)">
+           D. 以上所有的情形都包括在内
+       </div>
+       <p id="q37-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   U形转弯在弯路、斜坡、火车轨道附近或其他视线受阻的地方是不合法且危险的。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q36.html" class="button">|prev_question|</a>
+       <span class="page-indicator">37 / 105</span>
+       <a href="q38.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

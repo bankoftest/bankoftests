@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: G牌人仕, 酒精在人体血液中最少佔什么份量，使你成为危险驾驶者及有罪, 立即停牌三天, 如果你是第一次 ​?
+   :keywords: 安大略省驾驶知识, 酒驾, 血液酒精浓度, 危险驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+G牌人仕, 酒精在人体血液中最少佔什么份量，使你成为危险驾驶者及有罪, 立即停牌三天, 如果你是第一次 ​?
+============================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q25" class="quiz">
+       <div class="option" id="q25-A" onclick="selectOption('q25', 'A', false)">
+           A. 0.03%
+       </div>
+       <div class="option" id="q25-B" onclick="selectOption('q25', 'B', true)">
+           B. 0.05%
+       </div>
+       <div class="option" id="q25-C" onclick="selectOption('q25', 'C', false)">
+           C. 0.08%
+       </div>
+       <div class="option" id="q25-D" onclick="selectOption('q25', 'D', false)">
+           D. 1.0%
+       </div>
+       <p id="q25-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在安大略省，血液中酒精浓度达到0.05%将被视为危险驾驶，第一次将被停牌三天。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q24.html" class="button">|prev_question|</a>
+       <span class="page-indicator">25 / 105</span>
+       <a href="q26.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are convicted of drinking and driving, you will lose your driver's license on the first offence for:
+   :keywords: drinking and driving, license suspension, Ontario penalties
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are convicted of drinking and driving, you will lose your driver's license on the first offence for:
+======================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q30" class="quiz">
+       <div class="option" id="q30-A" onclick="selectOption('q30', 'A', false)">
+           A. 1 month
+       </div>
+       <div class="option" id="q30-B" onclick="selectOption('q30', 'B', false)">
+           B. 3 months
+       </div>
+       <div class="option" id="q30-C" onclick="selectOption('q30', 'C', false)">
+           C. 6 months
+       </div>
+       <div class="option" id="q30-D" onclick="selectOption('q30', 'D', true)">
+           D. 1 year
+       </div>
+       <p id="q30-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Convictions for drinking and driving carry significant penalties, including license suspension.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q29.html" class="button">|prev_question|</a>
+       <span class="page-indicator">30 / 106</span>
+       <a href="q31.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 除非有标志指明，不然在城市、市镇、乡村或发展区内最高的驾驶速度应是：
+   :keywords: 安大略省驾驶知识, 限速, 城市驾驶, 乡村驾驶, 法律规定
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+除非有标志指明，不然在城市、市镇、乡村或发展区内最高的驾驶速度应是：
+====================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q5" class="quiz">
+       <div class="option" id="q5-A" onclick="selectOption('q5', 'A', false)">
+           A. 每小时30公里（20哩）
+       </div>
+       <div class="option" id="q5-B" onclick="selectOption('q5', 'B', true)">
+           B. 每小时50公里（30哩）
+       </div>
+       <div class="option" id="q5-C" onclick="selectOption('q5', 'C', false)">
+           C. 每小时40公里（25哩）
+       </div>
+       <div class="option" id="q5-D" onclick="selectOption('q5', 'D', false)">
+           D. 每小时60公里（35哩）
+       </div>
+       <p id="q5-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在城市、市镇和发展区内，默认最高限速为50公里/小时，除非有其他标志指明。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q4.html" class="button">|prev_question|</a>
+       <span class="page-indicator">5 / 105</span>
+       <a href="q6.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

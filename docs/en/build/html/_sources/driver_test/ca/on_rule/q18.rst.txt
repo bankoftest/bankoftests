@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: In Ontario, there is a seat belt law:
+   :keywords: seat belt law, Ontario rules, road safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+In Ontario, there is a seat belt law:
+==========================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q18" class="quiz">
+       <div class="option" id="q18-A" onclick="selectOption('q18', 'A', true)">
+           A. Yes
+       </div>
+       <div class="option" id="q18-B" onclick="selectOption('q18', 'B', false)">
+           B. No
+       </div>
+       <div class="option" id="q18-C" onclick="selectOption('q18', 'C', false)">
+           C. Only when driving on open highway
+       </div>
+       <div class="option" id="q18-D" onclick="selectOption('q18', 'D', false)">
+           D. Only when driving within a municipality
+       </div>
+       <p id="q18-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Seat belts are mandatory for all passengers to reduce the risk of injury during accidents.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q17.html" class="button">|prev_question|</a>
+       <span class="page-indicator">18 / 106</span>
+       <a href="q19.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

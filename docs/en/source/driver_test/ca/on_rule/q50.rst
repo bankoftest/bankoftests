@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: When 15 or more demerit points have accumulated on a record the driver's license is suspended:
+   :keywords: demerit points, license suspension, Ontario driving rules
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+When 15 or more demerit points have accumulated on a record the driver's license is suspended:
+============================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q50" class="quiz">
+       <div class="option" id="q50-A" onclick="selectOption('q50', 'A', true)">
+           A. Automatically, and for 30 days from receipt of license
+       </div>
+       <div class="option" id="q50-B" onclick="selectOption('q50', 'B', false)">
+           B. At the discretion of the ministry
+       </div>
+       <div class="option" id="q50-C" onclick="selectOption('q50', 'C', false)">
+           C. Only if the license is not used for business purposes
+       </div>
+       <div class="option" id="q50-D" onclick="selectOption('q50', 'D', false)">
+           D. For 3 months
+       </div>
+       <p id="q50-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Accumulating 15 or more demerit points leads to an automatic 30-day suspension to encourage safer driving.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q49.html" class="button">|prev_question|</a>
+       <span class="page-indicator">50 / 106</span>
+       <a href="q51.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

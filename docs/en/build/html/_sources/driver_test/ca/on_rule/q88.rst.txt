@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: As a Level One (G1) driver, you must be accompanied by a Class G or higher licensed driver, who has the following driving experience more than:
+   :keywords: G1 driver, driving experience, Class G license, safety requirements
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+As a Level One (G1) driver, you must be accompanied by a Class G or higher licensed driver, who has the following driving experience more than:
+==============================================================================================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q88" class="quiz">
+       <div class="option" id="q88-A" onclick="selectOption('q88', 'A', true)">
+           A. Three years
+       </div>
+       <div class="option" id="q88-B" onclick="selectOption('q88', 'B', false)">
+           B. Four years
+       </div>
+       <div class="option" id="q88-C" onclick="selectOption('q88', 'C', false)">
+           C. Eight years
+       </div>
+       <div class="option" id="q88-D" onclick="selectOption('q88', 'D', false)">
+           D. Six years
+       </div>
+       <p id="q88-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   G1 drivers must have a licensed driver with at least three years of driving experience to ensure safety and guidance.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q87.html" class="button">|prev_question|</a>
+       <span class="page-indicator">88 / 106</span>
+       <a href="q89.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: Which of the following has the right-of-way over all others at an intersection when the signal light is green?
+   :keywords: right-of-way, green light, pedestrian safety
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+Which of the following has the right-of-way over all others at an intersection when the signal light is green?
+============================================================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q10" class="quiz">
+       <div class="option" id="q10-A" onclick="selectOption('q10', 'A', false)">
+           A. Pedestrians crossing against the light
+       </div>
+       <div class="option" id="q10-B" onclick="selectOption('q10', 'B', true)">
+           B. Pedestrians crossing with the light
+       </div>
+       <div class="option" id="q10-C" onclick="selectOption('q10', 'C', false)">
+           C. Vehicles turning right
+       </div>
+       <div class="option" id="q10-D" onclick="selectOption('q10', 'D', false)">
+           D. Vehicles turning left
+       </div>
+       <p id="q10-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Pedestrians crossing with the light are prioritized to ensure their safety at intersections.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q9.html" class="button">|prev_question|</a>
+       <span class="page-indicator">10 / 106</span>
+       <a href="q11.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

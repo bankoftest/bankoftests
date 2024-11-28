@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: What insurance protection does the owner get who pays the uninsured motor vehicle fee?
+   :keywords: uninsured motor vehicle, insurance protection, Ontario laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+What insurance protection does the owner get who pays the uninsured motor vehicle fee?
+============================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q40" class="quiz">
+       <div class="option" id="q40-A" onclick="selectOption('q40', 'A', false)">
+           A. $10,000 insurance coverage
+       </div>
+       <div class="option" id="q40-B" onclick="selectOption('q40', 'B', false)">
+           B. $20,000 insurance coverage
+       </div>
+       <div class="option" id="q40-C" onclick="selectOption('q40', 'C', false)">
+           C. $35,000 insurance coverage
+       </div>
+       <div class="option" id="q40-D" onclick="selectOption('q40', 'D', true)">
+           D. No insurance protection whatsoever
+       </div>
+       <p id="q40-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Paying the uninsured motor vehicle fee does not provide any insurance coverage, leaving drivers financially vulnerable.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q39.html" class="button">|prev_question|</a>
+       <span class="page-indicator">40 / 106</span>
+       <a href="q41.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

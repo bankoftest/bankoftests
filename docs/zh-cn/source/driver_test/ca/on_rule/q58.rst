@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+
+.. meta::
+   :description: 在湿滑或结冰的路上快速停车的最好方法是：
+   :keywords: 湿滑路面, 快速停车, 驾驶技巧, 安全驾驶
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+在湿滑或结冰的路上快速停车的最好方法是：
+========================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q58" class="quiz">
+       <div class="option" id="q58-A" onclick="selectOption('q58', 'A', true)">
+           A. 在脚制上一踏一放的方法，直至车辆完全停下来
+       </div>
+       <div class="option" id="q58-B" onclick="selectOption('q58', 'B', false)">
+           B. 把脚离开脚制，使车自动停下
+       </div>
+       <div class="option" id="q58-C" onclick="selectOption('q58', 'C', false)">
+           C. 大力踏在脚制上，预防车辆滑行
+       </div>
+       <div class="option" id="q58-D" onclick="selectOption('q58', 'D', false)">
+           D. 像你平时一样方法踏脚制
+       </div>
+       <p id="q58-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   在湿滑或结冰路面上，使用点刹车是防止滑行的最佳方式。
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q57.html" class="button">|prev_question|</a>
+       <span class="page-indicator">58 / 105</span>
+       <a href="q59.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>

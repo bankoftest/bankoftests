@@ -1,0 +1,55 @@
+.. raw:: html
+
+   <div class="question-page">
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+
+.. meta::
+   :description: If you are involved in an accident that was due to your use of a cellular phone while driving:
+   :keywords: cell phone driving accident, careless driving, demerit points, driving laws
+
+.. raw:: html
+
+   <div class="question-card">
+
+
+If you are involved in an accident that was due to your use of a cellular phone while driving:
+============================================================================================================================================================================================
+
+.. raw:: html
+
+   <hr>
+
+.. raw:: html
+
+   <div id="q89" class="quiz">
+       <div class="option" id="q89-A" onclick="selectOption('q89', 'A', false)">
+           A. Your insurance will increase
+       </div>
+       <div class="option" id="q89-B" onclick="selectOption('q89', 'B', true)">
+           B. You will be charged with careless driving and lose 6 demerit points
+       </div>
+       <div class="option" id="q89-C" onclick="selectOption('q89', 'C', false)">
+           C. Your license will be suspended for one year
+       </div>
+       <div class="option" id="q89-D" onclick="selectOption('q89', 'D', false)">
+           D. You will have to take your road test again
+       </div>
+       <p id="q89-result" class="result"></p>
+   </div>
+
+   <hr>
+
+.. dropdown:: ►|explanation|
+
+   Using a cell phone while driving can lead to a charge of careless driving, a major violation resulting in loss of demerit points.
+
+.. raw:: html
+
+   <div class="nav-buttons">
+       <a href="q88.html" class="button">|prev_question|</a>
+       <span class="page-indicator">89 / 106</span>
+       <a href="q90.html" class="button">|next_question|</a>
+   </div>
+   </div>
+
+   </div>
