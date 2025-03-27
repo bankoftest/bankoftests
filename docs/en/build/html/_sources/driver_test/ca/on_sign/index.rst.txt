@@ -1,4 +1,4 @@
-Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2024
+Ontario G1 Driving License Knowledge Test (Traffic Signs)｜2025
 ============================================================================================================================
 
 .. toctree::

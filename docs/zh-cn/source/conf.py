@@ -70,7 +70,7 @@ html_theme_options = {
 }
 
 language = 'zh-CN'
-copyright = '2024, 题库之家'
+copyright = '2025, 题库之家'
 html_title = "题库之家｜BANK of TESTS"
 html_context = {
     "version": "latest",

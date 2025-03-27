@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: As a Level One (G1) driver, you must be accompanied by a Class G or higher licensed driver, who has the following driving experience more than:

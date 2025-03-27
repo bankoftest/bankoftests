@@ -70,7 +70,7 @@ html_theme_options = {
 }
 
 language = 'en'
-copyright = '2024, BANK of TESTS'
+copyright = '2025, BANK of TESTS'
 html_title = "BANK of TESTS"
 html_context = {
     "version": "latest",

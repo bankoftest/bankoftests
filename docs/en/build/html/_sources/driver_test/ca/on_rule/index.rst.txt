@@ -1,4 +1,4 @@
-Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024
+Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025
 ====================================================================================================================================
 
 .. toctree::

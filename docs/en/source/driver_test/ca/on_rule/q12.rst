@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: When a streetcar stops to pick up or discharge passengers, where there is no safety zone, what does the law require you to do before passing the streetcar?

@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2025版</div>
 
 .. meta::
    :description: 第一阶段(G1)及第二阶段(G2)驾驶者, 在驾驶时体内酒精量为零, 如果被抓, 除刑事法外, 还要停牌多久?：

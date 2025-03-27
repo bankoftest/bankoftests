@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: When on streets designed for two-way traffic, you hear the siren of an emergency vehicle, what does the law require you to do?

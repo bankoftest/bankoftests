@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: As a Level One or Level Two driver you will have your license suspended if you collect 9 or more demerit points during a two-year period. 60 days after suspension your record will be reduced to:

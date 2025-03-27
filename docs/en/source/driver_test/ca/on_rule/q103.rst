@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: If you are a teenage driver, after six months with your G2 licence and until you obtain your full G licence or turn 20, how many teenage passengers are you allowed to carry between midnight to 5 a.m.?

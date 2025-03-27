@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">BC省/温哥华驾照笔试题库(小红书200题带解析)|2024版</div>
+   <div class="test-name">BC省/温哥华驾照笔试题库(小红书200题带解析)|2025版</div>
 
 .. meta::
    :description: 图中的车辆？

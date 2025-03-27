@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2025版</div>
 
 .. meta::
    :description: 如果你是青年驾驶者,考取G2牌照超过6个月后,在没有考得G牌或未满20岁时,你可乘载多少乘客在深夜12时到早上5时：

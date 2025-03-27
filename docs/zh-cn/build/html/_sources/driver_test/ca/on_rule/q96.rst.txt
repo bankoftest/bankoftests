@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2024版</div>
+   <div class="test-name">加拿大安省/多伦多G1驾照笔试题库(交通规则篇)｜带答案解析|2025版</div>
 
 .. meta::
    :description: 第一阶段(G1)驾驶者, 你一定不能饮酒驾驶, 而陪同的G牌陪同者酒精含量要低于：

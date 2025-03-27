@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="question-page">
-   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2024</div>
+   <div class="test-name">Ontario G1 Driving License Knowledge Test (Rules of the Road)｜2025</div>
 
 .. meta::
    :description: There are some exemptions for a teenage G2 driver, if you are accompanied by a fully licensed driver with at least how many years of driving experience in the front seat, or if your young passengers are members of your immediate family?
