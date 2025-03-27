@@ -71,14 +71,15 @@ html_theme_options = {
 
 language = 'en'
 copyright = '2024, BANK of TESTS'
-html_title = "题库之家｜BANK of TESTS"
+html_title = "BANK of TESTS"
 html_context = {
     "version": "latest",
-    "languages": ["en", "zh-CN"],
+    "languages": ["en"],
     "meta_tags": [
         {"name": "title", "content": "BANK of TESTS"},
         {"name": "description", "content": "BANK of TESTS is an online question bank that provides various question banks, including driver's license question"},
         {"name": "robots", "content": "index, follow"},
         {"name": "keywords", "content": "question bank, driver's license question"},
+        {"property": "og:site_name", "content": "BANK of TESTS"},
     ],
 }

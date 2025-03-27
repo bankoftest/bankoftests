@@ -80,5 +80,6 @@ html_context = {
         {"name": "description", "content": "题库之家是一个在线题库，提供各种题库，包括驾照题库，移民题库，学习题库等。"},
         {"name": "robots", "content": "index, follow"},
         {"name": "keywords", "content": "题库, 驾照题库, 移民题库, 学习题库, 温哥华驾照题库, 加拿大驾照题库， BC驾照题库"},
+        {"property": "og:site_name", "content": "题库之家"},
     ],
 }

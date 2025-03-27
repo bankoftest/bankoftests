@@ -1,0 +1,14 @@
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "BANK of TESTS",
+      "alternateName": "BANK of TESTS",
+      "url": "https://www.bankoftests.com"
+    }
+  </script>
+{% endblock %}
