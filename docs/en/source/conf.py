@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath('_extension'))
 sys.path.insert(0, os.path.abspath('scripts'))
 
 html_baseurl = 'https://www.bankoftests.com/'
-html_extra_path = ['robots.txt']
+html_extra_path = ['../../../robots.txt']
 sitemap_url_scheme = "{lang}/{version}/{link}"
 
 # -- General configuration ---------------------------------------------------
